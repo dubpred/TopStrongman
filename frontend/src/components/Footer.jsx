@@ -1,5 +1,5 @@
 import React from 'react';
-import { Trophy, Flame } from 'lucide-react';
+import { Trophy } from 'lucide-react';
 
 export default function Footer() {
   return (
@@ -11,11 +11,7 @@ export default function Footer() {
             <span className="font-display text-2xl font-bold tracking-wider text-dew-green">TOP STRONGMAN</span>
           </div>
 
-          <div className="text-center md:text-right text-xs text-gray-400 font-mono space-y-1">
-            <p className="flex items-center justify-center md:justify-end gap-1.5 text-dew-yellow">
-              <Flame className="w-4 h-4 text-dew-red fill-dew-red" />
-              <span>Dynamic Competition Difficulty & 5-Year Time Recency Decay</span>
-            </p>
+          <div className="text-center md:text-right text-xs text-gray-400 font-mono">
             <p>Data derived from <a href="https://strongmanarchives.com" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-dew-green hover:underline">StrongmanArchive.com</a></p>
           </div>
         </div>
