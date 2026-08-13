@@ -88,7 +88,9 @@ const getRecencyMultiplier = (dateStr) => {
   if (diffMonths < 12) return 5.0;  // 100% weight (0-12 months)
   if (diffMonths < 24) return 3.0;  // 60% weight (12-24 months)
   if (diffMonths < 36) return 1.0;  // 20% weight (24-36 months)
-  return 0.0;                       // Expired (>36 months)
+  if (diffMonths < 48) return 0.5;  // 10% weight (36-48 months)
+  if (diffMonths < 60) return 0.25; // 5% weight (48-60 months)
+  return 0.0;                       // Expired (>60 months)
 };
 
 // Exponential Decay Base Points: 100 * e^(-0.25 * (rank - 1))
