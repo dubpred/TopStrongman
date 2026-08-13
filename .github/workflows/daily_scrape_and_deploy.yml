@@ -40,8 +40,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add strongman_contests_dataset.json strongman_contests_filtered.json strongman_contests_ranked_last_5_years.json database_strongman.json frontend/src/services/database_strongman.json
-          git diff-index --quiet HEAD || git commit -m "auto: daily scraper & ranking update [skip ci]"
-          git push
+          git commit -m "auto: daily scraper & ranking update [skip ci]" || echo "No dataset changes to commit today."
+          git push || echo "Nothing to push today."
 
       - name: Install Frontend Dependencies & Build
         run: |
