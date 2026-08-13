@@ -8,15 +8,15 @@ export default function Navbar({ activeTab, setActiveTab }) {
   ];
 
   return (
-    <header className="sticky top-0 z-40 bg-[#0F1115]/95 backdrop-blur-md border-b border-[#1E222D] shadow-2xl pt-safe">
+    <header className="sticky top-0 z-40 bg-[#0B0D11]/95 backdrop-blur-md border-b border-[#1E2535] shadow-2xl pt-safe">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 md:h-20">
           
           {/* Brand Title */}
           <div className="cursor-pointer py-2 active:scale-95 transition-transform" onClick={() => setActiveTab('all')}>
             <div className="font-display text-2xl sm:text-3xl md:text-4xl tracking-wider font-extrabold uppercase leading-none flex items-center gap-2">
-              <span className="text-dew-green font-black">TOP</span>
-              <span className="text-white">STRONGMAN</span>
+              <span className="text-amber-500 font-black">TOP</span>
+              <span className="text-slate-100">STRONGMAN</span>
             </div>
           </div>
 
@@ -31,11 +31,11 @@ export default function Navbar({ activeTab, setActiveTab }) {
                   onClick={() => setActiveTab(tab.id)}
                   className={`flex items-center space-x-2 px-4 py-2 rounded-lg font-heading text-sm font-bold transition-all duration-200 ${
                     isActive
-                      ? 'bg-dew-green text-black font-extrabold shadow-dew-glow'
-                      : 'text-gray-300 hover:text-white hover:bg-white/5 border border-transparent hover:border-[#1E222D]'
+                      ? 'bg-amber-500 text-black font-extrabold shadow-dew-glow'
+                      : 'text-slate-300 hover:text-white hover:bg-white/5 border border-transparent hover:border-[#1E2535]'
                   }`}
                 >
-                  <Icon className={`w-4 h-4 ${isActive ? 'text-black' : 'text-dew-green'}`} />
+                  <Icon className={`w-4 h-4 ${isActive ? 'text-black' : 'text-amber-500'}`} />
                   <span>{tab.label}</span>
                 </button>
               );
@@ -45,7 +45,7 @@ export default function Navbar({ activeTab, setActiveTab }) {
         </div>
 
         {/* Mobile Tab Navigation (Pixel, iPhone optimized) */}
-        <div className="md:hidden flex space-x-2 py-2 overflow-x-auto border-t border-[#1E222D]/60 no-scrollbar">
+        <div className="md:hidden flex space-x-2 py-2 overflow-x-auto border-t border-[#1E2535]/60 no-scrollbar">
           {tabs.map((tab) => {
             const Icon = tab.icon;
             const isActive = activeTab === tab.id;
@@ -54,10 +54,10 @@ export default function Navbar({ activeTab, setActiveTab }) {
                 key={tab.id}
                 onClick={() => setActiveTab(tab.id)}
                 className={`flex-1 min-h-[40px] flex items-center justify-center space-x-1.5 py-2 px-4 rounded-lg text-xs font-heading font-bold whitespace-nowrap active:scale-95 transition-all ${
-                  isActive ? 'bg-dew-green text-black font-extrabold shadow-dew-glow' : 'text-gray-300 bg-[#161920] border border-[#1E222D]'
+                  isActive ? 'bg-amber-500 text-black font-extrabold shadow-dew-glow' : 'text-slate-300 bg-[#131720] border border-[#1E2535]'
                 }`}
               >
-                <Icon className={`w-4 h-4 ${isActive ? 'text-black' : 'text-dew-green'}`} />
+                <Icon className={`w-4 h-4 ${isActive ? 'text-black' : 'text-amber-500'}`} />
                 <span>{tab.label}</span>
               </button>
             );
