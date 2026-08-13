@@ -1,6 +1,6 @@
 import databaseRows from './database_strongman.json';
 
-// Omit Masters division, weight-class competitions, and WSM Group Stage Heats
+// Omit Masters division, weight-class competitions, women's divisions, and WSM Group Stage Heats
 const isOmittedShow = (showName) => {
   const name = (showName || "").toLowerCase();
   const isWeightOrMasters = (
@@ -9,7 +9,11 @@ const isOmittedShow = (showName) => {
     name.includes("masters")
   );
   const isWsmHeat = (name.includes("wsm") && (name.includes("group") || name.includes("heat")));
-  return isWeightOrMasters || isWsmHeat;
+  const isWomen = (
+    name.includes("women") || name.includes("woman") ||
+    name.includes("wsw") || name.includes("female")
+  );
+  return isWeightOrMasters || isWsmHeat || isWomen;
 };
 
 // Explicit 5-Tier classification by show name and promotion

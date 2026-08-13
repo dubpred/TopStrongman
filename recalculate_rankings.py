@@ -17,10 +17,11 @@ POWER_EXPONENT = 1.5
 def is_omitted_show(show_name):
     name = (show_name or "").lower()
 
-    # Omit weight class, masters, and WSM Group Heats
+    # Omit weight class, masters, women's divisions, and WSM Group Heats
     is_weight_or_masters = ("105" in name or "u105" in name or "u90" in name or "u80" in name or "masters" in name)
     is_wsm_heat = ("wsm" in name and ("group" in name or "heat" in name)) or "wsm group" in name
-    return is_weight_or_masters or is_wsm_heat
+    is_women = ("women" in name or "woman" in name or "wsw" in name or "female" in name or "inspirational" in name or "arnold wsm" in name)
+    return is_weight_or_masters or is_wsm_heat or is_women
 
 def get_tier_info(show_name):
     name = (show_name or "").lower()

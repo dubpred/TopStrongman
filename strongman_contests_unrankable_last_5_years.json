@@ -2175,99 +2175,6 @@
     ]
   },
   {
-    "contest_id": 1093,
-    "contest_name": "1998 Europe's Strongest Woman",
-    "details": "Germany, 1998",
-    "reason": "Fewer than 5 competitors (4 listed)",
-    "total_competitors": 4,
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Edith Pongratz",
-        "country": "AUT",
-        "score": 15.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Heini Koivuniemi",
-        "country": "FIN",
-        "score": 14.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Bryndís Ólafsdóttir",
-        "country": "ISL",
-        "score": 11.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Kristin Samuelsson",
-        "country": "SWE",
-        "score": 9.0
-      }
-    ]
-  },
-  {
-    "contest_id": 1122,
-    "contest_name": "2021 Middle East's Strongest Woman",
-    "details": "Dubai, United Arab Emirates, 2021-10-01",
-    "reason": "Fewer than 5 competitors (3 listed)",
-    "total_competitors": 3,
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Ekaterina Zaitseva",
-        "country": "RUS",
-        "score": 14.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Brendali Theron",
-        "country": "RSA",
-        "score": 11.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Scarlett Harvey",
-        "country": "GBR",
-        "score": 5.0
-      }
-    ]
-  },
-  {
-    "contest_id": 1149,
-    "contest_name": "2021 Africa's Strongest Woman",
-    "details": "Mossel Bay, South Africa, 2021-11-27 to 2021-11-28",
-    "reason": "Fewer than 5 competitors (4 listed)",
-    "total_competitors": 4,
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Faith Aviwe Totiyana",
-        "country": "RSA",
-        "score": 19.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Carla Vermaak",
-        "country": "RSA",
-        "score": 16.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Cherry Muchindu",
-        "country": "ZAM",
-        "score": 16.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Sinenhlanhla Sithole",
-        "country": "RSA",
-        "score": 7.0
-      }
-    ]
-  },
-  {
     "contest_id": 1192,
     "contest_name": "2022 Força Bruta",
     "details": "Cotia, Brazil, 2022-02-13",
@@ -2324,39 +2231,6 @@
         "person_name": "Dean Shelley",
         "country": "RSA",
         "score": 0.0
-      }
-    ]
-  },
-  {
-    "contest_id": 1313,
-    "contest_name": "2022 Middle East's Strongest Woman",
-    "details": "Dubai, United Arab Emirates, 2022-08-27",
-    "reason": "Fewer than 5 competitors (4 listed)",
-    "total_competitors": 4,
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Reiariki Kimitaunga",
-        "country": "AUS",
-        "score": 16.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Scarlett Harvey",
-        "country": "GBR",
-        "score": 15.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Gabrielle Jenkins",
-        "country": "AUS",
-        "score": 11.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Krista Zhivago-Prall",
-        "country": "CAN",
-        "score": 7.0
       }
     ]
   },
@@ -2427,33 +2301,6 @@
     ]
   },
   {
-    "contest_id": 1455,
-    "contest_name": "2023 Africa's Strongest Woman",
-    "details": "Livingstone, Zambia, 2023-10-28 to 2023-10-29",
-    "reason": "Fewer than 5 competitors (3 listed)",
-    "total_competitors": 3,
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Cherry Muchindu",
-        "country": "ZAM",
-        "score": 18.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Natasha Grobler",
-        "country": "RSA",
-        "score": 10.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Chido Maenzanise",
-        "country": "RSA",
-        "score": 2.0
-      }
-    ]
-  },
-  {
     "contest_id": 1456,
     "contest_name": "2022 Africa's Strongest Man",
     "details": "Rustenburg, South Africa, 2022-11-26 to 2022-11-27",
@@ -2477,108 +2324,6 @@
         "person_name": "Tewie Labuschagne",
         "country": "RSA",
         "score": 0.0
-      }
-    ]
-  },
-  {
-    "contest_id": 1525,
-    "contest_name": "2024 Arnold Amateur Strongwoman World Championships",
-    "details": "Columbus, Ohio, 2024-03-02 to 2024-03-03",
-    "reason": "Fewer than 5 competitors (4 listed)",
-    "total_competitors": 4,
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Jennifer Lyle",
-        "country": "USA",
-        "score": 25.65
-      },
-      {
-        "rank": "2",
-        "person_name": "Claire Myler",
-        "country": "GBR",
-        "score": 21.46
-      },
-      {
-        "rank": "3",
-        "person_name": "Reiariki Kimitaunga",
-        "country": "AUS",
-        "score": 18.36
-      },
-      {
-        "rank": "4",
-        "person_name": "Rebekah Strong",
-        "country": "USA",
-        "score": 16.66
-      }
-    ]
-  },
-  {
-    "contest_id": 1526,
-    "contest_name": "2023 Women's World Deadlift Championships",
-    "details": "Cardiff, Wales, 2023-09-02",
-    "reason": "Fewer than 5 competitors (2 listed)",
-    "total_competitors": 2,
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Lucy Underdown",
-        "country": "GBR",
-        "score": "701 lbs"
-      },
-      {
-        "rank": "2",
-        "person_name": "Rebecca Roberts",
-        "country": "GBR",
-        "score": "617 lbs"
-      }
-    ]
-  },
-  {
-    "contest_id": 1527,
-    "contest_name": "2024 Women's World Deadlift Championships",
-    "details": "Las Vegas, Nevada, 2024-09-28",
-    "reason": "Fewer than 5 competitors (1 listed)",
-    "total_competitors": 1,
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Lucy Underdown",
-        "country": "GBR",
-        "score": "717 lbs"
-      }
-    ]
-  },
-  {
-    "contest_id": 1543,
-    "contest_name": "2024 Olympic City Pro-Am (Women)",
-    "details": "Colorado Springs, Colorado, 2024-03-23",
-    "reason": "Fewer than 5 competitors (4 listed)",
-    "total_competitors": 4,
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Rebecca Houston",
-        "country": "USA",
-        "score": 16.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Lydia Wallace",
-        "country": "USA",
-        "score": 13.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Lauren Ryder",
-        "country": "USA",
-        "score": 12.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Angela Highfield",
-        "country": "USA",
-        "score": 7.0
       }
     ]
   },
@@ -3822,27 +3567,6 @@
     ]
   },
   {
-    "contest_id": 2134,
-    "contest_name": "2025 Italy's Strongest Woman",
-    "details": "Vicopisano, Italy, 2025-11-08",
-    "reason": "Fewer than 5 competitors (2 listed)",
-    "total_competitors": 2,
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Consiglia Amato",
-        "country": "ITA",
-        "score": 8.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Isabella Caputo",
-        "country": "ITA",
-        "score": 6.0
-      }
-    ]
-  },
-  {
     "contest_id": 2137,
     "contest_name": "2011 Finland's Strongest Man",
     "details": "Sastamala, Finland, 2011-05-27 to 2011-05-28",
@@ -5004,51 +4728,6 @@
     ]
   },
   {
-    "contest_id": 2337,
-    "contest_name": "2026 Rogue Invitational (Women)",
-    "details": "Aberdeen, Scotland, 2026-10-23 to 2026-10-24",
-    "reason": "Fewer than 5 competitors (6 listed)",
-    "total_competitors": 6,
-    "results": [
-      {
-        "rank": "-",
-        "person_name": "Inez Carrasquillo",
-        "country": "PUR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Angelica Jardine",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Olga Liashchuk",
-        "country": "UKR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Hannah Linzay",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Andrea Thompson",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Lucy Underdown",
-        "country": "GBR",
-        "score": 0.0
-      }
-    ]
-  },
-  {
     "contest_id": 2340,
     "contest_name": "1991 Hercules in the Old Town",
     "details": "Aarhus, Denmark, 1991",
@@ -6009,75 +5688,6 @@
     ]
   },
   {
-    "contest_id": 2460,
-    "contest_name": "2026 Summit of Strength (Women)",
-    "details": "Rotherham, England, 2026-09-26",
-    "reason": "Fewer than 5 competitors (10 listed)",
-    "total_competitors": 10,
-    "results": [
-      {
-        "rank": "-",
-        "person_name": "Nicola Bennett",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Angéline Berva",
-        "country": "FRA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Chloe Brennan",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Naomi Hadley",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Grace Hilbourne",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Donna Moore",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Gemma Moore",
-        "country": "IRL",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Erin Murray",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Claire Myler",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Sam Taylor",
-        "country": "GBR",
-        "score": 0.0
-      }
-    ]
-  },
-  {
     "contest_id": 2471,
     "contest_name": "2010 Denmark's Strongest Man",
     "details": "Ringsted, Denmark, 2010-06-26",
@@ -6594,69 +6204,6 @@
     ]
   },
   {
-    "contest_id": 2568,
-    "contest_name": "2025 U64 New Zealand's Strongest Woman",
-    "details": "Auckland, New Zealand, 2025-09-27",
-    "reason": "Fewer than 5 competitors (1 listed)",
-    "total_competitors": 1,
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Jessie Watt",
-        "country": "NZL",
-        "score": 5.0
-      }
-    ]
-  },
-  {
-    "contest_id": 2570,
-    "contest_name": "2025 U73 New Zealand's Strongest Woman",
-    "details": "Auckland, New Zealand, 2025-09-27",
-    "reason": "Fewer than 5 competitors (3 listed)",
-    "total_competitors": 3,
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Timaru Nathan",
-        "country": "NZL",
-        "score": 14.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Sam Savage",
-        "country": "NZL",
-        "score": 10.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Kate Noyer",
-        "country": "NZL",
-        "score": 4.5
-      }
-    ]
-  },
-  {
-    "contest_id": 2571,
-    "contest_name": "2025 U82 New Zealand's Strongest Woman",
-    "details": "Auckland, New Zealand, 2025-09-27",
-    "reason": "Fewer than 5 competitors (2 listed)",
-    "total_competitors": 2,
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Dayna Nathan",
-        "country": "NZL",
-        "score": 8.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Chloe Vickers-Williams",
-        "country": "NZL",
-        "score": 2.0
-      }
-    ]
-  },
-  {
     "contest_id": 2576,
     "contest_name": "2022 Strongest Man in Serbia",
     "details": "Bor, Serbia, 2022",
@@ -6938,33 +6485,6 @@
         "person_name": "Didier Rolland",
         "country": "FRA",
         "score": 68.0
-      }
-    ]
-  },
-  {
-    "contest_id": 2735,
-    "contest_name": "2026 U82 Rainier Classic Pro-Am (Women)",
-    "details": "Burien, Washington, 2026-07-11 to 2026-07-12",
-    "reason": "Fewer than 5 competitors (3 listed)",
-    "total_competitors": 3,
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Sarah Johnson",
-        "country": "USA",
-        "score": 17.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Rachel Lakey",
-        "country": "USA",
-        "score": 11.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Alison  Kolczynski",
-        "country": "USA",
-        "score": 8.0
       }
     ]
   },
