@@ -1,0 +1,49 @@
+I want to create a website that shows the ranking of strongmen. 
+There is a website called Strongman archive that has all of the results for various shows. 
+
+check and see if they have an api to call to get results of strongman shows. If not download data on all the following shows: 
+-strongest man on earth 
+-worlds strongest man 
+-Strongman champion league 
+-The rogue invitational 
+-The Arnold Strongman Classic 
+-Official Strongman Games Final 
+-North americas strongest man 
+-Strongman Corps Arnold pro/am
+-Americas Strongest man
+-Giants Live shows
+
+The tier of show is as follows: 
+tier 1:
+-strongest man on earth
+-worlds strongest man 
+-arnold strongman classic
+-the rogue invitiational 
+
+tier 2: 
+
+-Giants Live International shows (giants live shows that have both north american and european competitors)
+
+Tier 3: 
+-north americas strongest man 
+-Europes strongest man 
+
+tier 4: 
+-Americas Strongest man 
+-Giants live regional shows (only have one nationality competing)
+-all SCL shows 
+-Offical Strongaman Games finals 
+
+Take the top 10 of each show and make a function where the competitors are graded on a curve like y = 1/x  where first place gets like a bunch of points and they sharply drop off to where all compeititors get points but much less depending on placement. Please give reccomendations on which to use and what is typically standard for ranking systems like this. 
+
+for each tier give a multiplier. tier 4 gets a 1x multiplier, tier 3 a 2x multiplier, tier 2 gets a 3x multiplier, tier 4 gets a 5x multiplier (fibonacci sequence) 
+
+take only the last 5 years of competition history into regard. 
+give a simular fibinacci sequence multiplier based on time recency. Where the most recent competitions get a higher multiplier. 
+
+on the main page of the website display the top 10 current stromgmen. 
+on another page give all the other rankings for competitors. 
+
+Use a mountain dew color scheme for the design
+
+Use app requirments.txt to build the app. It will be deployed using firebase and use React. Use Java for the backend

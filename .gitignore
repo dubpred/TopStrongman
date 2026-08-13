@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Build output
+frontend/dist/
+
+# Firebase temporary files
+.firebase/
+
+# Python cache & temp scripts
+__pycache__/
+*.pyc
+*.tmp
+inspect_*.py
+test_*.py
+check_*.py
+
+# System files
+.DS_Store
+Thumbs.db

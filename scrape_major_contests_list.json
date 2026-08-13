@@ -1,0 +1,302 @@
+[
+  {
+    "id": "2361",
+    "year": 2026,
+    "name": "2026 WSM Final",
+    "rawType": 1,
+    "promotion": "WSM",
+    "showFilter": [
+      "World's Strongest Man"
+    ]
+  },
+  {
+    "id": "1610",
+    "year": 2025,
+    "name": "2025 WSM Final",
+    "rawType": 1,
+    "promotion": "WSM",
+    "showFilter": [
+      "World's Strongest Man"
+    ]
+  },
+  {
+    "id": "1488",
+    "year": 2024,
+    "name": "2024 WSM Final",
+    "rawType": 1,
+    "promotion": "WSM",
+    "showFilter": [
+      "World's Strongest Man"
+    ]
+  },
+  {
+    "id": "1373",
+    "year": 2023,
+    "name": "2023 WSM Final",
+    "rawType": 1,
+    "promotion": "WSM",
+    "showFilter": [
+      "World's Strongest Man"
+    ]
+  },
+  {
+    "id": "1264",
+    "year": 2022,
+    "name": "2022 WSM Final",
+    "rawType": 1,
+    "promotion": "WSM",
+    "showFilter": [
+      "World's Strongest Man"
+    ]
+  },
+  {
+    "id": "2077",
+    "year": 2026,
+    "name": "2026 Giants Live Strongman Classic",
+    "rawType": 5,
+    "promotion": "Giants Live",
+    "showFilter": [
+      "Britain's Strongest Man"
+    ]
+  },
+  {
+    "id": "1615",
+    "year": 2025,
+    "name": "2025 Giants Live World Tour Finals",
+    "rawType": 5,
+    "promotion": "Giants Live",
+    "showFilter": [
+      "Britain's Strongest Man"
+    ]
+  },
+  {
+    "id": "1614",
+    "year": 2025,
+    "name": "2025 Giants Live Strongman Open",
+    "rawType": 5,
+    "promotion": "Giants Live",
+    "showFilter": [
+      "Britain's Strongest Man"
+    ]
+  },
+  {
+    "id": "1613",
+    "year": 2025,
+    "name": "2025 Giants Live Strongman Classic",
+    "rawType": 5,
+    "promotion": "Giants Live",
+    "showFilter": [
+      "Britain's Strongest Man"
+    ]
+  },
+  {
+    "id": "1464",
+    "year": 2024,
+    "name": "2024 Giants Live World Tour Finals",
+    "rawType": 5,
+    "promotion": "Giants Live",
+    "showFilter": [
+      "Britain's Strongest Man"
+    ]
+  },
+  {
+    "id": "1493",
+    "year": 2024,
+    "name": "2024 Giants Live USA Strongman Championships",
+    "rawType": 5,
+    "promotion": "Giants Live",
+    "showFilter": [
+      "Britain's Strongest Man"
+    ]
+  },
+  {
+    "id": "1463",
+    "year": 2024,
+    "name": "2024 Giants Live Strongman Open",
+    "rawType": 5,
+    "promotion": "Giants Live",
+    "showFilter": [
+      "Britain's Strongest Man"
+    ]
+  },
+  {
+    "id": "1461",
+    "year": 2024,
+    "name": "2024 Giants Live Strongman Classic",
+    "rawType": 5,
+    "promotion": "Giants Live",
+    "showFilter": [
+      "Britain's Strongest Man"
+    ]
+  },
+  {
+    "id": "1366",
+    "year": 2023,
+    "name": "2023 Giants Live World Tour Finals",
+    "rawType": 5,
+    "promotion": "Giants Live",
+    "showFilter": [
+      "Britain's Strongest Man"
+    ]
+  },
+  {
+    "id": "1365",
+    "year": 2023,
+    "name": "2023 Giants Live World Open",
+    "rawType": 5,
+    "promotion": "Giants Live",
+    "showFilter": [
+      "Britain's Strongest Man"
+    ]
+  },
+  {
+    "id": "1364",
+    "year": 2023,
+    "name": "2023 Giants Live Strongman Classic",
+    "rawType": 5,
+    "promotion": "Giants Live",
+    "showFilter": [
+      "Britain's Strongest Man"
+    ]
+  },
+  {
+    "id": "1154",
+    "year": 2022,
+    "name": "2022 Giants Live World Tour Finals",
+    "rawType": 5,
+    "promotion": "Giants Live",
+    "showFilter": [
+      "Britain's Strongest Man"
+    ]
+  },
+  {
+    "id": "1152",
+    "year": 2022,
+    "name": "2022 Giants Live World Open",
+    "rawType": 5,
+    "promotion": "Giants Live",
+    "showFilter": [
+      "Britain's Strongest Man"
+    ]
+  },
+  {
+    "id": "1151",
+    "year": 2022,
+    "name": "2022 Giants Live Strongman Classic",
+    "rawType": 5,
+    "promotion": "Giants Live",
+    "showFilter": [
+      "Britain's Strongest Man"
+    ]
+  },
+  {
+    "id": "2073",
+    "year": 2026,
+    "name": "2026 Arnold Strongman Classic",
+    "rawType": 7,
+    "promotion": "Rogue",
+    "showFilter": [
+      "Rogue Invitational"
+    ]
+  },
+  {
+    "id": "1620",
+    "year": 2025,
+    "name": "2025 Arnold Strongman Classic",
+    "rawType": 7,
+    "promotion": "Rogue",
+    "showFilter": [
+      "Rogue Invitational"
+    ]
+  },
+  {
+    "id": "1458",
+    "year": 2024,
+    "name": "2024 Arnold Strongman Classic",
+    "rawType": 7,
+    "promotion": "Rogue",
+    "showFilter": [
+      "Rogue Invitational"
+    ]
+  },
+  {
+    "id": "1367",
+    "year": 2023,
+    "name": "2023 Arnold Strongman Classic",
+    "rawType": 7,
+    "promotion": "Rogue",
+    "showFilter": [
+      "Rogue Invitational"
+    ]
+  },
+  {
+    "id": "1145",
+    "year": 2022,
+    "name": "2022 Arnold Strongman Classic",
+    "rawType": 7,
+    "promotion": "Rogue",
+    "showFilter": [
+      "Rogue Invitational"
+    ]
+  },
+  {
+    "id": "1618",
+    "year": 2025,
+    "name": "2025 Strongest Man on Earth",
+    "rawType": 8,
+    "promotion": "NASM",
+    "showFilter": [
+      "North America's Strongest Man"
+    ]
+  },
+  {
+    "id": "1462",
+    "year": 2024,
+    "name": "2024 Strongest Man on Earth",
+    "rawType": 8,
+    "promotion": "NASM",
+    "showFilter": [
+      "North America's Strongest Man"
+    ]
+  },
+  {
+    "id": "1370",
+    "year": 2023,
+    "name": "2023 Strongest Man on Earth",
+    "rawType": 8,
+    "promotion": "NASM",
+    "showFilter": [
+      "North America's Strongest Man"
+    ]
+  },
+  {
+    "id": "1162",
+    "year": 2022,
+    "name": "2022 Shaw Classic",
+    "rawType": 8,
+    "promotion": "NASM",
+    "showFilter": [
+      "North America's Strongest Man"
+    ]
+  },
+  {
+    "id": "1374",
+    "year": 2023,
+    "name": "2023 Força Bruta",
+    "rawType": 10,
+    "promotion": "ASM",
+    "showFilter": [
+      "America's Strongest Man"
+    ]
+  },
+  {
+    "id": "1192",
+    "year": 2022,
+    "name": "2022 Força Bruta",
+    "rawType": 10,
+    "promotion": "ASM",
+    "showFilter": [
+      "America's Strongest Man"
+    ]
+  }
+]

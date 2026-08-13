@@ -1,0 +1,7337 @@
+[
+  {
+    "contest_id": 148,
+    "contest_name": "1987 Pure Strength",
+    "details": "Aberdeenshire, Scotland, 1987",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jón Páll Sigmarsson",
+        "country": "ISL",
+        "score": 28.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Bill Kazmaier",
+        "country": "USA",
+        "score": 19.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Geoff Capes",
+        "country": "GBR",
+        "score": 10.0
+      }
+    ]
+  },
+  {
+    "contest_id": 155,
+    "contest_name": "2020 Força Bruta",
+    "details": "Cotia, Brazil, 2020-02-16",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mikhail Shivlyakov",
+        "country": "RUS",
+        "score": 11.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Mateusz Kieliszkowski",
+        "country": "POL",
+        "score": 9.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Terry Hollands",
+        "country": "GBR",
+        "score": 7.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Jerry Pritchett",
+        "country": "USA",
+        "score": 3.0
+      }
+    ]
+  },
+  {
+    "contest_id": 156,
+    "contest_name": "2019 Força Bruta",
+    "details": "Cotia, Brazil, 2019-01-13",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Terry Hollands",
+        "country": "GBR",
+        "score": 11.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Johnny Hansson",
+        "country": "SWE",
+        "score": 7.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Eric Small",
+        "country": "USA",
+        "score": 6.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Marcos Ferrari",
+        "country": "BRA",
+        "score": 4.5
+      }
+    ]
+  },
+  {
+    "contest_id": 157,
+    "contest_name": "2017 Força Bruta",
+    "details": "Santos, Brazil, 2016-12-18",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mateusz Kieliszkowski",
+        "country": "POL",
+        "score": 12.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Johnny Hansson",
+        "country": "SWE",
+        "score": 7.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Krzysztof Radzikowski",
+        "country": "POL",
+        "score": 7.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Marcos Ferrari",
+        "country": "BRA",
+        "score": 4.0
+      }
+    ]
+  },
+  {
+    "contest_id": 158,
+    "contest_name": "2016 Força Bruta",
+    "details": "Rio de Janeiro, Brazil, 2016-01-23",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Brian Shaw",
+        "country": "USA",
+        "score": 10.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Martin Wildauer",
+        "country": "AUT",
+        "score": 10.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Krzysztof Radzikowski",
+        "country": "POL",
+        "score": 6.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Dimitar Savatinov",
+        "country": "BUL",
+        "score": 4.0
+      }
+    ]
+  },
+  {
+    "contest_id": 193,
+    "contest_name": "2007 IFSA World Championships Group 1",
+    "details": "Competitor",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mikhail Koklyaev",
+        "country": "RUS",
+        "score": 19.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 16.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Agris Kazeļņiks",
+        "country": "LAT",
+        "score": 8.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Volodymyr Muravlov",
+        "country": "UKR",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 194,
+    "contest_name": "2007 IFSA World Championships Group 2",
+    "details": "Competitor",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Derek Poundstone",
+        "country": "USA",
+        "score": 16.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jarno Hams",
+        "country": "NED",
+        "score": 13.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Georg Rúnar Ögmundsson",
+        "country": "ISL",
+        "score": 10.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Mick Holding",
+        "country": "GBR",
+        "score": 10.0
+      }
+    ]
+  },
+  {
+    "contest_id": 195,
+    "contest_name": "2007 IFSA World Championships Group 3",
+    "details": "Competitor",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Andrus Murumets",
+        "country": "EST",
+        "score": 14.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Van Hatfield",
+        "country": "USA",
+        "score": 14.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Nick Best",
+        "country": "USA",
+        "score": 13.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Matt Wanat",
+        "country": "USA",
+        "score": 8.0
+      }
+    ]
+  },
+  {
+    "contest_id": 196,
+    "contest_name": "2007 IFSA World Championships Group 4",
+    "details": "Competitor",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Vasyl Virastyuk",
+        "country": "UKR",
+        "score": 15.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Tom McClure",
+        "country": "USA",
+        "score": 15.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Igor Pedan",
+        "country": "RUS",
+        "score": 15.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Seok-yong Kang",
+        "country": "KOR",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "contest_id": 197,
+    "contest_name": "2007 IFSA World Championships Group 5",
+    "details": "Competitor",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Ervin Katona",
+        "country": "SRB",
+        "score": 16.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Žydrūnas Savickas",
+        "country": "LTU",
+        "score": 15.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Ettiene Smit",
+        "country": "RSA",
+        "score": 12.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Hyogeun Min",
+        "country": "KOR",
+        "score": 4.0
+      }
+    ]
+  },
+  {
+    "contest_id": 198,
+    "contest_name": "2007 IFSA World Championships Group 6",
+    "details": "Competitor",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Saulius Brusokas",
+        "country": "LTU",
+        "score": 16.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Robert Szczepański",
+        "country": "POL",
+        "score": 15.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Travis Ortmayer",
+        "country": "USA",
+        "score": 14.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Bumsoo Han",
+        "country": "KOR",
+        "score": 2.0
+      }
+    ]
+  },
+  {
+    "contest_id": 227,
+    "contest_name": "1996 World Strongman Challenge",
+    "details": "Sydney, Australia, 1996",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "2",
+        "person_name": "Magnús Ver Magnússon",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 260,
+    "contest_name": "1987 Viking Games",
+    "details": "Húsavík, Iceland, 1987-07-10",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Geoff Capes",
+        "country": "GBR",
+        "score": 35.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Mark Higgins",
+        "country": "GBR",
+        "score": 22.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Hjalti Árnason",
+        "country": "ISL",
+        "score": 20.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Magnús Ver Magnússon",
+        "country": "ISL",
+        "score": 14.0
+      }
+    ]
+  },
+  {
+    "contest_id": 386,
+    "contest_name": "2021 Força Bruta",
+    "details": "Cotia, Brazil, 2021-02-07",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mikhail Shivlyakov",
+        "country": "RUS",
+        "score": 11.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Rauno Heinla",
+        "country": "EST",
+        "score": 10.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Cristian Quiroga",
+        "country": "BOL",
+        "score": 5.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Tiago Aparecido",
+        "country": "BRA",
+        "score": 4.0
+      }
+    ]
+  },
+  {
+    "contest_id": 415,
+    "contest_name": "1988 Défi Mark Ten International",
+    "details": "Montréal, Canada, 1988-11-18",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Hjalti Árnason",
+        "country": "ISL",
+        "score": 49.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Magnús Ver Magnússon",
+        "country": "ISL",
+        "score": 47.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Tom Magee",
+        "country": "CAN",
+        "score": 46.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Claude Labonté",
+        "country": "CAN",
+        "score": 45.0
+      }
+    ]
+  },
+  {
+    "contest_id": 470,
+    "contest_name": "1998 IFSA Lithuania Grand Prix",
+    "details": "Klaipėda, Lithuania, 1998-08-01",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jamie Reeves",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Remigijus Kačinskis",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Wayne Price",
+        "country": "RSA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 475,
+    "contest_name": "1997 IFSA Lithuania Grand Prix",
+    "details": "Klaipėda, Lithuania, 1997",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Stasys Mėčius",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Raimonds Bergmanis",
+        "country": "LAT",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Magnús Ver Magnússon",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 479,
+    "contest_name": "1995 IFSA Lithuania Grand Prix",
+    "details": "Klaipėda, Lithuania, 1995",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Gary Taylor",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Forbes Cowan",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Stasys Mėčius",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 504,
+    "contest_name": "1997 World Muscle Power Classic",
+    "details": "Scotland, 1997-07-27",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Raimonds Bergmanis",
+        "country": "LAT",
+        "score": 71.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Mark Philippi",
+        "country": "USA",
+        "score": 64.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Regin Vágadal",
+        "country": "FRO",
+        "score": 61.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Brian Bell",
+        "country": "GBR",
+        "score": 57.0
+      }
+    ]
+  },
+  {
+    "contest_id": 505,
+    "contest_name": "1996 World Muscle Power Classic",
+    "details": "1996",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Forbes Cowan",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Magnus Samuelsson",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Torfi Ólafsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Bill Lyndon",
+        "country": "AUS",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 508,
+    "contest_name": "1993 World Muscle Power Classic",
+    "details": "1993-07-31 to 1993-08-01",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Manfred Höberl",
+        "country": "AUT",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 516,
+    "contest_name": "1985 World Muscle Power Classic",
+    "details": "East Kilbride, Scotland, 1985-06-02",
+    "reason": "Fewer than 5 competitors (2 listed)",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jón Páll Sigmarsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Geoff Capes",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 524,
+    "contest_name": "1985 Défi Mark Ten International",
+    "details": "Montréal, Canada, 1985-09-13",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tom Magee",
+        "country": "CAN",
+        "score": 66.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Claude Labonté",
+        "country": "CAN",
+        "score": 49.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Jón Páll Sigmarsson",
+        "country": "ISL",
+        "score": 47.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Hjalti Árnason",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 661,
+    "contest_name": "1991 World Viking Challenge",
+    "details": "Iceland, 1991-07-20",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Magnús Ver Magnússon",
+        "country": "ISL",
+        "score": 37.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Gary Taylor",
+        "country": "GBR",
+        "score": 22.5
+      },
+      {
+        "rank": "3",
+        "person_name": "O.D. Wilson",
+        "country": "USA",
+        "score": 20.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Hjalti Árnason",
+        "country": "ISL",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "contest_id": 688,
+    "contest_name": "2011 North America's Strongest Man",
+    "details": "Gatineau, Canada, 2011-09-04 to 2011-09-05",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Christian Savoie",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jean-François Caron",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Karl Gillingham",
+        "country": "USA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 751,
+    "contest_name": "2020 WUS Feats of Strength - Max Deadlift",
+    "details": "Kópavogur, Iceland, 2020-05-02",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Hafthór Júlíus Björnsson",
+        "country": "ISL",
+        "score": "1105 lbs"
+      }
+    ]
+  },
+  {
+    "contest_id": 772,
+    "contest_name": "1997 Britain's Strongest Man",
+    "details": "1997",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Rob Dixon",
+        "country": "ENG",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Glenn Ross",
+        "country": "NIR",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Gary Taylor",
+        "country": "WAL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 775,
+    "contest_name": "1986 Britain's Strongest Man",
+    "details": "Epping Forest, England, 1986",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Peter Tancred",
+        "country": "ENG",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Peter Davis",
+        "country": "ENG",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Joe Walker",
+        "country": "ENG",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 784,
+    "contest_name": "2019 America's Strongest Man",
+    "details": "Miami Beach, Florida, 2019-10-19",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Wesley Claborn",
+        "country": "USA",
+        "score": 13.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Trey Mitchell",
+        "country": "USA",
+        "score": 12.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Josh Reynolds",
+        "country": "USA",
+        "score": 11.0
+      }
+    ]
+  },
+  {
+    "contest_id": 790,
+    "contest_name": "2013 America's Strongest Man",
+    "details": "Las Vegas, Nevada, 2013-09-27 to 2013-09-28",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Brian Shaw",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Robert Oberst",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Dimitar Savatinov",
+        "country": "USA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 844,
+    "contest_name": "2014 UFSA Ukraine's Strongest Man",
+    "details": "Kyiv, Ukraine, 2014",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Kostiantyn Ilin",
+        "country": "UKR",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Sergii Romanchuk",
+        "country": "UKR",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Anton Dubrovskiy",
+        "country": "UKR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 845,
+    "contest_name": "2013 Ukraine's Strongest Man",
+    "details": "Kyiv, Ukraine, 2013-09-21",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Oleksandr Lashyn",
+        "country": "UKR",
+        "score": 35.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Volodymyr Reksha",
+        "country": "UKR",
+        "score": 28.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Vitaliy Mikheyev",
+        "country": "UKR",
+        "score": 26.0
+      }
+    ]
+  },
+  {
+    "contest_id": 846,
+    "contest_name": "2012 Ukraine's Strongest Man",
+    "details": "Kyiv, Ukraine, 2012",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Oleksandr Lashyn",
+        "country": "UKR",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Vitaliy Mikheyev",
+        "country": "UKR",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Boris Kurbatskiy",
+        "country": "UKR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 857,
+    "contest_name": "2015 Iceland's Strongest Man",
+    "details": "Mosfellsbær, Iceland, 2015-06-16 to 2015-06-17",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Hafthór Júlíus Björnsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Ari Gunnarsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Fannar Smári Vilhjálmsson",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 858,
+    "contest_name": "2014 Iceland's Strongest Man",
+    "details": "Mosfellsbær, Iceland, 2014-06-16 to 2014-06-17",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Hafthór Júlíus Björnsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Páll Logason",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Ari Gunnarsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Úlfur Orri Pétursson",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 860,
+    "contest_name": "2012 Iceland's Strongest Man",
+    "details": "Mosfellsbær, Iceland, 2012-06-16 to 2012-06-17",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Hafthór Júlíus Björnsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Ari Gunnarsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Páll Logason",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 861,
+    "contest_name": "2011 Iceland's Strongest Man",
+    "details": "Mosfellsbær, Iceland, 2011-06-16 to 2011-06-17",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Hafthór Júlíus Björnsson",
+        "country": "ISL",
+        "score": 31.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Ari Gunnarsson",
+        "country": "ISL",
+        "score": 19.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Páll Logason",
+        "country": "ISL",
+        "score": 18.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Georg Rúnar Ögmundsson",
+        "country": "ISL",
+        "score": 7.5
+      }
+    ]
+  },
+  {
+    "contest_id": 863,
+    "contest_name": "2009 Iceland's Strongest Man",
+    "details": "Mosfellsbær, Iceland, 2009-06-16 to 2009-06-17",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Stefán Sölvi Pétursson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Boris Haraldsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Páll Logason",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Sturla Ólafsson",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 864,
+    "contest_name": "2008 Iceland's Strongest Man",
+    "details": "Mosfellsbær, Iceland, 2008-06-17",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Boris Haraldsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Stefán Sölvi Pétursson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Orri Geirsson",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 865,
+    "contest_name": "2007 Iceland's Strongest Man",
+    "details": "Mosfellsbær, Iceland, 2007-06-17",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Boris Haraldsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Terry Hollands",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Don Pope",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Rene Minkwitz",
+        "country": "DEN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 866,
+    "contest_name": "2006 Iceland's Strongest Man",
+    "details": "Mosfellsbær, Iceland, 2006-06-17",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Boris Haraldsson",
+        "country": "ISL",
+        "score": 66.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Don Pope",
+        "country": "USA",
+        "score": 63.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Jens Andri Fylkisson",
+        "country": "ISL",
+        "score": 39.0
+      }
+    ]
+  },
+  {
+    "contest_id": 888,
+    "contest_name": "2006 Lithuania's Strongest Man",
+    "details": "Vilnius, Lithuania, 2006-09-10",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Žydrūnas Savickas",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Saulius Brusokas",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 889,
+    "contest_name": "2005 Lithuania's Strongest Man",
+    "details": "Tauragė, Lithuania, 2005-07-30",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Žydrūnas Savickas",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Vilius Petrauskas",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 890,
+    "contest_name": "2004 Lithuania's Strongest Man",
+    "details": "Biržai, Lithuania, 2004-08-27",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Žydrūnas Savickas",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Vilius Petrauskas",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 893,
+    "contest_name": "2001 Lithuania's Strongest Man",
+    "details": "Lithuania, 2001",
+    "reason": "Fewer than 5 competitors (2 listed)",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Antanas Abrutis",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Žydrūnas Savickas",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 894,
+    "contest_name": "2000 Lithuania's Strongest Man",
+    "details": "Panevėžys, Lithuania, 2000-09-09",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Žydrūnas Savickas",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Antanas Abrutis",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 895,
+    "contest_name": "1999 Lithuania's Strongest Man",
+    "details": "Klaipėda, Lithuania, 1999-12-29",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Žydrūnas Savickas",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Remigijus Kačinskis",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Antanas Abrutis",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 896,
+    "contest_name": "1998 Lithuania's Strongest Man",
+    "details": "Vilnius, Lithuania, 1998",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Žydrūnas Savickas",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Arvydas Pintinas",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Remigijus Kačinskis",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 897,
+    "contest_name": "1997 Lithuania's Strongest Man",
+    "details": "Panevėžys, Lithuania, 1997-06-14",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Arvydas Pintinas",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Žydrūnas Savickas",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Stasys Mėčius",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 898,
+    "contest_name": "1996 Lithuania's Strongest Man",
+    "details": "Vilnius, Lithuania, 1996-06-07",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Stasys Mėčius",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Arvydas Pintinas",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Žydrūnas Savickas",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 899,
+    "contest_name": "1995 Lithuania's Strongest Man",
+    "details": "Lithuania, 1995",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Stasys Mėčius",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Karolis Rauba",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Alvydas Kirkliauskas",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 900,
+    "contest_name": "1994 Lithuania's Strongest Man",
+    "details": "Lithuania, 1994",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Raimondas Zenkevičius",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Stasys Mėčius",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Alvydas Kirkliauskas",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 901,
+    "contest_name": "1993 Lithuania's Strongest Man",
+    "details": "Lithuania, 1993",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Raimondas Zenkevičius",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Audrius Vosylius",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Alvydas Kirkliauskas",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 902,
+    "contest_name": "1992 Lithuania's Strongest Man",
+    "details": "Lithuania, 1992",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Alvydas Kirkliauskas",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Audrius Vosylius",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Arvydas Svegzda",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 903,
+    "contest_name": "1991 Lithuania's Strongest Man",
+    "details": "Lithuania, 1991",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Raimondas Zenkevičius",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Aleksandras Žukauskas",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Egidijus Žaldokas",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 904,
+    "contest_name": "1990 Lithuania's Strongest Man",
+    "details": "Lithuania, 1990",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Egidijus Karskis",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Raimondas Zenkevičius",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Edmundas Kvietinskas",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 905,
+    "contest_name": "1989 Lithuania's Strongest Man",
+    "details": "Lithuania, 1989",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Raimondas Zenkevičius",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Kęstutis Čenkus",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Arūnas Vitkevičius",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 908,
+    "contest_name": "2020 WUS Feats of Strength - Max Log Lift",
+    "details": "Invergordon, Scotland, 2020-05-16",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Luke Stoltman",
+        "country": "GBR",
+        "score": "467 lbs"
+      }
+    ]
+  },
+  {
+    "contest_id": 909,
+    "contest_name": "2020 WUS Feats of Strength - Max Log Lift",
+    "details": "Connecticut, USA, 2020-06-13",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Rob Kearney",
+        "country": "USA",
+        "score": "476 lbs"
+      }
+    ]
+  },
+  {
+    "contest_id": 910,
+    "contest_name": "2020 WUS Feats of Strength - 400 kg Deadlift",
+    "details": "2020-06-20",
+    "reason": "Fewer than 5 competitors (2 listed)",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Rauno Heinla",
+        "country": "EST",
+        "score": "5 reps"
+      },
+      {
+        "rank": "2",
+        "person_name": "Jerry Pritchett",
+        "country": "USA",
+        "score": "4 reps"
+      }
+    ]
+  },
+  {
+    "contest_id": 911,
+    "contest_name": "2020 WUS Feats of Strength - Stone Over Bar",
+    "details": "Invergordon, Scotland, 2020-05-23",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tom Stoltman",
+        "country": "GBR",
+        "score": "631 lbs"
+      }
+    ]
+  },
+  {
+    "contest_id": 912,
+    "contest_name": "2020 WUS Feats of Strength - Dumbbell Press",
+    "details": "Kyiv, Ukraine, 2020-05-30",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Oleksii Novikov",
+        "country": "UKR",
+        "score": "11 reps"
+      }
+    ]
+  },
+  {
+    "contest_id": 913,
+    "contest_name": "2020 WUS Feats of Strength - Max Deadlift",
+    "details": "2020-06-27",
+    "reason": "Fewer than 5 competitors (2 listed)",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mikhail Shivlyakov",
+        "country": "RUS",
+        "score": "928 lbs"
+      },
+      {
+        "rank": "2",
+        "person_name": "Terry Hollands",
+        "country": "GBR",
+        "score": "926 lbs"
+      }
+    ]
+  },
+  {
+    "contest_id": 914,
+    "contest_name": "2020 WUS Feats of Strength - 400 kg Deadlift",
+    "details": "2020-09-13",
+    "reason": "Fewer than 5 competitors (2 listed)",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Rauno Heinla",
+        "country": "EST",
+        "score": "6 reps"
+      },
+      {
+        "rank": "2",
+        "person_name": "Konstantine Janashia",
+        "country": "GEO",
+        "score": "2 reps"
+      }
+    ]
+  },
+  {
+    "contest_id": 915,
+    "contest_name": "2020 WUS Feats of Strength - 400 kg Deadlift",
+    "details": "Lumberton, Texas, 2020-09-20",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Trey Mitchell",
+        "country": "USA",
+        "score": "2 reps"
+      }
+    ]
+  },
+  {
+    "contest_id": 916,
+    "contest_name": "2020 WUS Feats of Strength - Max Log Lift",
+    "details": "2020-10-11",
+    "reason": "Fewer than 5 competitors (2 listed)",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Luke Stoltman",
+        "country": "GBR",
+        "score": "487 lbs"
+      },
+      {
+        "rank": "2",
+        "person_name": "Rob Kearney",
+        "country": "USA",
+        "score": "452 lbs"
+      }
+    ]
+  },
+  {
+    "contest_id": 917,
+    "contest_name": "2020 WUS Feats of Strength - Max Deadlift",
+    "details": "2020-10-18",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Rauno Heinla",
+        "country": "EST",
+        "score": "1003 lbs"
+      },
+      {
+        "rank": "2",
+        "person_name": "Ivan Makarov",
+        "country": "RUS",
+        "score": "992 lbs"
+      },
+      {
+        "rank": "3",
+        "person_name": "Mikhail Shivlyakov",
+        "country": "RUS",
+        "score": "961 lbs"
+      }
+    ]
+  },
+  {
+    "contest_id": 918,
+    "contest_name": "2020 WUS Feats of Strength - 400 kg Deadlift",
+    "details": "2020-07-11",
+    "reason": "Fewer than 5 competitors (2 listed)",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Adam Bishop",
+        "country": "GBR",
+        "score": "4 reps"
+      },
+      {
+        "rank": "1",
+        "person_name": "Jean-François Caron",
+        "country": "CAN",
+        "score": "4 reps"
+      }
+    ]
+  },
+  {
+    "contest_id": 936,
+    "contest_name": "2003 Sweden's Strongest Man",
+    "details": "Västervik, Sweden, 2003",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Magnus Samuelsson",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jörgen Ljungberg",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Kalle Lane",
+        "country": "SWE",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 938,
+    "contest_name": "2001 Sweden's Strongest Man",
+    "details": "Gröna Lund, Sweden, 2001-08-26",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Magnus Samuelsson",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Torbjörn Samuelsson",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Anders Johansson",
+        "country": "SWE",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 940,
+    "contest_name": "1999 Sweden's Strongest Man",
+    "details": "Gröna Lund, Sweden, 1999-08-09",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Magnus Samuelsson",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jorma Paananen",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Torbjörn Samuelsson",
+        "country": "SWE",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 941,
+    "contest_name": "1998 Sweden's Strongest Man",
+    "details": "Sweden, 1998",
+    "reason": "Fewer than 5 competitors (2 listed)",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Torbjörn Samuelsson",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jorma Paananen",
+        "country": "SWE",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 943,
+    "contest_name": "1996 Sweden's Strongest Man",
+    "details": "Skara, Sweden, 1996",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Magnus Samuelsson",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jorma Paananen",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Torbjörn Samuelsson",
+        "country": "SWE",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 944,
+    "contest_name": "1995 Sweden's Strongest Man",
+    "details": "Skara, Sweden, 1995",
+    "reason": "Fewer than 5 competitors (2 listed)",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Magnus Samuelsson",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jörgen Ljungberg",
+        "country": "SWE",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 948,
+    "contest_name": "2017 Poland's Strongest Man",
+    "details": "Gdańsk, Poland, 2017-07-29",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mateusz Kieliszkowski",
+        "country": "POL",
+        "score": 33.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Robert Cyrwus",
+        "country": "POL",
+        "score": 32.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Rafał Kobylarz",
+        "country": "POL",
+        "score": 29.0
+      }
+    ]
+  },
+  {
+    "contest_id": 949,
+    "contest_name": "2016 Poland's Strongest Man",
+    "details": "Gdańsk, Poland, 2016-07-16",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mateusz Kieliszkowski",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Rafał Kobylarz",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Mateusz Baron",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Robert Cyrwus",
+        "country": "POL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 951,
+    "contest_name": "2014 Poland's Strongest Man",
+    "details": "Augustów, Poland, 2014-06-22",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Grzegorz Szymański",
+        "country": "POL",
+        "score": 39.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Rafał Kobylarz",
+        "country": "POL",
+        "score": 37.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Robert Cyrwus",
+        "country": "POL",
+        "score": 35.0
+      }
+    ]
+  },
+  {
+    "contest_id": 952,
+    "contest_name": "2013 Poland's Strongest Man",
+    "details": "Augustów, Poland, 2013-05-25",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Krzysztof Radzikowski",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Robert Cyrwus",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Bartłomiej Bąk",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Tomasz Lademann",
+        "country": "POL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 953,
+    "contest_name": "2012 Poland's Strongest Man",
+    "details": "Poland, 2012",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Krzysztof Radzikowski",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Janusz Kułaga",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Sebastian Kurek",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Tomasz Lademann",
+        "country": "POL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 964,
+    "contest_name": "2001 Poland's Strongest Man",
+    "details": "Poland, 2001",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jarosław Dymek",
+        "country": "POL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1035,
+    "contest_name": "1984 Louis Cyr Strength Challenge",
+    "details": "Montréal, Canada, 1984-08-26",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tom Magee",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "John Gamble",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Robert Dubeau",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Claude Labonté",
+        "country": "CAN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1093,
+    "contest_name": "1998 Europe's Strongest Woman",
+    "details": "Germany, 1998",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Edith Pongratz",
+        "country": "AUT",
+        "score": 15.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Heini Koivuniemi",
+        "country": "FIN",
+        "score": 14.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Bryndís Ólafsdóttir",
+        "country": "ISL",
+        "score": 11.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Kristin Samuelsson",
+        "country": "SWE",
+        "score": 9.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1122,
+    "contest_name": "2021 Middle East's Strongest Woman",
+    "details": "Dubai, United Arab Emirates, 2021-10-01",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Ekaterina Zaitseva",
+        "country": "RUS",
+        "score": 14.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Brendali Theron",
+        "country": "RSA",
+        "score": 11.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Scarlett Harvey",
+        "country": "GBR",
+        "score": 5.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1149,
+    "contest_name": "2021 Africa's Strongest Woman",
+    "details": "Mossel Bay, South Africa, 2021-11-27 to 2021-11-28",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Faith Aviwe Totiyana",
+        "country": "RSA",
+        "score": 19.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Carla Vermaak",
+        "country": "RSA",
+        "score": 16.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Cherry Muchindu",
+        "country": "ZAM",
+        "score": 16.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Sinenhlanhla Sithole",
+        "country": "RSA",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1192,
+    "contest_name": "2022 Força Bruta",
+    "details": "Cotia, Brazil, 2022-02-13",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jean-François Caron",
+        "country": "CAN",
+        "score": 12.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Rauno Heinla",
+        "country": "EST",
+        "score": 7.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Rob Kearney",
+        "country": "USA",
+        "score": 7.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Dmitrii Skosyrskii",
+        "country": "RUS",
+        "score": 3.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1257,
+    "contest_name": "2018 Africa's Strongest Man",
+    "details": "South Africa, 2018-11-25",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Johan Els",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Johan Rudd",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Dean Shelley",
+        "country": "RSA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1313,
+    "contest_name": "2022 Middle East's Strongest Woman",
+    "details": "Dubai, United Arab Emirates, 2022-08-27",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Reiariki Kimitaunga",
+        "country": "AUS",
+        "score": 16.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Scarlett Harvey",
+        "country": "GBR",
+        "score": 15.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Gabrielle Jenkins",
+        "country": "AUS",
+        "score": 11.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Krista Zhivago-Prall",
+        "country": "CAN",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1374,
+    "contest_name": "2023 Força Bruta",
+    "details": "Cotia, Brazil, 2023-01-15",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Emanuel Mendoza",
+        "country": "COL",
+        "score": 11.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Cristian Quiroga",
+        "country": "BOL",
+        "score": 11.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Marcelo Martínez",
+        "country": "URU",
+        "score": 10.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Flávio Nunes",
+        "country": "BRA",
+        "score": 8.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1454,
+    "contest_name": "2023 Africa's Strongest Man",
+    "details": "Livingstone, Zambia, 2023-10-28 to 2023-10-29",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Rayno Nel",
+        "country": "RSA",
+        "score": 51.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Dean Shelley",
+        "country": "RSA",
+        "score": 44.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Chris van der Linde",
+        "country": "RSA",
+        "score": 37.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Armand Goosen",
+        "country": "RSA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1455,
+    "contest_name": "2023 Africa's Strongest Woman",
+    "details": "Livingstone, Zambia, 2023-10-28 to 2023-10-29",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Cherry Muchindu",
+        "country": "ZAM",
+        "score": 18.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Natasha Grobler",
+        "country": "RSA",
+        "score": 10.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Chido Maenzanise",
+        "country": "RSA",
+        "score": 2.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1456,
+    "contest_name": "2022 Africa's Strongest Man",
+    "details": "Rustenburg, South Africa, 2022-11-26 to 2022-11-27",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Kelin Mills",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Terence Bosman",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Tewie Labuschagne",
+        "country": "RSA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1525,
+    "contest_name": "2024 Arnold Amateur Strongwoman World Championships",
+    "details": "Columbus, Ohio, 2024-03-02 to 2024-03-03",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jennifer Lyle",
+        "country": "USA",
+        "score": 25.65
+      },
+      {
+        "rank": "2",
+        "person_name": "Claire Myler",
+        "country": "GBR",
+        "score": 21.46
+      },
+      {
+        "rank": "3",
+        "person_name": "Reiariki Kimitaunga",
+        "country": "AUS",
+        "score": 18.36
+      },
+      {
+        "rank": "4",
+        "person_name": "Rebekah Strong",
+        "country": "USA",
+        "score": 16.66
+      }
+    ]
+  },
+  {
+    "contest_id": 1526,
+    "contest_name": "2023 Women's World Deadlift Championships",
+    "details": "Cardiff, Wales, 2023-09-02",
+    "reason": "Fewer than 5 competitors (2 listed)",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Lucy Underdown",
+        "country": "GBR",
+        "score": "701 lbs"
+      },
+      {
+        "rank": "2",
+        "person_name": "Rebecca Roberts",
+        "country": "GBR",
+        "score": "617 lbs"
+      }
+    ]
+  },
+  {
+    "contest_id": 1527,
+    "contest_name": "2024 Women's World Deadlift Championships",
+    "details": "Las Vegas, Nevada, 2024-09-28",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Lucy Underdown",
+        "country": "GBR",
+        "score": "717 lbs"
+      }
+    ]
+  },
+  {
+    "contest_id": 1543,
+    "contest_name": "2024 Olympic City Pro-Am (Women)",
+    "details": "Colorado Springs, Colorado, 2024-03-23",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Rebecca Houston",
+        "country": "USA",
+        "score": 16.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Lydia Wallace",
+        "country": "USA",
+        "score": 13.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Lauren Ryder",
+        "country": "USA",
+        "score": 12.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Angela Highfield",
+        "country": "USA",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1552,
+    "contest_name": "2018 Slavic Cup",
+    "details": "Trenčín, Slovakia, 2018-11-17",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Ivan Derkach",
+        "country": "UKR",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Denis Berezhnyk",
+        "country": "UKR",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Martin Lovíšek",
+        "country": "SVK",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1587,
+    "contest_name": "2024 Poland's Strongest Man",
+    "details": "Inowrocław, Poland, 2024-07-28",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Oskar Ziółkowski",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Marek Czajkowski",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Paweł Piskorz",
+        "country": "POL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1623,
+    "contest_name": "2024 Africa's Strongest Man",
+    "details": "South Africa, 2024-11-16 to 2024-11-17",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Rayno Nel",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jacque de Jager",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Jacques Boshoff",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Armand Goosen",
+        "country": "RSA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1675,
+    "contest_name": "2020 Sword of Matúš Čák",
+    "details": "Trenčín, Slovakia, 2020-09-18",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Maroš Štefaňák",
+        "country": "SVK",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1689,
+    "contest_name": "2005 Sword of Matúš Čák",
+    "details": "Trenčín, Slovakia, 2005-06-18",
+    "reason": "Fewer than 5 competitors (22 listed)",
+    "total_competitors": 22,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 120.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Tomáš Kollár",
+        "country": "SVK",
+        "score": 100.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Lubomir Libacki",
+        "country": "POL",
+        "score": 97.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Martin Štefl",
+        "country": "CZE",
+        "score": 97.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Zdeněk Sedmík",
+        "country": "CZE",
+        "score": 87.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Tarmo Mitt",
+        "country": "EST",
+        "score": 84.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Rolands Gulbis",
+        "country": "LAT",
+        "score": 78.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Branislav Golier",
+        "country": "SVK",
+        "score": 77.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Jan Bártl",
+        "country": "CZE",
+        "score": 74.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Jan Křeháček",
+        "country": "SVK",
+        "score": 74.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Jozef Masaryk",
+        "country": "SVK",
+        "score": 74.0
+      },
+      {
+        "rank": "12",
+        "person_name": "Nerijus Liobikas",
+        "country": "LTU",
+        "score": 73.0
+      },
+      {
+        "rank": "13",
+        "person_name": "Jiří Žaloudek",
+        "country": "CZE",
+        "score": 67.5
+      },
+      {
+        "rank": "14",
+        "person_name": "Grzegorz Peksa",
+        "country": "POL",
+        "score": 66.0
+      },
+      {
+        "rank": "15",
+        "person_name": "Tamás Malatinszki",
+        "country": "HUN",
+        "score": 63.5
+      },
+      {
+        "rank": "16",
+        "person_name": "Igor Petrík",
+        "country": "SVK",
+        "score": 58.5
+      },
+      {
+        "rank": "17",
+        "person_name": "Jan Šalata",
+        "country": "CZE",
+        "score": 49.5
+      },
+      {
+        "rank": "18",
+        "person_name": "Michal Petrík",
+        "country": "SVK",
+        "score": 39.5
+      },
+      {
+        "rank": "19",
+        "person_name": "Gábor Forgács",
+        "country": "HUN",
+        "score": 34.0
+      },
+      {
+        "rank": "20",
+        "person_name": "Vladimir Rizov",
+        "country": "BUL",
+        "score": 31.0
+      },
+      {
+        "rank": "21",
+        "person_name": "Ivan Hryhorovskyy",
+        "country": "UKR",
+        "score": 31.0
+      },
+      {
+        "rank": "22",
+        "person_name": "Dimitar Stojanov",
+        "country": "BUL",
+        "score": 14.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1693,
+    "contest_name": "2001 Sword of Matúš Čák",
+    "details": "Trenčín, Slovakia, 2001-07-01",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Pavol Jambor",
+        "country": "SVK",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1762,
+    "contest_name": "2013 Central European Strongman Cup",
+    "details": "Kolomyia, Ukraine, 2013-05-25",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Kostiantyn Ilin",
+        "country": "UKR",
+        "score": 49.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Serhii Oleolenko",
+        "country": "UKR",
+        "score": 40.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Lukáš Svoboda",
+        "country": "CZE",
+        "score": 39.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1902,
+    "contest_name": "2016 Austria's Strongest Man",
+    "details": "Austria, 2016-08-27",
+    "reason": "Fewer than 5 competitors (6 listed)",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Martin Wildauer",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Michael Votter",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Nemanja Tasić",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Christoph Moser",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Oliver Hanschek-Wagner",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Thomas Konrader",
+        "country": "AUT",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1910,
+    "contest_name": "2012 Austria's Strongest Man",
+    "details": "Vienna, Austria, 2012-06-22 to 2012-06-23",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Martin Wildauer",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Michael Votter",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Alexander Meyer",
+        "country": "AUT",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1922,
+    "contest_name": "2008 Austria's Strongest Man",
+    "details": "Austria, 2008-06-28 to 2008-06-29",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Gregor Stegnar",
+        "country": "SLO",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Bernd Kerschbaumer",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Martin Wildauer",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Oliver Gratzer",
+        "country": "AUT",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1923,
+    "contest_name": "2007 Austria's Strongest Man",
+    "details": "Austria, 2007-06-16 to 2007-06-17",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Bernd Kerschbaumer",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Stefan Weiermann",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Wolfgang Kriechbaum",
+        "country": "AUT",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1924,
+    "contest_name": "2006 Austria's Strongest Man",
+    "details": "Austria, 2006-06-16 to 2006-06-17",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Bernd Kerschbaumer",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Stefan Weiermann",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Wolfgang Kriechbaum",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Reinhard Liegl",
+        "country": "AUT",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1932,
+    "contest_name": "2000 Austria's Strongest Man",
+    "details": "Austria, 2000-06-01",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Bernd Kerschbaumer",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Manfred Gruber",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Hubert Dörer",
+        "country": "AUT",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1933,
+    "contest_name": "1999 Austria's Strongest Man",
+    "details": "Austria, 1999",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Karl Bauer",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Manfred Gruber",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Ralf Ber",
+        "country": "AUT",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1934,
+    "contest_name": "1998 Austria's Strongest Man",
+    "details": "Austria, 1998",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Franz Siller",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Karl Bauer",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Oliver Gratzer",
+        "country": "AUT",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1935,
+    "contest_name": "1997 Austria's Strongest Man",
+    "details": "Austria, 1997",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Franz Siller",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Manfred Gruber",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Karl Bauer",
+        "country": "AUT",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1937,
+    "contest_name": "1995 Austria's Strongest Man",
+    "details": "Austria, 1995",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Karl Saliger",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "August Smisl",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Franz Siller",
+        "country": "AUT",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1938,
+    "contest_name": "1994 Austria's Strongest Man",
+    "details": "Austria, 1994",
+    "reason": "Fewer than 5 competitors (5 listed)",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Stefan Laggner",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Rupert Mörth",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "1",
+        "person_name": "Karl Saliger",
+        "country": "AUT",
+        "score": 131.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Franz Siller",
+        "country": "AUT",
+        "score": 104.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Anton Tucek",
+        "country": "AUT",
+        "score": 87.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1939,
+    "contest_name": "1993 Austria's Strongest Man",
+    "details": "Austria, 1993",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Karl Saliger",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "August Smisl",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Leopold Krendl",
+        "country": "AUT",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1940,
+    "contest_name": "1992 Austria's Strongest Man",
+    "details": "Austria, 1992",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Karl Saliger",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Leopold Krendl",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "August Smisl",
+        "country": "AUT",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1973,
+    "contest_name": "2024 Italy's Strongest Man",
+    "details": "Vicopisano, Italy, 2024-10-26",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Emanuele Greco",
+        "country": "ITA",
+        "score": 14.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Paolo Acquaviva",
+        "country": "ITA",
+        "score": 10.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Francesco Videtta",
+        "country": "ITA",
+        "score": 6.0
+      }
+    ]
+  },
+  {
+    "contest_id": 1995,
+    "contest_name": "2013 Strongman Games Aš",
+    "details": "Aš, Czech Republic, 2013-05-11",
+    "reason": "Fewer than 5 competitors (7 listed)",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Čestmír Šíma",
+        "country": "CZE",
+        "score": 37.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Lukáš Svoboda",
+        "country": "CZE",
+        "score": 33.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Pavel Zadražil",
+        "country": "CZE",
+        "score": 23.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Michal Tichý",
+        "country": "CZE",
+        "score": 22.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Jiří Vytiska",
+        "country": "CZE",
+        "score": 20.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Jan Šleis",
+        "country": "CZE",
+        "score": 13.0
+      },
+      {
+        "rank": "8",
+        "person_name": "David Oberlander",
+        "country": "CZE",
+        "score": 12.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2027,
+    "contest_name": "2016 Italy's Strongest Man",
+    "details": "Vicopisano, Italy, 2016-11-19",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Alessandro Castelli",
+        "country": "ITA",
+        "score": 15.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Marco Guidi",
+        "country": "ITA",
+        "score": 14.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Gian Paolo Pedna",
+        "country": "ITA",
+        "score": 9.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Francesco Gioia",
+        "country": "ITA",
+        "score": 9.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2043,
+    "contest_name": "2019 All-American Strongman Challenge",
+    "details": "Los Angeles, California, 2019-01-26 to 2019-01-27",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "José Baez",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Larry Williams",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Victor Beebe",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Morgan Hill",
+        "country": "USA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2044,
+    "contest_name": "2018 All-American Strongman Challenge",
+    "details": "Los Angeles, California, 2018-01-06 to 2018-01-07",
+    "reason": "Fewer than 5 competitors (2 listed)",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Martins Licis",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Ulice Payne",
+        "country": "USA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2051,
+    "contest_name": "2007 Biržai Tarptautinis Galiūnų Turnyras",
+    "details": "Biržai, Lithuania, 2007-06-23",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Žydrūnas Savickas",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2059,
+    "contest_name": "1991 Savon Herkules",
+    "details": "Finland, 1991-07-26",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Riku Kiri",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jamie Reeves",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Pasi Paavisto",
+        "country": "FIN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2078,
+    "contest_name": "2026 Giants Live Strongman Open",
+    "details": "Birmingham, England, 2026-09-05",
+    "reason": "Fewer than 5 competitors (12 listed)",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Austin Andrade",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Evans Nana Aryee",
+        "country": "GHA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Adam Bishop",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Hafthór Júlíus Björnsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Raul Flores",
+        "country": "MEX",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Nick Guardione",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Paddy Haynes",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "James Jeffers",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Bryce Johnson",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Trey Mitchell",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Evan Singleton",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tom Stoltman",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2079,
+    "contest_name": "2026 Giants Live World Tour Finals",
+    "details": "Glasgow, Scotland, 2026-10-17",
+    "reason": "Fewer than 5 competitors (6 listed)",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Evans Nana Aryee",
+        "country": "GHA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ondřej Fojtů",
+        "country": "CZE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Trey Mitchell",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Evan Singleton",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Luke Stoltman",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tom Stoltman",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2082,
+    "contest_name": "1988 Finland's Strongest Man",
+    "details": "Finland, 1988",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Riku Kiri",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Ilkka Nummisto",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Markku Suonenvirta",
+        "country": "FIN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2087,
+    "contest_name": "1991 Finland's Strongest Man",
+    "details": "Finland, 1991",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Markku Suonenvirta",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Ilkka Nummisto",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Pentti Ranta",
+        "country": "FIN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2115,
+    "contest_name": "2003 Azalea Strongman Challenge",
+    "details": "Norfolk, Virginia, 2003",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jon Andersen",
+        "country": "USA",
+        "score": 5.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Dave Ostlund",
+        "country": "USA",
+        "score": 15.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Travis Mongold",
+        "country": "USA",
+        "score": 18.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2118,
+    "contest_name": "2001 New Zealand's Strongest Man",
+    "details": "Auckland, New Zealand, 2001-04-07 to 2001-04-08",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Levi Vaoga",
+        "country": "NZL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Andrew Souter",
+        "country": "NZL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Matt Rossiter",
+        "country": "NZL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2130,
+    "contest_name": "2007 Finland's Strongest Man",
+    "details": "Turku, Finland, 2007",
+    "reason": "Fewer than 5 competitors (14 listed)",
+    "total_competitors": 14,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Jani Illikainen",
+        "country": "FIN",
+        "score": 78.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jani Kolehmainen",
+        "country": "FIN",
+        "score": 71.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Janne Hartikainen",
+        "country": "FIN",
+        "score": 66.5
+      },
+      {
+        "rank": "-",
+        "person_name": "Juha-Matti Järvi",
+        "country": "FIN",
+        "score": 65.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Mika Hiltunen",
+        "country": "FIN",
+        "score": 59.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ville Vihola",
+        "country": "FIN",
+        "score": 56.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Harri Peltomaa",
+        "country": "FIN",
+        "score": 45.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jarno Kirselä",
+        "country": "FIN",
+        "score": 33.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Esa Qvintus",
+        "country": "FIN",
+        "score": 32.5
+      },
+      {
+        "rank": "-",
+        "person_name": "Kimmo Maijala",
+        "country": "FIN",
+        "score": 12.5
+      },
+      {
+        "rank": "-",
+        "person_name": "Juha-Pekka Aitala",
+        "country": "FIN",
+        "score": 11.5
+      },
+      {
+        "rank": "-",
+        "person_name": "Sakari Kaitaniemi",
+        "country": "FIN",
+        "score": 10.5
+      },
+      {
+        "rank": "-",
+        "person_name": "Kirmo Varvikko",
+        "country": "FIN",
+        "score": 9.5
+      },
+      {
+        "rank": "-",
+        "person_name": "Anssi Tennilä",
+        "country": "FIN",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2133,
+    "contest_name": "2025 Italy's Strongest Man",
+    "details": "Vicopisano, Italy, 2025-11-08",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Paolo Acquaviva",
+        "country": "ITA",
+        "score": 11.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Nicolas Cambi",
+        "country": "ITA",
+        "score": 11.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Francesco Videtta",
+        "country": "ITA",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2134,
+    "contest_name": "2025 Italy's Strongest Woman",
+    "details": "Vicopisano, Italy, 2025-11-08",
+    "reason": "Fewer than 5 competitors (2 listed)",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Consiglia Amato",
+        "country": "ITA",
+        "score": 8.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Isabella Caputo",
+        "country": "ITA",
+        "score": 6.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2137,
+    "contest_name": "2011 Finland's Strongest Man",
+    "details": "Sastamala, Finland, 2011-05-27 to 2011-05-28",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jarno Jokinen",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Pedro Karlsson",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Mika Jaakola",
+        "country": "FIN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2139,
+    "contest_name": "2013 Finland's Strongest Man",
+    "details": "Salo, Finland, 2013-06-01 to 2013-06-02",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Janne Hartikainen",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Pedro Karlsson",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Mika Jaakola",
+        "country": "FIN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2152,
+    "contest_name": "2002 Finnish Open",
+    "details": "Ylitornio, Finland, 2002-06-29",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Harri Simonen",
+        "country": "FIN",
+        "score": 75.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Janne Virtanen",
+        "country": "FIN",
+        "score": 75.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Matti Uppa",
+        "country": "FIN",
+        "score": 64.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2155,
+    "contest_name": "2003 Savon Vahvin Mies",
+    "details": "Pieksämäki, Finland, 2003-07-05",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tomi Lotta",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Toni Salo",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Jarmo Hirvi",
+        "country": "FIN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2156,
+    "contest_name": "1993 Central Finland's Strongest Man",
+    "details": "Saarijärvi, Finland, 1993",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jari Mustonen",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Harri Simonen",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Jukka Laine",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Markku Muittari",
+        "country": "FIN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2163,
+    "contest_name": "2003 Finland's Strongest Barbarian",
+    "details": "Finland, 2003-08-23",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Juha-Matti Räsänen",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Tarmo Mitt",
+        "country": "EST",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Jyrki Rantanen",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Jani Illikainen",
+        "country": "FIN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2178,
+    "contest_name": "2002 Atlantic Giant",
+    "details": "Torshavn, Faroe Islands, 2002-04-26",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Svend Karlsen",
+        "country": "NOR",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Rene Minkwitz",
+        "country": "DEN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Žydrūnas Savickas",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2211,
+    "contest_name": "1995 Kalliojärven Vahvamieskisat",
+    "details": "Isokyrö, Finland, 1995",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Hannu Mäki-Marttunen",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jyri Saarela",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Pentti Lähteenmäki",
+        "country": "FIN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2212,
+    "contest_name": "1996 Kalliojärven Vahvamieskisat",
+    "details": "Isokyrö, Finland, 1996",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jari Maunula",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jarmo Hirvi",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Jyri Saarela",
+        "country": "FIN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2219,
+    "contest_name": "2004 Kalotin Vahvin Mies",
+    "details": "Finland, 2004-07-17",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mika Hiltunen",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Juha Heikkilä",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Jani Illikainen",
+        "country": "FIN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2220,
+    "contest_name": "2005 Kalotin Vahvin Mies",
+    "details": "Finland, 2005-07-16",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jani Illikainen",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Kari Pulkkanen",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Ari Maansaari",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Marko Susi",
+        "country": "FIN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2226,
+    "contest_name": "2003 Forssan Vahvin Mies",
+    "details": "Forssa, Finland, 2003-07-05",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tarmo Mitt",
+        "country": "EST",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Janne Hartikainen",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Pedro Karlsson",
+        "country": "FIN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2227,
+    "contest_name": "2004 Forssan Vahvin Mies",
+    "details": "Forssa, Finland, 2004-07-10",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Hannu Vilkko",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Harri Simonen",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Jani Kolehmainen",
+        "country": "FIN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2238,
+    "contest_name": "2003 Kauttuan Vahvin Mies",
+    "details": "Kauttua, Finland, 2003-07-19",
+    "reason": "Fewer than 5 competitors (10 listed)",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "2",
+        "person_name": "Ilkka Mäkilä",
+        "country": "FIN",
+        "score": 9.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Rami Koski",
+        "country": "FIN",
+        "score": 19.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Mika Mattila",
+        "country": "FIN",
+        "score": 21.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Mikko Tiensuu",
+        "country": "FIN",
+        "score": 29.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Leevi Koistinen",
+        "country": "FIN",
+        "score": 31.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Toni Engberg",
+        "country": "FIN",
+        "score": 34.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Mikko Lehtimäki",
+        "country": "FIN",
+        "score": 36.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Erkki Koistinen",
+        "country": "FIN",
+        "score": 39.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Janne Hakala",
+        "country": "FIN",
+        "score": 43.0
+      },
+      {
+        "rank": "19",
+        "person_name": "Marko Valo",
+        "country": "FIN",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2241,
+    "contest_name": "2002 Hämeenkyrön Vahvin Mies",
+    "details": "Hämeenkyrö, Finland, 2002-07-20",
+    "reason": "Fewer than 5 competitors (6 listed)",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Sami Heinonen",
+        "country": "FIN",
+        "score": 23.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Juha Ali-Tolppa",
+        "country": "FIN",
+        "score": 17.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Marko Susi",
+        "country": "FIN",
+        "score": 11.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Jari Niininen",
+        "country": "FIN",
+        "score": 7.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Marko Valo",
+        "country": "FIN",
+        "score": 7.0
+      },
+      {
+        "rank": "37",
+        "person_name": "Raimo Järvinen",
+        "country": "FIN",
+        "score": 16.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2244,
+    "contest_name": "2003 Lahti Power Cup",
+    "details": "Lahti, Finland, 2003-10-04",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Esa Qvintus",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Pedro Karlsson",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Toni Salo",
+        "country": "FIN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2259,
+    "contest_name": "2005 Pyhän Olavin Vahvin",
+    "details": "Finland, 2005-08-01",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tomi Lotta",
+        "country": "FIN",
+        "score": 15.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jani Kolehmainen",
+        "country": "FIN",
+        "score": 12.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Lasse-Pekka Mikkonen",
+        "country": "FIN",
+        "score": 10.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Olli-Pekka Pöllänen",
+        "country": "FIN",
+        "score": 4.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2268,
+    "contest_name": "2008 Porin Vahvin Mies",
+    "details": "Pori, Finland, 2008-04-27",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Juha-Matti Järvi",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Ville Vihola",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Jarno Kirselä",
+        "country": "FIN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2275,
+    "contest_name": "1980 Finland's Strongest Man",
+    "details": "Tampere, Finland, 1980",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Pekka Niemi",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Pentti Viitikko",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Viktor Sirkiä",
+        "country": "FIN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2276,
+    "contest_name": "1981 Finland's Strongest Man",
+    "details": "Tampere, Finland, 1981",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Pekka Niemi",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Reijo Kiviranta",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Pentti Viitikko",
+        "country": "FIN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2285,
+    "contest_name": "1993 King of the Stones",
+    "details": "Reykjavík, Iceland, 1993",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Magnús Ver Magnússon",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Hjalti Árnason",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Andrés Guðmundsson",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2288,
+    "contest_name": "1988 Sterkasti Maður Landsbyggðarinnar",
+    "details": "Akureyri, Iceland, 1988-07-22 to 1988-07-23",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Torfi Ólafsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Magnús Ver Magnússon",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Flosi Jónsson",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2293,
+    "contest_name": "1995 Aflraunameistari Íslands",
+    "details": "Akureyri, Iceland, 1995",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Hjalti Árnason",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Torfi Ólafsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Unnar Garðarsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Ingimundur Ingimundarsson",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2296,
+    "contest_name": "1996 Iceland's Strongest Man",
+    "details": "Reykjavík, Iceland, 1996-08-10",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Torfi Ólafsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Hjalti Árnason",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Audunn Jónsson",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2298,
+    "contest_name": "1999 Iceland's Strongest Viking",
+    "details": "Iceland, 1999",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Gunnar Thór Gudjónsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Magnús Ver Magnússon",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Svavar Már Einarsson",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2307,
+    "contest_name": "2007 Suðurnesjatröllið",
+    "details": "Iceland, 2007-09-08",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Ólafur Valur Gudjónsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Orri Geirsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Sturla Ólafsson",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2310,
+    "contest_name": "2003 Suðurnesjatröllið",
+    "details": "Iceland, 2003",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jón Valgeir Williams",
+        "country": "ISL",
+        "score": 20.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Georg Rúnar Ögmundsson",
+        "country": "ISL",
+        "score": 17.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Grétar Gudmundsson",
+        "country": "ISL",
+        "score": 17.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2311,
+    "contest_name": "2014 Iceland's Strongest Viking",
+    "details": "Iceland, 2014-07-10 to 2014-07-12",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Georg Rúnar Ögmundsson",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2312,
+    "contest_name": "2018 Northern Giant",
+    "details": "Iceland, 2018-08-23 to 2018-08-25",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Ari Gunnarsson",
+        "country": "ISL",
+        "score": 54.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Sigfús Þorgeir Fossdal",
+        "country": "ISL",
+        "score": 50.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Óskar Pétur Hafstein",
+        "country": "ISL",
+        "score": 44.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2313,
+    "contest_name": "2003 East Coast Giant",
+    "details": "Iceland, 2003",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jón Björn Björnsson",
+        "country": "ISL",
+        "score": 54.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Jón Valgeir Williams",
+        "country": "ISL",
+        "score": 53.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Ingvar Jóel Ingvarsson",
+        "country": "ISL",
+        "score": 43.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2319,
+    "contest_name": "2005 East Coast Giant",
+    "details": "Iceland, 2005-08-04 to 2005-08-07",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Stefán Sölvi Pétursson",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2320,
+    "contest_name": "2002 East Coast Giant",
+    "details": "Iceland, 2002",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jón Valgeir Williams",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2321,
+    "contest_name": "2012 East Coast Giant",
+    "details": "Iceland, 2012-08-16 to 2012-08-18",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Hafthór Júlíus Björnsson",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2322,
+    "contest_name": "2013 East Coast Giant",
+    "details": "Iceland, 2013-08-15 to 2013-08-18",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Georg Rúnar Ögmundsson",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2326,
+    "contest_name": "2009 Winter Giants",
+    "details": "Accrington, England, 2009-12-13",
+    "reason": "Fewer than 5 competitors (11 listed)",
+    "total_competitors": 11,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mark Felix",
+        "country": "GBR",
+        "score": 61.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Alex Curletto",
+        "country": "ITA",
+        "score": 53.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Laurence Shahlaei",
+        "country": "GBR",
+        "score": 52.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Jimmy Marku",
+        "country": "GBR",
+        "score": 51.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Gary Gardner",
+        "country": "GBR",
+        "score": 36.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Terry Hollands",
+        "country": "GBR",
+        "score": 36.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Spencer Hyland",
+        "country": "GBR",
+        "score": 32.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Rob Frampton",
+        "country": "GBR",
+        "score": 26.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Jack McIntosh",
+        "country": "GBR",
+        "score": 25.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Dean Slater",
+        "country": "GBR",
+        "score": 24.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Mark Lawson",
+        "country": "GBR",
+        "score": 19.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2327,
+    "contest_name": "2008 Jesse Marunde Memorial Invitational",
+    "details": "Sequim, Washington, 2008-05-03",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Marshall White",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Phil Pfister",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Magnus Samuelsson",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Karl Gillingham",
+        "country": "USA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2330,
+    "contest_name": "2006 East Coast Giant",
+    "details": "Iceland, 2006-08-18 to 2006-08-19",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Stefán Sölvi Pétursson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Magnús Ver Magnússon",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Georg Rúnar Ögmundsson",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2331,
+    "contest_name": "2006 East Shore Giant",
+    "details": "Iceland, 2006-08-17 to 2006-08-18",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Stefán Sölvi Pétursson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Juha-Pekka Aitala",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Georg Rúnar Ögmundsson",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2336,
+    "contest_name": "2026 Rogue Invitational (Men)",
+    "details": "Aberdeen, Scotland, 2026-10-23 to 2026-10-24",
+    "reason": "Fewer than 5 competitors (7 listed)",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Austin Andrade",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Hafthór Júlíus Björnsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Mitchell Hooper",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Martins Licis",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Trey Mitchell",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Rayno Nel",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tom Stoltman",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2337,
+    "contest_name": "2026 Rogue Invitational (Women)",
+    "details": "Aberdeen, Scotland, 2026-10-23 to 2026-10-24",
+    "reason": "Fewer than 5 competitors (6 listed)",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Inez Carrasquillo",
+        "country": "PUR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Angelica Jardine",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Olga Liashchuk",
+        "country": "UKR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Hannah Linzay",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Andrea Thompson",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Lucy Underdown",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2340,
+    "contest_name": "1991 Hercules in the Old Town",
+    "details": "Aarhus, Denmark, 1991",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Gunnar Thór Gudjónsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Johnny Simonsen",
+        "country": "DEN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Asbjørn Riis",
+        "country": "DEN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2350,
+    "contest_name": "2026 SCL Poland",
+    "details": "Poland, 2026-08-14 to 2026-08-15",
+    "reason": "Fewer than 5 competitors (12 listed)",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Evans Nana Aryee",
+        "country": "GHA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kane Francis",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Albin Hasanović",
+        "country": "SRB",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kevin Hazeleger",
+        "country": "NED",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Péter Juhász",
+        "country": "HUN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Pavlo Kordiyaka",
+        "country": "UKR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jan Lacina",
+        "country": "CZE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Adam Roszkowski",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jakub Szczechowski",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Grzegorz Szymański",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Oskar Ziółkowski",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Philipp Zorn",
+        "country": "GER",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2351,
+    "contest_name": "2026 SCL World's Strongest Viking",
+    "details": "Turenki, Finland, 2026-08-22",
+    "reason": "Fewer than 5 competitors (13 listed)",
+    "total_competitors": 13,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Gianluca Ardenghi",
+        "country": "ESP",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Evans Nana Aryee",
+        "country": "GHA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Patrick Eibel",
+        "country": "GER",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Pálmi Gudfinnsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jesper Hansson",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kevin Hazeleger",
+        "country": "NED",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Brian Kichton",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Valtter Kortelainen",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tuomas Lindroos",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Adam Roszkowski",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Colten Sloan",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ervin Toots",
+        "country": "EST",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Mika Törrö",
+        "country": "FIN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2363,
+    "contest_name": "2014 Faroe Islands Strongest Man",
+    "details": "Faroe Islands, 2014-06-21",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Bjarni Nielsen",
+        "country": "FRO",
+        "score": 22.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Jákup Súni Berg",
+        "country": "FRO",
+        "score": 20.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Bogi Ólason Hammer",
+        "country": "FRO",
+        "score": 14.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Helgi Lamhauge",
+        "country": "FRO",
+        "score": 10.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2365,
+    "contest_name": "1995 Faroe Islands Strongest Man",
+    "details": "Faroe Islands, 1995",
+    "reason": "Fewer than 5 competitors (2 listed)",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Regin Vágadal",
+        "country": "FRO",
+        "score": 36.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Sámal Johannes Hansen",
+        "country": "FRO",
+        "score": 35.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2367,
+    "contest_name": "1996 Faroe Islands Strongest Man",
+    "details": "Faroe Islands, 1996",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Regin Vágadal",
+        "country": "FRO",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2379,
+    "contest_name": "2004 Strongman Cup",
+    "details": "Saratov, Russia, 2004-09-19",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tarmo Mitt",
+        "country": "EST",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Igor Pedan",
+        "country": "RUS",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Vyacheslav Maksyuta",
+        "country": "RUS",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Oleg Dudkin",
+        "country": "LAT",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2382,
+    "contest_name": "2005 Strongman Cup",
+    "details": "Gulbene, Latvia, 2005-02-27",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tomi Lotta",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Agris Kazeļņiks",
+        "country": "LAT",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Mareks Leitis",
+        "country": "LAT",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2384,
+    "contest_name": "2005 Livonian Cup",
+    "details": "Estonia, 2005-06-11",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Andrus Murumets",
+        "country": "EST",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Mareks Leitis",
+        "country": "LAT",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Meelis Pungits",
+        "country": "EST",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Ingus Kaktanieks",
+        "country": "LAT",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2395,
+    "contest_name": "2009 Marijampolė International",
+    "details": "Marijampolė, Lithuania, 2009-08-22",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Saulius Brusokas",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Vytautas Lalas",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2420,
+    "contest_name": "2004 Slovenia's Strongest Man",
+    "details": "Straža, Slovenia, 2004",
+    "reason": "Fewer than 5 competitors (2 listed)",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jožko Pirnat",
+        "country": "SLO",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Denis Udovič",
+        "country": "SLO",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2421,
+    "contest_name": "2022 Slovenia's Strongest Man",
+    "details": "Slovenia, 2022",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Matjaž Belšak",
+        "country": "SLO",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Peter Reinthaler",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Tadej Kovačič",
+        "country": "SLO",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Tim Drenovec",
+        "country": "SLO",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2422,
+    "contest_name": "1996 Slovenia's Strongest Man",
+    "details": "Koper, Slovenia, 1996",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Janez Blažič",
+        "country": "SLO",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2423,
+    "contest_name": "1997 Slovenia's Strongest Man",
+    "details": "Velenje, Slovenia, 1997",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Janez Blažič",
+        "country": "SLO",
+        "score": 43.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Igor Rakonič",
+        "country": "SLO",
+        "score": 38.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Denis Udovič",
+        "country": "SLO",
+        "score": 37.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Miro Hrastar",
+        "country": "SLO",
+        "score": 36.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2424,
+    "contest_name": "1998 Slovenia's Strongest Man",
+    "details": "Slovenia, 1998",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Janez Blažič",
+        "country": "SLO",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2425,
+    "contest_name": "1999 Slovenia's Strongest Man",
+    "details": "Šentjernej, Slovenia, 1999-08-28",
+    "reason": "Fewer than 5 competitors (2 listed)",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Denis Udovič",
+        "country": "SLO",
+        "score": 56.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Igor Mrak",
+        "country": "SLO",
+        "score": 55.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2426,
+    "contest_name": "2000 Slovenia's Strongest Man",
+    "details": "Šentjernej, Slovenia, 2000",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Denis Udovič",
+        "country": "SLO",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2429,
+    "contest_name": "2002 Slovenia's Strongest Man",
+    "details": "Slovenia, 2002",
+    "reason": "Fewer than 5 competitors (2 listed)",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Boris Milošević",
+        "country": "SLO",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Goran Petkovič",
+        "country": "SLO",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2430,
+    "contest_name": "2003 Slovenia's Strongest Man",
+    "details": "Velenje, Slovenia, 2003",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Martin Matjasić",
+        "country": "SLO",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2431,
+    "contest_name": "2005 Slovenia's Strongest Man",
+    "details": "Slovenia, 2005",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Gregor Stegnar",
+        "country": "SLO",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Oliver Gašparič",
+        "country": "SLO",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Denis Udovič",
+        "country": "SLO",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2434,
+    "contest_name": "2023 Strongman Eurocup",
+    "details": "Novi Kozarci, Serbia, 2023-07-22",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Nemanja Tasić",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Péter Juhász",
+        "country": "HUN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Patrik Uváček",
+        "country": "SVK",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2435,
+    "contest_name": "2022 Strongman Eurocup",
+    "details": "Novi Kozarci, Serbia, 2022-07-22 to 2022-07-23",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Sami Ahola",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Péter Juhász",
+        "country": "HUN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Kelvin de Ruiter",
+        "country": "NED",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2436,
+    "contest_name": "2020 Strongman Eurocup",
+    "details": "Novi Kozarci, Serbia, 2020-10-10",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Matjaž Belšak",
+        "country": "SLO",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Damir Stroil",
+        "country": "BIH",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Dragan Bogojević",
+        "country": "SRB",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2437,
+    "contest_name": "2021 Strongman Eurocup",
+    "details": "Novi Kozarci, Serbia, 2021-07-17",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Damir Stroil",
+        "country": "BIH",
+        "score": 32.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Józef Tomaszewski",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Maciej Krzykała",
+        "country": "POL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2438,
+    "contest_name": "2019 Strongman Eurocup",
+    "details": "Novi Kozarci, Serbia, 2019-07-20",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Matjaž Belšak",
+        "country": "SLO",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jaka Kržišnik",
+        "country": "SLO",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Ronald Knoll",
+        "country": "AUT",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2439,
+    "contest_name": "2018 Strongman Eurocup",
+    "details": "Novi Kozarci, Serbia, 2018-07-21",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Matjaž Belšak",
+        "country": "SLO",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Maroš Kubovič",
+        "country": "SVK",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Józef Tomaszewski",
+        "country": "POL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2440,
+    "contest_name": "2017 Strongman Eurocup",
+    "details": "Novi Kozarci, Serbia, 2017-07-22",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Gerald Gschiel",
+        "country": "AUT",
+        "score": 35.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Ronald Knoll",
+        "country": "AUT",
+        "score": 30.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Maroš Kubovič",
+        "country": "SVK",
+        "score": 28.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2442,
+    "contest_name": "2015 Strongman Eurocup",
+    "details": "Novi Kozarci, Serbia, 2015-07-11",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Nemanja Tasić",
+        "country": "AUT",
+        "score": 35.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Maroš Kubovič",
+        "country": "SVK",
+        "score": 32.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Józef Tomaszewski",
+        "country": "POL",
+        "score": 30.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Damir Stroil",
+        "country": "BIH",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2444,
+    "contest_name": "2013 Strongman Eurocup",
+    "details": "Novi Kozarci, Serbia, 2013-07-20",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Ervin Katona",
+        "country": "SRB",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Gerald Gschiel",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Ákos Nagy",
+        "country": "HUN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2445,
+    "contest_name": "2012 Strongman Eurocup",
+    "details": "Novi Kozarci, Serbia, 2012-07-14",
+    "reason": "Fewer than 5 competitors (2 listed)",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Ervin Katona",
+        "country": "SRB",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Matjaž Belšak",
+        "country": "SLO",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2447,
+    "contest_name": "2010 Strongman Eurocup",
+    "details": "Novi Kozarci, Serbia, 2010-07-24",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Ervin Katona",
+        "country": "SRB",
+        "score": 50.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Gábor Forgács",
+        "country": "HUN",
+        "score": 41.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Gregor Stegnar",
+        "country": "SLO",
+        "score": 36.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2459,
+    "contest_name": "2026 Summit of Strength (Men)",
+    "details": "Rotherham, England, 2026-09-26",
+    "reason": "Fewer than 5 competitors (9 listed)",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Anders Aslak",
+        "country": "DEN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Chris Beetham",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jamie Butler",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Andrew Flynn",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kane Francis",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ben Glasscock",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Paddy Haynes",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Pavlo Kordiyaka",
+        "country": "UKR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Paul Smith",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2460,
+    "contest_name": "2026 Summit of Strength (Women)",
+    "details": "Rotherham, England, 2026-09-26",
+    "reason": "Fewer than 5 competitors (10 listed)",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Nicola Bennett",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Angéline Berva",
+        "country": "FRA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Chloe Brennan",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Naomi Hadley",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Grace Hilbourne",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Donna Moore",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Gemma Moore",
+        "country": "IRL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Erin Murray",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Claire Myler",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Sam Taylor",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2471,
+    "contest_name": "2010 Denmark's Strongest Man",
+    "details": "Ringsted, Denmark, 2010-06-26",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Asbjørn Ettrup Christensen",
+        "country": "DEN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Claus Bjørklund",
+        "country": "DEN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Frank Jørgensen",
+        "country": "DEN",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Jonny Halberg",
+        "country": "DEN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2472,
+    "contest_name": "2009 Denmark's Strongest Man",
+    "details": "Bakken, Denmark, 2009-06-11",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Nicolai Hansen",
+        "country": "DEN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2502,
+    "contest_name": "1990 Strongest Man in the Northern Netherlands",
+    "details": "Oosterwolde, Netherlands, 1990-06-02",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Ted van der Parre",
+        "country": "NED",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Gerben Erfman",
+        "country": "NED",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Piet Baarssen",
+        "country": "NED",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2504,
+    "contest_name": "1988 Strongest Man in the Northern Netherlands",
+    "details": "Oosterwolde, Netherlands, 1988",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Nomco Bos",
+        "country": "NED",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2505,
+    "contest_name": "2023 South Africa's Strongest Man",
+    "details": "Rustenburg, South Africa, 2023-08-26 to 2023-08-27",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Rayno Nel",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Chris van der Linde",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Dean Shelley",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Terence Bosman",
+        "country": "RSA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2506,
+    "contest_name": "2024 South Africa's Strongest Man",
+    "details": "South Africa, 2024-11-16",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Rayno Nel",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jacque de Jager",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Jacques Boshoff",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Armand Goosen",
+        "country": "RSA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2507,
+    "contest_name": "2025 Western Cape's Strongest Man",
+    "details": "Mossel Bay, South Africa, 2025-04-12",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jaco Schoonwinkel",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Armand Goosen",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Kelin Mills",
+        "country": "RSA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2508,
+    "contest_name": "2022 Arnold Classic Africa",
+    "details": "South Africa, 2022-06-05",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jaco Schoonwinkel",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Terence Bosman",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Kelin Mills",
+        "country": "RSA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2509,
+    "contest_name": "2023 Arnold Africa Amateur",
+    "details": "Roodepoort, South Africa, 2023-05-20 to 2023-05-21",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Rayno Nel",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Stephen Wamalwa",
+        "country": "KEN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Matthew Everard",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Jacques Du Plessis",
+        "country": "RSA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2518,
+    "contest_name": "2022 South Africa's Strongest Man",
+    "details": "Vanderbijlpark, South Africa, 2022-08-06 to 2022-08-07",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jaco Schoonwinkel",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "David Bezuidenhout",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Robert Haman",
+        "country": "RSA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2522,
+    "contest_name": "1986 Strongest Man in Friesland",
+    "details": "Leeuwarden, Netherlands, 1986-11-15",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tjalling van den Bosch",
+        "country": "NED",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2527,
+    "contest_name": "1981 Strongest Man in Friesland",
+    "details": "Oosterwolde, Netherlands, 1981-08-15",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Wiebe Nijenhuis",
+        "country": "NED",
+        "score": 78.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Gerard Meijer",
+        "country": "NED",
+        "score": 60.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Hayo de Jong",
+        "country": "NED",
+        "score": 59.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Johannes de Wit",
+        "country": "NED",
+        "score": 59.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2529,
+    "contest_name": "1984 Strongest Man in Friesland",
+    "details": "Leeuwarden, Netherlands, 1984-11-10",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Wiebe Nijenhuis",
+        "country": "NED",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Ritske Kootstra",
+        "country": "NED",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Siebe Nijenhuis",
+        "country": "NED",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2536,
+    "contest_name": "1990 Shrewsbury Open",
+    "details": "Shrewsbury, England, 1990",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tjalling van den Bosch",
+        "country": "NED",
+        "score": 50.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Bill Kazmaier",
+        "country": "USA",
+        "score": 47.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Adrian Smith",
+        "country": "GBR",
+        "score": 43.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Jón Páll Sigmarsson",
+        "country": "ISL",
+        "score": 42.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2540,
+    "contest_name": "1992 Superman of Holland",
+    "details": "Castricum, Netherlands, 1992",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tjalling van den Bosch",
+        "country": "NED",
+        "score": 54.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Ted van der Parre",
+        "country": "NED",
+        "score": 49.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Paul Smeets",
+        "country": "NED",
+        "score": 42.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Arend Kuiper",
+        "country": "NED",
+        "score": 41.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2543,
+    "contest_name": "2025 Greece's Strongest Man",
+    "details": "Athens, Greece, 2025-11-29",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Giannis Spyrou",
+        "country": "GRE",
+        "score": 17.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Giorgos Kakouris",
+        "country": "GRE",
+        "score": 14.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Petros Koutroubis",
+        "country": "GRE",
+        "score": 13.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Giannis Karavelakis",
+        "country": "GRE",
+        "score": 6.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2561,
+    "contest_name": "2026 Strongman Mania",
+    "details": "Norrköping, Sweden, 2026-11-07 to 2026-11-08",
+    "reason": "Fewer than 5 competitors (6 listed)",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Evans Nana Aryee",
+        "country": "GHA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Adam Bishop",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ben Glasscock",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Cim Johansson",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Pavlo Kordiyaka",
+        "country": "UKR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2562,
+    "contest_name": "2024 Greece's Strongest Man",
+    "details": "Athens, Greece, 2024-05-10",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Giannis Spyrou",
+        "country": "GRE",
+        "score": 15.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Giorgos Kakouris",
+        "country": "GRE",
+        "score": 11.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Avi Esdras",
+        "country": "GRE",
+        "score": 10.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2568,
+    "contest_name": "2025 U64 New Zealand's Strongest Woman",
+    "details": "Auckland, New Zealand, 2025-09-27",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jessie Watt",
+        "country": "NZL",
+        "score": 5.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2570,
+    "contest_name": "2025 U73 New Zealand's Strongest Woman",
+    "details": "Auckland, New Zealand, 2025-09-27",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Timaru Nathan",
+        "country": "NZL",
+        "score": 14.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Sam Savage",
+        "country": "NZL",
+        "score": 10.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Kate Noyer",
+        "country": "NZL",
+        "score": 4.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2571,
+    "contest_name": "2025 U82 New Zealand's Strongest Woman",
+    "details": "Auckland, New Zealand, 2025-09-27",
+    "reason": "Fewer than 5 competitors (2 listed)",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Dayna Nathan",
+        "country": "NZL",
+        "score": 8.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Chloe Vickers-Williams",
+        "country": "NZL",
+        "score": 2.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2576,
+    "contest_name": "2022 Strongest Man in Serbia",
+    "details": "Bor, Serbia, 2022",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Vladimir Bulatović",
+        "country": "SRB",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Vladan Živkovič",
+        "country": "SRB",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Marko Vučić",
+        "country": "SRB",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Nemanja Čvorović",
+        "country": "SRB",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2578,
+    "contest_name": "2021 Strongest Man in Serbia",
+    "details": "Zaječar, Serbia, 2021-07-03",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Vladimir Bulatović",
+        "country": "SRB",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2579,
+    "contest_name": "2020 Strongest Man in Serbia",
+    "details": "Zaječar, Serbia, 2020",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Vladimir Bulatović",
+        "country": "SRB",
+        "score": 48.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2593,
+    "contest_name": "2026 SWAGLIFT DAY",
+    "details": "Liberec, Czech Republic, 2026-05-30",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Hafthór Júlíus Björnsson",
+        "country": "ISL",
+        "score": "7 reps, 882 lbs"
+      }
+    ]
+  },
+  {
+    "contest_id": 2630,
+    "contest_name": "2026 Open Cup Bor U110",
+    "details": "Bor, Serbia, 2026-06-12",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Dušan Jovanović",
+        "country": "SRB",
+        "score": 21.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Vlăduț Angheloiu",
+        "country": "ROU",
+        "score": 20.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Mihailo Madžarević",
+        "country": "SRB",
+        "score": 12.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Renato Repić",
+        "country": "SRB",
+        "score": 9.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2635,
+    "contest_name": "2026 Western Cape Log and Deadlift Challenge",
+    "details": "Mossel Bay, South Africa, 2026-06-13",
+    "reason": "Fewer than 5 competitors (2 listed)",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jaco Schoonwinkel",
+        "country": "RSA",
+        "score": "423 lbs"
+      },
+      {
+        "rank": "2",
+        "person_name": "Camden van Rensburg",
+        "country": "RSA",
+        "score": "254 lbs"
+      }
+    ]
+  },
+  {
+    "contest_id": 2638,
+    "contest_name": "2025 Open Cup Bor",
+    "details": "Bor, Serbia, 2025-06-15",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Robert Marian Topîrceanu",
+        "country": "ROU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Petar Ilić",
+        "country": "SRB",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Tihomir Traykov",
+        "country": "BUL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2645,
+    "contest_name": "2022 Polish Log Lift Championships",
+    "details": "Gdynia, Poland, 2022-09-10",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Oskar Ziółkowski",
+        "country": "POL",
+        "score": "413 lbs"
+      }
+    ]
+  },
+  {
+    "contest_id": 2646,
+    "contest_name": "2025 Polish Log Lift Championships",
+    "details": "Kosakowo, Poland, 2025-07-19",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Marek Czajkowski",
+        "country": "POL",
+        "score": "408 lbs"
+      }
+    ]
+  },
+  {
+    "contest_id": 2654,
+    "contest_name": "2026 Open Cup Svilajnac U110",
+    "details": "Svilajnac, Serbia, 2026-06-27",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Zoran Kopic",
+        "country": "SRB",
+        "score": 19.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Vlăduț Angheloiu",
+        "country": "ROU",
+        "score": 17.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Aleksandar Savić",
+        "country": "SRB",
+        "score": 17.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Renato Repić",
+        "country": "SRB",
+        "score": 9.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2661,
+    "contest_name": "2002 Ukraine vs Russia",
+    "details": "Kyiv, Ukraine, 2002-08-04",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Alexander Borichevsky",
+        "country": "RUS",
+        "score": 43.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Vasyl Virastyuk",
+        "country": "UKR",
+        "score": 42.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Kyrylo Chuprynin",
+        "country": "UKR",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2686,
+    "contest_name": "1994 Czechia's Strongest Man",
+    "details": "Jihlava, Czech Republic, 1994",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jaromír Němec",
+        "country": "CZE",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2730,
+    "contest_name": "2003 France's Strongest Man",
+    "details": "Morlaix, France, 2003-07-06",
+    "reason": "Fewer than 5 competitors (2 listed)",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Yannick Olivier",
+        "country": "FRA",
+        "score": 68.0
+      },
+      {
+        "rank": "1",
+        "person_name": "Didier Rolland",
+        "country": "FRA",
+        "score": 68.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2735,
+    "contest_name": "2026 U82 Rainier Classic Pro-Am (Women)",
+    "details": "Burien, Washington, 2026-07-11 to 2026-07-12",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Sarah Johnson",
+        "country": "USA",
+        "score": 17.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Rachel Lakey",
+        "country": "USA",
+        "score": 11.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Alison  Kolczynski",
+        "country": "USA",
+        "score": 8.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2736,
+    "contest_name": "2012 France's Strongest Man",
+    "details": "Boisset-et-Gaujac, France, 2012-09-15",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Cyril Boujuau",
+        "country": "FRA",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Morgan Aste",
+        "country": "FRA",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Aurélien Le Jeune",
+        "country": "FRA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2741,
+    "contest_name": "2013 France's Strongest Man",
+    "details": "Boisset-et-Gaujac, France, 2013-09-15",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Morgan Aste",
+        "country": "FRA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2742,
+    "contest_name": "2011 France's Strongest Man",
+    "details": "Faremoutiers, France, 2011-06-25",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Cyril Boujuau",
+        "country": "FRA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2743,
+    "contest_name": "2010 France's Strongest Man",
+    "details": "Paris, France, 2010-03-13",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Morgan Aste",
+        "country": "FRA",
+        "score": 61.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Didier Rolland",
+        "country": "FRA",
+        "score": 61.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Christophe Demal",
+        "country": "FRA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2754,
+    "contest_name": "2004 Radotínsky Strongman",
+    "details": "Praha, Czech Republic, 2004",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jan Bártl",
+        "country": "CZE",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jón Valgeir Williams",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Jiří Žaloudek",
+        "country": "CZE",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2755,
+    "contest_name": "2026 Belgium's Strongest Man",
+    "details": "Herentals, Belgium, 2026-09-20",
+    "reason": "Fewer than 5 competitors (8 listed)",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Arjan Boghaert",
+        "country": "BEL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Mike De Clerck",
+        "country": "BEL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Laurens Prontera",
+        "country": "BEL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Michael Simons",
+        "country": "BEL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kevin Tancré",
+        "country": "BEL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Castelijns Tjörven",
+        "country": "BEL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Stijn van Bogaert",
+        "country": "BEL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Glenn Van Dierendonck",
+        "country": "BEL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2760,
+    "contest_name": "1999 Lietuvos galiūnų čempionato",
+    "details": "Mažeikiai, Lithuania, 1999-10-19",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Antanas Abrutis",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Žydrūnas Savickas",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Remigijus Kačinskis",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2761,
+    "contest_name": "2000 Tarptautinis galiūnų turnyras",
+    "details": "Mažeikiai, Lithuania, 2000",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Antanas Abrutis",
+        "country": "LTU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jarosław Dymek",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Saulius Brusokas",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2786,
+    "contest_name": "2011 Akranes Power Challenge",
+    "details": "Akranes, Iceland, 2011",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Hafthór Júlíus Björnsson",
+        "country": "ISL",
+        "score": 8.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Ari Gunnarsson",
+        "country": "ISL",
+        "score": 5.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Ólafur Valur Gudjónsson",
+        "country": "ISL",
+        "score": 2.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2789,
+    "contest_name": "2012 Strongest Man in Iceland",
+    "details": "Grindavík, iceland, 2012",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Hafthór Júlíus Björnsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Ari Gunnarsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Páll Logason",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2793,
+    "contest_name": "2005 Suðurnesjatröllið",
+    "details": "Iceland, 2005-08-26 to 2005-08-28",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Boris Haraldsson",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2795,
+    "contest_name": "2011 Power Viking",
+    "details": "Hafnarfjörður, Iceland, 2011",
+    "reason": "Fewer than 5 competitors (1 listed)",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Skúli Ármannsson",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2796,
+    "contest_name": "2004 Uppsveitarvíkingurinn",
+    "details": "Iceland, 2004-08-06 to 2004-08-07",
+    "reason": "Fewer than 5 competitors (3 listed)",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Magnús Ver Magnússon",
+        "country": "ISL",
+        "score": 33.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Boris Haraldsson",
+        "country": "ISL",
+        "score": 23.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Audunn Jónsson",
+        "country": "ISL",
+        "score": 22.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2832,
+    "contest_name": "2026 Harlem European Strongman Cup",
+    "details": "Zakopane, Poland, 2026-08-09",
+    "reason": "Fewer than 5 competitors (4 listed)",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "score": 21.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Didzis Zariņš",
+        "country": "LAT",
+        "score": 15.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Jan Lacina",
+        "country": "CZE",
+        "score": 10.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Giorgi Rogava",
+        "country": "GEO",
+        "score": 5.0
+      }
+    ]
+  }
+]

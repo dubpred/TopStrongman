@@ -1,0 +1,90 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #080D08;
+    background-image: 
+      radial-gradient(at 0% 0%, rgba(105, 190, 40, 0.12) 0px, transparent 50%),
+      radial-gradient(at 100% 0%, rgba(227, 24, 55, 0.08) 0px, transparent 50%),
+      radial-gradient(at 50% 100%, rgba(210, 224, 0, 0.05) 0px, transparent 50%);
+    background-attachment: fixed;
+    color: #E2E8F0;
+    font-family: 'Inter', sans-serif;
+    padding-top: env(safe-area-inset-top);
+    padding-bottom: env(safe-area-inset-bottom);
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+  }
+}
+
+/* Mobile Touch Scroll Utilities */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.dew-gradient-text {
+  background: linear-gradient(135deg, #76BD23 0%, #D2E000 50%, #FFFFFF 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.dew-red-gradient-text {
+  background: linear-gradient(135deg, #FF4D6D 0%, #E31837 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.dew-glass-card {
+  background: rgba(18, 28, 18, 0.75);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(105, 190, 40, 0.2);
+  border-radius: 1rem;
+}
+
+.dew-glass-card:hover {
+  border-color: rgba(105, 190, 40, 0.5);
+  box-shadow: 0 0 20px rgba(105, 190, 40, 0.25);
+}
+
+.dew-podium-1 {
+  background: linear-gradient(180deg, rgba(105, 190, 40, 0.25) 0%, rgba(18, 28, 18, 0.9) 100%);
+  border: 2px solid #69BE28;
+  box-shadow: 0 0 35px rgba(105, 190, 40, 0.4);
+}
+
+.dew-podium-2 {
+  background: linear-gradient(180deg, rgba(210, 224, 0, 0.15) 0%, rgba(18, 28, 18, 0.9) 100%);
+  border: 2px solid #D2E000;
+  box-shadow: 0 0 25px rgba(210, 224, 0, 0.3);
+}
+
+.dew-podium-3 {
+  background: linear-gradient(180deg, rgba(227, 24, 55, 0.18) 0%, rgba(18, 28, 18, 0.9) 100%);
+  border: 2px solid #E31837;
+  box-shadow: 0 0 25px rgba(227, 24, 55, 0.3);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #080D08;
+}
+::-webkit-scrollbar-thumb {
+  background: #1F331F;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #69BE28;
+}
