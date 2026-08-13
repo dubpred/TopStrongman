@@ -238,19 +238,19 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
         ))}
       </div>
 
-      {/* Desktop/Tablet Table List View (Rogue Hard-Angled Table with white gap between athlete rows) */}
-      <div className="hidden sm:block overflow-hidden">
+      {/* Desktop/Tablet Table List View (Rogue Hard-Angled Table with sticky header) */}
+      <div className="hidden sm:block">
         <div className="overflow-x-auto">
           <table className="w-full text-left border-separate border-spacing-y-2">
-            <thead>
+            <thead className="sticky top-16 md:top-20 z-30">
               <tr className="bg-[#121212] text-xs font-mono text-zinc-400 uppercase tracking-widest">
-                <th className="py-3.5 px-6 text-center w-20 border-y-2 border-l-2 border-[#262626]">RANK</th>
-                <th className="py-3.5 px-6 border-y-2 border-[#262626]">ATHLETE</th>
-                <th className="py-3.5 px-6 text-center border-y-2 border-[#262626]">SHOWS</th>
-                <th className="py-3.5 px-6 text-center border-y-2 border-[#262626]">WINS</th>
-                <th className="py-3.5 px-6 text-center border-y-2 border-[#262626]">PODIUMS</th>
-                <th className="py-3.5 px-6 text-right border-y-2 border-[#262626]">TOTAL POINTS</th>
-                <th className="py-3.5 px-4 border-y-2 border-r-2 border-[#262626]"></th>
+                <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 text-center w-20 border-y-2 border-l-2 border-[#262626]">RANK</th>
+                <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 border-y-2 border-[#262626]">ATHLETE</th>
+                <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 text-center border-y-2 border-[#262626]">SHOWS</th>
+                <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 text-center border-y-2 border-[#262626]">WINS</th>
+                <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 text-center border-y-2 border-[#262626]">PODIUMS</th>
+                <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 text-right border-y-2 border-[#262626]">TOTAL POINTS</th>
+                <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-4 border-y-2 border-r-2 border-[#262626]"></th>
               </tr>
             </thead>
             <tbody className="text-sm">
