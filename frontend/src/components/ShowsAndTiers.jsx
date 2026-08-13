@@ -97,12 +97,12 @@ export default function ShowsAndTiers({ showsData }) {
         {tiers.map((t) => (
           <div key={t.tier} className="bg-[#131720] p-6 border border-[#1E2535] hover:border-amber-500/50 space-y-4 rounded-xl shadow-xl transition-all">
             <div className="flex items-center justify-between">
-              <span className={`px-3 py-1 rounded-md font-display text-base font-black ${
-                t.tier === 'TIER 1' ? 'bg-amber-500 text-black font-extrabold shadow-dew-glow' :
-                t.tier === 'TIER 2' ? 'bg-slate-200 text-slate-900 font-extrabold' :
-                t.tier === 'TIER 3' ? 'bg-amber-700 text-white font-extrabold' :
-                t.tier === 'TIER 4' ? 'bg-slate-600 text-white font-extrabold' :
-                'bg-slate-800 text-slate-300'
+              <span className={`px-3 py-1 rounded-md font-display text-base font-black border ${
+                t.tier === 'TIER 1' ? 'bg-amber-500/15 border-amber-500/50 text-amber-400 shadow-dew-glow' :
+                t.tier === 'TIER 2' ? 'bg-slate-800/80 border-slate-400/40 text-slate-200' :
+                t.tier === 'TIER 3' ? 'bg-amber-950/40 border-amber-600/40 text-amber-400' :
+                t.tier === 'TIER 4' ? 'bg-slate-900/80 border-slate-600/40 text-slate-400' :
+                'bg-slate-950 border-slate-700/30 text-slate-500'
               }`}>
                 {t.tier}
               </span>

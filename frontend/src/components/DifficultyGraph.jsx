@@ -65,9 +65,9 @@ export default function DifficultyGraph() {
   const getTierColor = (tier) => {
     switch (tier) {
       case 'TIER 1': return '#F59E0B'; // Championship Amber Gold
-      case 'TIER 2': return '#E2E8F0'; // Sterling Silver/Platinum
+      case 'TIER 2': return '#94A3B8'; // Platinum Steel Slate
       case 'TIER 3': return '#D97706'; // Bronze/Copper
-      case 'TIER 4': return '#64748B'; // Steel Slate
+      case 'TIER 4': return '#64748B'; // Deep Steel
       case 'TIER 5': return '#475569'; // Muted Charcoal
       default: return '#64748B';
     }
