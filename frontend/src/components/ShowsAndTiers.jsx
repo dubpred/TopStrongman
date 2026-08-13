@@ -88,7 +88,7 @@ export default function ShowsAndTiers({ showsData }) {
           COMPETITION <span className="dew-gradient-text">TIERS & MULTIPLIERS</span>
         </h1>
         <p className="text-gray-300 text-base max-w-3xl mt-2">
-          Every competition in the 2,000+ open-class show dataset is classified into 5 distinct tiers based on prestige, international lineup quality, and field depth.
+          Every competition in the 500+ open-class show dataset (filtered strictly over the last 5 years / 60 months) is classified into 5 distinct tiers based on prestige, international lineup quality, and field depth.
         </p>
       </div>
 
