@@ -197,114 +197,104 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
         )}
       </div>
 
-      {/* Main Rankings Data Section (Tight Margin) */}
-      <div className="-mt-1">
-        {/* Mobile Card List View (Visible on small screens) */}
-        <div className="block sm:hidden space-y-2">
+      {/* Mobile Card List View */}
+      <div className="block sm:hidden space-y-2">
+        {pagedRankings.map((item) => (
+          <div
+            key={item.competitor.id}
+            onClick={() => onSelectCompetitor(item)}
+            className="bg-[#121212] p-4 flex items-center justify-between gap-3 active:scale-[0.98] transition-transform cursor-pointer border-2 border-[#262626] hover:border-white rounded-none"
+          >
+            <div className="flex items-center space-x-3 min-w-0">
+              <span className={`font-display text-2xl font-black px-2 py-0.5 shrink-0 rounded-none ${
+                item.globalRank === 1 ? 'bg-white text-black' :
+                item.globalRank === 2 ? 'bg-zinc-300 text-black' :
+                item.globalRank === 3 ? 'bg-zinc-700 text-white' : 'text-zinc-500'
+              }`}>
+                #{item.globalRank}
+              </span>
+              <div className="min-w-0">
+                <div className="font-display font-black text-white text-xl tracking-wide truncate uppercase">
+                  {item.competitor.name}
+                </div>
+                <div className="text-xs font-mono text-zinc-400 flex items-center gap-1.5 mt-0.5">
+                  <span>{item.competitor.country}</span>
+                  <span>•</span>
+                  <span>{item.totalShows} SHOWS</span>
+                </div>
+              </div>
+            </div>
+
+            <div className="flex items-center space-x-2 shrink-0">
+              <div className="text-right">
+                <div className="font-display text-3xl font-black text-white">
+                  {item.totalPoints.toFixed(1)}
+                </div>
+                <div className="text-[9px] font-mono text-zinc-400 uppercase">PTS</div>
+              </div>
+              <ChevronRight className="w-4 h-4 text-zinc-400 shrink-0" />
+            </div>
+          </div>
+        ))}
+      </div>
+
+      {/* Desktop/Tablet View — Sticky column header div + spaced row divs */}
+      <div className="hidden sm:block">
+
+        {/* Sticky Column Header — outside overflow container so sticky works */}
+        <div className="sticky top-16 md:top-20 z-30 flex items-center bg-[#121212] border-2 border-[#262626] text-[11px] font-mono text-zinc-400 uppercase tracking-widest mb-2">
+          <div className="w-24 shrink-0 py-3 px-4 text-center">RANK</div>
+          <div className="flex-1 py-3 px-4">ATHLETE</div>
+          <div className="w-20 shrink-0 py-3 px-4 text-center">SHOWS</div>
+          <div className="w-20 shrink-0 py-3 px-4 text-center">WINS</div>
+          <div className="w-24 shrink-0 py-3 px-4 text-center">PODIUMS</div>
+          <div className="w-44 shrink-0 py-3 px-4 text-right">TOTAL POINTS</div>
+          <div className="w-10 shrink-0 py-3 px-2"></div>
+        </div>
+
+        {/* Data Rows */}
+        <div className="space-y-2">
           {pagedRankings.map((item) => (
             <div
               key={item.competitor.id}
               onClick={() => onSelectCompetitor(item)}
-              className="bg-[#121212] p-4 flex items-center justify-between gap-3 active:scale-[0.98] transition-transform cursor-pointer border-2 border-[#262626] hover:border-white rounded-none"
+              className="flex items-center bg-[#121212] border-2 border-[#262626] hover:border-white cursor-pointer group transition-colors"
             >
-              <div className="flex items-center space-x-3 min-w-0">
-                <span className={`font-display text-2xl font-black px-2 py-0.5 shrink-0 rounded-none ${
+              <div className="w-24 shrink-0 py-4 px-4 text-center">
+                <span className={`font-display text-2xl font-black px-2 py-0.5 rounded-none inline-block ${
                   item.globalRank === 1 ? 'bg-white text-black' :
                   item.globalRank === 2 ? 'bg-zinc-300 text-black' :
                   item.globalRank === 3 ? 'bg-zinc-700 text-white' : 'text-zinc-500'
                 }`}>
                   #{item.globalRank}
                 </span>
-                <div className="min-w-0">
-                  <div className="font-display font-black text-white text-xl tracking-wide truncate uppercase">
-                    {item.competitor.name}
-                  </div>
-                  <div className="text-xs font-mono text-zinc-400 flex items-center gap-1.5 mt-0.5">
-                    <span>{item.competitor.country}</span>
-                    <span>•</span>
-                    <span>{item.totalShows} SHOWS</span>
-                  </div>
-                </div>
               </div>
-
-              <div className="flex items-center space-x-2 shrink-0">
-                <div className="text-right">
-                  <div className="font-display text-3xl font-black text-white">
-                    {item.totalPoints.toFixed(1)}
-                  </div>
-                  <div className="text-[9px] font-mono text-zinc-400 uppercase">PTS</div>
+              <div className="flex-1 py-4 px-4 min-w-0">
+                <div className="font-display text-xl font-black text-white tracking-wider uppercase group-hover:text-zinc-200 truncate">
+                  {item.competitor.name}
                 </div>
-                <ChevronRight className="w-4 h-4 text-zinc-400 shrink-0" />
+                <div className="text-xs font-mono text-zinc-400 mt-0.5">{item.competitor.country}</div>
+              </div>
+              <div className="w-20 shrink-0 py-4 px-4 text-center font-mono font-bold text-zinc-300">
+                {item.totalShows}
+              </div>
+              <div className="w-20 shrink-0 py-4 px-4 text-center font-mono font-bold text-white">
+                {item.winsCount}
+              </div>
+              <div className="w-24 shrink-0 py-4 px-4 text-center font-mono font-bold text-zinc-300">
+                {item.podiumsCount}
+              </div>
+              <div className="w-44 shrink-0 py-4 px-4 text-right font-display text-3xl font-black text-white">
+                {item.totalPoints.toFixed(1)} <span className="text-xs font-mono text-zinc-400">PTS</span>
+              </div>
+              <div className="w-10 shrink-0 py-4 px-2 text-right">
+                <ChevronRight className="w-4 h-4 text-zinc-500 group-hover:text-white group-hover:translate-x-1 transition-all" />
               </div>
             </div>
           ))}
         </div>
 
-        {/* Desktop/Tablet Table List View (Rogue Hard-Angled Table with sticky header) */}
-        <div className="hidden sm:block">
-          <div className="overflow-x-auto">
-            <table className="w-full text-left border-separate border-spacing-y-2">
-              <thead className="sticky top-16 md:top-20 z-30">
-                <tr className="bg-[#121212] text-xs font-mono text-zinc-400 uppercase tracking-widest">
-                  <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 text-center w-20 border-y-2 border-l-2 border-[#262626]">RANK</th>
-                  <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 border-y-2 border-[#262626]">ATHLETE</th>
-                  <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 text-center border-y-2 border-[#262626]">SHOWS</th>
-                  <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 text-center border-y-2 border-[#262626]">WINS</th>
-                  <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 text-center border-y-2 border-[#262626]">PODIUMS</th>
-                  <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 text-right border-y-2 border-[#262626]">TOTAL POINTS</th>
-                  <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-4 border-y-2 border-r-2 border-[#262626]"></th>
-                </tr>
-              </thead>
-            <tbody className="text-sm">
-              {pagedRankings.map((item) => (
-                <tr
-                  key={item.competitor.id}
-                  onClick={() => onSelectCompetitor(item)}
-                  className="bg-[#121212] hover:bg-[#1A1A1A] transition-colors cursor-pointer group"
-                >
-                  <td className="py-3.5 px-6 text-center border-y-2 border-l-2 border-[#262626] group-hover:border-white transition-colors">
-                    <span className={`font-display text-2xl font-black px-2 py-0.5 rounded-none inline-block ${
-                      item.globalRank === 1 ? 'bg-white text-black' :
-                      item.globalRank === 2 ? 'bg-zinc-300 text-black' :
-                      item.globalRank === 3 ? 'bg-zinc-700 text-white' : 'text-zinc-500'
-                    }`}>
-                      #{item.globalRank}
-                    </span>
-                  </td>
-                  <td className="py-3.5 px-6 border-y-2 border-[#262626] group-hover:border-white transition-colors">
-                    <div className="flex items-center space-x-4">
-                      <div>
-                        <div className="font-display text-xl font-black text-white tracking-wider uppercase flex items-center space-x-2 group-hover:text-zinc-200">
-                          <span>{item.competitor.name}</span>
-                        </div>
-                        <div className="text-xs font-mono text-zinc-400 mt-0.5">
-                          {item.competitor.country}
-                        </div>
-                      </div>
-                    </div>
-                  </td>
-                  <td className="py-3.5 px-6 text-center font-mono font-bold text-zinc-300 border-y-2 border-[#262626] group-hover:border-white transition-colors">
-                    {item.totalShows}
-                  </td>
-                  <td className="py-3.5 px-6 text-center font-mono font-bold text-white border-y-2 border-[#262626] group-hover:border-white transition-colors">
-                    {item.winsCount}
-                  </td>
-                  <td className="py-3.5 px-6 text-center font-mono font-bold text-zinc-300 border-y-2 border-[#262626] group-hover:border-white transition-colors">
-                    {item.podiumsCount}
-                  </td>
-                  <td className="py-3.5 px-6 text-right font-display text-3xl font-black text-white border-y-2 border-[#262626] group-hover:border-white transition-colors">
-                    {item.totalPoints.toFixed(1)} <span className="text-xs font-mono text-zinc-400">PTS</span>
-                  </td>
-                  <td className="py-3.5 px-4 text-right border-y-2 border-r-2 border-[#262626] group-hover:border-white transition-colors">
-                    <ChevronRight className="w-4 h-4 text-zinc-500 group-hover:text-white group-hover:translate-x-1 transition-all" />
-                  </td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-        </div> {/* end hidden sm:block */}
-      </div> {/* end -mt-1 wrapper */}
+      </div>
 
       {/* Pagination */}
       {totalPages > 1 && (
