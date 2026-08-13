@@ -1,6 +1,8 @@
 name: Daily Automated Strongman Scraper & Firebase Deploy
 
 on:
+  push:
+    branches: [ main ]
   schedule:
     # Runs automatically every day at 00:00 UTC (7:00 PM EST)
     - cron: '0 0 * * *'
