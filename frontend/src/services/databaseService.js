@@ -85,9 +85,9 @@ const getRecencyMultiplier = (dateStr) => {
   const diffDays = diffTime / (1000 * 60 * 60 * 24);
   const diffMonths = diffDays / 30.436875;
 
-  if (diffMonths < 12) return 5.0;  // 100% full weight (current season)
-  if (diffMonths < 24) return 1.5;  // 30% weight (previous season)
-  if (diffMonths < 36) return 0.5;  // 10% weight (fading legacy)
+  if (diffMonths < 12) return 5.0;  // 100% weight (0-12 months)
+  if (diffMonths < 24) return 3.0;  // 60% weight (12-24 months)
+  if (diffMonths < 36) return 1.0;  // 20% weight (24-36 months)
   return 0.0;                       // Expired (>36 months)
 };
 

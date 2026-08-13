@@ -93,8 +93,8 @@ def get_recency_multiplier(details_str, contest_name):
     diff_months = diff_days / 30.436875
 
     if diff_months < 12: return 5.0
-    if diff_months < 24: return 1.5
-    if diff_months < 36: return 0.5
+    if diff_months < 24: return 3.0
+    if diff_months < 36: return 1.0
     return 0.0
 
 def get_exponential_base_points(rank):
