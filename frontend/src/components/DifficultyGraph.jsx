@@ -81,15 +81,15 @@ export default function DifficultyGraph() {
       {/* Title & Filter Controls Header */}
       <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b-2 border-[#262626] pb-5">
         <div>
-          <div className="inline-flex items-center space-x-2 px-3 py-1 bg-[#181818] border border-[#333] text-zinc-300 text-xs font-mono font-bold uppercase tracking-wider mb-2 rounded-none">
-            <TrendingUp className="w-3.5 h-3.5 text-white" />
+          <div className="inline-flex items-center space-x-2 px-3 py-1 bg-[#181818] border border-red-600/40 text-red-500 text-xs font-mono font-bold uppercase tracking-wider mb-2 rounded-none">
+            <TrendingUp className="w-3.5 h-3.5 text-red-500" />
             <span>NON-LINEAR POWER MODEL (p = 2.5) • {division === 'women' ? "WOMEN'S OPEN" : "MEN'S OPEN"}</span>
           </div>
           <h2 className="font-display text-3xl md:text-5xl font-black uppercase text-white tracking-wider">
-            {division === 'women' ? "WOMEN'S" : "MEN'S"} DIFFICULTY <span className="text-zinc-400">SCALING GRAPH</span>
+            {division === 'women' ? "WOMEN'S" : "MEN'S"} DIFFICULTY <span className="text-red-600">SCALING GRAPH</span>
           </h2>
           <p className="text-zinc-400 text-xs font-mono mt-1">
-            ALL {rawShows.length} {division === 'women' ? "WOMEN'S" : "MEN'S"} COMPETITIONS SCALED RELATIVE TO BENCHMARK ({topShowName} = 1000.0 PTS)
+            ALL {rawShows.length} {division === 'women' ? "WOMEN'S" : "MEN'S"} COMPETITIONS SCALED RELATIVE TO BENCHMARK ({topShowName} = <span className="text-red-500 font-bold">1000.0 PTS</span>)
           </p>
         </div>
 
@@ -101,7 +101,7 @@ export default function DifficultyGraph() {
               onClick={() => { setDivision('men'); setHoveredShow(null); }}
               className={`px-4 py-1.5 font-display text-base font-black uppercase tracking-wider transition-all rounded-none ${
                 division === 'men'
-                  ? 'bg-white text-black shadow-rogue-white border border-white'
+                  ? 'bg-red-600 text-white shadow-rogue-red border border-red-600'
                   : 'text-zinc-400 hover:text-white'
               }`}
             >
@@ -111,7 +111,7 @@ export default function DifficultyGraph() {
               onClick={() => { setDivision('women'); setHoveredShow(null); }}
               className={`px-4 py-1.5 font-display text-base font-black uppercase tracking-wider transition-all rounded-none ${
                 division === 'women'
-                  ? 'bg-white text-black shadow-rogue-white border border-white'
+                  ? 'bg-red-600 text-white shadow-rogue-red border border-red-600'
                   : 'text-zinc-400 hover:text-white'
               }`}
             >
@@ -146,7 +146,7 @@ export default function DifficultyGraph() {
           placeholder="FILTER COMPETITION ON GRAPH..."
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
-          className="w-full bg-[#181818] text-white font-mono text-xs rounded-none pl-10 pr-3 py-2.5 border-2 border-[#262626] focus:outline-none focus:border-white transition-all placeholder:text-zinc-500 uppercase font-bold"
+          className="w-full bg-[#181818] text-white font-mono text-xs rounded-none pl-10 pr-3 py-2.5 border-2 border-[#262626] focus:outline-none focus:border-red-500 transition-all placeholder:text-zinc-500 uppercase font-bold"
         />
       </div>
 
@@ -171,11 +171,11 @@ export default function DifficultyGraph() {
                 <text
                   x={PADDING_LEFT - 10}
                   y={y + 4}
-                  fill="#71717A"
+                  fill={val === 1000 ? '#DC2626' : '#71717A'}
                   fontSize="11"
                   fontFamily="monospace"
                   textAnchor="end"
-                  fontWeight="bold"
+                  fontWeight={val === 1000 ? 'bold' : 'normal'}
                 >
                   {val}
                 </text>
@@ -184,7 +184,7 @@ export default function DifficultyGraph() {
           })}
 
           {/* X-Axis Labels */}
-          <text x={PADDING_LEFT} y={SVG_HEIGHT - 20} fill="#FFFFFF" fontSize="11" fontFamily="monospace" fontWeight="bold">
+          <text x={PADDING_LEFT} y={SVG_HEIGHT - 20} fill="#DC2626" fontSize="11" fontFamily="monospace" fontWeight="bold">
             #1 HARDEST SHOW
           </text>
           <text x={SVG_WIDTH / 2} y={SVG_HEIGHT - 20} fill="#71717A" fontSize="11" fontFamily="monospace" textAnchor="middle">
@@ -194,13 +194,13 @@ export default function DifficultyGraph() {
             #{totalCount} SHOW
           </text>
 
-          {/* Theoretical Non-Linear Power Curve Line */}
+          {/* Theoretical Non-Linear Power Curve Line (Red Accent Line) */}
           <path
             d={curvePointsPath}
             fill="none"
-            stroke="#FFFFFF"
-            strokeWidth="2"
-            strokeOpacity="0.8"
+            stroke="#DC2626"
+            strokeWidth="2.5"
+            strokeOpacity="0.85"
             strokeDasharray="6 3"
           />
 
@@ -226,7 +226,7 @@ export default function DifficultyGraph() {
                     r={radius + 6}
                     fill={color}
                     fillOpacity="0.40"
-                    stroke="#FFFFFF"
+                    stroke="#DC2626"
                     strokeWidth="2"
                   />
                 )}
@@ -247,7 +247,7 @@ export default function DifficultyGraph() {
 
         {/* Floating Tooltip Card */}
         {hoveredShow && (
-          <div className="mt-4 bg-[#181818] border-2 border-white rounded-none p-4 flex flex-col sm:flex-row sm:items-center justify-between gap-3 shadow-2xl animate-in fade-in duration-100">
+          <div className="mt-4 bg-[#181818] border-2 border-red-600 rounded-none p-4 flex flex-col sm:flex-row sm:items-center justify-between gap-3 shadow-2xl animate-in fade-in duration-100">
             <div className="space-y-1">
               <div className="flex items-center space-x-2">
                 <span
@@ -255,7 +255,7 @@ export default function DifficultyGraph() {
                   style={{ backgroundColor: getTierColor(hoveredShow.tier) }}
                 ></span>
                 <span className="font-display text-2xl font-black text-white uppercase tracking-wider">{hoveredShow.name}</span>
-                <span className="text-xs font-mono px-2 py-0.5 bg-[#080808] text-white border border-[#333] rounded-none">
+                <span className="text-xs font-mono px-2 py-0.5 bg-[#080808] text-red-500 border border-red-900/40 rounded-none font-bold">
                   {hoveredShow.tier}
                 </span>
               </div>
@@ -265,7 +265,7 @@ export default function DifficultyGraph() {
             </div>
             <div className="text-right font-mono bg-[#080808] px-4 py-2 border-2 border-[#262626] rounded-none">
               <div className="text-[10px] text-zinc-400 uppercase font-bold">SHOW DIFFICULTY</div>
-              <div className="font-display text-3xl font-black text-white">
+              <div className="font-display text-3xl font-black text-red-500">
                 {hoveredShow.difficulty.toFixed(1)} <span className="text-xs font-normal text-zinc-400">/ 1000 PTS</span>
               </div>
             </div>
@@ -278,21 +278,21 @@ export default function DifficultyGraph() {
       <div className="space-y-3 pt-2">
         <div className="flex items-center justify-between text-xs font-mono text-zinc-300 font-bold uppercase tracking-wider">
           <span>TOP 5 HARDEST COMPETITIONS IN DATABASE</span>
-          <span className="text-white font-black">0 - 1000 PTS BENCHMARK</span>
+          <span className="text-red-500 font-black">0 - 1000 PTS BENCHMARK</span>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-5 gap-3 font-mono text-xs">
           {rawShows.slice(0, 5).map((show, idx) => (
             <div
               key={show.name}
               onClick={() => setHoveredShow(show)}
-              className="bg-[#181818] p-3 border-2 border-[#262626] cursor-pointer hover:border-white rounded-none shadow-md transition-all space-y-1"
+              className="bg-[#181818] p-3 border-2 border-[#262626] cursor-pointer hover:border-red-600 rounded-none shadow-md transition-all space-y-1"
             >
               <div className="flex items-center justify-between text-[10px] text-zinc-400 uppercase">
                 <span>#{idx + 1} HARDEST</span>
-                <span className="text-white font-black">{show.tier}</span>
+                <span className="text-red-500 font-black">{show.tier}</span>
               </div>
               <div className="font-display text-base font-black text-white truncate uppercase">{show.name}</div>
-              <div className="font-display text-3xl font-black text-white">
+              <div className="font-display text-3xl font-black text-red-500">
                 {show.difficulty.toFixed(1)} <span className="text-[10px] text-zinc-400 font-normal">PTS</span>
               </div>
             </div>
