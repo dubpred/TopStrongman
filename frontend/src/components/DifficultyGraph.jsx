@@ -217,10 +217,9 @@ export default function DifficultyGraph() {
             strokeDasharray="6 3"
           />
 
-          {/* Plotted Show Data Points (Sharp Flat Rogue Dots) */}
+          {/* Plotted Show Data Points (All Red with Crisp Black Outline) */}
           {filteredShows.map((show) => {
             const { x, y } = getCoordinates(show);
-            const color = getTierColor(show.tier);
             const isHovered = hoveredShow?.name === show.name;
             const radius = show.tier === 'TIER 1' ? 7 : show.tier === 'TIER 2' ? 6 : 5;
 
@@ -242,14 +241,14 @@ export default function DifficultyGraph() {
                     strokeWidth="2"
                   />
                 )}
-                {/* Main Data Dot */}
+                {/* Main Data Dot (Red with Black Outline) */}
                 <circle
                   cx={x}
                   cy={y}
                   r={radius}
-                  fill={color}
+                  fill="#DC2626"
                   stroke="#080808"
-                  strokeWidth="1.5"
+                  strokeWidth="2"
                 />
               </g>
             );
@@ -262,8 +261,7 @@ export default function DifficultyGraph() {
             <div className="space-y-1">
               <div className="flex items-center space-x-2">
                 <span
-                  className="w-3 h-3 inline-block rounded-none"
-                  style={{ backgroundColor: getTierColor(hoveredShow.tier) }}
+                  className="w-3 h-3 inline-block rounded-none border border-black bg-red-600"
                 ></span>
                 <span className="font-display text-2xl font-black text-white uppercase tracking-wider">{hoveredShow.name}</span>
                 <span className="text-xs font-mono px-2 py-0.5 bg-[#080808] text-white border border-[#333] rounded-none font-bold">
