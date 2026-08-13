@@ -241,14 +241,12 @@ export default function DifficultyGraph() {
                     strokeWidth="2"
                   />
                 )}
-                {/* Main Data Dot (Red with Black Outline) */}
+                {/* Main Data Dot (Solid Red - No Outline) */}
                 <circle
                   cx={x}
                   cy={y}
                   r={radius}
                   fill="#DC2626"
-                  stroke="#080808"
-                  strokeWidth="2"
                 />
               </g>
             );
@@ -261,7 +259,7 @@ export default function DifficultyGraph() {
             <div className="space-y-1">
               <div className="flex items-center space-x-2">
                 <span
-                  className="w-3 h-3 inline-block rounded-none border border-black bg-red-600"
+                  className="w-3 h-3 inline-block rounded-none bg-red-600"
                 ></span>
                 <span className="font-display text-2xl font-black text-white uppercase tracking-wider">{hoveredShow.name}</span>
                 <span className="text-xs font-mono px-2 py-0.5 bg-[#080808] text-white border border-[#333] rounded-none font-bold">
