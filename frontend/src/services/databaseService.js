@@ -40,11 +40,14 @@ const getTierInfo = (promotion, showName) => {
   }
 
   // TIER 1 — World Championship Level Finals (5.0x)
-  // ONLY "Arnold Strongman Classic" (Ohio main event) is Tier 1!
+  // Arnold Strongman / Strongwoman Classic (Ohio main event), WSM, WSW, SMOE, Rogue
   if (
     name.includes("world's strongest man") ||
+    name.includes("world's strongest woman") ||
     name.includes("arnold strongman classic") ||
+    name.includes("arnold strongwoman classic") ||
     name.includes("strongest man on earth") ||
+    name.includes("strongest woman on earth") ||
     (name.includes("shaw classic") && !name.includes("shaw classic open")) ||
     name.includes("rogue invitational")
   ) {
@@ -54,8 +57,8 @@ const getTierInfo = (promotion, showName) => {
   // TIER 2 — Major International & World Series / All other Arnold World Series shows & Giants Live (3.0x)
   if (
     name.includes("giants live") || name.includes("arnold") ||
-    name.includes("world tour finals") || name.includes("strongman classic") ||
-    name.includes("world open") || name.includes("strongman open") ||
+    name.includes("world tour finals") || name.includes("strongman classic") || name.includes("strongwoman classic") ||
+    name.includes("world open") || name.includes("strongman open") || name.includes("strongwoman open") ||
     promo === "giants live"
   ) {
     return { name: "TIER_2", multiplier: 3.0 };
