@@ -64,22 +64,22 @@ export default function DifficultyGraph() {
 
   const getTierColor = (tier) => {
     switch (tier) {
-      case 'TIER 1': return '#39FF14'; // Mountain Dew Green
-      case 'TIER 2': return '#FFD700'; // Dew Yellow
-      case 'TIER 3': return '#FF2A2A'; // Dew Red
-      case 'TIER 4': return '#3B82F6'; // Dew Blue
-      case 'TIER 5': return '#6B7280'; // Gray
-      default: return '#9CA3AF';
+      case 'TIER 1': return '#F59E0B'; // Gold
+      case 'TIER 2': return '#CBD5E1'; // Platinum / Silver
+      case 'TIER 3': return '#EF4444'; // Crimson Bronze
+      case 'TIER 4': return '#3B82F6'; // Blue
+      case 'TIER 5': return '#64748B'; // Slate Gray
+      default: return '#94A3B8';
     }
   };
 
   const topShowName = rawShows[0]?.name || 'Benchmark #1';
 
   return (
-    <div className="dew-glass-card p-6 md:p-8 rounded-3xl border border-dew-green/40 bg-gradient-to-br from-[#0D180D] via-[#142214] to-[#080D08] space-y-6 shadow-2xl">
+    <div className="dew-glass-card p-6 md:p-8 rounded-xl border border-white/10 bg-[#0E121B] space-y-6 shadow-xl">
       
       {/* Title & Filter Controls Header */}
-      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-dew-green/20 pb-5">
+      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-white/10 pb-5">
         <div>
           <div className="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-dew-green/10 border border-dew-green/30 text-dew-green text-xs font-mono font-bold uppercase tracking-wider mb-2">
             <TrendingUp className="w-3.5 h-3.5" />
@@ -96,10 +96,10 @@ export default function DifficultyGraph() {
         {/* Division Switcher & Tier Filter Tabs (Stacked vertically) */}
         <div className="flex flex-col items-start md:items-end gap-2.5">
           {/* Gender / Division Switcher */}
-          <div className="flex items-center space-x-1.5 bg-[#080D08] p-1.5 rounded-2xl border border-dew-green/30 shadow-inner font-mono text-xs">
+          <div className="flex items-center space-x-1.5 bg-[#0B0E14] p-1.5 rounded-lg border border-white/10 shadow-inner font-mono text-xs">
             <button
               onClick={() => { setDivision('men'); setHoveredShow(null); }}
-              className={`px-4 py-2 rounded-xl font-bold uppercase transition-all ${
+              className={`px-3.5 py-1.5 rounded-md font-bold uppercase transition-all ${
                 division === 'men'
                   ? 'bg-dew-green text-black font-extrabold shadow-dew-glow'
                   : 'text-gray-400 hover:text-white'
@@ -109,7 +109,7 @@ export default function DifficultyGraph() {
             </button>
             <button
               onClick={() => { setDivision('women'); setHoveredShow(null); }}
-              className={`px-4 py-2 rounded-xl font-bold uppercase transition-all ${
+              className={`px-3.5 py-1.5 rounded-md font-bold uppercase transition-all ${
                 division === 'women'
                   ? 'bg-dew-green text-black font-extrabold shadow-dew-glow'
                   : 'text-gray-400 hover:text-white'
@@ -125,10 +125,10 @@ export default function DifficultyGraph() {
               <button
                 key={t}
                 onClick={() => setSelectedTier(t)}
-                className={`px-2.5 py-1 rounded-xl font-bold transition-all border text-[11px] ${
+                className={`px-2.5 py-1 rounded-md font-bold transition-all border text-[11px] ${
                   selectedTier === t
                     ? 'bg-dew-green text-black border-dew-green font-extrabold shadow-dew-glow'
-                    : 'bg-[#080D08] text-gray-300 border-dew-green/20 hover:border-dew-green/50'
+                    : 'bg-[#0B0E14] text-gray-300 border-white/10 hover:border-dew-green/50'
                 }`}
               >
                 {t}
@@ -146,12 +146,12 @@ export default function DifficultyGraph() {
           placeholder="Filter show on graph (e.g. Rogue, WSM, Giants, ESM)..."
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
-          className="w-full bg-[#080D08] text-white font-mono text-xs rounded-xl pl-10 pr-3 py-2.5 border border-dew-green/30 focus:outline-none focus:border-dew-green transition-all"
+          className="w-full bg-[#0B0E14] text-white font-mono text-xs rounded-lg pl-10 pr-3 py-2.5 border border-white/10 focus:outline-none focus:border-dew-green transition-all"
         />
       </div>
 
       {/* SVG Interactive Scatter Plot Graph */}
-      <div className="relative bg-[#060A06] border border-dew-green/30 rounded-2xl p-4 overflow-x-auto shadow-inner">
+      <div className="relative bg-[#0B0E14] border border-white/10 rounded-lg p-4 overflow-x-auto shadow-inner">
         <svg viewBox={`0 0 ${SVG_WIDTH} ${SVG_HEIGHT}`} className="w-full h-auto select-none min-w-[700px]">
           
           {/* Y-Axis Grid Lines & Labels */}
@@ -164,14 +164,14 @@ export default function DifficultyGraph() {
                   y1={y}
                   x2={SVG_WIDTH - PADDING_RIGHT}
                   y2={y}
-                  stroke="#1D2B1D"
+                  stroke="#1E2638"
                   strokeDasharray="4 4"
                   strokeWidth="1"
                 />
                 <text
                   x={PADDING_LEFT - 10}
                   y={y + 4}
-                  fill="#6B7280"
+                  fill="#64748B"
                   fontSize="11"
                   fontFamily="monospace"
                   textAnchor="end"
@@ -184,13 +184,13 @@ export default function DifficultyGraph() {
           })}
 
           {/* X-Axis Labels */}
-          <text x={PADDING_LEFT} y={SVG_HEIGHT - 20} fill="#39FF14" fontSize="11" fontFamily="monospace" fontWeight="bold">
+          <text x={PADDING_LEFT} y={SVG_HEIGHT - 20} fill="#F59E0B" fontSize="11" fontFamily="monospace" fontWeight="bold">
             #1 HARDEST SHOW
           </text>
-          <text x={SVG_WIDTH / 2} y={SVG_HEIGHT - 20} fill="#9CA3AF" fontSize="11" fontFamily="monospace" textAnchor="middle">
+          <text x={SVG_WIDTH / 2} y={SVG_HEIGHT - 20} fill="#94A3B8" fontSize="11" fontFamily="monospace" textAnchor="middle">
             COMPETITIONS RANKED BY FIELD STRENGTH (1 TO {totalCount})
           </text>
-          <text x={SVG_WIDTH - PADDING_RIGHT} y={SVG_HEIGHT - 20} fill="#9CA3AF" fontSize="11" fontFamily="monospace" textAnchor="end">
+          <text x={SVG_WIDTH - PADDING_RIGHT} y={SVG_HEIGHT - 20} fill="#94A3B8" fontSize="11" fontFamily="monospace" textAnchor="end">
             #{totalCount} SHOW
           </text>
 
@@ -198,7 +198,7 @@ export default function DifficultyGraph() {
           <path
             d={curvePointsPath}
             fill="none"
-            stroke="#39FF14"
+            stroke="#F59E0B"
             strokeWidth="2"
             strokeOpacity="0.35"
             strokeDasharray="6 3"
@@ -236,7 +236,7 @@ export default function DifficultyGraph() {
                   cy={y}
                   r={radius}
                   fill={color}
-                  stroke="#000"
+                  stroke="#0B0E14"
                   strokeWidth="1.5"
                   className="transition-transform duration-150 hover:scale-150"
                 />
@@ -247,7 +247,7 @@ export default function DifficultyGraph() {
 
         {/* Floating Tooltip Card */}
         {hoveredShow && (
-          <div className="mt-4 bg-[#0A140A] border border-dew-green/60 rounded-2xl p-4 flex flex-col sm:flex-row sm:items-center justify-between gap-3 shadow-2xl animate-in fade-in duration-150">
+          <div className="mt-4 bg-[#121722] border border-dew-green/40 rounded-lg p-4 flex flex-col sm:flex-row sm:items-center justify-between gap-3 shadow-xl animate-in fade-in duration-150">
             <div className="space-y-1">
               <div className="flex items-center space-x-2">
                 <span
@@ -255,7 +255,7 @@ export default function DifficultyGraph() {
                   style={{ backgroundColor: getTierColor(hoveredShow.tier) }}
                 ></span>
                 <span className="font-display text-xl font-bold text-white uppercase">{hoveredShow.name}</span>
-                <span className="text-xs font-mono px-2 py-0.5 rounded bg-[#142214] text-dew-green border border-dew-green/30">
+                <span className="text-xs font-mono px-2 py-0.5 rounded bg-[#182030] text-dew-green border border-white/10">
                   {hoveredShow.tier}
                 </span>
               </div>
@@ -263,7 +263,7 @@ export default function DifficultyGraph() {
                 PROMOTION: <span className="text-gray-200">{hoveredShow.promotion}</span> • YEAR: <span className="text-gray-200">{hoveredShow.year}</span> • DATE: <span className="text-gray-200">{hoveredShow.date}</span>
               </p>
             </div>
-            <div className="text-right font-mono bg-[#080D08] px-4 py-2 rounded-xl border border-dew-green/30">
+            <div className="text-right font-mono bg-[#0B0E14] px-4 py-2 rounded-md border border-white/10">
               <div className="text-[10px] text-gray-400">SHOW DIFFICULTY</div>
               <div className="font-display text-3xl font-extrabold text-dew-green">
                 {hoveredShow.difficulty.toFixed(1)} <span className="text-xs font-normal text-gray-400">/ 1000 PTS</span>
@@ -285,7 +285,7 @@ export default function DifficultyGraph() {
             <div
               key={show.name}
               onClick={() => setHoveredShow(show)}
-              className="bg-[#080D08] p-3 rounded-2xl border border-dew-green/30 cursor-pointer hover:border-dew-green transition-all space-y-1"
+              className="bg-[#121722] p-3 rounded-lg border border-white/10 cursor-pointer hover:border-dew-green/60 transition-all space-y-1"
             >
               <div className="flex items-center justify-between text-[10px] text-gray-400">
                 <span>#{idx + 1} HARDEST</span>

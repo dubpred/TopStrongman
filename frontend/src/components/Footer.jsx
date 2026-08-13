@@ -3,7 +3,7 @@ import { Trophy } from 'lucide-react';
 
 export default function Footer() {
   return (
-    <footer className="mt-20 border-t border-dew-green/20 bg-[#060906] py-12">
+    <footer className="mt-20 border-t border-white/10 bg-[#080B10] py-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="flex items-center space-x-3">
@@ -16,7 +16,7 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="mt-8 pt-6 border-t border-dew-green/10 flex flex-col sm:flex-row justify-between items-center text-xs text-gray-500 font-mono gap-2">
+        <div className="mt-8 pt-6 border-t border-white/5 flex flex-col sm:flex-row justify-between items-center text-xs text-gray-500 font-mono gap-2">
           <p>© 2026 Top Strongman</p>
           <p>
             Made by Bryce Young{' '}

@@ -54,7 +54,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
     <div className="space-y-8">
       
       {/* Header Banner */}
-      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-dew-card border border-dew-green/30 rounded-3xl p-6 md:p-8 shadow-xl">
+      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-dew-card border border-white/10 rounded-xl p-6 md:p-8 shadow-xl">
         <div>
           <div className="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-dew-green/10 border border-dew-green/30 text-dew-green text-xs font-mono font-bold uppercase tracking-wider mb-2">
             <Award className="w-3.5 h-3.5" />
@@ -66,12 +66,12 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
         </div>
 
         {/* Division Switcher */}
-        <div className="flex items-center space-x-2 bg-[#080D08] p-1.5 rounded-2xl border border-dew-green/30 shadow-inner">
+        <div className="flex items-center space-x-1.5 bg-[#0B0E14] p-1.5 rounded-lg border border-white/10 shadow-inner">
           <button
             onClick={() => { setDivision('men'); setPage(1); }}
-            className={`px-5 py-2.5 rounded-xl font-display font-black text-xs uppercase tracking-wider transition-all flex items-center space-x-2 ${
+            className={`px-4 py-2 rounded-md font-display font-bold text-xs uppercase tracking-wider transition-all flex items-center space-x-2 ${
               division === 'men'
-                ? 'bg-dew-green text-black shadow-dew-glow'
+                ? 'bg-dew-green text-black font-extrabold shadow-dew-glow'
                 : 'text-gray-400 hover:text-white hover:bg-white/5'
             }`}
           >
@@ -79,9 +79,9 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
           </button>
           <button
             onClick={() => { setDivision('women'); setPage(1); }}
-            className={`px-5 py-2.5 rounded-xl font-display font-black text-xs uppercase tracking-wider transition-all flex items-center space-x-2 ${
+            className={`px-4 py-2 rounded-md font-display font-bold text-xs uppercase tracking-wider transition-all flex items-center space-x-2 ${
               division === 'women'
-                ? 'bg-dew-green text-black shadow-dew-glow'
+                ? 'bg-dew-green text-black font-extrabold shadow-dew-glow'
                 : 'text-gray-400 hover:text-white hover:bg-white/5'
             }`}
           >
@@ -102,17 +102,17 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
               placeholder="Search athlete..."
               value={searchTerm}
               onChange={(e) => { setSearchTerm(e.target.value); setPage(1); }}
-              className="w-full bg-dew-card text-white font-sans text-xs rounded-xl pl-10 pr-3 py-3 border border-dew-green/30 focus:outline-none focus:border-dew-green transition-all"
+              className="w-full bg-dew-card text-white font-sans text-xs rounded-lg pl-10 pr-3 py-2.5 border border-white/10 focus:outline-none focus:border-dew-green transition-all"
             />
           </div>
 
           {/* Advanced Options Button */}
           <button
             onClick={() => setShowAdvanced(!showAdvanced)}
-            className={`flex items-center justify-between px-4 py-3 rounded-xl font-mono text-xs font-bold transition-all border ${
+            className={`flex items-center justify-between px-4 py-2.5 rounded-lg font-mono text-xs font-bold transition-all border ${
               isAdvancedActive || showAdvanced
                 ? 'bg-dew-green text-black border-dew-green shadow-dew-glow font-extrabold'
-                : 'bg-dew-card text-dew-green border-dew-green/30 hover:bg-dew-green/10'
+                : 'bg-dew-card text-gray-300 border-white/10 hover:border-dew-green/40'
             }`}
           >
             <div className="flex items-center space-x-2">
@@ -131,8 +131,8 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
 
         {/* Collapsible Advanced Options Panel */}
         {showAdvanced && (
-          <div className="bg-[#0A120A] border border-dew-green/40 rounded-2xl p-5 space-y-4 animate-in fade-in slide-in-from-top-2 duration-200 shadow-2xl">
-            <div className="flex items-center justify-between border-b border-dew-green/20 pb-3">
+          <div className="bg-[#0E121B] border border-white/10 rounded-xl p-5 space-y-4 animate-in fade-in slide-in-from-top-2 duration-200 shadow-2xl">
+            <div className="flex items-center justify-between border-b border-white/10 pb-3">
               <div className="flex items-center space-x-2 text-dew-green font-mono text-xs font-bold uppercase">
                 <SlidersHorizontal className="w-4 h-4" />
                 <span>ADVANCED RANKING SCORING FILTERS</span>
@@ -140,7 +140,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
               {isAdvancedActive && (
                 <button
                   onClick={() => { setYearsLimit(5); setPlacementLimit('all'); setPage(1); }}
-                  className="flex items-center space-x-1.5 px-2.5 py-1 rounded-lg bg-dew-card border border-dew-red/40 text-dew-red text-[11px] font-mono font-bold hover:bg-dew-red hover:text-white transition-all"
+                  className="flex items-center space-x-1.5 px-2.5 py-1 rounded-md bg-dew-card border border-dew-red/40 text-dew-red text-[11px] font-mono font-bold hover:bg-dew-red hover:text-white transition-all"
                 >
                   <RotateCcw className="w-3 h-3" />
                   <span>RESET ADVANCED</span>
@@ -160,7 +160,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
                   <select
                     value={yearsLimit}
                     onChange={(e) => { setYearsLimit(Number(e.target.value)); setPage(1); }}
-                    className="w-full bg-dew-card text-dew-green font-mono text-xs font-bold rounded-xl px-3 py-2.5 border border-dew-green/30 focus:outline-none focus:border-dew-green transition-all appearance-none cursor-pointer"
+                    className="w-full bg-[#121722] text-dew-green font-mono text-xs font-bold rounded-lg px-3 py-2.5 border border-white/10 focus:outline-none focus:border-dew-green transition-all appearance-none cursor-pointer"
                   >
                     <option value={5}>5 Years (Full 60-Month Rolling History)</option>
                     <option value={4}>4 Years (Last 48 Months)</option>
@@ -182,7 +182,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
                   <select
                     value={placementLimit}
                     onChange={(e) => { setPlacementLimit(e.target.value); setPage(1); }}
-                    className="w-full bg-dew-card text-dew-yellow font-mono text-xs font-bold rounded-xl px-3 py-2.5 border border-dew-yellow/30 focus:outline-none focus:border-dew-yellow transition-all appearance-none cursor-pointer"
+                    className="w-full bg-[#121722] text-dew-yellow font-mono text-xs font-bold rounded-lg px-3 py-2.5 border border-white/10 focus:outline-none focus:border-dew-green transition-all appearance-none cursor-pointer"
                   >
                     <option value="all">All Placements (Accumulate All Shows)</option>
                     <option value="top5">Top 5 Placements (Only Best 5 Shows)</option>
@@ -198,14 +198,14 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
       </div>
 
       {/* Mobile Card List View (Visible on small screens: Pixel, iPhone) */}
-      <div className="block sm:hidden space-y-3">
+      <div className="block sm:hidden space-y-2.5">
         {pagedRankings.map((item) => (
           <div
             key={item.competitor.id}
             onClick={() => onSelectCompetitor(item)}
-            className="dew-glass-card p-4 flex items-center justify-between gap-3 active:scale-[0.98] transition-transform cursor-pointer border border-dew-green/30"
+            className="dew-glass-card p-3.5 flex items-center justify-between gap-3 active:scale-[0.98] transition-transform cursor-pointer border border-white/10 hover:border-dew-green/40"
           >
-            <div className="flex items-center space-x-3.5 min-w-0">
+            <div className="flex items-center space-x-3 min-w-0">
               <span className={`font-display text-2xl font-black shrink-0 ${
                 item.globalRank === 1 ? 'text-dew-green' :
                 item.globalRank === 2 ? 'text-dew-yellow' :
@@ -232,35 +232,35 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
                 </div>
                 <div className="text-[9px] font-mono text-gray-400 uppercase">PTS</div>
               </div>
-              <ChevronRight className="w-5 h-5 text-dew-green shrink-0" />
+              <ChevronRight className="w-4 h-4 text-gray-400 shrink-0" />
             </div>
           </div>
         ))}
       </div>
 
       {/* Desktop/Tablet Table List View (Visible on sm+ screens) */}
-      <div className="hidden sm:block dew-glass-card overflow-hidden">
+      <div className="hidden sm:block dew-glass-card overflow-hidden border border-white/10">
         <div className="overflow-x-auto">
           <table className="w-full text-left border-collapse">
             <thead>
-              <tr className="bg-[#080D08] border-b border-dew-green/20 text-xs font-mono text-gray-400 uppercase tracking-wider">
-                <th className="py-4 px-6 text-center w-16">RANK</th>
-                <th className="py-4 px-6">COMPETITOR</th>
-                <th className="py-4 px-6 text-center">SHOWS</th>
-                <th className="py-4 px-6 text-center">WINS</th>
-                <th className="py-4 px-6 text-center">PODIUMS</th>
-                <th className="py-4 px-6 text-right">TOTAL POINTS</th>
-                <th className="py-4 px-4"></th>
+              <tr className="bg-[#0E121B] border-b border-white/10 text-xs font-mono text-gray-400 uppercase tracking-wider">
+                <th className="py-3.5 px-6 text-center w-16">RANK</th>
+                <th className="py-3.5 px-6">COMPETITOR</th>
+                <th className="py-3.5 px-6 text-center">SHOWS</th>
+                <th className="py-3.5 px-6 text-center">WINS</th>
+                <th className="py-3.5 px-6 text-center">PODIUMS</th>
+                <th className="py-3.5 px-6 text-right">TOTAL POINTS</th>
+                <th className="py-3.5 px-4"></th>
               </tr>
             </thead>
-            <tbody className="divide-y divide-dew-green/10 text-sm">
+            <tbody className="divide-y divide-white/5 text-sm">
               {pagedRankings.map((item) => (
                 <tr
                   key={item.competitor.id}
                   onClick={() => onSelectCompetitor(item)}
-                  className="hover:bg-dew-card/80 transition-colors cursor-pointer group"
+                  className="hover:bg-white/5 transition-colors cursor-pointer group"
                 >
-                  <td className="py-4 px-6 text-center">
+                  <td className="py-3.5 px-6 text-center">
                     <span className={`font-display text-xl font-black ${
                       item.globalRank === 1 ? 'text-dew-green' :
                       item.globalRank === 2 ? 'text-dew-yellow' :
@@ -269,29 +269,29 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
                       #{item.globalRank}
                     </span>
                   </td>
-                  <td className="py-4 px-6">
+                  <td className="py-3.5 px-6">
                     <div className="flex items-center space-x-4">
                       <div>
-                        <div className="font-heading text-lg font-bold text-gray-100 flex items-center space-x-2">
+                        <div className="font-heading text-base font-bold text-gray-100 flex items-center space-x-2">
                           <span>{item.competitor.name}</span>
                         </div>
                       </div>
                     </div>
                   </td>
-                  <td className="py-4 px-6 text-center font-mono font-bold text-gray-300">
+                  <td className="py-3.5 px-6 text-center font-mono font-bold text-gray-300">
                     {item.totalShows}
                   </td>
-                  <td className="py-4 px-6 text-center font-mono font-bold text-dew-green">
+                  <td className="py-3.5 px-6 text-center font-mono font-bold text-dew-green">
                     {item.winsCount}
                   </td>
-                  <td className="py-4 px-6 text-center font-mono font-bold text-dew-yellow">
+                  <td className="py-3.5 px-6 text-center font-mono font-bold text-dew-yellow">
                     {item.podiumsCount}
                   </td>
-                  <td className="py-4 px-6 text-right font-display text-2xl font-black text-dew-green">
+                  <td className="py-3.5 px-6 text-right font-display text-2xl font-black text-dew-green">
                     {item.totalPoints.toFixed(1)} <span className="text-xs font-mono text-gray-400">PTS</span>
                   </td>
-                  <td className="py-4 px-4 text-right">
-                    <ChevronRight className="w-5 h-5 text-gray-500 group-hover:text-dew-green group-hover:translate-x-1 transition-all" />
+                  <td className="py-3.5 px-4 text-right">
+                    <ChevronRight className="w-4 h-4 text-gray-500 group-hover:text-dew-green group-hover:translate-x-0.5 transition-all" />
                   </td>
                 </tr>
               ))}
@@ -302,28 +302,28 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
 
       {/* Pagination */}
       {totalPages > 1 && (
-        <div className="flex items-center justify-between px-2">
+        <div className="flex items-center justify-between px-2 pt-2">
           <button
             onClick={() => setPage(p => Math.max(1, p - 1))}
             disabled={safePage === 1}
-            className="flex items-center space-x-2 px-4 py-2 rounded-xl bg-dew-card border border-dew-green/30 text-dew-green font-mono text-sm font-bold disabled:opacity-30 hover:bg-dew-green hover:text-black transition-all"
+            className="flex items-center space-x-2 px-3.5 py-1.5 rounded-lg bg-dew-card border border-white/10 text-gray-300 font-mono text-xs font-bold disabled:opacity-30 hover:border-dew-green hover:text-white transition-all"
           >
-            <ChevronLeft className="w-4 h-4" />
+            <ChevronLeft className="w-3.5 h-3.5" />
             <span>PREV</span>
           </button>
 
-          <div className="font-mono text-sm text-gray-400">
+          <div className="font-mono text-xs text-gray-400">
             Page <span className="text-dew-green font-bold">{safePage}</span> of <span className="text-white font-bold">{totalPages}</span>
-            <span className="ml-3 text-gray-600">({filteredRankings.length} athletes)</span>
+            <span className="ml-3 text-gray-500">({filteredRankings.length} athletes)</span>
           </div>
 
           <button
             onClick={() => setPage(p => Math.min(totalPages, p + 1))}
             disabled={safePage === totalPages}
-            className="flex items-center space-x-2 px-4 py-2 rounded-xl bg-dew-card border border-dew-green/30 text-dew-green font-mono text-sm font-bold disabled:opacity-30 hover:bg-dew-green hover:text-black transition-all"
+            className="flex items-center space-x-2 px-3.5 py-1.5 rounded-lg bg-dew-card border border-white/10 text-gray-300 font-mono text-xs font-bold disabled:opacity-30 hover:border-dew-green hover:text-white transition-all"
           >
             <span>NEXT</span>
-            <ChevronRight className="w-4 h-4" />
+            <ChevronRight className="w-3.5 h-3.5" />
           </button>
         </div>
       )}

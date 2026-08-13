@@ -20,7 +20,7 @@ export default function RankingSimulator({ formula, setFormula }) {
     <div className="space-y-10">
       
       {/* Header Banner */}
-      <div className="bg-dew-card border border-dew-green/30 rounded-3xl p-8 shadow-xl">
+      <div className="bg-dew-card border border-white/10 rounded-xl p-6 md:p-8 shadow-xl">
         <div className="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-dew-green/10 border border-dew-green/30 text-dew-green text-xs font-mono font-bold uppercase tracking-wider mb-3">
           <Calculator className="w-3.5 h-3.5" />
           <span>MATHEMATICAL CURVE ANALYSIS</span>
@@ -34,7 +34,7 @@ export default function RankingSimulator({ formula, setFormula }) {
       </div>
 
       {/* Recommended Standard Math Explanation */}
-      <div className="dew-glass-card p-6 md:p-8 rounded-3xl border border-dew-green/40 bg-gradient-to-br from-[#122112] to-[#0A120A] space-y-4">
+      <div className="dew-glass-card p-6 md:p-8 rounded-xl border border-white/10 bg-[#0E121B] space-y-4">
         <div className="flex items-center space-x-3 text-dew-green">
           <CheckCircle2 className="w-7 h-7" />
           <h2 className="font-display text-3xl font-bold uppercase text-white">
@@ -48,8 +48,8 @@ export default function RankingSimulator({ formula, setFormula }) {
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-2">
             
-            <div className={`p-4 rounded-2xl border transition-all cursor-pointer ${
-              formula === 'INVERSE' ? 'bg-dew-green/10 border-dew-green shadow-dew-glow' : 'bg-[#080D08] border-dew-green/20'
+            <div className={`p-4 rounded-lg border transition-all cursor-pointer ${
+              formula === 'INVERSE' ? 'bg-dew-green/10 border-dew-green shadow-dew-glow' : 'bg-[#121722] border-white/10'
             }`} onClick={() => setFormula('INVERSE')}>
               <div className="text-dew-green font-display text-xl font-bold uppercase">1. INVERSE CURVE (y = 100/x)</div>
               <p className="text-xs text-gray-400 font-mono mt-1">
@@ -57,8 +57,8 @@ export default function RankingSimulator({ formula, setFormula }) {
               </p>
             </div>
 
-            <div className={`p-4 rounded-2xl border transition-all cursor-pointer ${
-              formula === 'EXPONENTIAL' ? 'bg-dew-yellow/10 border-dew-yellow shadow-yellow-glow' : 'bg-[#080D08] border-dew-yellow/20'
+            <div className={`p-4 rounded-lg border transition-all cursor-pointer ${
+              formula === 'EXPONENTIAL' ? 'bg-dew-yellow/10 border-dew-yellow shadow-yellow-glow' : 'bg-[#121722] border-white/10'
             }`} onClick={() => setFormula('EXPONENTIAL')}>
               <div className="text-dew-yellow font-display text-xl font-bold uppercase">2. EXPONENTIAL DECAY</div>
               <p className="text-xs text-gray-400 font-mono mt-1">
@@ -66,8 +66,8 @@ export default function RankingSimulator({ formula, setFormula }) {
               </p>
             </div>
 
-            <div className={`p-4 rounded-2xl border transition-all cursor-pointer ${
-              formula === 'STANDARD_POINTS' ? 'bg-dew-red/10 border-dew-red shadow-red-glow' : 'bg-[#080D08] border-dew-red/20'
+            <div className={`p-4 rounded-lg border transition-all cursor-pointer ${
+              formula === 'STANDARD_POINTS' ? 'bg-dew-red/10 border-dew-red shadow-red-glow' : 'bg-[#121722] border-white/10'
             }`} onClick={() => setFormula('STANDARD_POINTS')}>
               <div className="text-dew-red font-display text-xl font-bold uppercase">3. STANDARD PODIUM TABLE</div>
               <p className="text-xs text-gray-400 font-mono mt-1">
@@ -80,7 +80,7 @@ export default function RankingSimulator({ formula, setFormula }) {
       </div>
 
       {/* Point Distribution Table Comparison */}
-      <div className="dew-glass-card p-6 md:p-8 rounded-3xl space-y-6">
+      <div className="dew-glass-card p-6 md:p-8 rounded-xl border border-white/10 space-y-6">
         <h3 className="font-display text-2xl font-bold uppercase text-white flex items-center gap-2">
           <TrendingDown className="w-6 h-6 text-dew-green" />
           <span>POINTS FINISHING TABLE (1ST - 10TH PLACE)</span>
@@ -89,16 +89,16 @@ export default function RankingSimulator({ formula, setFormula }) {
         <div className="overflow-x-auto">
           <table className="w-full text-center text-xs font-mono">
             <thead>
-              <tr className="bg-[#080D08] text-gray-400 border-b border-dew-green/20">
+              <tr className="bg-[#0B0E14] text-gray-400 border-b border-white/10">
                 <th className="py-3 px-4 text-left">PLACEMENT RANK</th>
                 <th className="py-3 px-4 text-dew-green font-bold">INVERSE (y = 100/x)</th>
                 <th className="py-3 px-4 text-dew-yellow font-bold">EXPONENTIAL DECAY</th>
                 <th className="py-3 px-4 text-dew-red font-bold">STANDARD PODIUM TABLE</th>
               </tr>
             </thead>
-            <tbody className="divide-y divide-dew-green/10">
+            <tbody className="divide-y divide-white/5">
               {ranks.map((r) => (
-                <tr key={r} className="hover:bg-dew-card/60">
+                <tr key={r} className="hover:bg-white/5">
                   <td className="py-3 px-4 text-left font-bold text-white">
                     Place #{r} {r === 1 ? '🥇' : r === 2 ? '🥈' : r === 3 ? '🥉' : ''}
                   </td>

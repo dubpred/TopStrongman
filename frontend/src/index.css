@@ -4,11 +4,11 @@
 
 @layer base {
   body {
-    background-color: #080D08;
+    background-color: #0B0E14;
     background-image: 
-      radial-gradient(at 0% 0%, rgba(105, 190, 40, 0.12) 0px, transparent 50%),
-      radial-gradient(at 100% 0%, rgba(227, 24, 55, 0.08) 0px, transparent 50%),
-      radial-gradient(at 50% 100%, rgba(210, 224, 0, 0.05) 0px, transparent 50%);
+      radial-gradient(at 0% 0%, rgba(245, 158, 11, 0.05) 0px, transparent 50%),
+      radial-gradient(at 100% 0%, rgba(59, 130, 246, 0.04) 0px, transparent 50%),
+      radial-gradient(at 50% 100%, rgba(255, 255, 255, 0.02) 0px, transparent 50%);
     background-attachment: fixed;
     color: #E2E8F0;
     font-family: 'Inter', sans-serif;
@@ -31,46 +31,46 @@
 }
 
 .dew-gradient-text {
-  background: linear-gradient(135deg, #76BD23 0%, #D2E000 50%, #FFFFFF 100%);
+  background: linear-gradient(135deg, #F59E0B 0%, #FBBF24 50%, #FFFFFF 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .dew-red-gradient-text {
-  background: linear-gradient(135deg, #FF4D6D 0%, #E31837 100%);
+  background: linear-gradient(135deg, #F87171 0%, #EF4444 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .dew-glass-card {
-  background: rgba(18, 28, 18, 0.75);
+  background: rgba(18, 23, 34, 0.85);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
-  border: 1px solid rgba(105, 190, 40, 0.2);
-  border-radius: 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 0.75rem;
 }
 
 .dew-glass-card:hover {
-  border-color: rgba(105, 190, 40, 0.5);
-  box-shadow: 0 0 20px rgba(105, 190, 40, 0.25);
+  border-color: rgba(245, 158, 11, 0.35);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
 }
 
 .dew-podium-1 {
-  background: linear-gradient(180deg, rgba(105, 190, 40, 0.25) 0%, rgba(18, 28, 18, 0.9) 100%);
-  border: 2px solid #69BE28;
-  box-shadow: 0 0 35px rgba(105, 190, 40, 0.4);
+  background: linear-gradient(180deg, rgba(245, 158, 11, 0.15) 0%, rgba(18, 23, 34, 0.95) 100%);
+  border: 1px solid rgba(245, 158, 11, 0.5);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
 }
 
 .dew-podium-2 {
-  background: linear-gradient(180deg, rgba(210, 224, 0, 0.15) 0%, rgba(18, 28, 18, 0.9) 100%);
-  border: 2px solid #D2E000;
-  box-shadow: 0 0 25px rgba(210, 224, 0, 0.3);
+  background: linear-gradient(180deg, rgba(203, 213, 225, 0.12) 0%, rgba(18, 23, 34, 0.95) 100%);
+  border: 1px solid rgba(203, 213, 225, 0.4);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
 }
 
 .dew-podium-3 {
-  background: linear-gradient(180deg, rgba(227, 24, 55, 0.18) 0%, rgba(18, 28, 18, 0.9) 100%);
-  border: 2px solid #E31837;
-  box-shadow: 0 0 25px rgba(227, 24, 55, 0.3);
+  background: linear-gradient(180deg, rgba(239, 68, 68, 0.12) 0%, rgba(18, 23, 34, 0.95) 100%);
+  border: 1px solid rgba(239, 68, 68, 0.4);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
 }
 
 /* Custom Scrollbar */
@@ -79,12 +79,12 @@
   height: 8px;
 }
 ::-webkit-scrollbar-track {
-  background: #080D08;
+  background: #0B0E14;
 }
 ::-webkit-scrollbar-thumb {
-  background: #1F331F;
+  background: #1C2436;
   border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #69BE28;
+  background: #F59E0B;
 }
