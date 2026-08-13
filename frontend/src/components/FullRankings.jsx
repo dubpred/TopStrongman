@@ -92,7 +92,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
 
       {/* Primary Filter Bar */}
       <div className="space-y-4">
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 items-center">
           
           {/* Search */}
           <div className="relative col-span-1 sm:col-span-2">
@@ -102,14 +102,14 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
               placeholder="SEARCH ATHLETE BY NAME..."
               value={searchTerm}
               onChange={(e) => { setSearchTerm(e.target.value); setPage(1); }}
-              className="w-full bg-[#121212] text-white font-mono text-xs rounded-none pl-10 pr-3 py-3 border-2 border-[#262626] focus:outline-none focus:border-white transition-all placeholder:text-zinc-500 uppercase font-bold"
+              className="w-full h-[52px] bg-[#121212] text-white font-mono text-xs rounded-none pl-10 pr-3 border-2 border-[#262626] focus:outline-none focus:border-white transition-all placeholder:text-zinc-500 uppercase font-bold"
             />
           </div>
 
           {/* Advanced Options Button */}
           <button
             onClick={() => setShowAdvanced(!showAdvanced)}
-            className={`flex items-center justify-between px-4 py-3 font-display text-base font-bold tracking-wider transition-all rounded-none uppercase border-2 ${
+            className={`w-full h-[52px] flex items-center justify-between px-4 font-display text-base font-bold tracking-wider transition-all rounded-none uppercase border-2 ${
               isAdvancedActive || showAdvanced
                 ? 'bg-white text-black border-white font-black'
                 : 'bg-[#121212] text-zinc-300 border-[#262626] hover:border-zinc-400'
