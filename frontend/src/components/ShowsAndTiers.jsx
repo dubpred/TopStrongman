@@ -79,7 +79,7 @@ export default function ShowsAndTiers({ showsData }) {
     <div className="space-y-10">
       
       {/* Header Banner */}
-      <div className="bg-[#12161F] border border-[#252E3E] rounded-xl p-6 md:p-8 shadow-2xl">
+      <div className="bg-[#111827] border border-[#1E293B] rounded-xl p-6 md:p-8 shadow-2xl">
         <div className="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-dew-green/10 border border-dew-green/30 text-dew-green text-xs font-mono font-bold uppercase tracking-wider mb-3">
           <Layers className="w-3.5 h-3.5" />
           <span>SHOW TIER SYSTEM</span>
@@ -95,18 +95,18 @@ export default function ShowsAndTiers({ showsData }) {
       {/* Tiers Grid */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
         {tiers.map((t) => (
-          <div key={t.tier} className="bg-[#12161F] p-6 border border-[#252E3E] hover:border-dew-green/50 space-y-4 rounded-xl shadow-xl transition-all">
+          <div key={t.tier} className="bg-[#111827] p-6 border border-[#1E293B] hover:border-dew-green/50 space-y-4 rounded-xl shadow-xl transition-all">
             <div className="flex items-center justify-between">
               <span className={`px-3 py-1 rounded-md font-display text-base font-black ${
                 t.tier === 'TIER 1' ? 'bg-dew-green text-black font-extrabold shadow-dew-glow' :
-                t.tier === 'TIER 2' ? 'bg-[#34D399] text-black font-extrabold' :
+                t.tier === 'TIER 2' ? 'bg-[#3B82F6] text-white font-extrabold shadow-blue-glow' :
                 t.tier === 'TIER 3' ? 'bg-[#EF4444] text-white font-extrabold' :
-                t.tier === 'TIER 4' ? 'bg-[#3B82F6] text-white font-extrabold' :
+                t.tier === 'TIER 4' ? 'bg-[#06B6D4] text-black font-extrabold' :
                 'bg-gray-700 text-gray-200'
               }`}>
                 {t.tier}
               </span>
-              <span className="font-mono text-xs font-bold uppercase px-2.5 py-1 bg-[#090B0E] text-dew-green rounded-md border border-[#252E3E]">
+              <span className="font-mono text-xs font-bold uppercase px-2.5 py-1 bg-[#0A0E17] text-dew-green rounded-md border border-[#1E293B]">
                 {t.multiplier}
               </span>
             </div>
@@ -120,7 +120,7 @@ export default function ShowsAndTiers({ showsData }) {
               </p>
             </div>
 
-            <div className="pt-3 border-t border-[#252E3E] space-y-2">
+            <div className="pt-3 border-t border-[#1E293B] space-y-2">
               <div className="text-xs font-mono text-gray-300 font-bold">QUALIFYING EVENTS:</div>
               <ul className="space-y-1.5 font-mono text-xs text-gray-300">
                 {t.shows.map((s, idx) => (
@@ -139,7 +139,7 @@ export default function ShowsAndTiers({ showsData }) {
       <DifficultyGraph />
 
       {/* Math & Dynamic Difficulty Formula Section */}
-      <div className="bg-[#12161F] p-6 md:p-8 rounded-xl border border-[#252E3E] space-y-6 shadow-2xl">
+      <div className="bg-[#111827] p-6 md:p-8 rounded-xl border border-[#1E293B] space-y-6 shadow-2xl">
         <div className="flex items-center space-x-3 text-dew-green">
           <Trophy className="w-7 h-7 text-dew-green" />
           <div>
@@ -160,7 +160,7 @@ export default function ShowsAndTiers({ showsData }) {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-5 pt-2">
           
           {/* Step 1 */}
-          <div className="bg-[#181E2B] rounded-lg p-5 border border-[#252E3E] space-y-2">
+          <div className="bg-[#162036] rounded-lg p-5 border border-[#1E293B] space-y-2">
             <div className="flex items-center justify-between">
               <span className="text-xs font-mono text-dew-green font-bold uppercase">STEP 1 • PURE RANKINGS</span>
               <span className="text-xs font-mono text-gray-400">P_pure</span>
@@ -169,28 +169,28 @@ export default function ShowsAndTiers({ showsData }) {
             <p className="text-xs text-gray-400 font-mono">
               Every competitor is first assigned a baseline "Pure Rank" score based on raw exponential placement decay, show tier, and recency multiplier:
             </p>
-            <div className="bg-[#090B0E] p-3 rounded-md border border-[#252E3E] font-mono text-xs text-dew-green text-center font-bold shadow-inner">
+            <div className="bg-[#0A0E17] p-3 rounded-md border border-[#1E293B] font-mono text-xs text-dew-green text-center font-bold shadow-inner">
               P_pure = 100 • e^(-0.25 • (Rank - 1)) • Tier_Mult • Recency_Mult
             </div>
           </div>
 
           {/* Step 2 */}
-          <div className="bg-[#181E2B] rounded-lg p-5 border border-[#252E3E] space-y-2">
+          <div className="bg-[#162036] rounded-lg p-5 border border-[#1E293B] space-y-2">
             <div className="flex items-center justify-between">
-              <span className="text-xs font-mono text-[#34D399] font-bold uppercase">STEP 2 • RAW FIELD STRENGTH</span>
+              <span className="text-xs font-mono text-[#60A5FA] font-bold uppercase">STEP 2 • RAW FIELD STRENGTH</span>
               <span className="text-xs font-mono text-gray-400">D_raw</span>
             </div>
             <h4 className="font-display text-lg font-bold text-white uppercase">Top 5 Placements Sum</h4>
             <p className="text-xs text-gray-400 font-mono">
               For each competition, we sum the Pure Ranking points of the top 5 finishing competitors to measure lineup depth:
             </p>
-            <div className="bg-[#090B0E] p-3 rounded-md border border-[#252E3E] font-mono text-xs text-[#34D399] text-center font-bold shadow-inner">
+            <div className="bg-[#0A0E17] p-3 rounded-md border border-[#1E293B] font-mono text-xs text-[#60A5FA] text-center font-bold shadow-inner">
               D_raw(Show) = Σ (P_pure of Top 5 Competitors)
             </div>
           </div>
 
           {/* Step 3 */}
-          <div className="bg-[#181E2B] rounded-lg p-5 border border-[#252E3E] space-y-2">
+          <div className="bg-[#162036] rounded-lg p-5 border border-[#1E293B] space-y-2">
             <div className="flex items-center justify-between">
               <span className="text-xs font-mono text-dew-red font-bold uppercase">STEP 3 • POWER CURVE NORMALIZATION</span>
               <span className="text-xs font-mono text-gray-400">Exponent = 1.5</span>
@@ -199,7 +199,7 @@ export default function ShowsAndTiers({ showsData }) {
             <p className="text-xs text-gray-400 font-mono">
               The hardest show (D_max) is benchmarked to 1000 PTS. All other shows scale non-linearly using power exponent 1.5:
             </p>
-            <div className="bg-[#090B0E] p-3 rounded-md border border-[#252E3E] font-mono text-xs text-dew-red text-center font-bold shadow-inner">
+            <div className="bg-[#0A0E17] p-3 rounded-md border border-[#1E293B] font-mono text-xs text-dew-red text-center font-bold shadow-inner">
               Difficulty(Show) = 1000 • ( D_raw / D_max )^1.5
             </div>
           </div>
@@ -207,28 +207,28 @@ export default function ShowsAndTiers({ showsData }) {
         </div>
 
         {/* Difficulty Scale Impact Examples */}
-        <div className="bg-[#090B0E] p-5 rounded-lg border border-[#252E3E] space-y-3 font-mono text-xs shadow-inner">
+        <div className="bg-[#0A0E17] p-5 rounded-lg border border-[#1E293B] space-y-3 font-mono text-xs shadow-inner">
           <div className="text-dew-green font-bold uppercase tracking-wider flex items-center justify-between">
             <span>SHOW DIFFICULTY SCALING EXAMPLES (EXPONENT 1.5)</span>
             <span className="text-gray-400 font-normal">BENCHMARK MAX = 1000 PTS</span>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-4 gap-3 text-center">
-            <div className="bg-[#12161F] p-3 rounded-md border border-[#252E3E]">
+            <div className="bg-[#111827] p-3 rounded-md border border-[#1E293B]">
               <div className="text-gray-400 text-[10px]">PREMIER CHAMPIONSHIPS</div>
               <div className="font-display text-xl font-bold text-dew-green">750 - 1000 PTS</div>
               <div className="text-[10px] text-gray-500 mt-0.5">Rogue, WSM, SMOE, ASC</div>
             </div>
-            <div className="bg-[#12161F] p-3 rounded-md border border-[#252E3E]">
+            <div className="bg-[#111827] p-3 rounded-md border border-[#1E293B]">
               <div className="text-gray-400 text-[10px]">GIANTS LIVE & SERIES</div>
-              <div className="font-display text-xl font-bold text-[#34D399]">450 - 620 PTS</div>
+              <div className="font-display text-xl font-bold text-[#60A5FA]">450 - 620 PTS</div>
               <div className="text-[10px] text-gray-500 mt-0.5">World Finals, Strongman Classic</div>
             </div>
-            <div className="bg-[#12161F] p-3 rounded-md border border-[#252E3E]">
+            <div className="bg-[#111827] p-3 rounded-md border border-[#1E293B]">
               <div className="text-gray-400 text-[10px]">CONTINENTAL SHOWS</div>
               <div className="font-display text-xl font-bold text-dew-red">150 - 300 PTS</div>
               <div className="text-[10px] text-gray-500 mt-0.5">Europe's & North America's</div>
             </div>
-            <div className="bg-[#12161F] p-3 rounded-md border border-[#252E3E]">
+            <div className="bg-[#111827] p-3 rounded-md border border-[#1E293B]">
               <div className="text-gray-400 text-[10px]">REGIONAL / LOW TIER</div>
               <div className="font-display text-xl font-bold text-gray-300">1 - 50 PTS</div>
               <div className="text-[10px] text-gray-500 mt-0.5">SCL Circuit & Local Spectacles</div>
@@ -238,7 +238,7 @@ export default function ShowsAndTiers({ showsData }) {
       </div>
 
       {/* Athlete Total Score Formula Card */}
-      <div className="bg-[#12161F] p-6 md:p-8 rounded-xl border border-[#252E3E] space-y-4 shadow-2xl">
+      <div className="bg-[#111827] p-6 md:p-8 rounded-xl border border-[#1E293B] space-y-4 shadow-2xl">
         <div className="flex items-center space-x-3 text-dew-green">
           <Calculator className="w-7 h-7 text-dew-green" />
           <div>
@@ -254,7 +254,7 @@ export default function ShowsAndTiers({ showsData }) {
           For each event entered, an athlete earns points determined by the show's Dynamic Difficulty, placement rank decay, and event recency multiplier:
         </p>
 
-        <div className="bg-[#090B0E] p-4 rounded-lg border border-[#252E3E] font-mono text-xs text-dew-green text-center font-bold shadow-inner">
+        <div className="bg-[#0A0E17] p-4 rounded-lg border border-[#1E293B] font-mono text-xs text-dew-green text-center font-bold shadow-inner">
           Earned Points = Difficulty(Show) • e^(-0.25 • (Rank - 1)) • Recency_Mult
         </div>
 
@@ -263,55 +263,55 @@ export default function ShowsAndTiers({ showsData }) {
         </p>
 
         <div className="grid grid-cols-2 sm:grid-cols-5 gap-2 font-mono text-center text-xs">
-          <div className="bg-[#181E2B] p-2.5 rounded-md border border-[#252E3E]">
+          <div className="bg-[#162036] p-2.5 rounded-md border border-[#1E293B]">
             <div className="text-[10px] text-gray-400">1ST BEST</div>
             <div className="font-bold text-dew-green">100% (1.0)</div>
           </div>
-          <div className="bg-[#181E2B] p-2.5 rounded-md border border-[#252E3E]">
+          <div className="bg-[#162036] p-2.5 rounded-md border border-[#1E293B]">
             <div className="text-[10px] text-gray-400">2ND BEST</div>
             <div className="font-bold text-dew-green">85% (0.85)</div>
           </div>
-          <div className="bg-[#181E2B] p-2.5 rounded-md border border-[#252E3E]">
+          <div className="bg-[#162036] p-2.5 rounded-md border border-[#1E293B]">
             <div className="text-[10px] text-gray-400">3RD BEST</div>
             <div className="font-bold text-dew-green">70% (0.70)</div>
           </div>
-          <div className="bg-[#181E2B] p-2.5 rounded-md border border-[#252E3E]">
+          <div className="bg-[#162036] p-2.5 rounded-md border border-[#1E293B]">
             <div className="text-[10px] text-gray-400">4TH BEST</div>
-            <div className="font-bold text-[#34D399]">55% (0.55)</div>
+            <div className="font-bold text-[#60A5FA]">55% (0.55)</div>
           </div>
-          <div className="bg-[#181E2B] p-2.5 rounded-md border border-[#252E3E]">
+          <div className="bg-[#162036] p-2.5 rounded-md border border-[#1E293B]">
             <div className="text-[10px] text-gray-400">5TH BEST</div>
-            <div className="font-bold text-[#34D399]">40% (0.40)</div>
+            <div className="font-bold text-[#60A5FA]">40% (0.40)</div>
           </div>
-          <div className="bg-[#181E2B] p-2.5 rounded-md border border-[#252E3E]">
+          <div className="bg-[#162036] p-2.5 rounded-md border border-[#1E293B]">
             <div className="text-[10px] text-gray-400">6TH BEST</div>
             <div className="font-bold text-dew-red">30% (0.30)</div>
           </div>
-          <div className="bg-[#181E2B] p-2.5 rounded-md border border-[#252E3E]">
+          <div className="bg-[#162036] p-2.5 rounded-md border border-[#1E293B]">
             <div className="text-[10px] text-gray-400">7TH BEST</div>
             <div className="font-bold text-dew-red">20% (0.20)</div>
           </div>
-          <div className="bg-[#181E2B] p-2.5 rounded-md border border-[#252E3E]">
+          <div className="bg-[#162036] p-2.5 rounded-md border border-[#1E293B]">
             <div className="text-[10px] text-gray-400">8TH BEST</div>
             <div className="font-bold text-orange-400">15% (0.15)</div>
           </div>
-          <div className="bg-[#181E2B] p-2.5 rounded-md border border-[#252E3E]">
+          <div className="bg-[#162036] p-2.5 rounded-md border border-[#1E293B]">
             <div className="text-[10px] text-gray-400">9TH BEST</div>
             <div className="font-bold text-gray-300">10% (0.10)</div>
           </div>
-          <div className="bg-[#181E2B] p-2.5 rounded-md border border-[#252E3E]">
+          <div className="bg-[#162036] p-2.5 rounded-md border border-[#1E293B]">
             <div className="text-[10px] text-gray-400">10TH BEST</div>
             <div className="font-bold text-gray-400">5% (0.05)</div>
           </div>
         </div>
 
-        <div className="bg-[#090B0E] p-3.5 rounded-lg border border-[#252E3E] font-mono text-xs text-dew-green text-center font-bold shadow-inner">
+        <div className="bg-[#0A0E17] p-3.5 rounded-lg border border-[#1E293B] font-mono text-xs text-dew-green text-center font-bold shadow-inner">
           Total Score = Σ [ W_i • Earned_Points_i ] (for top 10 results)
         </div>
       </div>
 
       {/* Recency Multiplier Info Box */}
-      <div className="bg-[#12161F] p-6 md:p-8 rounded-xl border border-[#252E3E] space-y-4 shadow-2xl">
+      <div className="bg-[#111827] p-6 md:p-8 rounded-xl border border-[#1E293B] space-y-4 shadow-2xl">
         <div className="flex items-center space-x-3 text-dew-green">
           <Flame className="w-7 h-7 text-dew-red fill-dew-red" />
           <h2 className="font-display text-3xl font-extrabold uppercase text-white tracking-wide">
@@ -323,27 +323,27 @@ export default function ShowsAndTiers({ showsData }) {
         </p>
 
         <div className="grid grid-cols-2 sm:grid-cols-5 gap-3 pt-2 font-mono text-center">
-          <div className="bg-[#181E2B] p-3 rounded-lg border border-[#252E3E]">
+          <div className="bg-[#162036] p-3 rounded-lg border border-[#1E293B]">
             <div className="text-xs text-gray-400">0 - 12 MONTHS</div>
             <div className="font-display text-2xl font-black text-dew-green">5.0x</div>
             <div className="text-[10px] text-gray-500 mt-1">100% Weight</div>
           </div>
-          <div className="bg-[#181E2B] p-3 rounded-lg border border-[#252E3E]">
+          <div className="bg-[#162036] p-3 rounded-lg border border-[#1E293B]">
             <div className="text-xs text-gray-400">12 - 24 MONTHS</div>
-            <div className="font-display text-2xl font-black text-[#34D399]">3.0x</div>
+            <div className="font-display text-2xl font-black text-[#60A5FA]">3.0x</div>
             <div className="text-[10px] text-gray-500 mt-1">60% Weight</div>
           </div>
-          <div className="bg-[#181E2B] p-3 rounded-lg border border-[#252E3E]">
+          <div className="bg-[#162036] p-3 rounded-lg border border-[#1E293B]">
             <div className="text-xs text-gray-400">24 - 36 MONTHS</div>
             <div className="font-display text-2xl font-black text-dew-red">1.0x</div>
             <div className="text-[10px] text-gray-500 mt-1">20% Weight</div>
           </div>
-          <div className="bg-[#181E2B] p-3 rounded-lg border border-[#252E3E]">
+          <div className="bg-[#162036] p-3 rounded-lg border border-[#1E293B]">
             <div className="text-xs text-gray-400">36 - 48 MONTHS</div>
             <div className="font-display text-2xl font-black text-orange-400">0.5x</div>
             <div className="text-[10px] text-gray-500 mt-1">10% Weight</div>
           </div>
-          <div className="bg-[#181E2B] p-3 rounded-lg border border-[#252E3E]">
+          <div className="bg-[#162036] p-3 rounded-lg border border-[#1E293B]">
             <div className="text-xs text-gray-400">48 - 60 MONTHS</div>
             <div className="font-display text-2xl font-black text-gray-400">0.25x</div>
             <div className="text-[10px] text-gray-500 mt-1">5% Weight</div>

@@ -12,15 +12,15 @@ export default function CompetitorModal({ athlete, onClose }) {
       onClick={onClose}
     >
       <div 
-        className="relative w-full h-full sm:h-auto max-w-4xl sm:max-h-[90vh] flex flex-col bg-[#0E121B] border-0 sm:border border-[#252E3E] rounded-none sm:rounded-xl shadow-2xl overflow-hidden my-auto"
+        className="relative w-full h-full sm:h-auto max-w-4xl sm:max-h-[90vh] flex flex-col bg-[#0D131F] border-0 sm:border border-[#1E293B] rounded-none sm:rounded-xl shadow-2xl overflow-hidden my-auto"
         onClick={(e) => e.stopPropagation()}
       >
         
-        {/* Top Header Emerald Accent Line */}
-        <div className="h-1.5 w-full bg-gradient-to-r from-dew-green via-emerald-400 to-teal-500 shrink-0"></div>
+        {/* Top Header Orange/Blue Accent Line */}
+        <div className="h-1.5 w-full bg-gradient-to-r from-dew-green via-amber-400 to-blue-500 shrink-0"></div>
 
         {/* Sticky Header */}
-        <div className="sticky top-0 z-30 bg-[#0E121B]/95 backdrop-blur-md border-b border-[#252E3E] px-4 sm:px-6 py-3.5 flex items-center justify-between shrink-0">
+        <div className="sticky top-0 z-30 bg-[#0D131F]/95 backdrop-blur-md border-b border-[#1E293B] px-4 sm:px-6 py-3.5 flex items-center justify-between shrink-0">
           <div className="flex items-center space-x-2.5 truncate pr-2">
             <span className="bg-dew-green text-black font-display text-sm sm:text-base font-black rounded-md px-2 py-0.5 shrink-0 shadow-dew-glow">
               #{globalRank}
@@ -35,7 +35,7 @@ export default function CompetitorModal({ athlete, onClose }) {
         <div className="overflow-y-auto flex-1 p-4 sm:p-6 md:p-8 space-y-6">
           
           {/* Hero Section */}
-          <div className="flex flex-col sm:flex-row items-center justify-between gap-4 p-5 sm:p-6 rounded-lg bg-[#161B26] border border-[#252E3E]">
+          <div className="flex flex-col sm:flex-row items-center justify-between gap-4 p-5 sm:p-6 rounded-lg bg-[#111827] border border-[#1E293B]">
             <div className="text-center sm:text-left space-y-1">
               <div className="text-xs font-mono text-dew-green font-bold uppercase tracking-wider flex items-center justify-center sm:justify-start gap-1.5">
                 <span>{competitor.flagEmoji || '🌐'}</span>
@@ -47,14 +47,14 @@ export default function CompetitorModal({ athlete, onClose }) {
             </div>
 
             {/* Total Points Card */}
-            <div className="bg-[#090B0E] border border-dew-green/40 rounded-lg px-6 py-3.5 text-center min-w-[150px] w-full sm:w-auto shadow-dew-glow">
+            <div className="bg-[#0A0E17] border border-dew-green/40 rounded-lg px-6 py-3.5 text-center min-w-[150px] w-full sm:w-auto shadow-dew-glow">
               <div className="text-[10px] font-mono text-dew-green font-bold uppercase tracking-wider">TOTAL SCORE</div>
               <div className="font-display text-3xl sm:text-4xl font-black text-white">{totalPoints.toFixed(1)}</div>
             </div>
           </div>
 
           {/* Quick Stats Summary Strip */}
-          <div className="grid grid-cols-3 divide-x divide-[#252E3E] bg-[#161B26] rounded-lg border border-[#252E3E] text-center py-3.5">
+          <div className="grid grid-cols-3 divide-x divide-[#1E293B] bg-[#111827] rounded-lg border border-[#1E293B] text-center py-3.5">
             <div className="px-1">
               <div className="font-display text-xl sm:text-2xl font-black text-dew-green">{winsCount}</div>
               <div className="text-[10px] sm:text-xs font-mono text-gray-400">TITLES WON</div>
@@ -81,7 +81,7 @@ export default function CompetitorModal({ athlete, onClose }) {
               {contributions && contributions.map((c, idx) => (
                 <div 
                   key={idx} 
-                  className={`bg-[#12161F] border ${idx === 0 ? 'border-dew-green/60 bg-dew-green/5' : 'border-[#252E3E]'} rounded-lg p-4 space-y-2`}
+                  className={`bg-[#111827] border ${idx === 0 ? 'border-dew-green/60 bg-dew-green/5' : 'border-[#1E293B]'} rounded-lg p-4 space-y-2`}
                 >
                   <div className="flex items-start justify-between gap-2">
                     <div>
@@ -101,16 +101,16 @@ export default function CompetitorModal({ athlete, onClose }) {
                     </div>
                   </div>
 
-                  <div className="grid grid-cols-3 gap-2 pt-2 border-t border-[#252E3E] text-center font-mono text-xs">
-                    <div className="bg-[#090B0E] rounded-md p-1.5 border border-[#252E3E]">
+                  <div className="grid grid-cols-3 gap-2 pt-2 border-t border-[#1E293B] text-center font-mono text-xs">
+                    <div className="bg-[#0A0E17] rounded-md p-1.5 border border-[#1E293B]">
                       <div className="text-[9px] text-gray-400 uppercase">Difficulty</div>
                       <div className="text-dew-yellow font-bold">{c.difficulty !== undefined ? c.difficulty.toFixed(1) : 0}</div>
                     </div>
-                    <div className="bg-[#090B0E] rounded-md p-1.5 border border-[#252E3E]">
+                    <div className="bg-[#0A0E17] rounded-md p-1.5 border border-[#1E293B]">
                       <div className="text-[9px] text-gray-400 uppercase">Placement %</div>
                       <div className="text-dew-green font-bold">{c.placementFactor !== undefined ? `${(c.placementFactor * 100).toFixed(0)}%` : '100%'}</div>
                     </div>
-                    <div className="bg-[#090B0E] rounded-md p-1.5 border border-[#252E3E]">
+                    <div className="bg-[#0A0E17] rounded-md p-1.5 border border-[#1E293B]">
                       <div className="text-[9px] text-gray-400 uppercase">Recency</div>
                       <div className="text-dew-green font-bold">{c.recencyMultiplier}x</div>
                     </div>
@@ -120,11 +120,11 @@ export default function CompetitorModal({ athlete, onClose }) {
             </div>
 
             {/* Desktop Table View (Visible on medium+ screens) */}
-            <div className="hidden md:block bg-[#12161F] overflow-hidden border border-[#252E3E] rounded-lg shadow-xl">
+            <div className="hidden md:block bg-[#111827] overflow-hidden border border-[#1E293B] rounded-lg shadow-xl">
               <div className="overflow-x-auto">
                 <table className="w-full text-left text-xs font-mono">
                   <thead>
-                    <tr className="bg-[#161B26] border-b border-[#252E3E] text-gray-300 uppercase">
+                    <tr className="bg-[#162036] border-b border-[#1E293B] text-gray-300 uppercase">
                       <th className="py-3 px-4">SHOW</th>
                       <th className="py-3 px-4 text-center">YEAR</th>
                       <th className="py-3 px-4 text-center">RANK</th>
@@ -134,9 +134,9 @@ export default function CompetitorModal({ athlete, onClose }) {
                       <th className="py-3 px-4 text-right">FINAL SCORE</th>
                     </tr>
                   </thead>
-                  <tbody className="divide-y divide-[#252E3E]/60">
+                  <tbody className="divide-y divide-[#1E293B]/60">
                     {contributions && contributions.map((c, idx) => (
-                      <tr key={idx} className={`hover:bg-[#181E2B] transition-colors ${idx === 0 ? 'bg-dew-green/5' : ''}`}>
+                      <tr key={idx} className={`hover:bg-[#1A253C] transition-colors ${idx === 0 ? 'bg-dew-green/5' : ''}`}>
                         <td className="py-3.5 px-4 font-bold text-white">
                           {idx === 0 && <span className="mr-1.5 text-dew-yellow">⭐</span>}
                           {c.competitionName}
@@ -164,7 +164,7 @@ export default function CompetitorModal({ athlete, onClose }) {
         </div>
 
         {/* Bottom Sticky Action Footer */}
-        <div className="bg-[#0E121B] border-t border-[#252E3E] px-4 sm:px-6 py-3 flex justify-between items-center shrink-0">
+        <div className="bg-[#0D131F] border-t border-[#1E293B] px-4 sm:px-6 py-3 flex justify-between items-center shrink-0">
           <button
             onClick={() => {
               const modalBody = document.querySelector('.overflow-y-auto');
@@ -178,7 +178,7 @@ export default function CompetitorModal({ athlete, onClose }) {
 
           <button
             onClick={onClose}
-            className="px-4 py-2 rounded-lg bg-dew-green text-black font-heading font-bold text-xs hover:bg-[#34D399] transition-all shadow-dew-glow active:scale-95"
+            className="px-4 py-2 rounded-lg bg-dew-green text-black font-heading font-bold text-xs hover:bg-[#FB923C] transition-all shadow-dew-glow active:scale-95"
           >
             CLOSE ATHLETE PROFILE
           </button>

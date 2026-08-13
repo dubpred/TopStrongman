@@ -8,7 +8,7 @@ export default function Navbar({ activeTab, setActiveTab }) {
   ];
 
   return (
-    <header className="sticky top-0 z-40 bg-[#090B0E]/95 backdrop-blur-md border-b border-[#252E3E] shadow-2xl pt-safe">
+    <header className="sticky top-0 z-40 bg-[#0A0E17]/95 backdrop-blur-md border-b border-[#1E293B] shadow-2xl pt-safe">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 md:h-20">
           
@@ -32,7 +32,7 @@ export default function Navbar({ activeTab, setActiveTab }) {
                   className={`flex items-center space-x-2 px-4 py-2 rounded-lg font-heading text-sm font-bold transition-all duration-200 ${
                     isActive
                       ? 'bg-dew-green text-black font-extrabold shadow-dew-glow'
-                      : 'text-gray-300 hover:text-white hover:bg-white/5 border border-transparent hover:border-[#252E3E]'
+                      : 'text-gray-300 hover:text-white hover:bg-white/5 border border-transparent hover:border-[#1E293B]'
                   }`}
                 >
                   <Icon className={`w-4 h-4 ${isActive ? 'text-black' : 'text-dew-green'}`} />
@@ -45,7 +45,7 @@ export default function Navbar({ activeTab, setActiveTab }) {
         </div>
 
         {/* Mobile Tab Navigation (Pixel, iPhone optimized) */}
-        <div className="md:hidden flex space-x-2 py-2 overflow-x-auto border-t border-[#252E3E]/60 no-scrollbar">
+        <div className="md:hidden flex space-x-2 py-2 overflow-x-auto border-t border-[#1E293B]/60 no-scrollbar">
           {tabs.map((tab) => {
             const Icon = tab.icon;
             const isActive = activeTab === tab.id;
@@ -54,7 +54,7 @@ export default function Navbar({ activeTab, setActiveTab }) {
                 key={tab.id}
                 onClick={() => setActiveTab(tab.id)}
                 className={`flex-1 min-h-[40px] flex items-center justify-center space-x-1.5 py-2 px-4 rounded-lg text-xs font-heading font-bold whitespace-nowrap active:scale-95 transition-all ${
-                  isActive ? 'bg-dew-green text-black font-extrabold shadow-dew-glow' : 'text-gray-300 bg-[#12161F] border border-[#252E3E]'
+                  isActive ? 'bg-dew-green text-black font-extrabold shadow-dew-glow' : 'text-gray-300 bg-[#111827] border border-[#1E293B]'
                 }`}
               >
                 <Icon className={`w-4 h-4 ${isActive ? 'text-black' : 'text-dew-green'}`} />
