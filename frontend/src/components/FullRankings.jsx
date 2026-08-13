@@ -54,7 +54,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
   }, [filteredRankings, safePage]);
 
   return (
-    <div className="space-y-8">
+    <div className="space-y-5">
       
       {/* Header Banner (Rogue Hard-Angled Industrial) */}
       <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-[#121212] border-2 border-[#262626] rounded-none p-6 md:p-8 shadow-2xl">
@@ -91,7 +91,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
       </div>
 
       {/* Primary Filter Bar */}
-      <div className="space-y-4">
+      <div className="space-y-3">
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 items-center">
           
           {/* Search */}
@@ -197,62 +197,64 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
         )}
       </div>
 
-      {/* Mobile Card List View (Visible on small screens) */}
-      <div className="block sm:hidden space-y-2.5">
-        {pagedRankings.map((item) => (
-          <div
-            key={item.competitor.id}
-            onClick={() => onSelectCompetitor(item)}
-            className="bg-[#121212] p-4 flex items-center justify-between gap-3 active:scale-[0.98] transition-transform cursor-pointer border-2 border-[#262626] hover:border-white rounded-none"
-          >
-            <div className="flex items-center space-x-3 min-w-0">
-              <span className={`font-display text-2xl font-black px-2 py-0.5 shrink-0 rounded-none ${
-                item.globalRank === 1 ? 'bg-white text-black' :
-                item.globalRank === 2 ? 'bg-zinc-300 text-black' :
-                item.globalRank === 3 ? 'bg-zinc-700 text-white' : 'text-zinc-500'
-              }`}>
-                #{item.globalRank}
-              </span>
-              <div className="min-w-0">
-                <div className="font-display font-black text-white text-xl tracking-wide truncate uppercase">
-                  {item.competitor.name}
-                </div>
-                <div className="text-xs font-mono text-zinc-400 flex items-center gap-1.5 mt-0.5">
-                  <span>{item.competitor.country}</span>
-                  <span>•</span>
-                  <span>{item.totalShows} SHOWS</span>
+      {/* Main Rankings Data Section (Tight Margin) */}
+      <div className="-mt-1">
+        {/* Mobile Card List View (Visible on small screens) */}
+        <div className="block sm:hidden space-y-2">
+          {pagedRankings.map((item) => (
+            <div
+              key={item.competitor.id}
+              onClick={() => onSelectCompetitor(item)}
+              className="bg-[#121212] p-4 flex items-center justify-between gap-3 active:scale-[0.98] transition-transform cursor-pointer border-2 border-[#262626] hover:border-white rounded-none"
+            >
+              <div className="flex items-center space-x-3 min-w-0">
+                <span className={`font-display text-2xl font-black px-2 py-0.5 shrink-0 rounded-none ${
+                  item.globalRank === 1 ? 'bg-white text-black' :
+                  item.globalRank === 2 ? 'bg-zinc-300 text-black' :
+                  item.globalRank === 3 ? 'bg-zinc-700 text-white' : 'text-zinc-500'
+                }`}>
+                  #{item.globalRank}
+                </span>
+                <div className="min-w-0">
+                  <div className="font-display font-black text-white text-xl tracking-wide truncate uppercase">
+                    {item.competitor.name}
+                  </div>
+                  <div className="text-xs font-mono text-zinc-400 flex items-center gap-1.5 mt-0.5">
+                    <span>{item.competitor.country}</span>
+                    <span>•</span>
+                    <span>{item.totalShows} SHOWS</span>
+                  </div>
                 </div>
               </div>
-            </div>
 
-            <div className="flex items-center space-x-2 shrink-0">
-              <div className="text-right">
-                <div className="font-display text-3xl font-black text-white">
-                  {item.totalPoints.toFixed(1)}
+              <div className="flex items-center space-x-2 shrink-0">
+                <div className="text-right">
+                  <div className="font-display text-3xl font-black text-white">
+                    {item.totalPoints.toFixed(1)}
+                  </div>
+                  <div className="text-[9px] font-mono text-zinc-400 uppercase">PTS</div>
                 </div>
-                <div className="text-[9px] font-mono text-zinc-400 uppercase">PTS</div>
+                <ChevronRight className="w-4 h-4 text-zinc-400 shrink-0" />
               </div>
-              <ChevronRight className="w-4 h-4 text-zinc-400 shrink-0" />
             </div>
-          </div>
-        ))}
-      </div>
+          ))}
+        </div>
 
-      {/* Desktop/Tablet Table List View (Rogue Hard-Angled Table with sticky header) */}
-      <div className="hidden sm:block">
-        <div className="overflow-x-auto">
-          <table className="w-full text-left border-separate border-spacing-y-2">
-            <thead className="sticky top-16 md:top-20 z-30">
-              <tr className="bg-[#121212] text-xs font-mono text-zinc-400 uppercase tracking-widest">
-                <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 text-center w-20 border-y-2 border-l-2 border-[#262626]">RANK</th>
-                <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 border-y-2 border-[#262626]">ATHLETE</th>
-                <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 text-center border-y-2 border-[#262626]">SHOWS</th>
-                <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 text-center border-y-2 border-[#262626]">WINS</th>
-                <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 text-center border-y-2 border-[#262626]">PODIUMS</th>
-                <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 text-right border-y-2 border-[#262626]">TOTAL POINTS</th>
-                <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-4 border-y-2 border-r-2 border-[#262626]"></th>
-              </tr>
-            </thead>
+        {/* Desktop/Tablet Table List View (Rogue Hard-Angled Table with sticky header) */}
+        <div className="hidden sm:block">
+          <div className="overflow-x-auto">
+            <table className="w-full text-left border-separate border-spacing-y-2">
+              <thead className="sticky top-16 md:top-20 z-30">
+                <tr className="bg-[#121212] text-xs font-mono text-zinc-400 uppercase tracking-widest">
+                  <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 text-center w-20 border-y-2 border-l-2 border-[#262626]">RANK</th>
+                  <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 border-y-2 border-[#262626]">ATHLETE</th>
+                  <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 text-center border-y-2 border-[#262626]">SHOWS</th>
+                  <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 text-center border-y-2 border-[#262626]">WINS</th>
+                  <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 text-center border-y-2 border-[#262626]">PODIUMS</th>
+                  <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-6 text-right border-y-2 border-[#262626]">TOTAL POINTS</th>
+                  <th className="sticky top-16 md:top-20 bg-[#121212] z-30 py-3.5 px-4 border-y-2 border-r-2 border-[#262626]"></th>
+                </tr>
+              </thead>
             <tbody className="text-sm">
               {pagedRankings.map((item) => (
                 <tr
@@ -301,7 +303,8 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
             </tbody>
           </table>
         </div>
-      </div>
+        </div> {/* end hidden sm:block */}
+      </div> {/* end -mt-1 wrapper */}
 
       {/* Pagination */}
       {totalPages > 1 && (
