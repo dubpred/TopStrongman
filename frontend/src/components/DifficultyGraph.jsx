@@ -93,13 +93,13 @@ export default function DifficultyGraph() {
           </p>
         </div>
 
-        {/* Division Switcher & Tier Filter Tabs */}
-        <div className="flex flex-col sm:flex-row items-start sm:items-center gap-3">
-          {/* Division Switcher */}
+        {/* Division Switcher & Tier Filter Tabs (Stacked vertically) */}
+        <div className="flex flex-col items-start md:items-end gap-2.5">
+          {/* Gender / Division Switcher */}
           <div className="flex items-center space-x-1.5 bg-[#080D08] p-1.5 rounded-2xl border border-dew-green/30 shadow-inner font-mono text-xs">
             <button
               onClick={() => { setDivision('men'); setHoveredShow(null); }}
-              className={`px-3 py-1.5 rounded-xl font-bold uppercase transition-all ${
+              className={`px-4 py-2 rounded-xl font-bold uppercase transition-all ${
                 division === 'men'
                   ? 'bg-dew-green text-black font-extrabold shadow-dew-glow'
                   : 'text-gray-400 hover:text-white'
@@ -109,7 +109,7 @@ export default function DifficultyGraph() {
             </button>
             <button
               onClick={() => { setDivision('women'); setHoveredShow(null); }}
-              className={`px-3 py-1.5 rounded-xl font-bold uppercase transition-all ${
+              className={`px-4 py-2 rounded-xl font-bold uppercase transition-all ${
                 division === 'women'
                   ? 'bg-dew-green text-black font-extrabold shadow-dew-glow'
                   : 'text-gray-400 hover:text-white'
@@ -119,8 +119,8 @@ export default function DifficultyGraph() {
             </button>
           </div>
 
-          {/* Tier Filter Tabs */}
-          <div className="flex flex-wrap gap-1 font-mono text-xs">
+          {/* Tier Filter Tabs (Positioned directly under Gender Picker) */}
+          <div className="flex flex-wrap items-center gap-1.5 font-mono text-xs">
             {['ALL', 'TIER 1', 'TIER 2', 'TIER 3', 'TIER 4', 'TIER 5'].map((t) => (
               <button
                 key={t}
