@@ -102,7 +102,7 @@
     "recency_multiplier": 1,
     "division": "women",
     "total_competitors": 12,
-    "raw_difficulty": 23561.934318528,
+    "raw_difficulty": 23574.064931722252,
     "top_5_finishers": [
       "Angelica Jardine (#1)",
       "Olga Liashchuk (#2)",
@@ -184,7 +184,7 @@
         "score": 7
       }
     ],
-    "difficulty_score": 929.7,
+    "difficulty_score": 930.4,
     "competition_rank": 2
   },
   {
@@ -196,7 +196,7 @@
     "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 23561.934318528,
+    "raw_difficulty": 23574.064931722256,
     "top_5_finishers": [
       "Inez Carrasquillo (#1)",
       "Olga Liashchuk (#2)",
@@ -266,7 +266,7 @@
         "score": 10
       }
     ],
-    "difficulty_score": 929.7,
+    "difficulty_score": 930.4,
     "competition_rank": 3
   },
   {
@@ -278,7 +278,7 @@
     "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 23561.934318528,
+    "raw_difficulty": 23574.064931722252,
     "top_5_finishers": [
       "Inez Carrasquillo (#1)",
       "Olga Liashchuk (#2)",
@@ -348,7 +348,7 @@
         "score": 17
       }
     ],
-    "difficulty_score": 929.7,
+    "difficulty_score": 930.4,
     "competition_rank": 4
   },
   {
@@ -360,7 +360,7 @@
     "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 23561.934318528,
+    "raw_difficulty": 23574.064931722252,
     "top_5_finishers": [
       "Olga Liashchuk (#1)",
       "Inez Carrasquillo (#2)",
@@ -430,7 +430,7 @@
         "score": 5
       }
     ],
-    "difficulty_score": 929.7,
+    "difficulty_score": 930.4,
     "competition_rank": 5
   },
   {
@@ -601,7 +601,7 @@
     "recency_multiplier": 0.5,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 20654.617036186333,
+    "raw_difficulty": 20693.367036186333,
     "top_5_finishers": [
       "Victoria Long (#1)",
       "Rebecca Roberts (#2)",
@@ -671,7 +671,7 @@
         "score": 13.5
       }
     ],
-    "difficulty_score": 763,
+    "difficulty_score": 765.2,
     "competition_rank": 8
   },
   {
@@ -937,12 +937,12 @@
     "contest_id": 1146,
     "contest_name": "2022 Arnold Pro Strongwoman",
     "details": "Columbus, Ohio, 2022-03-04 to 2022-03-05",
-    "tier": "TIER_2",
-    "tier_multiplier": 3,
+    "tier": "TIER_1",
+    "tier_multiplier": 5,
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 15238.217543940294,
+    "raw_difficulty": 15290.017855737477,
     "top_5_finishers": [
       "Victoria Long (#1)",
       "Andrea Thompson (#2)",
@@ -1012,8 +1012,60 @@
         "score": 7.5
       }
     ],
-    "difficulty_score": 483.5,
+    "difficulty_score": 486,
     "competition_rank": 12
+  },
+  {
+    "contest_id": 1341,
+    "contest_name": "2022 America's Strongest Woman",
+    "details": "Las Vegas, Nevada, 2022-12-16 to 2022-12-17",
+    "tier": "TIER_3",
+    "tier_multiplier": 2,
+    "recency_multiplier": 0.5,
+    "division": "women",
+    "total_competitors": 5,
+    "raw_difficulty": 14387.824800167096,
+    "top_5_finishers": [
+      "Victoria Long (#1)",
+      "Olga Liashchuk (#2)",
+      "Inez Carrasquillo (#3)",
+      "Gabi Dixson (#4)",
+      "Sumer Johnson (#5)"
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Victoria Long",
+        "country": "USA",
+        "score": 25
+      },
+      {
+        "rank": "2",
+        "person_name": "Olga Liashchuk",
+        "country": "UKR",
+        "score": 17
+      },
+      {
+        "rank": "3",
+        "person_name": "Inez Carrasquillo",
+        "country": "USA",
+        "score": 13.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Gabi Dixson",
+        "country": "USA",
+        "score": 10
+      },
+      {
+        "rank": "5",
+        "person_name": "Sumer Johnson",
+        "country": "USA",
+        "score": 9.5
+      }
+    ],
+    "difficulty_score": 443.6,
+    "competition_rank": 13
   },
   {
     "contest_id": 1485,
@@ -1095,58 +1147,6 @@
       }
     ],
     "difficulty_score": 442.8,
-    "competition_rank": 13
-  },
-  {
-    "contest_id": 1341,
-    "contest_name": "2022 America's Strongest Woman",
-    "details": "Las Vegas, Nevada, 2022-12-16 to 2022-12-17",
-    "tier": "TIER_3",
-    "tier_multiplier": 2,
-    "recency_multiplier": 0.5,
-    "division": "women",
-    "total_competitors": 5,
-    "raw_difficulty": 14349.074800167096,
-    "top_5_finishers": [
-      "Victoria Long (#1)",
-      "Olga Liashchuk (#2)",
-      "Inez Carrasquillo (#3)",
-      "Gabi Dixson (#4)",
-      "Sumer Johnson (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Victoria Long",
-        "country": "USA",
-        "score": 25
-      },
-      {
-        "rank": "2",
-        "person_name": "Olga Liashchuk",
-        "country": "UKR",
-        "score": 17
-      },
-      {
-        "rank": "3",
-        "person_name": "Inez Carrasquillo",
-        "country": "USA",
-        "score": 13.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Gabi Dixson",
-        "country": "USA",
-        "score": 10
-      },
-      {
-        "rank": "5",
-        "person_name": "Sumer Johnson",
-        "country": "USA",
-        "score": 9.5
-      }
-    ],
-    "difficulty_score": 441.8,
     "competition_rank": 14
   },
   {
@@ -1158,7 +1158,7 @@
     "recency_multiplier": 1,
     "division": "women",
     "total_competitors": 14,
-    "raw_difficulty": 12901.895112082966,
+    "raw_difficulty": 12905.784562937391,
     "top_5_finishers": [
       "Olga Liashchuk (#1)",
       "Samantha Belliveau (#2)",
@@ -1252,7 +1252,7 @@
         "score": 8
       }
     ],
-    "difficulty_score": 376.7,
+    "difficulty_score": 376.9,
     "competition_rank": 15
   },
   {
@@ -1358,7 +1358,7 @@
     "recency_multiplier": 1,
     "division": "women",
     "total_competitors": 13,
-    "raw_difficulty": 12425.674093396981,
+    "raw_difficulty": 12426.407206827567,
     "top_5_finishers": [
       "Rebecca Roberts (#1)",
       "Lucy Underdown (#2)",
@@ -1446,7 +1446,7 @@
         "score": 13.5
       }
     ],
-    "difficulty_score": 356,
+    "difficulty_score": 356.1,
     "competition_rank": 17
   },
   {
@@ -1768,7 +1768,7 @@
     "recency_multiplier": 1,
     "division": "women",
     "total_competitors": 6,
-    "raw_difficulty": 11220.865583135514,
+    "raw_difficulty": 11223.83533538701,
     "top_5_finishers": [
       "Angelica Jardine (#1)",
       "Olga Liashchuk (#2)",
@@ -1814,7 +1814,7 @@
         "score": 6.5
       }
     ],
-    "difficulty_score": 305.5,
+    "difficulty_score": 305.6,
     "competition_rank": 22
   },
   {
@@ -2048,7 +2048,7 @@
     "recency_multiplier": 1,
     "division": "women",
     "total_competitors": 12,
-    "raw_difficulty": 8542.645942114199,
+    "raw_difficulty": 8543.379055544785,
     "top_5_finishers": [
       "Lucy Underdown (#1)",
       "Rebecca Roberts (#2)",
@@ -2224,7 +2224,7 @@
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 8352.040073490905,
+    "raw_difficulty": 8393.7598257424,
     "top_5_finishers": [
       "Victoria Long (#1)",
       "Olga Liashchuk (#2)",
@@ -2294,7 +2294,7 @@
         "score": 8
       }
     ],
-    "difficulty_score": 196.2,
+    "difficulty_score": 197.7,
     "competition_rank": 28
   },
   {
@@ -2306,7 +2306,7 @@
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 12,
-    "raw_difficulty": 7804.453214830909,
+    "raw_difficulty": 7805.186328261494,
     "top_5_finishers": [
       "Rebecca Roberts (#1)",
       "Donna Moore (#2)",
@@ -2400,7 +2400,7 @@
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 12,
-    "raw_difficulty": 7788.866784737648,
+    "raw_difficulty": 7789.599898168233,
     "top_5_finishers": [
       "Donna Moore (#1)",
       "Rebecca Roberts (#2)",
@@ -2798,7 +2798,7 @@
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 8,
-    "raw_difficulty": 6871.560831928071,
+    "raw_difficulty": 6876.1833962130795,
     "top_5_finishers": [
       "Annabelle Chapman (#1)",
       "Donna Moore (#2)",
@@ -2856,7 +2856,7 @@
         "score": 12
       }
     ],
-    "difficulty_score": 146.4,
+    "difficulty_score": 146.6,
     "competition_rank": 35
   },
   {
@@ -3096,7 +3096,7 @@
     "recency_multiplier": 0.5,
     "division": "women",
     "total_competitors": 7,
-    "raw_difficulty": 5890.537829206316,
+    "raw_difficulty": 5891.2709426369,
     "top_5_finishers": [
       "Shayna Wirihana (#1)",
       "Andrea Thompson (#2)",
@@ -3260,7 +3260,7 @@
     "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 4929.425002442626,
+    "raw_difficulty": 4930.344701045554,
     "top_5_finishers": [
       "Melissa Peacock (#1)",
       "Nicole Genrich (#2)",
@@ -3342,7 +3342,7 @@
     "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 9,
-    "raw_difficulty": 4723.153252346612,
+    "raw_difficulty": 4723.886365777196,
     "top_5_finishers": [
       "Rebecca Roberts (#1)",
       "Donna Moore (#2)",
@@ -3406,7 +3406,7 @@
         "score": 4.5
       }
     ],
-    "difficulty_score": 83.4,
+    "difficulty_score": 83.5,
     "competition_rank": 42
   },
   {
@@ -3955,7 +3955,7 @@
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 6,
-    "raw_difficulty": 2901.6744559267718,
+    "raw_difficulty": 2943.3942081782684,
     "top_5_finishers": [
       "Victoria Long (#1)",
       "Cori Butler (#2)",
@@ -4001,7 +4001,7 @@
         "score": 4
       }
     ],
-    "difficulty_score": 40.2,
+    "difficulty_score": 41,
     "competition_rank": 50
   },
   {
@@ -4211,7 +4211,7 @@
     "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 14,
-    "raw_difficulty": 1676.393018059003,
+    "raw_difficulty": 1677.1261314895876,
     "top_5_finishers": [
       "Donna Moore (#1)",
       "Annabelle Chapman (#2)",
@@ -4306,7 +4306,7 @@
         "score": 2
       }
     ],
-    "difficulty_score": 17.6,
+    "difficulty_score": 17.7,
     "competition_rank": 54
   },
   {

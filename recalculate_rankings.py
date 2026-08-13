@@ -54,8 +54,9 @@ def get_tier_info(show_name, division):
     if (
         "world's strongest man" in name or "world's strongest woman" in name or
         "arnold strongman classic" in name or "arnold strongwoman classic" in name or
-        "strongest man on earth" in name or "official strongman games" in name or
-        "shaw classic" in name or "rogue invitational" in name
+        "arnold pro strongwoman" in name or
+        "strongest man on earth" in name or "strongest woman on earth" in name or
+        ("shaw classic" in name and "shaw classic open" not in name) or "rogue invitational" in name
     ):
         return "TIER_1", 5.0
 

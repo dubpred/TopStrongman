@@ -51,8 +51,10 @@ function getTierInfo(showName, division) {
   if (
     name.includes("world's strongest man") || name.includes("world's strongest woman") ||
     name.includes("arnold strongman classic") || name.includes("arnold strongwoman classic") ||
-    name.includes("strongest man on earth") || name.includes("official strongman games") ||
-    name.includes("shaw classic") || name.includes("rogue invitational")
+    name.includes("arnold pro strongwoman") ||
+    name.includes("strongest man on earth") || name.includes("strongest woman on earth") ||
+    (name.includes("shaw classic") && !name.includes("shaw classic open")) ||
+    name.includes("rogue invitational")
   ) {
     return { tier: "TIER_1", multiplier: 5.0 };
   }
