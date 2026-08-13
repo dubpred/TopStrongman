@@ -44,8 +44,12 @@ headers = {
 
 def is_excluded_contest(contest_name):
     name = (contest_name or "").lower()
-    # Exclude single-lift World Deadlift Championships and variations
-    if "world deadlift" in name or "deadlift championship" in name or "deadlift championchip" in name:
+    # Exclude single-lift World Deadlift and World Log Lift Championships
+    if (
+        "world deadlift" in name or "deadlift championship" in name or "deadlift championchip" in name or
+        "world log lift" in name or "log lift championship" in name or "log lift championchip" in name or
+        "log lift world championship" in name
+    ):
         return True
     return False
 
