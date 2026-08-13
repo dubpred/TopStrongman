@@ -8,21 +8,25 @@ export default {
     extend: {
       colors: {
         dew: {
-          green: "#F59E0B",     // Primary Championship Amber/Gold
-          neon: "#FBBF24",      // Bright Gold Highlight
-          red: "#EF4444",       // Athletic Red
-          yellow: "#CBD5E1",    // Platinum Silver
-          dark: "#0B0D11",      // Deep Matte Charcoal Canvas
-          card: "#131720",      // Slate Card Surface
-          border: "#1E2535",    // Clean Structural Border
-          accent: "#1B2232"     // Elevated Container Accent
+          green: "#FFFFFF",     // Primary Stark White
+          neon: "#F4F4F5",      // Off-white
+          red: "#DC2626",       // Rogue Barbell Red Accent
+          yellow: "#E4E4E7",    // Steel White
+          dark: "#080808",      // Pure Industrial Iron Black
+          card: "#121212",      // Matte Carbon Card Surface
+          border: "#262626",    // Sharp Steel Hairline Border
+          accent: "#1A1A1A"     // Elevated Gunmetal Panel
         },
-        tier: {
-          1: "#F59E0B",         // Tier 1 Gold
-          2: "#E2E8F0",         // Tier 2 Platinum/Silver
-          3: "#D97706",         // Tier 3 Bronze/Copper
-          4: "#64748B",         // Tier 4 Steel
-          5: "#475569"          // Tier 5 Muted Charcoal
+        rogue: {
+          black: "#080808",
+          dark: "#121212",
+          panel: "#181818",
+          border: "#262626",
+          borderStrong: "#404040",
+          white: "#FFFFFF",
+          gray: "#A1A1AA",
+          muted: "#52525B",
+          red: "#DC2626"
         }
       },
       fontFamily: {
@@ -31,10 +35,9 @@ export default {
         sans: ['Inter', 'sans-serif'],
       },
       boxShadow: {
-        'dew-glow': '0 4px 16px rgba(245, 158, 11, 0.20)',
-        'gold-glow': '0 0 20px rgba(245, 158, 11, 0.25)',
-        'silver-glow': '0 0 16px rgba(226, 232, 240, 0.20)',
-        'bronze-glow': '0 0 16px rgba(217, 119, 6, 0.20)',
+        'rogue-card': '0 4px 0px 0px rgba(255, 255, 255, 0.05)',
+        'rogue-white': '0 0 15px rgba(255, 255, 255, 0.15)',
+        'rogue-red': '0 0 15px rgba(220, 38, 38, 0.25)',
       }
     },
   },

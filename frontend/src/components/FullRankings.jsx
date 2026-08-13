@@ -56,39 +56,39 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
   return (
     <div className="space-y-8">
       
-      {/* Header Banner */}
-      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-[#131720] border border-[#1E2535] rounded-xl p-6 md:p-8 shadow-2xl">
+      {/* Header Banner (Rogue Hard-Angled Industrial) */}
+      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-[#121212] border-2 border-[#262626] rounded-none p-6 md:p-8 shadow-2xl">
         <div>
-          <div className="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-amber-500/10 border border-amber-500/30 text-amber-400 text-xs font-mono font-bold uppercase tracking-wider mb-2">
-            <Award className="w-3.5 h-3.5" />
-            <span>GLOBAL ATHLETE MATRIX • {division === 'women' ? "WOMEN'S OPEN" : "MEN'S OPEN"} DIVISION • {yearsLimit}-YEAR WINDOW</span>
+          <div className="inline-flex items-center space-x-2 px-3 py-1 bg-[#181818] border border-[#333333] text-zinc-300 text-xs font-mono font-bold uppercase tracking-wider mb-2 rounded-none">
+            <Award className="w-3.5 h-3.5 text-white" />
+            <span>GLOBAL ATHLETE MATRIX • {division === 'women' ? "WOMEN'S OPEN" : "MEN'S OPEN"} • {yearsLimit}-YEAR WINDOW</span>
           </div>
-          <h1 className="font-display text-4xl md:text-5xl font-extrabold uppercase text-slate-100 tracking-wide">
-            {division === 'women' ? "WOMEN'S OPEN" : "MEN'S OPEN"} <span className="dew-gradient-text">RANKINGS</span>
+          <h1 className="font-display text-4xl md:text-6xl font-black uppercase text-white tracking-wider">
+            {division === 'women' ? "WOMEN'S OPEN" : "MEN'S OPEN"} <span className="text-zinc-400">RANKINGS</span>
           </h1>
         </div>
 
-        {/* Division Switcher */}
-        <div className="flex items-center space-x-1.5 bg-[#0B0D11] p-1.5 rounded-lg border border-[#1E2535]">
+        {/* Division Switcher (Rogue Sharp Boxed Buttons) */}
+        <div className="flex items-center space-x-2 bg-[#080808] p-1.5 border-2 border-[#262626] rounded-none">
           <button
             onClick={() => { setDivision('men'); setPage(1); }}
-            className={`px-4 py-2 rounded-md font-display font-bold text-xs uppercase tracking-wider transition-all flex items-center space-x-2 ${
+            className={`px-5 py-2 font-display text-lg font-black uppercase tracking-wider transition-all rounded-none ${
               division === 'men'
-                ? 'bg-amber-500 text-black font-extrabold shadow-dew-glow'
-                : 'text-slate-300 hover:text-white hover:bg-white/5'
+                ? 'bg-white text-black shadow-rogue-white border-2 border-white'
+                : 'text-zinc-400 hover:text-white hover:bg-white/10 border-2 border-transparent'
             }`}
           >
-            <span>MEN'S OPEN</span>
+            MEN'S OPEN
           </button>
           <button
             onClick={() => { setDivision('women'); setPage(1); }}
-            className={`px-4 py-2 rounded-md font-display font-bold text-xs uppercase tracking-wider transition-all flex items-center space-x-2 ${
+            className={`px-5 py-2 font-display text-lg font-black uppercase tracking-wider transition-all rounded-none ${
               division === 'women'
-                ? 'bg-amber-500 text-black font-extrabold shadow-dew-glow'
-                : 'text-slate-300 hover:text-white hover:bg-white/5'
+                ? 'bg-white text-black shadow-rogue-white border-2 border-white'
+                : 'text-zinc-400 hover:text-white hover:bg-white/10 border-2 border-transparent'
             }`}
           >
-            <span>WOMEN'S OPEN</span>
+            WOMEN'S OPEN
           </button>
         </div>
       </div>
@@ -99,30 +99,30 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
           
           {/* Search */}
           <div className="relative col-span-1 sm:col-span-2">
-            <Search className="w-4 h-4 absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400" />
+            <Search className="w-4 h-4 absolute left-3.5 top-1/2 -translate-y-1/2 text-zinc-400" />
             <input
               type="text"
-              placeholder="Search athlete..."
+              placeholder="SEARCH ATHLETE BY NAME..."
               value={searchTerm}
               onChange={(e) => { setSearchTerm(e.target.value); setPage(1); }}
-              className="w-full bg-[#0E1118] text-slate-100 font-sans text-xs rounded-lg pl-10 pr-3 py-2.5 border border-[#1E2535] focus:outline-none focus:border-amber-500 transition-all placeholder:text-slate-500 shadow-inner"
+              className="w-full bg-[#121212] text-white font-mono text-xs rounded-none pl-10 pr-3 py-3 border-2 border-[#262626] focus:outline-none focus:border-white transition-all placeholder:text-zinc-500 uppercase font-bold"
             />
           </div>
 
           {/* Advanced Options Button */}
           <button
             onClick={() => setShowAdvanced(!showAdvanced)}
-            className={`flex items-center justify-between px-4 py-2.5 rounded-lg font-mono text-xs font-bold transition-all border ${
+            className={`flex items-center justify-between px-4 py-3 font-display text-base font-bold tracking-wider transition-all rounded-none uppercase border-2 ${
               isAdvancedActive || showAdvanced
-                ? 'bg-amber-500 text-black border-amber-500 shadow-dew-glow font-extrabold'
-                : 'bg-[#131720] text-slate-200 border-[#1E2535] hover:border-amber-500/50'
+                ? 'bg-white text-black border-white shadow-rogue-white font-black'
+                : 'bg-[#121212] text-zinc-300 border-[#262626] hover:border-zinc-400'
             }`}
           >
             <div className="flex items-center space-x-2">
               <SlidersHorizontal className="w-4 h-4" />
-              <span>ADVANCED OPTIONS</span>
+              <span>ADVANCED FILTERS</span>
               {isAdvancedActive && (
-                <span className="bg-black text-amber-400 px-1.5 py-0.5 rounded-full text-[10px] font-black">
+                <span className="bg-red-600 text-white px-1.5 py-0.5 text-[10px] font-mono font-black">
                   ACTIVE
                 </span>
               )}
@@ -134,19 +134,19 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
 
         {/* Collapsible Advanced Options Panel */}
         {showAdvanced && (
-          <div className="bg-[#131720] border border-[#1E2535] rounded-xl p-5 space-y-4 animate-in fade-in slide-in-from-top-2 duration-200 shadow-2xl">
-            <div className="flex items-center justify-between border-b border-[#1E2535] pb-3">
-              <div className="flex items-center space-x-2 text-amber-400 font-mono text-xs font-bold uppercase">
-                <SlidersHorizontal className="w-4 h-4" />
-                <span>ADVANCED RANKING SCORING FILTERS</span>
+          <div className="bg-[#121212] border-2 border-[#262626] rounded-none p-5 space-y-4 animate-in fade-in slide-in-from-top-2 duration-150 shadow-2xl">
+            <div className="flex items-center justify-between border-b border-[#262626] pb-3">
+              <div className="flex items-center space-x-2 text-white font-display text-lg font-bold uppercase tracking-wider">
+                <SlidersHorizontal className="w-4 h-4 text-white" />
+                <span>SCORING & TIMEFRAME CONTROLS</span>
               </div>
               {isAdvancedActive && (
                 <button
                   onClick={() => { setYearsLimit(5); setPlacementLimit('all'); setPage(1); }}
-                  className="flex items-center space-x-1.5 px-2.5 py-1 rounded-md bg-[#2A1515] border border-red-500/40 text-red-400 text-[11px] font-mono font-bold hover:bg-red-500 hover:text-white transition-all"
+                  className="flex items-center space-x-1.5 px-3 py-1 bg-red-600/20 border border-red-500 text-red-400 text-xs font-mono font-bold hover:bg-red-600 hover:text-white transition-all rounded-none uppercase"
                 >
                   <RotateCcw className="w-3 h-3" />
-                  <span>RESET ADVANCED</span>
+                  <span>RESET</span>
                 </button>
               )}
             </div>
@@ -155,15 +155,15 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
               
               {/* Timeframe Filter (1 to 5 Years) */}
               <div className="space-y-1.5">
-                <label className="text-[11px] font-mono text-slate-300 uppercase font-bold flex items-center space-x-1.5">
-                  <Calendar className="w-3.5 h-3.5 text-amber-400" />
+                <label className="text-[11px] font-mono text-zinc-300 uppercase font-bold flex items-center space-x-1.5">
+                  <Calendar className="w-3.5 h-3.5 text-white" />
                   <span>COMPETITION TIMEFRAME WINDOW</span>
                 </label>
                 <div className="relative">
                   <select
                     value={yearsLimit}
                     onChange={(e) => { setYearsLimit(Number(e.target.value)); setPage(1); }}
-                    className="w-full bg-[#0E1118] text-amber-400 font-mono text-xs font-bold rounded-lg px-3 py-2.5 border border-[#1E2535] focus:outline-none focus:border-amber-500 transition-all appearance-none cursor-pointer"
+                    className="w-full bg-[#181818] text-white font-mono text-xs font-bold rounded-none px-3 py-2.5 border-2 border-[#262626] focus:outline-none focus:border-white transition-all appearance-none cursor-pointer"
                   >
                     <option value={5}>5 Years (Full 60-Month Rolling History)</option>
                     <option value={4}>4 Years (Last 48 Months)</option>
@@ -171,27 +171,27 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
                     <option value={2}>2 Years (Last 24 Months)</option>
                     <option value={1}>1 Year (Last 12 Months)</option>
                   </select>
-                  <ChevronDown className="w-4 h-4 absolute right-3 top-1/2 -translate-y-1/2 text-amber-400 pointer-events-none" />
+                  <ChevronDown className="w-4 h-4 absolute right-3 top-1/2 -translate-y-1/2 text-zinc-400 pointer-events-none" />
                 </div>
               </div>
 
               {/* Placements Scope Filter (Top 5, Top 10, All) */}
               <div className="space-y-1.5">
-                <label className="text-[11px] font-mono text-slate-300 uppercase font-bold flex items-center space-x-1.5">
-                  <Trophy className="w-3.5 h-3.5 text-slate-300" />
+                <label className="text-[11px] font-mono text-zinc-300 uppercase font-bold flex items-center space-x-1.5">
+                  <Trophy className="w-3.5 h-3.5 text-zinc-300" />
                   <span>ATHLETE EVALUATED PLACEMENTS SCOPE</span>
                 </label>
                 <div className="relative">
                   <select
                     value={placementLimit}
                     onChange={(e) => { setPlacementLimit(e.target.value); setPage(1); }}
-                    className="w-full bg-[#0E1118] text-slate-200 font-mono text-xs font-bold rounded-lg px-3 py-2.5 border border-[#1E2535] focus:outline-none focus:border-amber-500 transition-all appearance-none cursor-pointer"
+                    className="w-full bg-[#181818] text-white font-mono text-xs font-bold rounded-none px-3 py-2.5 border-2 border-[#262626] focus:outline-none focus:border-white transition-all appearance-none cursor-pointer"
                   >
                     <option value="all">All Placements (Accumulate All Shows)</option>
                     <option value="top5">Top 5 Placements (Only Best 5 Shows)</option>
                     <option value="top10">Top 10 Placements (Only Best 10 Shows)</option>
                   </select>
-                  <ChevronDown className="w-4 h-4 absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 pointer-events-none" />
+                  <ChevronDown className="w-4 h-4 absolute right-3 top-1/2 -translate-y-1/2 text-zinc-400 pointer-events-none" />
                 </div>
               </div>
 
@@ -200,101 +200,101 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
         )}
       </div>
 
-      {/* Mobile Card List View (Visible on small screens: Pixel, iPhone) */}
+      {/* Mobile Card List View (Visible on small screens) */}
       <div className="block sm:hidden space-y-2.5">
         {pagedRankings.map((item) => (
           <div
             key={item.competitor.id}
             onClick={() => onSelectCompetitor(item)}
-            className="dew-glass-card p-3.5 flex items-center justify-between gap-3 active:scale-[0.98] transition-transform cursor-pointer border border-[#1E2535] hover:border-amber-500/50"
+            className="bg-[#121212] p-4 flex items-center justify-between gap-3 active:scale-[0.98] transition-transform cursor-pointer border-2 border-[#262626] hover:border-white rounded-none"
           >
             <div className="flex items-center space-x-3 min-w-0">
-              <span className={`font-display text-2xl font-black shrink-0 ${
-                item.globalRank === 1 ? 'text-amber-400' :
-                item.globalRank === 2 ? 'text-slate-300' :
-                item.globalRank === 3 ? 'text-amber-600' : 'text-slate-500'
+              <span className={`font-display text-2xl font-black px-2 py-0.5 shrink-0 rounded-none ${
+                item.globalRank === 1 ? 'bg-white text-black shadow-rogue-white' :
+                item.globalRank === 2 ? 'bg-zinc-300 text-black' :
+                item.globalRank === 3 ? 'bg-zinc-700 text-white' : 'text-zinc-500'
               }`}>
                 #{item.globalRank}
               </span>
               <div className="min-w-0">
-                <div className="font-heading font-bold text-slate-100 text-base truncate">
+                <div className="font-display font-black text-white text-xl tracking-wide truncate uppercase">
                   {item.competitor.name}
                 </div>
-                <div className="text-xs font-mono text-slate-400 flex items-center gap-1.5 mt-0.5">
+                <div className="text-xs font-mono text-zinc-400 flex items-center gap-1.5 mt-0.5">
                   <span>{item.competitor.flagEmoji || '🌐'} {item.competitor.country}</span>
                   <span>•</span>
-                  <span>{item.totalShows} shows</span>
+                  <span>{item.totalShows} SHOWS</span>
                 </div>
               </div>
             </div>
 
             <div className="flex items-center space-x-2 shrink-0">
               <div className="text-right">
-                <div className="font-display text-2xl font-black text-amber-400">
+                <div className="font-display text-3xl font-black text-white">
                   {item.totalPoints.toFixed(1)}
                 </div>
-                <div className="text-[9px] font-mono text-slate-400 uppercase">PTS</div>
+                <div className="text-[9px] font-mono text-zinc-400 uppercase">PTS</div>
               </div>
-              <ChevronRight className="w-4 h-4 text-slate-400 shrink-0" />
+              <ChevronRight className="w-4 h-4 text-zinc-400 shrink-0" />
             </div>
           </div>
         ))}
       </div>
 
-      {/* Desktop/Tablet Table List View (Visible on sm+ screens) */}
-      <div className="hidden sm:block dew-glass-card overflow-hidden border border-[#1E2535]">
+      {/* Desktop/Tablet Table List View (Rogue Hard-Angled Table) */}
+      <div className="hidden sm:block bg-[#121212] overflow-hidden border-2 border-[#262626] rounded-none shadow-2xl">
         <div className="overflow-x-auto">
           <table className="w-full text-left border-collapse">
             <thead>
-              <tr className="bg-[#181E2B] border-b border-[#1E2535] text-xs font-mono text-slate-400 uppercase tracking-wider">
-                <th className="py-3.5 px-6 text-center w-16">RANK</th>
-                <th className="py-3.5 px-6">COMPETITOR</th>
-                <th className="py-3.5 px-6 text-center">SHOWS</th>
-                <th className="py-3.5 px-6 text-center">WINS</th>
-                <th className="py-3.5 px-6 text-center">PODIUMS</th>
-                <th className="py-3.5 px-6 text-right">TOTAL POINTS</th>
-                <th className="py-3.5 px-4"></th>
+              <tr className="bg-[#181818] border-b-2 border-[#262626] text-xs font-mono text-zinc-400 uppercase tracking-widest">
+                <th className="py-4 px-6 text-center w-20">RANK</th>
+                <th className="py-4 px-6">ATHLETE</th>
+                <th className="py-4 px-6 text-center">SHOWS</th>
+                <th className="py-4 px-6 text-center">WINS</th>
+                <th className="py-4 px-6 text-center">PODIUMS</th>
+                <th className="py-4 px-6 text-right">TOTAL POINTS</th>
+                <th className="py-4 px-4"></th>
               </tr>
             </thead>
-            <tbody className="divide-y divide-[#1E2535]/60 text-sm bg-[#131720]">
+            <tbody className="divide-y divide-[#262626] text-sm bg-[#121212]">
               {pagedRankings.map((item) => (
                 <tr
                   key={item.competitor.id}
                   onClick={() => onSelectCompetitor(item)}
-                  className="hover:bg-[#1A2130] transition-colors cursor-pointer group"
+                  className="hover:bg-[#1A1A1A] transition-colors cursor-pointer group"
                 >
-                  <td className="py-3.5 px-6 text-center">
-                    <span className={`font-display text-xl font-black ${
-                      item.globalRank === 1 ? 'text-amber-400' :
-                      item.globalRank === 2 ? 'text-slate-300' :
-                      item.globalRank === 3 ? 'text-amber-600' : 'text-slate-500'
+                  <td className="py-4 px-6 text-center">
+                    <span className={`font-display text-2xl font-black px-2 py-0.5 rounded-none inline-block ${
+                      item.globalRank === 1 ? 'bg-white text-black shadow-rogue-white' :
+                      item.globalRank === 2 ? 'bg-zinc-300 text-black' :
+                      item.globalRank === 3 ? 'bg-zinc-700 text-white' : 'text-zinc-500'
                     }`}>
                       #{item.globalRank}
                     </span>
                   </td>
-                  <td className="py-3.5 px-6">
+                  <td className="py-4 px-6">
                     <div className="flex items-center space-x-4">
                       <div>
-                        <div className="font-heading text-base font-bold text-slate-100 flex items-center space-x-2">
+                        <div className="font-display text-xl font-black text-white tracking-wider uppercase flex items-center space-x-2 group-hover:text-zinc-200">
                           <span>{item.competitor.name}</span>
                         </div>
                       </div>
                     </div>
                   </td>
-                  <td className="py-3.5 px-6 text-center font-mono font-bold text-slate-300">
+                  <td className="py-4 px-6 text-center font-mono font-bold text-zinc-300">
                     {item.totalShows}
                   </td>
-                  <td className="py-3.5 px-6 text-center font-mono font-bold text-amber-400">
+                  <td className="py-4 px-6 text-center font-mono font-bold text-white">
                     {item.winsCount}
                   </td>
-                  <td className="py-3.5 px-6 text-center font-mono font-bold text-slate-300">
+                  <td className="py-4 px-6 text-center font-mono font-bold text-zinc-300">
                     {item.podiumsCount}
                   </td>
-                  <td className="py-3.5 px-6 text-right font-display text-2xl font-black text-amber-400">
-                    {item.totalPoints.toFixed(1)} <span className="text-xs font-mono text-slate-400">PTS</span>
+                  <td className="py-4 px-6 text-right font-display text-3xl font-black text-white">
+                    {item.totalPoints.toFixed(1)} <span className="text-xs font-mono text-zinc-400">PTS</span>
                   </td>
-                  <td className="py-3.5 px-4 text-right">
-                    <ChevronRight className="w-4 h-4 text-slate-400 group-hover:text-amber-400 group-hover:translate-x-0.5 transition-all" />
+                  <td className="py-4 px-4 text-right">
+                    <ChevronRight className="w-4 h-4 text-zinc-500 group-hover:text-white group-hover:translate-x-1 transition-all" />
                   </td>
                 </tr>
               ))}
@@ -309,21 +309,21 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
           <button
             onClick={() => setPage(p => Math.max(1, p - 1))}
             disabled={safePage === 1}
-            className="flex items-center space-x-2 px-3.5 py-1.5 rounded-lg bg-[#131720] border border-[#1E2535] text-slate-300 font-mono text-xs font-bold disabled:opacity-30 hover:border-amber-500 hover:text-white transition-all shadow-sm"
+            className="flex items-center space-x-2 px-4 py-2 rounded-none bg-[#121212] border-2 border-[#262626] text-zinc-300 font-mono text-xs font-bold disabled:opacity-30 hover:border-white hover:text-white transition-all uppercase"
           >
             <ChevronLeft className="w-3.5 h-3.5" />
             <span>PREV</span>
           </button>
 
-          <div className="font-mono text-xs text-slate-400">
-            Page <span className="text-amber-400 font-bold">{safePage}</span> of <span className="text-slate-200 font-bold">{totalPages}</span>
-            <span className="ml-3 text-slate-500">({filteredRankings.length} athletes)</span>
+          <div className="font-mono text-xs text-zinc-400 uppercase font-bold">
+            PAGE <span className="text-white font-black">{safePage}</span> OF <span className="text-zinc-200 font-black">{totalPages}</span>
+            <span className="ml-3 text-zinc-500">({filteredRankings.length} ATHLETES)</span>
           </div>
 
           <button
             onClick={() => setPage(p => Math.min(totalPages, p + 1))}
             disabled={safePage === totalPages}
-            className="flex items-center space-x-2 px-3.5 py-1.5 rounded-lg bg-[#131720] border border-[#1E2535] text-slate-300 font-mono text-xs font-bold disabled:opacity-30 hover:border-amber-500 hover:text-white transition-all shadow-sm"
+            className="flex items-center space-x-2 px-4 py-2 rounded-none bg-[#121212] border-2 border-[#262626] text-zinc-300 font-mono text-xs font-bold disabled:opacity-30 hover:border-white hover:text-white transition-all uppercase"
           >
             <span>NEXT</span>
             <ChevronRight className="w-3.5 h-3.5" />
