@@ -27,27 +27,30 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
     return Array.from(set).sort();
   }, [rankings]);
 
+  // Normalize text to remove diacritics/accents for seamless searching
+  const normalize = (str) =>
+    (str || '').normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+
   // Filtered & Sorted Rankings
   const filteredRankings = useMemo(() => {
     if (!rankings) return [];
+    const term = normalize(searchTerm);
     return rankings
       .filter((item) => {
         const matchesSearch =
-          item.competitor.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-          item.competitor.country.toLowerCase().includes(searchTerm.toLowerCase());
+          normalize(item.competitor.name).includes(term) ||
+          normalize(item.competitor.country).includes(term);
         const matchesCountry = selectedCountry === 'ALL' || item.competitor.country === selectedCountry;
         return matchesSearch && matchesCountry;
       })
-      .sort((a, b) => a.rank - b.rank);
+      .sort((a, b) => a.globalRank - b.globalRank);
   }, [rankings, searchTerm, selectedCountry]);
 
   // Pagination
   const totalPages = Math.max(1, Math.ceil(filteredRankings.length / PAGE_SIZE));
   const safePage = Math.min(page, totalPages);
   const pagedRankings = useMemo(() => {
-    return filteredRankings
-      .slice((safePage - 1) * PAGE_SIZE, safePage * PAGE_SIZE)
-      .map((item, idx) => ({ ...item, globalRank: (safePage - 1) * PAGE_SIZE + idx + 1 }));
+    return filteredRankings.slice((safePage - 1) * PAGE_SIZE, safePage * PAGE_SIZE);
   }, [filteredRankings, safePage]);
 
   return (
