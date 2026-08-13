@@ -75,7 +75,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
                 : 'text-gray-400 hover:text-white hover:bg-white/5'
             }`}
           >
-            <span>MEN'S OPEN ♂</span>
+            <span>MEN'S OPEN</span>
           </button>
           <button
             onClick={() => { setDivision('women'); setPage(1); }}
@@ -85,7 +85,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
                 : 'text-gray-400 hover:text-white hover:bg-white/5'
             }`}
           >
-            <span>WOMEN'S OPEN ♀</span>
+            <span>WOMEN'S OPEN</span>
           </button>
         </div>
       </div>
