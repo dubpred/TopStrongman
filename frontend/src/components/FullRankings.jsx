@@ -238,29 +238,29 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
         ))}
       </div>
 
-      {/* Desktop/Tablet Table List View (Rogue Hard-Angled Table) */}
-      <div className="hidden sm:block bg-[#121212] overflow-hidden border-2 border-[#262626] rounded-none">
+      {/* Desktop/Tablet Table List View (Rogue Hard-Angled Table with white gap between athlete rows) */}
+      <div className="hidden sm:block overflow-hidden">
         <div className="overflow-x-auto">
-          <table className="w-full text-left border-collapse">
+          <table className="w-full text-left border-separate border-spacing-y-2">
             <thead>
-              <tr className="bg-[#181818] border-b-2 border-[#262626] text-xs font-mono text-zinc-400 uppercase tracking-widest">
-                <th className="py-4 px-6 text-center w-20">RANK</th>
-                <th className="py-4 px-6">ATHLETE</th>
-                <th className="py-4 px-6 text-center">SHOWS</th>
-                <th className="py-4 px-6 text-center">WINS</th>
-                <th className="py-4 px-6 text-center">PODIUMS</th>
-                <th className="py-4 px-6 text-right">TOTAL POINTS</th>
-                <th className="py-4 px-4"></th>
+              <tr className="bg-[#121212] text-xs font-mono text-zinc-400 uppercase tracking-widest">
+                <th className="py-3.5 px-6 text-center w-20 border-y-2 border-l-2 border-[#262626]">RANK</th>
+                <th className="py-3.5 px-6 border-y-2 border-[#262626]">ATHLETE</th>
+                <th className="py-3.5 px-6 text-center border-y-2 border-[#262626]">SHOWS</th>
+                <th className="py-3.5 px-6 text-center border-y-2 border-[#262626]">WINS</th>
+                <th className="py-3.5 px-6 text-center border-y-2 border-[#262626]">PODIUMS</th>
+                <th className="py-3.5 px-6 text-right border-y-2 border-[#262626]">TOTAL POINTS</th>
+                <th className="py-3.5 px-4 border-y-2 border-r-2 border-[#262626]"></th>
               </tr>
             </thead>
-            <tbody className="divide-y divide-[#262626] text-sm bg-[#121212]">
+            <tbody className="text-sm">
               {pagedRankings.map((item) => (
                 <tr
                   key={item.competitor.id}
                   onClick={() => onSelectCompetitor(item)}
-                  className="hover:bg-[#1A1A1A] transition-colors cursor-pointer group"
+                  className="bg-[#121212] hover:bg-[#1A1A1A] transition-colors cursor-pointer group"
                 >
-                  <td className="py-4 px-6 text-center">
+                  <td className="py-3.5 px-6 text-center border-y-2 border-l-2 border-[#262626] group-hover:border-white transition-colors">
                     <span className={`font-display text-2xl font-black px-2 py-0.5 rounded-none inline-block ${
                       item.globalRank === 1 ? 'bg-white text-black' :
                       item.globalRank === 2 ? 'bg-zinc-300 text-black' :
@@ -269,28 +269,31 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
                       #{item.globalRank}
                     </span>
                   </td>
-                  <td className="py-4 px-6">
+                  <td className="py-3.5 px-6 border-y-2 border-[#262626] group-hover:border-white transition-colors">
                     <div className="flex items-center space-x-4">
                       <div>
                         <div className="font-display text-xl font-black text-white tracking-wider uppercase flex items-center space-x-2 group-hover:text-zinc-200">
                           <span>{item.competitor.name}</span>
                         </div>
+                        <div className="text-xs font-mono text-zinc-400 mt-0.5">
+                          {item.competitor.country}
+                        </div>
                       </div>
                     </div>
                   </td>
-                  <td className="py-4 px-6 text-center font-mono font-bold text-zinc-300">
+                  <td className="py-3.5 px-6 text-center font-mono font-bold text-zinc-300 border-y-2 border-[#262626] group-hover:border-white transition-colors">
                     {item.totalShows}
                   </td>
-                  <td className="py-4 px-6 text-center font-mono font-bold text-white">
+                  <td className="py-3.5 px-6 text-center font-mono font-bold text-white border-y-2 border-[#262626] group-hover:border-white transition-colors">
                     {item.winsCount}
                   </td>
-                  <td className="py-4 px-6 text-center font-mono font-bold text-zinc-300">
+                  <td className="py-3.5 px-6 text-center font-mono font-bold text-zinc-300 border-y-2 border-[#262626] group-hover:border-white transition-colors">
                     {item.podiumsCount}
                   </td>
-                  <td className="py-4 px-6 text-right font-display text-3xl font-black text-white">
+                  <td className="py-3.5 px-6 text-right font-display text-3xl font-black text-white border-y-2 border-[#262626] group-hover:border-white transition-colors">
                     {item.totalPoints.toFixed(1)} <span className="text-xs font-mono text-zinc-400">PTS</span>
                   </td>
-                  <td className="py-4 px-4 text-right">
+                  <td className="py-3.5 px-4 text-right border-y-2 border-r-2 border-[#262626] group-hover:border-white transition-colors">
                     <ChevronRight className="w-4 h-4 text-zinc-500 group-hover:text-white group-hover:translate-x-1 transition-all" />
                   </td>
                 </tr>
