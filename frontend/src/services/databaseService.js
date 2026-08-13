@@ -467,11 +467,14 @@ export function computeRankingsFromDatabase(options = {}) {
   return rankings;
 }
 
-export function getAllShowsWithDifficulty() {
+export function getAllShowsWithDifficulty(division = 'men') {
   const map = {};
+  const targetDivision = division === 'women' ? 'women' : (division === 'all' ? 'all' : 'men');
   databaseRows.forEach(row => {
     if (isOmittedShow(row.Show_Name)) return;
     if (getRecencyMultiplier(row.Date) === 0.0) return;
+    const rowDiv = row.division || 'men';
+    if (targetDivision !== 'all' && rowDiv !== targetDivision) return;
     if (!map[row.Show_Name]) {
       const tierInfo = getTierInfo(row.Show_Promotion, row.Show_Name);
       const tierFormatted = (tierInfo.name || "TIER_4").replace('_', ' ');
@@ -480,6 +483,7 @@ export function getAllShowsWithDifficulty() {
         promotion: row.Show_Promotion,
         year: row.Year,
         date: row.Date,
+        division: rowDiv,
         difficulty: row.difficulty !== undefined ? row.difficulty : 0,
         tier: tierFormatted,
         tierName: tierInfo.name,

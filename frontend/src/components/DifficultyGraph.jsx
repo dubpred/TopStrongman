@@ -3,13 +3,14 @@ import { getAllShowsWithDifficulty } from '../services/databaseService';
 import { TrendingUp, Search, Filter, Info, ShieldCheck, Award } from 'lucide-react';
 
 export default function DifficultyGraph() {
+  const [division, setDivision] = useState('men');
   const [selectedTier, setSelectedTier] = useState('ALL');
   const [searchTerm, setSearchTerm] = useState('');
   const [hoveredShow, setHoveredShow] = useState(null);
 
   const rawShows = useMemo(() => {
-    return getAllShowsWithDifficulty();
-  }, []);
+    return getAllShowsWithDifficulty(division);
+  }, [division]);
 
   // Filter shows by selected tier and search term
   const filteredShows = useMemo(() => {
@@ -33,7 +34,7 @@ export default function DifficultyGraph() {
 
   const totalCount = rawShows.length;
 
-  // Map show to SVG coordinates (x: rank 1..90, y: difficulty 0..1000)
+  // Map show to SVG coordinates (x: rank 1..N, y: difficulty 0..1000)
   const getCoordinates = (show) => {
     const rawIndex = rawShows.findIndex(s => s.name === show.name);
     const xFraction = totalCount > 1 ? rawIndex / (totalCount - 1) : 0;
@@ -72,6 +73,8 @@ export default function DifficultyGraph() {
     }
   };
 
+  const topShowName = rawShows[0]?.name || 'Benchmark #1';
+
   return (
     <div className="dew-glass-card p-6 md:p-8 rounded-3xl border border-dew-green/40 bg-gradient-to-br from-[#0D180D] via-[#142214] to-[#080D08] space-y-6 shadow-2xl">
       
@@ -80,31 +83,58 @@ export default function DifficultyGraph() {
         <div>
           <div className="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-dew-green/10 border border-dew-green/30 text-dew-green text-xs font-mono font-bold uppercase tracking-wider mb-2">
             <TrendingUp className="w-3.5 h-3.5" />
-            <span>NON-LINEAR POWER CURVE MODEL (p = 2.5)</span>
+            <span>NON-LINEAR POWER CURVE MODEL (p = 2.5) • {division === 'women' ? "WOMEN'S OPEN" : "MEN'S OPEN"}</span>
           </div>
           <h2 className="font-display text-3xl md:text-4xl font-extrabold uppercase text-white tracking-wide">
-            COMPETITION DIFFICULTY <span className="dew-gradient-text">SCALING GRAPH</span>
+            {division === 'women' ? "WOMEN'S" : "MEN'S"} DIFFICULTY <span className="dew-gradient-text">SCALING GRAPH</span>
           </h2>
           <p className="text-gray-300 text-xs font-mono mt-1">
-            Visual plot of all {rawShows.length} competitions scaled relative to hardest benchmark show (Rogue 2024 = 1000.0 PTS)
+            Visual plot of all {rawShows.length} {division === 'women' ? "Women's" : "Men's"} competitions scaled relative to hardest benchmark ({topShowName} = 1000.0 PTS)
           </p>
         </div>
 
-        {/* Tier Filter Tabs */}
-        <div className="flex flex-wrap gap-1.5 font-mono text-xs">
-          {['ALL', 'TIER 1', 'TIER 2', 'TIER 3', 'TIER 4', 'TIER 5'].map((t) => (
+        {/* Division Switcher & Tier Filter Tabs */}
+        <div className="flex flex-col sm:flex-row items-start sm:items-center gap-3">
+          {/* Division Switcher */}
+          <div className="flex items-center space-x-1.5 bg-[#080D08] p-1.5 rounded-2xl border border-dew-green/30 shadow-inner font-mono text-xs">
             <button
-              key={t}
-              onClick={() => setSelectedTier(t)}
-              className={`px-3 py-1.5 rounded-xl font-bold transition-all border ${
-                selectedTier === t
-                  ? 'bg-dew-green text-black border-dew-green font-extrabold shadow-dew-glow'
-                  : 'bg-[#080D08] text-gray-300 border-dew-green/20 hover:border-dew-green/50'
+              onClick={() => { setDivision('men'); setHoveredShow(null); }}
+              className={`px-3 py-1.5 rounded-xl font-bold uppercase transition-all ${
+                division === 'men'
+                  ? 'bg-dew-green text-black font-extrabold shadow-dew-glow'
+                  : 'text-gray-400 hover:text-white'
               }`}
             >
-              {t}
+              MEN'S OPEN
             </button>
-          ))}
+            <button
+              onClick={() => { setDivision('women'); setHoveredShow(null); }}
+              className={`px-3 py-1.5 rounded-xl font-bold uppercase transition-all ${
+                division === 'women'
+                  ? 'bg-dew-green text-black font-extrabold shadow-dew-glow'
+                  : 'text-gray-400 hover:text-white'
+              }`}
+            >
+              WOMEN'S OPEN
+            </button>
+          </div>
+
+          {/* Tier Filter Tabs */}
+          <div className="flex flex-wrap gap-1 font-mono text-xs">
+            {['ALL', 'TIER 1', 'TIER 2', 'TIER 3', 'TIER 4', 'TIER 5'].map((t) => (
+              <button
+                key={t}
+                onClick={() => setSelectedTier(t)}
+                className={`px-2.5 py-1 rounded-xl font-bold transition-all border text-[11px] ${
+                  selectedTier === t
+                    ? 'bg-dew-green text-black border-dew-green font-extrabold shadow-dew-glow'
+                    : 'bg-[#080D08] text-gray-300 border-dew-green/20 hover:border-dew-green/50'
+                }`}
+              >
+                {t}
+              </button>
+            ))}
+          </div>
         </div>
       </div>
 
