@@ -16,7 +16,7 @@ export default function Footer() {
               <Flame className="w-4 h-4 text-dew-red fill-dew-red" />
               <span>Dynamic Competition Difficulty & 5-Year Time Recency Decay</span>
             </p>
-            <p>Data derived from major international show standings (WSM, ASC, Rogue, SMOE, Giants Live, ESM, NASM, SCL, ASM, OSG).</p>
+            <p>Data derived from <a href="https://strongmanarchives.com" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-dew-green hover:underline">StrongmanArchive.com</a></p>
           </div>
         </div>
 
