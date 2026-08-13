@@ -241,12 +241,14 @@ export default function DifficultyGraph() {
                     strokeWidth="2"
                   />
                 )}
-                {/* Main Data Dot (Solid Red - No Outline) */}
+                {/* Main Data Dot (Solid Red - Thin Black Outline) */}
                 <circle
                   cx={x}
                   cy={y}
                   r={radius}
                   fill="#DC2626"
+                  stroke="#000000"
+                  strokeWidth="0.75"
                 />
               </g>
             );
