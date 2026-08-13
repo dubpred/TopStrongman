@@ -66,11 +66,11 @@ export default function ShowsAndTiers({ showsData }) {
       multiplier: '0.25x Multiplier',
       color: 'border-gray-600 text-gray-400 bg-gray-900/50',
       badge: 'bg-gray-700 text-white',
-      description: 'Local town cups, amateur/novice invitationals, regional challenges, and single-lift record events.',
+      description: 'Local town cups, amateur/novice invitationals, and regional challenges.',
       shows: [
         "Local Town Cups & Regional Spectacles (Achlum, Pehar, Festif, Hero of Baikal)",
         "Amateur & Novice Open Invitationals",
-        "Single-Lift Record Championships (World Log Lift & World Deadlift Championships)"
+        "Single-Lift Record Challenges (e.g. World Log Lift Championships)"
       ]
     }
   ];

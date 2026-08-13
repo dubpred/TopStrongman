@@ -18,7 +18,8 @@ function classifyDivision(showName) {
     name.includes("u90") || name.includes("u80") || name.includes("masters") || name.includes("novice") || name.includes("inspirational")
   );
   const isWsmHeat = (name.includes("wsm") && (name.includes("group") || name.includes("heat"))) || name.includes("wsm group");
-  if (isWeightOrMasters || isWsmHeat) {
+  const isDeadliftChampionship = name.includes("world deadlift") || name.includes("deadlift championship") || name.includes("deadlift championchip");
+  if (isWeightOrMasters || isWsmHeat || isDeadliftChampionship) {
     return "OMITTED";
   }
   const isWomen = name.includes("women") || name.includes("woman") || name.includes("wsw") || name.includes("female");
@@ -56,7 +57,7 @@ function getTierInfo(showName, division) {
     name.includes("giants live") || name.includes("arnold") ||
     name.includes("world tour finals") || name.includes("strongman classic") || name.includes("strongwoman classic") ||
     name.includes("world open") || name.includes("strongman open") || name.includes("strongwoman open") ||
-    name.includes("world deadlift") || name.includes("world log lift") || name.includes("log lift championships")
+    name.includes("world log lift") || name.includes("log lift championships")
   ) {
     return { tier: "TIER_2", multiplier: 3.0 };
   }

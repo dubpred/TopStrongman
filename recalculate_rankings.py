@@ -18,13 +18,14 @@ POWER_EXPONENT = 1.5
 def classify_division(show_name):
     name = (show_name or "").lower()
 
-    # Omit weight classes (U64, U73, U82, U90, U105, 105), masters, heats, novice
+    # Omit weight classes, masters, heats, novice, and single-lift deadlift championships
     is_weight_or_masters = (
         "u64" in name or "u73" in name or "u82" in name or "105" in name or "u105" in name or
         "u90" in name or "u80" in name or "masters" in name or "novice" in name or "inspirational" in name
     )
     is_wsm_heat = ("wsm" in name and ("group" in name or "heat" in name)) or "wsm group" in name
-    if is_weight_or_masters or is_wsm_heat:
+    is_deadlift_championship = "world deadlift" in name or "deadlift championship" in name or "deadlift championchip" in name
+    if is_weight_or_masters or is_wsm_heat or is_deadlift_championship:
         return "OMITTED"
 
     is_women = ("women" in name or "woman" in name or "wsw" in name or "female" in name)
@@ -58,7 +59,7 @@ def get_tier_info(show_name, division):
         "giants live" in name or "arnold" in name or
         "world tour finals" in name or "strongman classic" in name or "strongwoman classic" in name or
         "world open" in name or "strongman open" in name or "strongwoman open" in name or
-        "world deadlift" in name or "world log lift" in name or "log lift championships" in name
+        "world log lift" in name or "log lift championships" in name
     ):
         return "TIER_2", 3.0
 

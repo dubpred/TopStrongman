@@ -42,9 +42,16 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 }
 
+def is_excluded_contest(contest_name):
+    name = (contest_name or "").lower()
+    # Exclude single-lift World Deadlift Championships and variations
+    if "world deadlift" in name or "deadlift championship" in name or "deadlift championchip" in name:
+        return True
+    return False
+
 def load_existing_data(file_path):
     """
-    Loads existing scraped dataset if present.
+    Loads existing scraped dataset if present and filters out excluded contests.
     Returns:
       data (list of dict): All previously scraped contest objects.
       scraped_ids (set): Set of contest IDs already processed.
@@ -52,9 +59,10 @@ def load_existing_data(file_path):
     if os.path.exists(file_path):
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                scraped_ids = {item['contest_id'] for item in data if 'contest_id' in item}
-                logging.info(f"Loaded existing data from {file_path}. Found {len(data)} contests ({len(scraped_ids)} unique IDs).")
+                raw_data = json.load(f)
+                data = [item for item in raw_data if not is_excluded_contest(item.get('contest_name', ''))]
+                scraped_ids = {item['contest_id'] for item in raw_data if 'contest_id' in item}
+                logging.info(f"Loaded existing data from {file_path}. Found {len(data)} valid contests ({len(scraped_ids)} unique IDs).")
                 return data, scraped_ids
         except Exception as e:
             logging.error(f"Error reading existing {file_path}: {e}. Starting fresh.")
@@ -97,6 +105,8 @@ def scrape_contest(session, contest_id):
     if r_page.status_code != 200 or "viewContest.php" not in r_page.url:
         return None
 
+    soup = BeautifulSoup(r_page.content, 'html.parser')
+
     # Extract Contest Title & Details with robust 3-tier strategy
     h3 = soup.find('h3')
     contest_name = h3.text.strip() if (h3 and h3.text.strip() and h3.text.strip() != '#') else None
@@ -118,6 +128,10 @@ def scrape_contest(session, contest_id):
 
     if not contest_name or contest_name == '#':
         contest_name = f"Contest #{contest_id}"
+
+    if is_excluded_contest(contest_name):
+        logging.info(f"[ID {contest_id}] Excluded single-lift contest: {contest_name}")
+        return None
 
     # Fetch competitor results via AJAX endpoint
     post_headers = {

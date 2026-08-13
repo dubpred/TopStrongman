@@ -1,15 +1,16 @@
 import databaseRows from './database_strongman.json';
 
-// Omit Masters division, weight-class competitions, and WSM Group Stage Heats
+// Omit Masters division, weight-class competitions, WSM Group Stage Heats, and World Deadlift Championships
 const isOmittedShow = (showName) => {
   const name = (showName || "").toLowerCase();
   const isWeightOrMasters = (
     name.includes("105") || name.includes("u105") ||
     name.includes("u90") || name.includes("u80") ||
-    name.includes("masters")
+    name.includes("masters") || name.includes("novice")
   );
   const isWsmHeat = (name.includes("wsm") && (name.includes("group") || name.includes("heat")));
-  return isWeightOrMasters || isWsmHeat;
+  const isDeadliftChampionship = name.includes("world deadlift") || name.includes("deadlift championship") || name.includes("deadlift championchip");
+  return isWeightOrMasters || isWsmHeat || isDeadliftChampionship;
 };
 
 // Explicit 5-Tier classification by show name and promotion
@@ -51,7 +52,7 @@ const getTierInfo = (promotion, showName) => {
     name.includes("giants live") || name.includes("arnold") ||
     name.includes("world tour finals") || name.includes("strongman classic") ||
     name.includes("world open") || name.includes("strongman open") ||
-    name.includes("world deadlift") || name.includes("world log lift") ||
+    name.includes("world log lift") ||
     name.includes("log lift championships") || promo === "giants live"
   ) {
     return { name: "TIER_2", multiplier: 3.0 };

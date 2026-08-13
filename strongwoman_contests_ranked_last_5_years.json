@@ -8,7 +8,7 @@
     "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 12,
-    "raw_difficulty": 24739.449878632826,
+    "raw_difficulty": 24735.820864929075,
     "top_5_finishers": [
       "Inez Carrasquillo (#1)",
       "Olga Liashchuk (#2)",
@@ -102,7 +102,7 @@
     "recency_multiplier": 1,
     "division": "women",
     "total_competitors": 12,
-    "raw_difficulty": 23755.0185598454,
+    "raw_difficulty": 23561.934318528,
     "top_5_finishers": [
       "Angelica Jardine (#1)",
       "Olga Liashchuk (#2)",
@@ -184,7 +184,7 @@
         "score": 7
       }
     ],
-    "difficulty_score": 940.9,
+    "difficulty_score": 929.7,
     "competition_rank": 2
   },
   {
@@ -196,7 +196,7 @@
     "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 23755.018559845405,
+    "raw_difficulty": 23561.934318528,
     "top_5_finishers": [
       "Inez Carrasquillo (#1)",
       "Olga Liashchuk (#2)",
@@ -266,7 +266,7 @@
         "score": 10
       }
     ],
-    "difficulty_score": 940.9,
+    "difficulty_score": 929.7,
     "competition_rank": 3
   },
   {
@@ -278,7 +278,7 @@
     "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 23755.018559845405,
+    "raw_difficulty": 23561.934318528,
     "top_5_finishers": [
       "Inez Carrasquillo (#1)",
       "Olga Liashchuk (#2)",
@@ -348,7 +348,7 @@
         "score": 17
       }
     ],
-    "difficulty_score": 940.9,
+    "difficulty_score": 929.7,
     "competition_rank": 4
   },
   {
@@ -360,7 +360,7 @@
     "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 23755.018559845405,
+    "raw_difficulty": 23561.934318528,
     "top_5_finishers": [
       "Olga Liashchuk (#1)",
       "Inez Carrasquillo (#2)",
@@ -430,7 +430,7 @@
         "score": 5
       }
     ],
-    "difficulty_score": 940.9,
+    "difficulty_score": 929.7,
     "competition_rank": 5
   },
   {
@@ -442,7 +442,7 @@
     "recency_multiplier": 1,
     "division": "women",
     "total_competitors": 9,
-    "raw_difficulty": 21836.884143230396,
+    "raw_difficulty": 21643.799901912997,
     "top_5_finishers": [
       "Lucy Underdown (#1)",
       "Angelica Jardine (#2)",
@@ -507,7 +507,7 @@
         "score": 13
       }
     ],
-    "difficulty_score": 829.3,
+    "difficulty_score": 818.5,
     "competition_rank": 6
   },
   {
@@ -519,7 +519,7 @@
     "recency_multiplier": 0.5,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 20962.786831271576,
+    "raw_difficulty": 20769.702589954173,
     "top_5_finishers": [
       "Olga Liashchuk (#1)",
       "Andrea Thompson (#2)",
@@ -589,7 +589,7 @@
         "score": 21
       }
     ],
-    "difficulty_score": 780,
+    "difficulty_score": 769.4,
     "competition_rank": 7
   },
   {
@@ -601,7 +601,7 @@
     "recency_multiplier": 0.5,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 20658.246049890084,
+    "raw_difficulty": 20654.617036186333,
     "top_5_finishers": [
       "Victoria Long (#1)",
       "Rebecca Roberts (#2)",
@@ -671,7 +671,7 @@
         "score": 13.5
       }
     ],
-    "difficulty_score": 763.1,
+    "difficulty_score": 763,
     "competition_rank": 8
   },
   {
@@ -683,7 +683,7 @@
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 16884.07383087673,
+    "raw_difficulty": 16880.44481717298,
     "top_5_finishers": [
       "Rebecca Roberts (#1)",
       "Olga Liashchuk (#2)",
@@ -753,7 +753,7 @@
         "score": 11
       }
     ],
-    "difficulty_score": 563.8,
+    "difficulty_score": 563.7,
     "competition_rank": 9
   },
   {
@@ -853,7 +853,7 @@
         "score": 3
       }
     ],
-    "difficulty_score": 554,
+    "difficulty_score": 554.1,
     "competition_rank": 10
   },
   {
@@ -930,7 +930,7 @@
         "score": 21.5
       }
     ],
-    "difficulty_score": 544,
+    "difficulty_score": 544.1,
     "competition_rank": 11
   },
   {
@@ -1012,7 +1012,7 @@
         "score": 7.5
       }
     ],
-    "difficulty_score": 483.4,
+    "difficulty_score": 483.5,
     "competition_rank": 12
   },
   {
@@ -1024,7 +1024,7 @@
     "recency_multiplier": 1,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 14566.173260896227,
+    "raw_difficulty": 14369.460005875077,
     "top_5_finishers": [
       "Rebecca Roberts (#1)",
       "Lucy Underdown (#2)",
@@ -1094,7 +1094,7 @@
         "score": 16
       }
     ],
-    "difficulty_score": 451.8,
+    "difficulty_score": 442.8,
     "competition_rank": 13
   },
   {
@@ -1146,7 +1146,7 @@
         "score": 9.5
       }
     ],
-    "difficulty_score": 441.7,
+    "difficulty_score": 441.8,
     "competition_rank": 14
   },
   {
@@ -1252,7 +1252,7 @@
         "score": 8
       }
     ],
-    "difficulty_score": 376.6,
+    "difficulty_score": 376.7,
     "competition_rank": 15
   },
   {
@@ -1264,7 +1264,7 @@
     "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 12,
-    "raw_difficulty": 12684.642170035251,
+    "raw_difficulty": 12487.928915014101,
     "top_5_finishers": [
       "Lucy Underdown (#1)",
       "Rebecca Roberts (#2)",
@@ -1346,7 +1346,7 @@
         "score": 8.5
       }
     ],
-    "difficulty_score": 367.1,
+    "difficulty_score": 358.7,
     "competition_rank": 16
   },
   {
@@ -1358,7 +1358,7 @@
     "recency_multiplier": 1,
     "division": "women",
     "total_competitors": 13,
-    "raw_difficulty": 12622.387348418131,
+    "raw_difficulty": 12425.674093396981,
     "top_5_finishers": [
       "Rebecca Roberts (#1)",
       "Lucy Underdown (#2)",
@@ -1446,7 +1446,7 @@
         "score": 13.5
       }
     ],
-    "difficulty_score": 364.4,
+    "difficulty_score": 356,
     "competition_rank": 17
   },
   {
@@ -1534,7 +1534,7 @@
         "score": 11.5
       }
     ],
-    "difficulty_score": 342,
+    "difficulty_score": 342.1,
     "competition_rank": 18
   },
   {
@@ -1622,7 +1622,7 @@
     "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 11549.508701772525,
+    "raw_difficulty": 11545.879688068775,
     "top_5_finishers": [
       "Rebecca Roberts (#1)",
       "Jackie Osczevski (#2)",
@@ -1692,7 +1692,7 @@
         "score": 25
       }
     ],
-    "difficulty_score": 319,
+    "difficulty_score": 318.9,
     "competition_rank": 20
   },
   {
@@ -1756,7 +1756,7 @@
         "score": 5
       }
     ],
-    "difficulty_score": 316.2,
+    "difficulty_score": 316.3,
     "competition_rank": 21
   },
   {
@@ -1866,7 +1866,7 @@
         "score": 7.5
       }
     ],
-    "difficulty_score": 239.2,
+    "difficulty_score": 239.3,
     "competition_rank": 23
   },
   {
@@ -1878,7 +1878,7 @@
     "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 9297.568761666087,
+    "raw_difficulty": 9100.855506644937,
     "top_5_finishers": [
       "Lucy Underdown (#1)",
       "Rebecca Roberts (#2)",
@@ -1948,102 +1948,8 @@
         "score": 6
       }
     ],
-    "difficulty_score": 230.4,
+    "difficulty_score": 223.2,
     "competition_rank": 24
-  },
-  {
-    "contest_id": 1501,
-    "contest_name": "2024 Britain's Strongest Woman",
-    "details": "York, England, 2024-06-22",
-    "tier": "TIER_3",
-    "tier_multiplier": 2,
-    "recency_multiplier": 1,
-    "division": "women",
-    "total_competitors": 12,
-    "raw_difficulty": 8739.359197135349,
-    "top_5_finishers": [
-      "Lucy Underdown (#1)",
-      "Rebecca Roberts (#2)",
-      "Donna Moore (#3)",
-      "Laura Baxter (#4)",
-      "Naomi Hadley (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Lucy Underdown",
-        "country": "ENG",
-        "score": 56.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Rebecca Roberts",
-        "country": "WAL",
-        "score": 50
-      },
-      {
-        "rank": "3",
-        "person_name": "Donna Moore",
-        "country": "ENG",
-        "score": 48
-      },
-      {
-        "rank": "4",
-        "person_name": "Laura Baxter",
-        "country": "SCO",
-        "score": 39.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Naomi Hadley",
-        "country": "ENG",
-        "score": 34.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Andrea Thompson",
-        "country": "ENG",
-        "score": 28.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Katie Smith",
-        "country": "ENG",
-        "score": 26
-      },
-      {
-        "rank": "8",
-        "person_name": "Claire Myler",
-        "country": "WAL",
-        "score": 21
-      },
-      {
-        "rank": "9",
-        "person_name": "Nicola Bennett",
-        "country": "SCO",
-        "score": 20
-      },
-      {
-        "rank": "10",
-        "person_name": "Chloe Brennan",
-        "country": "ENG",
-        "score": 19
-      },
-      {
-        "rank": "11",
-        "person_name": "Gemma Moore",
-        "country": "IRL",
-        "score": 14
-      },
-      {
-        "rank": "12",
-        "person_name": "Faye Pittman",
-        "country": "WAL",
-        "score": 5
-      }
-    ],
-    "difficulty_score": 210,
-    "competition_rank": 25
   },
   {
     "contest_id": 1280,
@@ -2130,7 +2036,101 @@
         "score": 4.54
       }
     ],
-    "difficulty_score": 209.4,
+    "difficulty_score": 209.5,
+    "competition_rank": 25
+  },
+  {
+    "contest_id": 1501,
+    "contest_name": "2024 Britain's Strongest Woman",
+    "details": "York, England, 2024-06-22",
+    "tier": "TIER_3",
+    "tier_multiplier": 2,
+    "recency_multiplier": 1,
+    "division": "women",
+    "total_competitors": 12,
+    "raw_difficulty": 8542.645942114199,
+    "top_5_finishers": [
+      "Lucy Underdown (#1)",
+      "Rebecca Roberts (#2)",
+      "Donna Moore (#3)",
+      "Laura Baxter (#4)",
+      "Naomi Hadley (#5)"
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Lucy Underdown",
+        "country": "ENG",
+        "score": 56.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Rebecca Roberts",
+        "country": "WAL",
+        "score": 50
+      },
+      {
+        "rank": "3",
+        "person_name": "Donna Moore",
+        "country": "ENG",
+        "score": 48
+      },
+      {
+        "rank": "4",
+        "person_name": "Laura Baxter",
+        "country": "SCO",
+        "score": 39.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Naomi Hadley",
+        "country": "ENG",
+        "score": 34.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Andrea Thompson",
+        "country": "ENG",
+        "score": 28.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Katie Smith",
+        "country": "ENG",
+        "score": 26
+      },
+      {
+        "rank": "8",
+        "person_name": "Claire Myler",
+        "country": "WAL",
+        "score": 21
+      },
+      {
+        "rank": "9",
+        "person_name": "Nicola Bennett",
+        "country": "SCO",
+        "score": 20
+      },
+      {
+        "rank": "10",
+        "person_name": "Chloe Brennan",
+        "country": "ENG",
+        "score": 19
+      },
+      {
+        "rank": "11",
+        "person_name": "Gemma Moore",
+        "country": "IRL",
+        "score": 14
+      },
+      {
+        "rank": "12",
+        "person_name": "Faye Pittman",
+        "country": "WAL",
+        "score": 5
+      }
+    ],
+    "difficulty_score": 203,
     "competition_rank": 26
   },
   {
@@ -2212,7 +2212,7 @@
         "score": 7.31
       }
     ],
-    "difficulty_score": 198.1,
+    "difficulty_score": 198.2,
     "competition_rank": 27
   },
   {
@@ -2306,7 +2306,7 @@
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 12,
-    "raw_difficulty": 8001.16646985206,
+    "raw_difficulty": 7804.453214830909,
     "top_5_finishers": [
       "Rebecca Roberts (#1)",
       "Donna Moore (#2)",
@@ -2388,7 +2388,7 @@
         "score": 10.5
       }
     ],
-    "difficulty_score": 183.9,
+    "difficulty_score": 177.2,
     "competition_rank": 29
   },
   {
@@ -2400,7 +2400,7 @@
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 12,
-    "raw_difficulty": 7985.580039758799,
+    "raw_difficulty": 7788.866784737648,
     "top_5_finishers": [
       "Donna Moore (#1)",
       "Rebecca Roberts (#2)",
@@ -2482,7 +2482,7 @@
         "score": 8.5
       }
     ],
-    "difficulty_score": 183.4,
+    "difficulty_score": 176.7,
     "competition_rank": 30
   },
   {
@@ -2494,7 +2494,7 @@
     "recency_multiplier": 0.5,
     "division": "women",
     "total_competitors": 8,
-    "raw_difficulty": 7946.535832727622,
+    "raw_difficulty": 7749.822577706472,
     "top_5_finishers": [
       "Rebecca Roberts (#1)",
       "Lucy Underdown (#2)",
@@ -2552,8 +2552,78 @@
         "score": 7
       }
     ],
-    "difficulty_score": 182,
+    "difficulty_score": 175.4,
     "competition_rank": 31
+  },
+  {
+    "contest_id": 2457,
+    "contest_name": "2026 Arnold Strongman Pro/Am (Women)",
+    "details": "Columbus, Ohio, 2026-03-07 to 2026-03-08",
+    "tier": "TIER_4",
+    "tier_multiplier": 1,
+    "recency_multiplier": 5,
+    "division": "women",
+    "total_competitors": 8,
+    "raw_difficulty": 7255.906933612038,
+    "top_5_finishers": [
+      "Jackie Rhodes (#1)",
+      "Kasey Croy (#2)",
+      "Allira-Joy Cowley (#3)",
+      "Rebecca Houston (#4)",
+      "Claire Myler (#5)"
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jackie Rhodes",
+        "country": "USA",
+        "score": 38.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Kasey Croy",
+        "country": "USA",
+        "score": 35.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Allira-Joy Cowley",
+        "country": "AUS",
+        "score": 34
+      },
+      {
+        "rank": "4",
+        "person_name": "Rebecca Houston",
+        "country": "USA",
+        "score": 33.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Claire Myler",
+        "country": "GBR",
+        "score": 29.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Destiney Bass",
+        "country": "USA",
+        "score": 29
+      },
+      {
+        "rank": "7",
+        "person_name": "Joscelyne O'Brien",
+        "country": "CAN",
+        "score": 26
+      },
+      {
+        "rank": "8",
+        "person_name": "Bailey Deschene",
+        "country": "CAN",
+        "score": 25
+      }
+    ],
+    "difficulty_score": 158.9,
+    "competition_rank": 32
   },
   {
     "contest_id": 1434,
@@ -2564,7 +2634,7 @@
     "recency_multiplier": 0.5,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 7313.07706521651,
+    "raw_difficulty": 7116.36381019536,
     "top_5_finishers": [
       "Lucy Underdown (#1)",
       "Rebecca Roberts (#2)",
@@ -2634,77 +2704,7 @@
         "score": 9
       }
     ],
-    "difficulty_score": 160.7,
-    "competition_rank": 32
-  },
-  {
-    "contest_id": 2457,
-    "contest_name": "2026 Arnold Strongman Pro/Am (Women)",
-    "details": "Columbus, Ohio, 2026-03-07 to 2026-03-08",
-    "tier": "TIER_4",
-    "tier_multiplier": 1,
-    "recency_multiplier": 5,
-    "division": "women",
-    "total_competitors": 8,
-    "raw_difficulty": 7255.906933612038,
-    "top_5_finishers": [
-      "Jackie Rhodes (#1)",
-      "Kasey Croy (#2)",
-      "Allira-Joy Cowley (#3)",
-      "Rebecca Houston (#4)",
-      "Claire Myler (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Jackie Rhodes",
-        "country": "USA",
-        "score": 38.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Kasey Croy",
-        "country": "USA",
-        "score": 35.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Allira-Joy Cowley",
-        "country": "AUS",
-        "score": 34
-      },
-      {
-        "rank": "4",
-        "person_name": "Rebecca Houston",
-        "country": "USA",
-        "score": 33.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Claire Myler",
-        "country": "GBR",
-        "score": 29.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Destiney Bass",
-        "country": "USA",
-        "score": 29
-      },
-      {
-        "rank": "7",
-        "person_name": "Joscelyne O'Brien",
-        "country": "CAN",
-        "score": 26
-      },
-      {
-        "rank": "8",
-        "person_name": "Bailey Deschene",
-        "country": "CAN",
-        "score": 25
-      }
-    ],
-    "difficulty_score": 158.8,
+    "difficulty_score": 154.3,
     "competition_rank": 33
   },
   {
@@ -2786,7 +2786,7 @@
         "score": 13
       }
     ],
-    "difficulty_score": 150.8,
+    "difficulty_score": 150.9,
     "competition_rank": 34
   },
   {
@@ -2938,7 +2938,7 @@
         "score": 16.5
       }
     ],
-    "difficulty_score": 133.7,
+    "difficulty_score": 133.8,
     "competition_rank": 36
   },
   {
@@ -3330,7 +3330,7 @@
         "score": 15.5
       }
     ],
-    "difficulty_score": 88.9,
+    "difficulty_score": 89,
     "competition_rank": 41
   },
   {
@@ -3342,7 +3342,7 @@
     "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 9,
-    "raw_difficulty": 4726.782266050362,
+    "raw_difficulty": 4723.153252346612,
     "top_5_finishers": [
       "Rebecca Roberts (#1)",
       "Donna Moore (#2)",
@@ -3406,7 +3406,7 @@
         "score": 4.5
       }
     ],
-    "difficulty_score": 83.5,
+    "difficulty_score": 83.4,
     "competition_rank": 42
   },
   {
@@ -3524,7 +3524,7 @@
     "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 8,
-    "raw_difficulty": 4173.725705758827,
+    "raw_difficulty": 4170.096692055077,
     "top_5_finishers": [
       "Rebecca Roberts (#1)",
       "Sam Taylor (#2)",
@@ -3582,7 +3582,7 @@
         "score": 13.5
       }
     ],
-    "difficulty_score": 69.3,
+    "difficulty_score": 69.2,
     "competition_rank": 44
   },
   {
@@ -4135,7 +4135,7 @@
         "score": 17.5
       }
     ],
-    "difficulty_score": 22.2,
+    "difficulty_score": 22.3,
     "competition_rank": 52
   },
   {
