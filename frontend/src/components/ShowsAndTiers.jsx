@@ -91,14 +91,13 @@ export default function ShowsAndTiers({ showsData }) {
           Every competition in the 500+ open-class show dataset (filtered strictly over the last 5 years / 60 months) is classified into 5 distinct tiers based on prestige, international lineup quality, and field depth.
         </p>
       </div>
-
       {/* Tiers Grid (Rogue Hard-Box Grid) */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
         {tiers.map((t) => (
           <div key={t.tier} className="bg-[#121212] p-6 border-2 border-[#262626] hover:border-zinc-400 space-y-4 rounded-none transition-all">
             <div className="flex items-center justify-between">
               <span className={`px-3 py-1 font-display text-lg font-black rounded-none uppercase ${
-                t.tier === 'TIER 1' ? 'bg-red-600 text-white' :
+                t.tier === 'TIER 1' ? 'bg-white text-black' :
                 t.tier === 'TIER 2' ? 'bg-zinc-300 text-black' :
                 t.tier === 'TIER 3' ? 'bg-zinc-600 text-white' :
                 t.tier === 'TIER 4' ? 'bg-[#27272A] text-zinc-300 border border-[#3F3F46]' :
@@ -106,9 +105,7 @@ export default function ShowsAndTiers({ showsData }) {
               }`}>
                 {t.tier}
               </span>
-              <span className={`font-mono text-xs font-black uppercase px-3 py-1 bg-[#181818] rounded-none border ${
-                t.tier === 'TIER 1' ? 'text-red-500 border-red-900/50' : 'text-white border-[#333333]'
-              }`}>
+              <span className="font-mono text-xs font-black uppercase px-3 py-1 bg-[#181818] text-white rounded-none border border-[#333333]">
                 {t.multiplier}
               </span>
             </div>
@@ -127,7 +124,7 @@ export default function ShowsAndTiers({ showsData }) {
               <ul className="space-y-1.5 font-mono text-xs text-zinc-300">
                 {t.shows.map((s, idx) => (
                   <li key={idx} className="flex items-center space-x-2">
-                    <span className={`w-1.5 h-1.5 shrink-0 rounded-none ${t.tier === 'TIER 1' ? 'bg-red-600' : 'bg-white'}`}></span>
+                    <span className="w-1.5 h-1.5 bg-white shrink-0 rounded-none"></span>
                     <span>{s}</span>
                   </li>
                 ))}
@@ -194,7 +191,7 @@ export default function ShowsAndTiers({ showsData }) {
           {/* Step 3 */}
           <div className="bg-[#181818] rounded-none p-5 border-2 border-[#262626] space-y-2">
             <div className="flex items-center justify-between">
-              <span className="text-xs font-mono text-red-500 font-bold uppercase">STEP 3 • POWER NORMALIZATION</span>
+              <span className="text-xs font-mono text-white font-bold uppercase">STEP 3 • POWER NORMALIZATION</span>
               <span className="text-xs font-mono text-zinc-400">EXP = 1.5</span>
             </div>
             <h4 className="font-display text-xl font-bold text-white uppercase tracking-wider">Non-Linear Difficulty (0 - 1000)</h4>
@@ -217,7 +214,7 @@ export default function ShowsAndTiers({ showsData }) {
           <div className="grid grid-cols-1 sm:grid-cols-4 gap-3 text-center">
             <div className="bg-[#121212] p-3 rounded-none border border-[#262626]">
               <div className="text-zinc-400 text-[10px]">PREMIER CHAMPIONSHIPS</div>
-              <div className="font-display text-2xl font-black text-red-500">750 - 1000 PTS</div>
+              <div className="font-display text-2xl font-black text-white">750 - 1000 PTS</div>
               <div className="text-[10px] text-zinc-500 mt-0.5">Rogue, WSM, SMOE, ASC</div>
             </div>
             <div className="bg-[#121212] p-3 rounded-none border border-[#262626]">
@@ -315,7 +312,7 @@ export default function ShowsAndTiers({ showsData }) {
       {/* Recency Multiplier Info Box */}
       <div className="bg-[#121212] p-6 md:p-8 rounded-none border-2 border-[#262626] space-y-4">
         <div className="flex items-center space-x-3 text-white">
-          <Flame className="w-7 h-7 text-red-600 fill-red-600" />
+          <Flame className="w-7 h-7 text-white fill-white" />
           <h2 className="font-display text-3xl md:text-4xl font-black uppercase text-white tracking-wider">
             60-MONTH (5-YEAR) SMOOTH RECENCY DECAY CURVE
           </h2>
@@ -327,7 +324,7 @@ export default function ShowsAndTiers({ showsData }) {
         <div className="grid grid-cols-2 sm:grid-cols-5 gap-3 pt-2 font-mono text-center">
           <div className="bg-[#181818] p-4 rounded-none border-2 border-[#262626]">
             <div className="text-xs text-zinc-400">0 - 12 MONTHS</div>
-            <div className="font-display text-3xl font-black text-red-500">5.0x</div>
+            <div className="font-display text-3xl font-black text-white">5.0x</div>
             <div className="text-[10px] text-zinc-500 mt-1">100% Weight</div>
           </div>
           <div className="bg-[#181818] p-4 rounded-none border-2 border-[#262626]">

@@ -114,7 +114,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
             onClick={() => setShowAdvanced(!showAdvanced)}
             className={`flex items-center justify-between px-4 py-3 font-display text-base font-bold tracking-wider transition-all rounded-none uppercase border-2 ${
               isAdvancedActive || showAdvanced
-                ? 'bg-white text-black border-white shadow-rogue-white font-black'
+                ? 'bg-white text-black border-white font-black'
                 : 'bg-[#121212] text-zinc-300 border-[#262626] hover:border-zinc-400'
             }`}
           >
@@ -122,7 +122,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
               <SlidersHorizontal className="w-4 h-4" />
               <span>ADVANCED FILTERS</span>
               {isAdvancedActive && (
-                <span className="bg-red-600 text-white px-1.5 py-0.5 text-[10px] font-mono font-black">
+                <span className="bg-white text-black px-1.5 py-0.5 text-[10px] font-mono font-black">
                   ACTIVE
                 </span>
               )}
@@ -134,7 +134,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
 
         {/* Collapsible Advanced Options Panel */}
         {showAdvanced && (
-          <div className="bg-[#121212] border-2 border-[#262626] rounded-none p-5 space-y-4 animate-in fade-in slide-in-from-top-2 duration-150 shadow-2xl">
+          <div className="bg-[#121212] border-2 border-[#262626] rounded-none p-5 space-y-4 animate-in fade-in slide-in-from-top-2 duration-150">
             <div className="flex items-center justify-between border-b border-[#262626] pb-3">
               <div className="flex items-center space-x-2 text-white font-display text-lg font-bold uppercase tracking-wider">
                 <SlidersHorizontal className="w-4 h-4 text-white" />
@@ -143,7 +143,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
               {isAdvancedActive && (
                 <button
                   onClick={() => { setYearsLimit(5); setPlacementLimit('all'); setPage(1); }}
-                  className="flex items-center space-x-1.5 px-3 py-1 bg-red-600/20 border border-red-500 text-red-400 text-xs font-mono font-bold hover:bg-red-600 hover:text-white transition-all rounded-none uppercase"
+                  className="flex items-center space-x-1.5 px-3 py-1 bg-white/10 border border-zinc-500 text-white text-xs font-mono font-bold hover:bg-white hover:text-black transition-all rounded-none uppercase"
                 >
                   <RotateCcw className="w-3 h-3" />
                   <span>RESET</span>
@@ -210,7 +210,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
           >
             <div className="flex items-center space-x-3 min-w-0">
               <span className={`font-display text-2xl font-black px-2 py-0.5 shrink-0 rounded-none ${
-                item.globalRank === 1 ? 'bg-red-600 text-white' :
+                item.globalRank === 1 ? 'bg-white text-black' :
                 item.globalRank === 2 ? 'bg-zinc-300 text-black' :
                 item.globalRank === 3 ? 'bg-zinc-700 text-white' : 'text-zinc-500'
               }`}>
@@ -230,7 +230,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
 
             <div className="flex items-center space-x-2 shrink-0">
               <div className="text-right">
-                <div className={`font-display text-3xl font-black ${item.globalRank === 1 ? 'text-red-500' : 'text-white'}`}>
+                <div className="font-display text-3xl font-black text-white">
                   {item.totalPoints.toFixed(1)}
                 </div>
                 <div className="text-[9px] font-mono text-zinc-400 uppercase">PTS</div>
@@ -265,7 +265,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
                 >
                   <td className="py-4 px-6 text-center">
                     <span className={`font-display text-2xl font-black px-2 py-0.5 rounded-none inline-block ${
-                      item.globalRank === 1 ? 'bg-red-600 text-white' :
+                      item.globalRank === 1 ? 'bg-white text-black' :
                       item.globalRank === 2 ? 'bg-zinc-300 text-black' :
                       item.globalRank === 3 ? 'bg-zinc-700 text-white' : 'text-zinc-500'
                     }`}>
@@ -284,13 +284,13 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
                   <td className="py-4 px-6 text-center font-mono font-bold text-zinc-300">
                     {item.totalShows}
                   </td>
-                  <td className={`py-4 px-6 text-center font-mono font-bold ${item.winsCount > 0 ? 'text-red-500' : 'text-zinc-400'}`}>
+                  <td className="py-4 px-6 text-center font-mono font-bold text-white">
                     {item.winsCount}
                   </td>
                   <td className="py-4 px-6 text-center font-mono font-bold text-zinc-300">
                     {item.podiumsCount}
                   </td>
-                  <td className={`py-4 px-6 text-right font-display text-3xl font-black ${item.globalRank === 1 ? 'text-red-500' : 'text-white'}`}>
+                  <td className="py-4 px-6 text-right font-display text-3xl font-black text-white">
                     {item.totalPoints.toFixed(1)} <span className="text-xs font-mono text-zinc-400">PTS</span>
                   </td>
                   <td className="py-4 px-4 text-right">

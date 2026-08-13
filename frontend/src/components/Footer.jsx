@@ -7,9 +7,10 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="flex items-center space-x-3">
-            <span className="font-display text-3xl font-black tracking-widest uppercase">
-              <span className="text-red-600">TOP</span> <span className="bg-white text-black px-2 py-0.5 font-black text-2xl">STRONGMAN</span>
-            </span>
+            <div className="font-display text-3xl font-black uppercase tracking-wider flex items-center gap-2">
+              <span className="text-red-600">TOP</span>
+              <span className="bg-white text-black px-2 py-0.5 font-black text-2xl">STRONGMAN</span>
+            </div>
           </div>
 
           <div className="text-center md:text-right text-xs text-zinc-400 font-mono uppercase">

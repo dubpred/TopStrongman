@@ -184,26 +184,40 @@ export default function DifficultyGraph() {
           })}
 
           {/* X-Axis Labels */}
-          <text x={PADDING_LEFT} y={SVG_HEIGHT - 20} fill="#FFFFFF" fontSize="11" fontFamily="monospace" fontWeight="bold">
+          {/* X Axis Benchmark Labels */}
+          <text
+            x={PADDING_LEFT}
+            y={SVG_HEIGHT - PADDING_BOTTOM + 20}
+            textAnchor="start"
+            fill="#FFFFFF"
+            fontSize="11"
+            fontFamily="monospace"
+            fontWeight="bold"
+          >
             #1 HARDEST SHOW
           </text>
-          <text x={SVG_WIDTH / 2} y={SVG_HEIGHT - 20} fill="#71717A" fontSize="11" fontFamily="monospace" textAnchor="middle">
-            COMPETITIONS RANKED BY FIELD STRENGTH (1 TO {totalCount})
-          </text>
-          <text x={SVG_WIDTH - PADDING_RIGHT} y={SVG_HEIGHT - 20} fill="#71717A" fontSize="11" fontFamily="monospace" textAnchor="end">
+          <text
+            x={SVG_WIDTH - PADDING_RIGHT}
+            y={SVG_HEIGHT - PADDING_BOTTOM + 20}
+            textAnchor="end"
+            fill="#71717A"
+            fontSize="11"
+            fontFamily="monospace"
+          >
             #{totalCount} SHOW
           </text>
 
-          {/* Theoretical Non-Linear Power Curve Line (Rogue Athletic Red) */}
+          {/* Theoretical Non-Linear Power Curve Line (Stark Monochrome) */}
           <path
             d={curvePointsPath}
             fill="none"
-            stroke="#DC2626"
-            strokeWidth="2.5"
+            stroke="#FFFFFF"
+            strokeWidth="2"
+            strokeOpacity="0.8"
             strokeDasharray="6 3"
           />
 
-          {/* Plotted Show Data Points (Sharp Flat Rogue Dots - Zero Glow) */}
+          {/* Plotted Show Data Points (Sharp Flat Rogue Dots) */}
           {filteredShows.map((show) => {
             const { x, y } = getCoordinates(show);
             const color = getTierColor(show.tier);
@@ -224,7 +238,7 @@ export default function DifficultyGraph() {
                     cy={y}
                     r={radius + 4}
                     fill="none"
-                    stroke="#DC2626"
+                    stroke="#FFFFFF"
                     strokeWidth="2"
                   />
                 )}
@@ -233,7 +247,7 @@ export default function DifficultyGraph() {
                   cx={x}
                   cy={y}
                   r={radius}
-                  fill={show.tier === 'TIER 1' ? '#DC2626' : color}
+                  fill={color}
                   stroke="#080808"
                   strokeWidth="1.5"
                 />
@@ -249,12 +263,10 @@ export default function DifficultyGraph() {
               <div className="flex items-center space-x-2">
                 <span
                   className="w-3 h-3 inline-block rounded-none"
-                  style={{ backgroundColor: hoveredShow.tier === 'TIER 1' ? '#DC2626' : getTierColor(hoveredShow.tier) }}
+                  style={{ backgroundColor: getTierColor(hoveredShow.tier) }}
                 ></span>
                 <span className="font-display text-2xl font-black text-white uppercase tracking-wider">{hoveredShow.name}</span>
-                <span className={`text-xs font-mono px-2 py-0.5 rounded-none font-bold ${
-                  hoveredShow.tier === 'TIER 1' ? 'bg-red-600 text-white' : 'bg-[#080808] text-white border border-[#333]'
-                }`}>
+                <span className="text-xs font-mono px-2 py-0.5 bg-[#080808] text-white border border-[#333] rounded-none font-bold">
                   {hoveredShow.tier}
                 </span>
               </div>
@@ -264,7 +276,7 @@ export default function DifficultyGraph() {
             </div>
             <div className="text-right font-mono bg-[#080808] px-4 py-2 border-2 border-[#262626] rounded-none">
               <div className="text-[10px] text-zinc-400 uppercase font-bold">SHOW DIFFICULTY</div>
-              <div className="font-display text-3xl font-black text-red-500">
+              <div className="font-display text-3xl font-black text-white">
                 {hoveredShow.difficulty.toFixed(1)} <span className="text-xs font-normal text-zinc-400">/ 1000 PTS</span>
               </div>
             </div>
@@ -288,10 +300,10 @@ export default function DifficultyGraph() {
             >
               <div className="flex items-center justify-between text-[10px] text-zinc-400 uppercase">
                 <span>#{idx + 1} HARDEST</span>
-                <span className="text-red-500 font-black">{show.tier}</span>
+                <span className="text-white font-black">{show.tier}</span>
               </div>
               <div className="font-display text-base font-black text-white truncate uppercase">{show.name}</div>
-              <div className="font-display text-3xl font-black text-red-500">
+              <div className="font-display text-3xl font-black text-white">
                 {show.difficulty.toFixed(1)} <span className="text-[10px] text-zinc-400 font-normal">PTS</span>
               </div>
             </div>
