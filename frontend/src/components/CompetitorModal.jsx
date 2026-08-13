@@ -20,7 +20,7 @@ export default function CompetitorModal({ athlete, onClose }) {
         <div className="h-1.5 w-full bg-white shrink-0"></div>
 
         {/* Sticky Header */}
-        <div className="sticky top-0 z-30 bg-[#0E0E0E]/98 backdrop-blur-md border-b-2 border-[#262626] px-4 sm:px-6 py-3.5 flex items-center justify-between shrink-0">
+        <div className="sticky top-0 z-30 bg-[#0E0E0E] border-b-2 border-[#262626] px-4 sm:px-6 py-3.5 flex items-center justify-between shrink-0">
           <div className="flex items-center space-x-3 truncate pr-2">
             <span className="bg-white text-black font-display text-lg sm:text-xl font-black px-2.5 py-0.5 shrink-0 rounded-none shadow-rogue-white">
               #{globalRank}

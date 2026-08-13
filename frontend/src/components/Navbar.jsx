@@ -8,7 +8,7 @@ export default function Navbar({ activeTab, setActiveTab }) {
   ];
 
   return (
-    <header className="sticky top-0 z-40 bg-[#080808]/98 backdrop-blur-md border-b-2 border-[#262626] shadow-2xl pt-safe">
+    <header className="sticky top-0 z-50 bg-[#080808] border-b-2 border-[#262626] shadow-2xl pt-safe">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 md:h-20">
           
