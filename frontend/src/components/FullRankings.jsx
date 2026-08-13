@@ -54,25 +54,25 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
     <div className="space-y-8">
       
       {/* Header Banner */}
-      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-dew-card border border-white/10 rounded-xl p-6 md:p-8 shadow-xl">
+      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-white border border-[#D5E2D9] rounded-xl p-6 md:p-8 shadow-sm">
         <div>
-          <div className="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-dew-green/10 border border-dew-green/30 text-dew-green text-xs font-mono font-bold uppercase tracking-wider mb-2">
+          <div className="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-[#EBF2EE] border border-[#D5E2D9] text-dew-green text-xs font-mono font-bold uppercase tracking-wider mb-2">
             <Award className="w-3.5 h-3.5" />
             <span>GLOBAL ATHLETE MATRIX • {division === 'women' ? "WOMEN'S OPEN" : "MEN'S OPEN"} DIVISION • {yearsLimit}-YEAR WINDOW</span>
           </div>
-          <h1 className="font-display text-4xl md:text-5xl font-extrabold uppercase text-white">
+          <h1 className="font-display text-4xl md:text-5xl font-extrabold uppercase text-[#0F291E]">
             {division === 'women' ? "WOMEN'S OPEN" : "MEN'S OPEN"} <span className="dew-gradient-text">RANKINGS</span>
           </h1>
         </div>
 
         {/* Division Switcher */}
-        <div className="flex items-center space-x-1.5 bg-[#0B0E14] p-1.5 rounded-lg border border-white/10 shadow-inner">
+        <div className="flex items-center space-x-1.5 bg-[#EBF2EE] p-1.5 rounded-lg border border-[#D5E2D9]">
           <button
             onClick={() => { setDivision('men'); setPage(1); }}
             className={`px-4 py-2 rounded-md font-display font-bold text-xs uppercase tracking-wider transition-all flex items-center space-x-2 ${
               division === 'men'
-                ? 'bg-dew-green text-black font-extrabold shadow-dew-glow'
-                : 'text-gray-400 hover:text-white hover:bg-white/5'
+                ? 'bg-dew-green text-white font-extrabold shadow-sm'
+                : 'text-gray-600 hover:text-dew-green hover:bg-white/50'
             }`}
           >
             <span>MEN'S OPEN</span>
@@ -81,8 +81,8 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
             onClick={() => { setDivision('women'); setPage(1); }}
             className={`px-4 py-2 rounded-md font-display font-bold text-xs uppercase tracking-wider transition-all flex items-center space-x-2 ${
               division === 'women'
-                ? 'bg-dew-green text-black font-extrabold shadow-dew-glow'
-                : 'text-gray-400 hover:text-white hover:bg-white/5'
+                ? 'bg-dew-green text-white font-extrabold shadow-sm'
+                : 'text-gray-600 hover:text-dew-green hover:bg-white/50'
             }`}
           >
             <span>WOMEN'S OPEN</span>
@@ -102,7 +102,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
               placeholder="Search athlete..."
               value={searchTerm}
               onChange={(e) => { setSearchTerm(e.target.value); setPage(1); }}
-              className="w-full bg-dew-card text-white font-sans text-xs rounded-lg pl-10 pr-3 py-2.5 border border-white/10 focus:outline-none focus:border-dew-green transition-all"
+              className="w-full bg-white text-[#0F291E] font-sans text-xs rounded-lg pl-10 pr-3 py-2.5 border border-[#D5E2D9] focus:outline-none focus:border-dew-green shadow-sm transition-all"
             />
           </div>
 
@@ -111,15 +111,15 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
             onClick={() => setShowAdvanced(!showAdvanced)}
             className={`flex items-center justify-between px-4 py-2.5 rounded-lg font-mono text-xs font-bold transition-all border ${
               isAdvancedActive || showAdvanced
-                ? 'bg-dew-green text-black border-dew-green shadow-dew-glow font-extrabold'
-                : 'bg-dew-card text-gray-300 border-white/10 hover:border-dew-green/40'
+                ? 'bg-dew-green text-white border-dew-green shadow-sm font-extrabold'
+                : 'bg-white text-gray-700 border-[#D5E2D9] hover:border-dew-green/60 shadow-sm'
             }`}
           >
             <div className="flex items-center space-x-2">
               <SlidersHorizontal className="w-4 h-4" />
               <span>ADVANCED OPTIONS</span>
               {isAdvancedActive && (
-                <span className="bg-black text-dew-green px-1.5 py-0.5 rounded-full text-[10px] font-black">
+                <span className="bg-[#1B4D3E] text-white px-1.5 py-0.5 rounded-full text-[10px] font-black">
                   ACTIVE
                 </span>
               )}
@@ -131,8 +131,8 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
 
         {/* Collapsible Advanced Options Panel */}
         {showAdvanced && (
-          <div className="bg-[#0E121B] border border-white/10 rounded-xl p-5 space-y-4 animate-in fade-in slide-in-from-top-2 duration-200 shadow-2xl">
-            <div className="flex items-center justify-between border-b border-white/10 pb-3">
+          <div className="bg-white border border-[#D5E2D9] rounded-xl p-5 space-y-4 animate-in fade-in slide-in-from-top-2 duration-200 shadow-md">
+            <div className="flex items-center justify-between border-b border-[#D5E2D9] pb-3">
               <div className="flex items-center space-x-2 text-dew-green font-mono text-xs font-bold uppercase">
                 <SlidersHorizontal className="w-4 h-4" />
                 <span>ADVANCED RANKING SCORING FILTERS</span>
@@ -140,7 +140,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
               {isAdvancedActive && (
                 <button
                   onClick={() => { setYearsLimit(5); setPlacementLimit('all'); setPage(1); }}
-                  className="flex items-center space-x-1.5 px-2.5 py-1 rounded-md bg-dew-card border border-dew-red/40 text-dew-red text-[11px] font-mono font-bold hover:bg-dew-red hover:text-white transition-all"
+                  className="flex items-center space-x-1.5 px-2.5 py-1 rounded-md bg-[#FEE2E2] border border-red-200 text-dew-red text-[11px] font-mono font-bold hover:bg-dew-red hover:text-white transition-all"
                 >
                   <RotateCcw className="w-3 h-3" />
                   <span>RESET ADVANCED</span>
@@ -152,7 +152,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
               
               {/* Timeframe Filter (1 to 5 Years) */}
               <div className="space-y-1.5">
-                <label className="text-[11px] font-mono text-gray-400 uppercase font-bold flex items-center space-x-1.5">
+                <label className="text-[11px] font-mono text-gray-500 uppercase font-bold flex items-center space-x-1.5">
                   <Calendar className="w-3.5 h-3.5 text-dew-green" />
                   <span>COMPETITION TIMEFRAME WINDOW</span>
                 </label>
@@ -160,7 +160,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
                   <select
                     value={yearsLimit}
                     onChange={(e) => { setYearsLimit(Number(e.target.value)); setPage(1); }}
-                    className="w-full bg-[#121722] text-dew-green font-mono text-xs font-bold rounded-lg px-3 py-2.5 border border-white/10 focus:outline-none focus:border-dew-green transition-all appearance-none cursor-pointer"
+                    className="w-full bg-[#EBF2EE] text-dew-green font-mono text-xs font-bold rounded-lg px-3 py-2.5 border border-[#D5E2D9] focus:outline-none focus:border-dew-green transition-all appearance-none cursor-pointer"
                   >
                     <option value={5}>5 Years (Full 60-Month Rolling History)</option>
                     <option value={4}>4 Years (Last 48 Months)</option>
@@ -174,21 +174,21 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
 
               {/* Placements Scope Filter (Top 5, Top 10, All) */}
               <div className="space-y-1.5">
-                <label className="text-[11px] font-mono text-gray-400 uppercase font-bold flex items-center space-x-1.5">
-                  <Trophy className="w-3.5 h-3.5 text-dew-yellow" />
+                <label className="text-[11px] font-mono text-gray-500 uppercase font-bold flex items-center space-x-1.5">
+                  <Trophy className="w-3.5 h-3.5 text-dew-green" />
                   <span>ATHLETE EVALUATED PLACEMENTS SCOPE</span>
                 </label>
                 <div className="relative">
                   <select
                     value={placementLimit}
                     onChange={(e) => { setPlacementLimit(e.target.value); setPage(1); }}
-                    className="w-full bg-[#121722] text-dew-yellow font-mono text-xs font-bold rounded-lg px-3 py-2.5 border border-white/10 focus:outline-none focus:border-dew-green transition-all appearance-none cursor-pointer"
+                    className="w-full bg-[#EBF2EE] text-[#0F291E] font-mono text-xs font-bold rounded-lg px-3 py-2.5 border border-[#D5E2D9] focus:outline-none focus:border-dew-green transition-all appearance-none cursor-pointer"
                   >
                     <option value="all">All Placements (Accumulate All Shows)</option>
                     <option value="top5">Top 5 Placements (Only Best 5 Shows)</option>
                     <option value="top10">Top 10 Placements (Only Best 10 Shows)</option>
                   </select>
-                  <ChevronDown className="w-4 h-4 absolute right-3 top-1/2 -translate-y-1/2 text-dew-yellow pointer-events-none" />
+                  <ChevronDown className="w-4 h-4 absolute right-3 top-1/2 -translate-y-1/2 text-gray-600 pointer-events-none" />
                 </div>
               </div>
 
@@ -203,21 +203,21 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
           <div
             key={item.competitor.id}
             onClick={() => onSelectCompetitor(item)}
-            className="dew-glass-card p-3.5 flex items-center justify-between gap-3 active:scale-[0.98] transition-transform cursor-pointer border border-white/10 hover:border-dew-green/40"
+            className="dew-glass-card p-3.5 flex items-center justify-between gap-3 active:scale-[0.98] transition-transform cursor-pointer border border-[#D5E2D9] hover:border-dew-green/50"
           >
             <div className="flex items-center space-x-3 min-w-0">
               <span className={`font-display text-2xl font-black shrink-0 ${
                 item.globalRank === 1 ? 'text-dew-green' :
-                item.globalRank === 2 ? 'text-dew-yellow' :
+                item.globalRank === 2 ? 'text-[#2D6A4F]' :
                 item.globalRank === 3 ? 'text-dew-red' : 'text-gray-400'
               }`}>
                 #{item.globalRank}
               </span>
               <div className="min-w-0">
-                <div className="font-heading font-bold text-white text-base truncate">
+                <div className="font-heading font-bold text-[#0F291E] text-base truncate">
                   {item.competitor.name}
                 </div>
-                <div className="text-xs font-mono text-gray-400 flex items-center gap-1.5 mt-0.5">
+                <div className="text-xs font-mono text-gray-500 flex items-center gap-1.5 mt-0.5">
                   <span>{item.competitor.flagEmoji || '🌐'} {item.competitor.country}</span>
                   <span>•</span>
                   <span>{item.totalShows} shows</span>
@@ -239,11 +239,11 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
       </div>
 
       {/* Desktop/Tablet Table List View (Visible on sm+ screens) */}
-      <div className="hidden sm:block dew-glass-card overflow-hidden border border-white/10">
+      <div className="hidden sm:block dew-glass-card overflow-hidden border border-[#D5E2D9]">
         <div className="overflow-x-auto">
           <table className="w-full text-left border-collapse">
             <thead>
-              <tr className="bg-[#0E121B] border-b border-white/10 text-xs font-mono text-gray-400 uppercase tracking-wider">
+              <tr className="bg-[#EBF2EE] border-b border-[#D5E2D9] text-xs font-mono text-gray-600 uppercase tracking-wider">
                 <th className="py-3.5 px-6 text-center w-16">RANK</th>
                 <th className="py-3.5 px-6">COMPETITOR</th>
                 <th className="py-3.5 px-6 text-center">SHOWS</th>
@@ -253,18 +253,18 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
                 <th className="py-3.5 px-4"></th>
               </tr>
             </thead>
-            <tbody className="divide-y divide-white/5 text-sm">
+            <tbody className="divide-y divide-[#D5E2D9]/60 text-sm bg-white">
               {pagedRankings.map((item) => (
                 <tr
                   key={item.competitor.id}
                   onClick={() => onSelectCompetitor(item)}
-                  className="hover:bg-white/5 transition-colors cursor-pointer group"
+                  className="hover:bg-[#F0F5F2] transition-colors cursor-pointer group"
                 >
                   <td className="py-3.5 px-6 text-center">
                     <span className={`font-display text-xl font-black ${
                       item.globalRank === 1 ? 'text-dew-green' :
-                      item.globalRank === 2 ? 'text-dew-yellow' :
-                      item.globalRank === 3 ? 'text-dew-red' : 'text-gray-400'
+                      item.globalRank === 2 ? 'text-[#2D6A4F]' :
+                      item.globalRank === 3 ? 'text-dew-red' : 'text-gray-500'
                     }`}>
                       #{item.globalRank}
                     </span>
@@ -272,26 +272,26 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
                   <td className="py-3.5 px-6">
                     <div className="flex items-center space-x-4">
                       <div>
-                        <div className="font-heading text-base font-bold text-gray-100 flex items-center space-x-2">
+                        <div className="font-heading text-base font-bold text-[#0F291E] flex items-center space-x-2">
                           <span>{item.competitor.name}</span>
                         </div>
                       </div>
                     </div>
                   </td>
-                  <td className="py-3.5 px-6 text-center font-mono font-bold text-gray-300">
+                  <td className="py-3.5 px-6 text-center font-mono font-bold text-gray-600">
                     {item.totalShows}
                   </td>
                   <td className="py-3.5 px-6 text-center font-mono font-bold text-dew-green">
                     {item.winsCount}
                   </td>
-                  <td className="py-3.5 px-6 text-center font-mono font-bold text-dew-yellow">
+                  <td className="py-3.5 px-6 text-center font-mono font-bold text-[#2D6A4F]">
                     {item.podiumsCount}
                   </td>
                   <td className="py-3.5 px-6 text-right font-display text-2xl font-black text-dew-green">
-                    {item.totalPoints.toFixed(1)} <span className="text-xs font-mono text-gray-400">PTS</span>
+                    {item.totalPoints.toFixed(1)} <span className="text-xs font-mono text-gray-500">PTS</span>
                   </td>
                   <td className="py-3.5 px-4 text-right">
-                    <ChevronRight className="w-4 h-4 text-gray-500 group-hover:text-dew-green group-hover:translate-x-0.5 transition-all" />
+                    <ChevronRight className="w-4 h-4 text-gray-400 group-hover:text-dew-green group-hover:translate-x-0.5 transition-all" />
                   </td>
                 </tr>
               ))}
@@ -306,21 +306,21 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
           <button
             onClick={() => setPage(p => Math.max(1, p - 1))}
             disabled={safePage === 1}
-            className="flex items-center space-x-2 px-3.5 py-1.5 rounded-lg bg-dew-card border border-white/10 text-gray-300 font-mono text-xs font-bold disabled:opacity-30 hover:border-dew-green hover:text-white transition-all"
+            className="flex items-center space-x-2 px-3.5 py-1.5 rounded-lg bg-white border border-[#D5E2D9] text-gray-700 font-mono text-xs font-bold disabled:opacity-30 hover:border-dew-green hover:text-dew-green shadow-sm transition-all"
           >
             <ChevronLeft className="w-3.5 h-3.5" />
             <span>PREV</span>
           </button>
 
-          <div className="font-mono text-xs text-gray-400">
-            Page <span className="text-dew-green font-bold">{safePage}</span> of <span className="text-white font-bold">{totalPages}</span>
-            <span className="ml-3 text-gray-500">({filteredRankings.length} athletes)</span>
+          <div className="font-mono text-xs text-gray-500">
+            Page <span className="text-dew-green font-bold">{safePage}</span> of <span className="text-[#0F291E] font-bold">{totalPages}</span>
+            <span className="ml-3 text-gray-400">({filteredRankings.length} athletes)</span>
           </div>
 
           <button
             onClick={() => setPage(p => Math.min(totalPages, p + 1))}
             disabled={safePage === totalPages}
-            className="flex items-center space-x-2 px-3.5 py-1.5 rounded-lg bg-dew-card border border-white/10 text-gray-300 font-mono text-xs font-bold disabled:opacity-30 hover:border-dew-green hover:text-white transition-all"
+            className="flex items-center space-x-2 px-3.5 py-1.5 rounded-lg bg-white border border-[#D5E2D9] text-gray-700 font-mono text-xs font-bold disabled:opacity-30 hover:border-dew-green hover:text-dew-green shadow-sm transition-all"
           >
             <span>NEXT</span>
             <ChevronRight className="w-3.5 h-3.5" />
