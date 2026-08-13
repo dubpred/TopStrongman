@@ -210,7 +210,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
           >
             <div className="flex items-center space-x-3 min-w-0">
               <span className={`font-display text-2xl font-black px-2 py-0.5 shrink-0 rounded-none ${
-                item.globalRank === 1 ? 'bg-white text-black shadow-rogue-white' :
+                item.globalRank === 1 ? 'bg-red-600 text-white' :
                 item.globalRank === 2 ? 'bg-zinc-300 text-black' :
                 item.globalRank === 3 ? 'bg-zinc-700 text-white' : 'text-zinc-500'
               }`}>
@@ -230,7 +230,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
 
             <div className="flex items-center space-x-2 shrink-0">
               <div className="text-right">
-                <div className="font-display text-3xl font-black text-white">
+                <div className={`font-display text-3xl font-black ${item.globalRank === 1 ? 'text-red-500' : 'text-white'}`}>
                   {item.totalPoints.toFixed(1)}
                 </div>
                 <div className="text-[9px] font-mono text-zinc-400 uppercase">PTS</div>
@@ -242,7 +242,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
       </div>
 
       {/* Desktop/Tablet Table List View (Rogue Hard-Angled Table) */}
-      <div className="hidden sm:block bg-[#121212] overflow-hidden border-2 border-[#262626] rounded-none shadow-2xl">
+      <div className="hidden sm:block bg-[#121212] overflow-hidden border-2 border-[#262626] rounded-none">
         <div className="overflow-x-auto">
           <table className="w-full text-left border-collapse">
             <thead>
@@ -265,7 +265,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
                 >
                   <td className="py-4 px-6 text-center">
                     <span className={`font-display text-2xl font-black px-2 py-0.5 rounded-none inline-block ${
-                      item.globalRank === 1 ? 'bg-white text-black shadow-rogue-white' :
+                      item.globalRank === 1 ? 'bg-red-600 text-white' :
                       item.globalRank === 2 ? 'bg-zinc-300 text-black' :
                       item.globalRank === 3 ? 'bg-zinc-700 text-white' : 'text-zinc-500'
                     }`}>
@@ -284,13 +284,13 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
                   <td className="py-4 px-6 text-center font-mono font-bold text-zinc-300">
                     {item.totalShows}
                   </td>
-                  <td className="py-4 px-6 text-center font-mono font-bold text-white">
+                  <td className={`py-4 px-6 text-center font-mono font-bold ${item.winsCount > 0 ? 'text-red-500' : 'text-zinc-400'}`}>
                     {item.winsCount}
                   </td>
                   <td className="py-4 px-6 text-center font-mono font-bold text-zinc-300">
                     {item.podiumsCount}
                   </td>
-                  <td className="py-4 px-6 text-right font-display text-3xl font-black text-white">
+                  <td className={`py-4 px-6 text-right font-display text-3xl font-black ${item.globalRank === 1 ? 'text-red-500' : 'text-white'}`}>
                     {item.totalPoints.toFixed(1)} <span className="text-xs font-mono text-zinc-400">PTS</span>
                   </td>
                   <td className="py-4 px-4 text-right">

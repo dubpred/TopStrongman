@@ -35,9 +35,7 @@ export default {
         sans: ['Inter', 'sans-serif'],
       },
       boxShadow: {
-        'rogue-card': '0 4px 0px 0px rgba(255, 255, 255, 0.05)',
-        'rogue-white': '0 0 15px rgba(255, 255, 255, 0.15)',
-        'rogue-red': '0 0 15px rgba(220, 38, 38, 0.25)',
+        'none': 'none',
       }
     },
   },

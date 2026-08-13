@@ -12,17 +12,19 @@ export default function CompetitorModal({ athlete, onClose }) {
       onClick={onClose}
     >
       <div 
-        className="relative w-full h-full sm:h-auto max-w-4xl sm:max-h-[90vh] flex flex-col bg-[#0E0E0E] border-0 sm:border-2 border-[#333333] rounded-none shadow-2xl overflow-hidden my-auto"
+        className="relative w-full h-full sm:h-auto max-w-4xl sm:max-h-[90vh] flex flex-col bg-[#0E0E0E] border-0 sm:border-2 border-[#333333] rounded-none overflow-hidden my-auto"
         onClick={(e) => e.stopPropagation()}
       >
         
-        {/* Top Header White Accent Line */}
-        <div className="h-1.5 w-full bg-white shrink-0"></div>
+        {/* Top Header Red Accent Line */}
+        <div className="h-1.5 w-full bg-red-600 shrink-0"></div>
 
         {/* Sticky Header */}
         <div className="sticky top-0 z-30 bg-[#0E0E0E] border-b-2 border-[#262626] px-4 sm:px-6 py-3.5 flex items-center justify-between shrink-0">
           <div className="flex items-center space-x-3 truncate pr-2">
-            <span className="bg-white text-black font-display text-lg sm:text-xl font-black px-2.5 py-0.5 shrink-0 rounded-none shadow-rogue-white">
+            <span className={`font-display text-lg sm:text-xl font-black px-2.5 py-0.5 shrink-0 rounded-none ${
+              globalRank === 1 ? 'bg-red-600 text-white' : 'bg-white text-black'
+            }`}>
               #{globalRank}
             </span>
             <h3 className="font-display text-2xl sm:text-3xl font-black uppercase text-white tracking-wider truncate">
@@ -46,16 +48,18 @@ export default function CompetitorModal({ athlete, onClose }) {
             </div>
 
             {/* Total Points Card */}
-            <div className="bg-[#080808] border-2 border-white px-6 py-3.5 text-center min-w-[160px] w-full sm:w-auto shadow-rogue-white rounded-none">
+            <div className="bg-[#080808] border-2 border-white px-6 py-3.5 text-center min-w-[160px] w-full sm:w-auto rounded-none">
               <div className="text-[10px] font-mono text-zinc-400 font-bold uppercase tracking-widest">TOTAL SCORE</div>
-              <div className="font-display text-4xl sm:text-5xl font-black text-white">{totalPoints.toFixed(1)}</div>
+              <div className={`font-display text-4xl sm:text-5xl font-black ${globalRank === 1 ? 'text-red-500' : 'text-white'}`}>
+                {totalPoints.toFixed(1)}
+              </div>
             </div>
           </div>
 
           {/* Quick Stats Summary Strip */}
           <div className="grid grid-cols-3 divide-x-2 divide-[#262626] bg-[#141414] border-2 border-[#262626] text-center py-4 rounded-none">
             <div className="px-1">
-              <div className="font-display text-3xl font-black text-white">{winsCount}</div>
+              <div className={`font-display text-3xl font-black ${winsCount > 0 ? 'text-red-500' : 'text-white'}`}>{winsCount}</div>
               <div className="text-[10px] sm:text-xs font-mono text-zinc-400 font-bold uppercase">TITLES WON</div>
             </div>
             <div className="px-1">
@@ -80,12 +84,12 @@ export default function CompetitorModal({ athlete, onClose }) {
               {contributions && contributions.map((c, idx) => (
                 <div 
                   key={idx} 
-                  className={`bg-[#141414] border-2 ${idx === 0 ? 'border-white' : 'border-[#262626]'} p-4 space-y-2 rounded-none`}
+                  className={`bg-[#141414] border-2 ${idx === 0 ? 'border-red-600' : 'border-[#262626]'} p-4 space-y-2 rounded-none`}
                 >
                   <div className="flex items-start justify-between gap-2">
                     <div>
                       <div className="font-display font-black text-white text-lg uppercase tracking-wide">
-                        {idx === 0 && <span className="mr-1.5 text-xs font-mono font-bold text-white">[BEST]</span>}
+                        {idx === 0 && <span className="mr-1.5 text-xs font-mono font-bold text-red-500">[BEST]</span>}
                         {c.competitionName}
                       </div>
                       <div className="text-xs font-mono text-zinc-400 flex items-center gap-2 mt-0.5">
@@ -95,7 +99,9 @@ export default function CompetitorModal({ athlete, onClose }) {
                       </div>
                     </div>
                     <div className="text-right shrink-0">
-                      <div className="font-display text-3xl font-black text-white">+{c.finalPoints.toFixed(1)}</div>
+                      <div className={`font-display text-3xl font-black ${idx === 0 ? 'text-red-500' : 'text-white'}`}>
+                        +{c.finalPoints.toFixed(1)}
+                      </div>
                       <div className="text-[10px] font-mono text-zinc-400 uppercase">PTS</div>
                     </div>
                   </div>
@@ -119,7 +125,7 @@ export default function CompetitorModal({ athlete, onClose }) {
             </div>
 
             {/* Desktop Table View (Rogue Industrial Table) */}
-            <div className="hidden md:block bg-[#141414] overflow-hidden border-2 border-[#262626] rounded-none shadow-xl">
+            <div className="hidden md:block bg-[#141414] overflow-hidden border-2 border-[#262626] rounded-none">
               <div className="overflow-x-auto">
                 <table className="w-full text-left text-xs font-mono">
                   <thead>
@@ -135,15 +141,15 @@ export default function CompetitorModal({ athlete, onClose }) {
                   </thead>
                   <tbody className="divide-y divide-[#262626]">
                     {contributions && contributions.map((c, idx) => (
-                      <tr key={idx} className={`hover:bg-[#1C1C1C] transition-colors ${idx === 0 ? 'bg-white/5' : ''}`}>
+                      <tr key={idx} className={`hover:bg-[#1C1C1C] transition-colors ${idx === 0 ? 'bg-red-600/5' : ''}`}>
                         <td className="py-3.5 px-4 font-bold text-white uppercase">
-                          {idx === 0 && <span className="mr-1.5 text-xs font-mono font-bold text-white">[BEST]</span>}
+                          {idx === 0 && <span className="mr-1.5 text-xs font-mono font-bold text-red-500">[BEST]</span>}
                           {c.competitionName}
                         </td>
                         <td className="py-3.5 px-4 text-center font-mono text-zinc-400 font-bold">
                           {c.year}
                         </td>
-                        <td className="py-3.5 px-4 text-center font-bold text-white">#{c.rank}</td>
+                        <td className={`py-3.5 px-4 text-center font-bold ${c.rank === 1 ? 'text-red-500' : 'text-white'}`}>#{c.rank}</td>
                         <td className="py-3.5 px-4 text-center text-white font-bold font-mono">
                           {c.difficulty !== undefined ? c.difficulty.toFixed(1) : (c.basePoints || 0)} <span className="text-[10px] text-zinc-500">/ 1000</span>
                         </td>
@@ -151,7 +157,9 @@ export default function CompetitorModal({ athlete, onClose }) {
                           {c.placementFactor !== undefined ? `${(c.placementFactor * 100).toFixed(1)}%` : `${c.tierMultiplier}x`}
                         </td>
                         <td className="py-3.5 px-4 text-center text-white font-bold">{c.recencyMultiplier}x</td>
-                        <td className="py-3.5 px-4 text-right font-display text-2xl font-black text-white">+{c.finalPoints.toFixed(1)}</td>
+                        <td className={`py-3.5 px-4 text-right font-display text-2xl font-black ${idx === 0 ? 'text-red-500' : 'text-white'}`}>
+                          +{c.finalPoints.toFixed(1)}
+                        </td>
                       </tr>
                     ))}
                   </tbody>
@@ -177,7 +185,7 @@ export default function CompetitorModal({ athlete, onClose }) {
 
           <button
             onClick={onClose}
-            className="px-6 py-2.5 bg-white text-black font-display text-lg font-black tracking-wider hover:bg-zinc-200 transition-all rounded-none uppercase shadow-rogue-white active:scale-95"
+            className="px-6 py-2.5 bg-white text-black font-display text-lg font-black tracking-wider hover:bg-zinc-200 transition-all rounded-none uppercase active:scale-95"
           >
             CLOSE ATHLETE PROFILE
           </button>
