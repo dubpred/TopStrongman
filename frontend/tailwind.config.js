@@ -8,15 +8,14 @@ export default {
     extend: {
       colors: {
         dew: {
-          green: "#F97316",     // Athletic Amber/Orange
-          neon: "#FB923C",      // Bright Warm Orange
+          green: "#F59E0B",     // Championship Amber/Gold
+          neon: "#FBBF24",      // Bright Gold
           red: "#EF4444",       // Athletic Red / Crimson
-          blue: "#3B82F6",      // Electric Sapphire Blue
-          yellow: "#60A5FA",    // Bright Slate Blue
-          dark: "#0A0E17",      // Deep Midnight Navy Canvas
-          card: "#111827",      // Slate Navy Card Surface
-          border: "#1E293B",    // Steel Navy Border
-          accent: "#162036"     // Elevated Navy Accent
+          yellow: "#CBD5E1",    // Platinum / Silver Slate
+          dark: "#0F1115",      // Refined Deep Graphite Background
+          card: "#161920",      // Slate Card Surface
+          border: "#1E222D",    // Subtle Hairline Border
+          accent: "#262C3A"     // Elevated Graphite Accent
         }
       },
       fontFamily: {
@@ -25,10 +24,9 @@ export default {
         sans: ['Inter', 'sans-serif'],
       },
       boxShadow: {
-        'dew-glow': '0 4px 16px rgba(249, 115, 22, 0.25)',
-        'blue-glow': '0 4px 16px rgba(59, 130, 246, 0.25)',
-        'red-glow': '0 4px 16px rgba(239, 68, 68, 0.22)',
-        'yellow-glow': '0 4px 16px rgba(96, 165, 250, 0.20)',
+        'dew-glow': '0 4px 16px rgba(245, 158, 11, 0.20)',
+        'red-glow': '0 4px 16px rgba(239, 68, 68, 0.20)',
+        'yellow-glow': '0 4px 16px rgba(203, 213, 225, 0.20)',
       }
     },
   },

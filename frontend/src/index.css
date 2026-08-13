@@ -4,13 +4,13 @@
 
 @layer base {
   body {
-    background-color: #0A0E17;
+    background-color: #0F1115;
     background-image: 
-      radial-gradient(at 0% 0%, rgba(249, 115, 22, 0.07) 0px, transparent 50%),
-      radial-gradient(at 100% 0%, rgba(59, 130, 246, 0.07) 0px, transparent 50%),
-      radial-gradient(at 50% 100%, rgba(30, 41, 59, 0.25) 0px, transparent 50%);
+      radial-gradient(at 0% 0%, rgba(245, 158, 11, 0.05) 0px, transparent 50%),
+      radial-gradient(at 100% 0%, rgba(59, 130, 246, 0.04) 0px, transparent 50%),
+      radial-gradient(at 50% 100%, rgba(255, 255, 255, 0.02) 0px, transparent 50%);
     background-attachment: fixed;
-    color: #F1F5F9;
+    color: #E2E8F0;
     font-family: 'Inter', sans-serif;
     padding-top: env(safe-area-inset-top);
     padding-bottom: env(safe-area-inset-bottom);
@@ -31,7 +31,7 @@
 }
 
 .dew-gradient-text {
-  background: linear-gradient(135deg, #F97316 0%, #FB923C 50%, #60A5FA 100%);
+  background: linear-gradient(135deg, #F59E0B 0%, #FBBF24 50%, #FFFFFF 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -43,31 +43,31 @@
 }
 
 .dew-glass-card {
-  background: #111827;
-  border: 1px solid #1E293B;
+  background: #161920;
+  border: 1px solid #1E222D;
   border-radius: 0.75rem;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
 }
 
 .dew-glass-card:hover {
-  border-color: rgba(249, 115, 22, 0.45);
+  border-color: rgba(245, 158, 11, 0.4);
   box-shadow: 0 6px 24px rgba(0, 0, 0, 0.6);
 }
 
 .dew-podium-1 {
-  background: #111827;
-  border: 2px solid #F97316;
-  box-shadow: 0 0 20px rgba(249, 115, 22, 0.25);
+  background: #161920;
+  border: 2px solid #F59E0B;
+  box-shadow: 0 0 20px rgba(245, 158, 11, 0.25);
 }
 
 .dew-podium-2 {
-  background: #111827;
-  border: 1.5px solid #3B82F6;
-  box-shadow: 0 0 16px rgba(59, 130, 246, 0.25);
+  background: #161920;
+  border: 1.5px solid #CBD5E1;
+  box-shadow: 0 0 16px rgba(203, 213, 225, 0.2);
 }
 
 .dew-podium-3 {
-  background: #111827;
+  background: #161920;
   border: 1.5px solid #EF4444;
   box-shadow: 0 0 16px rgba(239, 68, 68, 0.2);
 }
@@ -78,12 +78,12 @@
   height: 8px;
 }
 ::-webkit-scrollbar-track {
-  background: #0A0E17;
+  background: #0F1115;
 }
 ::-webkit-scrollbar-thumb {
-  background: #1E293B;
+  background: #1E222D;
   border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #F97316;
+  background: #F59E0B;
 }

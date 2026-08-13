@@ -57,7 +57,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
     <div className="space-y-8">
       
       {/* Header Banner */}
-      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-[#111827] border border-[#1E293B] rounded-xl p-6 md:p-8 shadow-2xl">
+      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-[#161920] border border-[#1E222D] rounded-xl p-6 md:p-8 shadow-2xl">
         <div>
           <div className="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-dew-green/10 border border-dew-green/30 text-dew-green text-xs font-mono font-bold uppercase tracking-wider mb-2">
             <Award className="w-3.5 h-3.5" />
@@ -69,7 +69,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
         </div>
 
         {/* Division Switcher */}
-        <div className="flex items-center space-x-1.5 bg-[#0A0E17] p-1.5 rounded-lg border border-[#1E293B]">
+        <div className="flex items-center space-x-1.5 bg-[#0F1115] p-1.5 rounded-lg border border-[#1E222D]">
           <button
             onClick={() => { setDivision('men'); setPage(1); }}
             className={`px-4 py-2 rounded-md font-display font-bold text-xs uppercase tracking-wider transition-all flex items-center space-x-2 ${
@@ -105,7 +105,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
               placeholder="Search athlete..."
               value={searchTerm}
               onChange={(e) => { setSearchTerm(e.target.value); setPage(1); }}
-              className="w-full bg-[#0D131F] text-white font-sans text-xs rounded-lg pl-10 pr-3 py-2.5 border border-[#1E293B] focus:outline-none focus:border-dew-green transition-all placeholder:text-gray-500 shadow-inner"
+              className="w-full bg-[#12141B] text-white font-sans text-xs rounded-lg pl-10 pr-3 py-2.5 border border-[#1E222D] focus:outline-none focus:border-dew-green transition-all placeholder:text-gray-500 shadow-inner"
             />
           </div>
 
@@ -115,7 +115,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
             className={`flex items-center justify-between px-4 py-2.5 rounded-lg font-mono text-xs font-bold transition-all border ${
               isAdvancedActive || showAdvanced
                 ? 'bg-dew-green text-black border-dew-green shadow-dew-glow font-extrabold'
-                : 'bg-[#111827] text-gray-200 border-[#1E293B] hover:border-dew-green/50'
+                : 'bg-[#161920] text-gray-200 border-[#1E222D] hover:border-dew-green/50'
             }`}
           >
             <div className="flex items-center space-x-2">
@@ -134,8 +134,8 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
 
         {/* Collapsible Advanced Options Panel */}
         {showAdvanced && (
-          <div className="bg-[#111827] border border-[#1E293B] rounded-xl p-5 space-y-4 animate-in fade-in slide-in-from-top-2 duration-200 shadow-2xl">
-            <div className="flex items-center justify-between border-b border-[#1E293B] pb-3">
+          <div className="bg-[#161920] border border-[#1E222D] rounded-xl p-5 space-y-4 animate-in fade-in slide-in-from-top-2 duration-200 shadow-2xl">
+            <div className="flex items-center justify-between border-b border-[#1E222D] pb-3">
               <div className="flex items-center space-x-2 text-dew-green font-mono text-xs font-bold uppercase">
                 <SlidersHorizontal className="w-4 h-4" />
                 <span>ADVANCED RANKING SCORING FILTERS</span>
@@ -163,7 +163,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
                   <select
                     value={yearsLimit}
                     onChange={(e) => { setYearsLimit(Number(e.target.value)); setPage(1); }}
-                    className="w-full bg-[#0D131F] text-dew-green font-mono text-xs font-bold rounded-lg px-3 py-2.5 border border-[#1E293B] focus:outline-none focus:border-dew-green transition-all appearance-none cursor-pointer"
+                    className="w-full bg-[#12141B] text-dew-green font-mono text-xs font-bold rounded-lg px-3 py-2.5 border border-[#1E222D] focus:outline-none focus:border-dew-green transition-all appearance-none cursor-pointer"
                   >
                     <option value={5}>5 Years (Full 60-Month Rolling History)</option>
                     <option value={4}>4 Years (Last 48 Months)</option>
@@ -185,7 +185,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
                   <select
                     value={placementLimit}
                     onChange={(e) => { setPlacementLimit(e.target.value); setPage(1); }}
-                    className="w-full bg-[#0D131F] text-gray-200 font-mono text-xs font-bold rounded-lg px-3 py-2.5 border border-[#1E293B] focus:outline-none focus:border-dew-green transition-all appearance-none cursor-pointer"
+                    className="w-full bg-[#12141B] text-gray-200 font-mono text-xs font-bold rounded-lg px-3 py-2.5 border border-[#1E222D] focus:outline-none focus:border-dew-green transition-all appearance-none cursor-pointer"
                   >
                     <option value="all">All Placements (Accumulate All Shows)</option>
                     <option value="top5">Top 5 Placements (Only Best 5 Shows)</option>
@@ -206,7 +206,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
           <div
             key={item.competitor.id}
             onClick={() => onSelectCompetitor(item)}
-            className="dew-glass-card p-3.5 flex items-center justify-between gap-3 active:scale-[0.98] transition-transform cursor-pointer border border-[#1E293B] hover:border-dew-green/50"
+            className="dew-glass-card p-3.5 flex items-center justify-between gap-3 active:scale-[0.98] transition-transform cursor-pointer border border-[#1E222D] hover:border-dew-green/50"
           >
             <div className="flex items-center space-x-3 min-w-0">
               <span className={`font-display text-2xl font-black shrink-0 ${
@@ -242,11 +242,11 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
       </div>
 
       {/* Desktop/Tablet Table List View (Visible on sm+ screens) */}
-      <div className="hidden sm:block dew-glass-card overflow-hidden border border-[#1E293B]">
+      <div className="hidden sm:block dew-glass-card overflow-hidden border border-[#1E222D]">
         <div className="overflow-x-auto">
           <table className="w-full text-left border-collapse">
             <thead>
-              <tr className="bg-[#162036] border-b border-[#1E293B] text-xs font-mono text-gray-300 uppercase tracking-wider">
+              <tr className="bg-[#1C212C] border-b border-[#1E222D] text-xs font-mono text-gray-300 uppercase tracking-wider">
                 <th className="py-3.5 px-6 text-center w-16">RANK</th>
                 <th className="py-3.5 px-6">COMPETITOR</th>
                 <th className="py-3.5 px-6 text-center">SHOWS</th>
@@ -256,12 +256,12 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
                 <th className="py-3.5 px-4"></th>
               </tr>
             </thead>
-            <tbody className="divide-y divide-[#1E293B]/60 text-sm bg-[#111827]">
+            <tbody className="divide-y divide-[#1E222D]/60 text-sm bg-[#161920]">
               {pagedRankings.map((item) => (
                 <tr
                   key={item.competitor.id}
                   onClick={() => onSelectCompetitor(item)}
-                  className="hover:bg-[#1A253C] transition-colors cursor-pointer group"
+                  className="hover:bg-[#1D2330] transition-colors cursor-pointer group"
                 >
                   <td className="py-3.5 px-6 text-center">
                     <span className={`font-display text-xl font-black ${
@@ -309,7 +309,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
           <button
             onClick={() => setPage(p => Math.max(1, p - 1))}
             disabled={safePage === 1}
-            className="flex items-center space-x-2 px-3.5 py-1.5 rounded-lg bg-[#111827] border border-[#1E293B] text-gray-300 font-mono text-xs font-bold disabled:opacity-30 hover:border-dew-green hover:text-white transition-all shadow-sm"
+            className="flex items-center space-x-2 px-3.5 py-1.5 rounded-lg bg-[#161920] border border-[#1E222D] text-gray-300 font-mono text-xs font-bold disabled:opacity-30 hover:border-dew-green hover:text-white transition-all shadow-sm"
           >
             <ChevronLeft className="w-3.5 h-3.5" />
             <span>PREV</span>
@@ -323,7 +323,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
           <button
             onClick={() => setPage(p => Math.min(totalPages, p + 1))}
             disabled={safePage === totalPages}
-            className="flex items-center space-x-2 px-3.5 py-1.5 rounded-lg bg-[#111827] border border-[#1E293B] text-gray-300 font-mono text-xs font-bold disabled:opacity-30 hover:border-dew-green hover:text-white transition-all shadow-sm"
+            className="flex items-center space-x-2 px-3.5 py-1.5 rounded-lg bg-[#161920] border border-[#1E222D] text-gray-300 font-mono text-xs font-bold disabled:opacity-30 hover:border-dew-green hover:text-white transition-all shadow-sm"
           >
             <span>NEXT</span>
             <ChevronRight className="w-3.5 h-3.5" />
