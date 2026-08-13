@@ -59,10 +59,6 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
       {/* Header Banner (Rogue Hard-Angled Industrial) */}
       <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-[#121212] border-2 border-[#262626] rounded-none p-6 md:p-8 shadow-2xl">
         <div>
-          <div className="inline-flex items-center space-x-2 px-3 py-1 bg-[#181818] border border-[#333333] text-zinc-300 text-xs font-mono font-bold uppercase tracking-wider mb-2 rounded-none">
-            <Award className="w-3.5 h-3.5 text-white" />
-            <span>GLOBAL ATHLETE MATRIX • <span className="text-red-500 font-bold">{division === 'women' ? "WOMEN'S" : "MEN'S"}</span> OPEN • {yearsLimit}-YEAR WINDOW</span>
-          </div>
           <h1 className="font-display text-4xl md:text-6xl font-black uppercase tracking-wider">
             <span className="text-red-600">{division === 'women' ? "WOMEN'S" : "MEN'S"}</span>{' '}
             <span className="text-white">OPEN RANKINGS</span>
