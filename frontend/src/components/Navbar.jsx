@@ -15,7 +15,7 @@ export default function Navbar({ activeTab, setActiveTab }) {
           {/* Brand Title (Rogue Industrial Style) */}
           <div className="cursor-pointer py-2 active:scale-95 transition-transform" onClick={() => setActiveTab('all')}>
             <div className="font-display text-3xl sm:text-4xl md:text-5xl tracking-widest font-black uppercase leading-none flex items-center gap-2">
-              <span className="text-white">TOP</span>
+              <span className="text-red-600">TOP</span>
               <span className="bg-white text-black px-2 py-0.5 font-black text-2xl sm:text-3xl md:text-4xl">STRONGMAN</span>
             </div>
           </div>
