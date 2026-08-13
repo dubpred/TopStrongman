@@ -187,21 +187,21 @@ export default function ShowsAndTiers({ showsData }) {
           <div className="bg-[#080D08]/90 rounded-2xl p-5 border border-dew-red/30 space-y-2">
             <div className="flex items-center justify-between">
               <span className="text-xs font-mono text-dew-red font-bold uppercase">STEP 3 • SHARP POWER SCALING</span>
-              <span className="text-xs font-mono text-gray-500">Exponent = 2.5</span>
+              <span className="text-xs font-mono text-gray-500">Exponent = 1.5</span>
             </div>
             <h4 className="font-display text-lg font-bold text-white uppercase">Non-Linear Normalization (0 - 1000)</h4>
             <p className="text-xs text-gray-400 font-mono">
-              The hardest show (D_max) is set to 1000 PTS. All other shows scale non-linearly with power curve exponent 2.5:
+              The hardest show (D_max) is set to 1000 PTS. All other shows scale non-linearly with power curve exponent 1.5:
             </p>
             <div className="bg-[#0D140D] p-3 rounded-xl border border-dew-red/20 font-mono text-xs text-dew-red text-center font-bold">
-              Difficulty(Show) = 1000 • ( D_raw / D_max )^2.5
+              Difficulty(Show) = 1000 • ( D_raw / D_max )^1.5
             </div>
           </div>
 
           {/* Step 4 */}
           <div className="bg-[#080D08]/90 rounded-2xl p-5 border border-dew-green/40 space-y-2">
             <div className="flex items-center justify-between">
-              <span className="text-xs font-mono text-dew-green font-bold uppercase">STEP 4 • OPTION B DIMINISHING WEIGHTS</span>
+              <span className="text-xs font-mono text-dew-green font-bold uppercase">STEP 4 • DIMINISHING WEIGHTS VECTOR</span>
               <span className="text-xs font-mono text-gray-500">Score_total</span>
             </div>
             <h4 className="font-display text-lg font-bold text-white uppercase">Diminishing Marginal Top-Result Weights</h4>
@@ -218,7 +218,7 @@ export default function ShowsAndTiers({ showsData }) {
         {/* Difficulty Scale Impact Examples */}
         <div className="bg-[#080D08] p-5 rounded-2xl border border-dew-green/20 space-y-3 font-mono text-xs">
           <div className="text-dew-green font-bold uppercase tracking-wider flex items-center justify-between">
-            <span>SHOW DIFFICULTY SCALING CURVE EXAMPLES (EXPONENT 2.5)</span>
+            <span>SHOW DIFFICULTY SCALING CURVE EXAMPLES (EXPONENT 1.5)</span>
             <span className="text-gray-500 font-normal">MAX BENCHMARK = 1000 PTS</span>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-4 gap-3 text-center">
@@ -251,14 +251,14 @@ export default function ShowsAndTiers({ showsData }) {
         <div className="flex items-center space-x-3 text-dew-yellow">
           <Flame className="w-7 h-7 text-dew-red fill-dew-red" />
           <h2 className="font-display text-3xl font-extrabold uppercase text-white">
-            36-MONTH STEEP RECENCY DECAY CURVE
+            60-MONTH (5-YEAR) SMOOTH RECENCY DECAY CURVE
           </h2>
         </div>
         <p className="text-sm text-gray-300">
-          To prioritize current form and prevent inactive athletes from occupying top rankings, a 36-month active window applies steep time recency decay before dropping older events to zero:
+          To prioritize current form while giving fair credit for 5-year legacy achievements, a 60-month active window applies smooth recency decay:
         </p>
 
-        <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 pt-2 font-mono text-center">
+        <div className="grid grid-cols-2 sm:grid-cols-5 gap-3 pt-2 font-mono text-center">
           <div className="bg-[#080D08] p-3 rounded-2xl border border-dew-green/30">
             <div className="text-xs text-gray-400">0 - 12 MONTHS</div>
             <div className="font-display text-2xl font-black text-dew-green">5.0x</div>
@@ -266,18 +266,23 @@ export default function ShowsAndTiers({ showsData }) {
           </div>
           <div className="bg-[#080D08] p-3 rounded-2xl border border-dew-yellow/30">
             <div className="text-xs text-gray-400">12 - 24 MONTHS</div>
-            <div className="font-display text-2xl font-black text-dew-yellow">1.5x</div>
-            <div className="text-[10px] text-gray-500 mt-1">30% Weight</div>
+            <div className="font-display text-2xl font-black text-dew-yellow">3.0x</div>
+            <div className="text-[10px] text-gray-500 mt-1">60% Weight</div>
           </div>
           <div className="bg-[#080D08] p-3 rounded-2xl border border-dew-red/30">
             <div className="text-xs text-gray-400">24 - 36 MONTHS</div>
-            <div className="font-display text-2xl font-black text-dew-red">0.5x</div>
+            <div className="font-display text-2xl font-black text-dew-red">1.0x</div>
+            <div className="text-[10px] text-gray-500 mt-1">20% Weight</div>
+          </div>
+          <div className="bg-[#080D08] p-3 rounded-2xl border border-orange-500/30">
+            <div className="text-xs text-gray-400">36 - 48 MONTHS</div>
+            <div className="font-display text-2xl font-black text-orange-400">0.5x</div>
             <div className="text-[10px] text-gray-500 mt-1">10% Weight</div>
           </div>
           <div className="bg-[#080D08] p-3 rounded-2xl border border-gray-700">
-            <div className="text-xs text-gray-400">&gt; 36 MONTHS</div>
-            <div className="font-display text-2xl font-black text-gray-500">0.0x</div>
-            <div className="text-[10px] text-gray-500 mt-1">EXPIRED</div>
+            <div className="text-xs text-gray-400">48 - 60 MONTHS</div>
+            <div className="font-display text-2xl font-black text-gray-400">0.25x</div>
+            <div className="text-[10px] text-gray-500 mt-1">5% Weight</div>
           </div>
         </div>
       </div>
