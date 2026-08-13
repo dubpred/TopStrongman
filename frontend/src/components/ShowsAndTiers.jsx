@@ -1,5 +1,5 @@
 import React from 'react';
-import { Layers, ShieldCheck, Flame, Trophy, HelpCircle } from 'lucide-react';
+import { Layers, ShieldCheck, Flame, Trophy, HelpCircle, Calculator } from 'lucide-react';
 import DifficultyGraph from './DifficultyGraph';
 
 export default function ShowsAndTiers({ showsData }) {
@@ -88,7 +88,7 @@ export default function ShowsAndTiers({ showsData }) {
           COMPETITION <span className="dew-gradient-text">TIERS & MULTIPLIERS</span>
         </h1>
         <p className="text-gray-300 text-base max-w-3xl mt-2">
-          Every competition in the 533-show dataset is classified into 5 distinct tiers based on prestige, international lineup quality, and field depth.
+          Every competition in the 2,000+ open-class show dataset is classified into 5 distinct tiers based on prestige, international lineup quality, and field depth.
         </p>
       </div>
 
@@ -141,17 +141,17 @@ export default function ShowsAndTiers({ showsData }) {
               MATH OF DYNAMIC COMPETITION DIFFICULTY
             </h2>
             <p className="text-xs font-mono text-gray-400">
-              SHARP NON-LINEAR POWER CURVE MODELING • 0 TO 1000 POINTS BENCHMARK
+              NON-LINEAR POWER CURVE MODELING (EXPONENT 1.5) • 0 TO 1000 POINTS BENCHMARK
             </p>
           </div>
         </div>
 
         <p className="text-gray-300 text-sm leading-relaxed">
-          Instead of relying solely on static subjective tier multipliers, every competition’s difficulty is dynamically calculated from the actual strength of its top 5 competing athletes, then scaled using a sharp non-linear power curve.
+          Instead of relying solely on static subjective tier multipliers, every competition’s difficulty is dynamically calculated from the actual strength of its top 5 competing athletes, then scaled using a non-linear power curve.
         </p>
 
-        {/* 4-Step Mathematical Process Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 pt-2">
+        {/* 3-Step Competition Difficulty Calculation */}
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
           
           {/* Step 1 */}
           <div className="bg-[#080D08]/90 rounded-2xl p-5 border border-dew-green/30 space-y-2">
@@ -161,7 +161,7 @@ export default function ShowsAndTiers({ showsData }) {
             </div>
             <h4 className="font-display text-lg font-bold text-white uppercase">Pure Athlete Base Points</h4>
             <p className="text-xs text-gray-400 font-mono">
-              Every competitor is first assigned a baseline "Pure Rank" score based on raw exponential decay, event tiers, and recency:
+              Every competitor is first assigned a baseline "Pure Rank" score based on raw exponential placement decay, show tier, and recency multiplier:
             </p>
             <div className="bg-[#0D140D] p-3 rounded-xl border border-dew-green/20 font-mono text-xs text-dew-green text-center font-bold">
               P_pure = 100 • e^(-0.25 • (Rank - 1)) • Tier_Mult • Recency_Mult
@@ -186,30 +186,15 @@ export default function ShowsAndTiers({ showsData }) {
           {/* Step 3 */}
           <div className="bg-[#080D08]/90 rounded-2xl p-5 border border-dew-red/30 space-y-2">
             <div className="flex items-center justify-between">
-              <span className="text-xs font-mono text-dew-red font-bold uppercase">STEP 3 • SHARP POWER SCALING</span>
+              <span className="text-xs font-mono text-dew-red font-bold uppercase">STEP 3 • POWER CURVE NORMALIZATION</span>
               <span className="text-xs font-mono text-gray-500">Exponent = 1.5</span>
             </div>
-            <h4 className="font-display text-lg font-bold text-white uppercase">Non-Linear Normalization (0 - 1000)</h4>
+            <h4 className="font-display text-lg font-bold text-white uppercase">Non-Linear Difficulty (0 - 1000)</h4>
             <p className="text-xs text-gray-400 font-mono">
-              The hardest show (D_max) is set to 1000 PTS. All other shows scale non-linearly with power curve exponent 1.5:
+              The hardest show (D_max) is benchmarked to 1000 PTS. All other shows scale non-linearly using power exponent 1.5:
             </p>
             <div className="bg-[#0D140D] p-3 rounded-xl border border-dew-red/20 font-mono text-xs text-dew-red text-center font-bold">
               Difficulty(Show) = 1000 • ( D_raw / D_max )^1.5
-            </div>
-          </div>
-
-          {/* Step 4 */}
-          <div className="bg-[#080D08]/90 rounded-2xl p-5 border border-dew-green/40 space-y-2">
-            <div className="flex items-center justify-between">
-              <span className="text-xs font-mono text-dew-green font-bold uppercase">STEP 4 • DIMINISHING WEIGHTS VECTOR</span>
-              <span className="text-xs font-mono text-gray-500">Score_total</span>
-            </div>
-            <h4 className="font-display text-lg font-bold text-white uppercase">Diminishing Marginal Top-Result Weights</h4>
-            <p className="text-xs text-gray-400 font-mono">
-              Athletes earn points per show weighted by a diminishing marginal vector (1.0, 0.85, 0.70 ... 0.05) across top 10 results:
-            </p>
-            <div className="bg-[#0D140D] p-3 rounded-xl border border-dew-green/30 font-mono text-xs text-dew-green text-center font-bold">
-              Score = Σ [ W_i • Difficulty • e^(-0.25 • (Rank - 1)) • Recency_Mult ]
             </div>
           </div>
 
@@ -218,8 +203,8 @@ export default function ShowsAndTiers({ showsData }) {
         {/* Difficulty Scale Impact Examples */}
         <div className="bg-[#080D08] p-5 rounded-2xl border border-dew-green/20 space-y-3 font-mono text-xs">
           <div className="text-dew-green font-bold uppercase tracking-wider flex items-center justify-between">
-            <span>SHOW DIFFICULTY SCALING CURVE EXAMPLES (EXPONENT 1.5)</span>
-            <span className="text-gray-500 font-normal">MAX BENCHMARK = 1000 PTS</span>
+            <span>SHOW DIFFICULTY SCALING EXAMPLES (EXPONENT 1.5)</span>
+            <span className="text-gray-500 font-normal">BENCHMARK MAX = 1000 PTS</span>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-4 gap-3 text-center">
             <div className="bg-[#0D140D] p-3 rounded-xl border border-dew-green/30">
@@ -243,6 +228,79 @@ export default function ShowsAndTiers({ showsData }) {
               <div className="text-[10px] text-gray-500 mt-0.5">SCL Circuit & Local Spectacles</div>
             </div>
           </div>
+        </div>
+      </div>
+
+      {/* Athlete Total Score Formula Card */}
+      <div className="dew-glass-card p-8 rounded-3xl border border-dew-green/40 bg-gradient-to-br from-[#0B150B] via-[#101C10] to-[#060A06] space-y-4 shadow-2xl">
+        <div className="flex items-center space-x-3 text-dew-green">
+          <Calculator className="w-7 h-7 text-dew-green" />
+          <div>
+            <h2 className="font-display text-3xl font-extrabold uppercase text-white tracking-wide">
+              ATHLETE TOTAL RANKING SCORE FORMULA
+            </h2>
+            <p className="text-xs font-mono text-gray-400">
+              DIMINISHING MARGINAL TOP-10 RESULTS VECTOR (W_1 to W_10)
+            </p>
+          </div>
+        </div>
+        <p className="text-sm text-gray-300">
+          For each event entered, an athlete earns points determined by the show's Dynamic Difficulty, placement rank decay, and event recency multiplier:
+        </p>
+
+        <div className="bg-[#080D08] p-4 rounded-2xl border border-dew-green/30 font-mono text-xs text-dew-green text-center font-bold">
+          Earned Points = Difficulty(Show) • e^(-0.25 • (Rank - 1)) • Recency_Mult
+        </div>
+
+        <p className="text-xs text-gray-400 font-mono">
+          An athlete's total ranking score is computed by sorting all their earned show points in descending order and applying the Top 10 diminishing marginal weights vector:
+        </p>
+
+        <div className="grid grid-cols-2 sm:grid-cols-5 gap-2 font-mono text-center text-xs">
+          <div className="bg-[#080D08] p-2.5 rounded-xl border border-dew-green/30">
+            <div className="text-[10px] text-gray-400">1ST BEST</div>
+            <div className="font-bold text-dew-green">100% (1.0)</div>
+          </div>
+          <div className="bg-[#080D08] p-2.5 rounded-xl border border-dew-green/30">
+            <div className="text-[10px] text-gray-400">2ND BEST</div>
+            <div className="font-bold text-dew-green">85% (0.85)</div>
+          </div>
+          <div className="bg-[#080D08] p-2.5 rounded-xl border border-dew-green/30">
+            <div className="text-[10px] text-gray-400">3RD BEST</div>
+            <div className="font-bold text-dew-green">70% (0.70)</div>
+          </div>
+          <div className="bg-[#080D08] p-2.5 rounded-xl border border-dew-yellow/30">
+            <div className="text-[10px] text-gray-400">4TH BEST</div>
+            <div className="font-bold text-dew-yellow">55% (0.55)</div>
+          </div>
+          <div className="bg-[#080D08] p-2.5 rounded-xl border border-dew-yellow/30">
+            <div className="text-[10px] text-gray-400">5TH BEST</div>
+            <div className="font-bold text-dew-yellow">40% (0.40)</div>
+          </div>
+          <div className="bg-[#080D08] p-2.5 rounded-xl border border-dew-red/30">
+            <div className="text-[10px] text-gray-400">6TH BEST</div>
+            <div className="font-bold text-dew-red">30% (0.30)</div>
+          </div>
+          <div className="bg-[#080D08] p-2.5 rounded-xl border border-dew-red/30">
+            <div className="text-[10px] text-gray-400">7TH BEST</div>
+            <div className="font-bold text-dew-red">20% (0.20)</div>
+          </div>
+          <div className="bg-[#080D08] p-2.5 rounded-xl border border-orange-500/30">
+            <div className="text-[10px] text-gray-400">8TH BEST</div>
+            <div className="font-bold text-orange-400">15% (0.15)</div>
+          </div>
+          <div className="bg-[#080D08] p-2.5 rounded-xl border border-gray-700">
+            <div className="text-[10px] text-gray-400">9TH BEST</div>
+            <div className="font-bold text-gray-300">10% (0.10)</div>
+          </div>
+          <div className="bg-[#080D08] p-2.5 rounded-xl border border-gray-700">
+            <div className="text-[10px] text-gray-400">10TH BEST</div>
+            <div className="font-bold text-gray-400">5% (0.05)</div>
+          </div>
+        </div>
+
+        <div className="bg-[#080D08] p-3.5 rounded-2xl border border-dew-green/40 font-mono text-xs text-dew-green text-center font-bold">
+          Total Score = Σ [ W_i • Earned_Points_i ] (for top 10 results)
         </div>
       </div>
 
