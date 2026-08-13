@@ -4,13 +4,13 @@
 
 @layer base {
   body {
-    background-color: #F8FAFC;
+    background-color: #090B0E;
     background-image: 
-      radial-gradient(at 0% 0%, rgba(27, 77, 62, 0.04) 0px, transparent 50%),
-      radial-gradient(at 100% 0%, rgba(64, 145, 108, 0.04) 0px, transparent 50%),
-      radial-gradient(at 50% 100%, rgba(213, 226, 217, 0.25) 0px, transparent 50%);
+      radial-gradient(at 0% 0%, rgba(16, 185, 129, 0.06) 0px, transparent 50%),
+      radial-gradient(at 100% 0%, rgba(59, 130, 246, 0.04) 0px, transparent 50%),
+      radial-gradient(at 50% 100%, rgba(255, 255, 255, 0.02) 0px, transparent 50%);
     background-attachment: fixed;
-    color: #0F291E;
+    color: #F1F5F9;
     font-family: 'Inter', sans-serif;
     padding-top: env(safe-area-inset-top);
     padding-bottom: env(safe-area-inset-bottom);
@@ -31,45 +31,45 @@
 }
 
 .dew-gradient-text {
-  background: linear-gradient(135deg, #1B4D3E 0%, #2D6A4F 60%, #40916C 100%);
+  background: linear-gradient(135deg, #10B981 0%, #34D399 50%, #FFFFFF 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .dew-red-gradient-text {
-  background: linear-gradient(135deg, #DC2626 0%, #B91C1C 100%);
+  background: linear-gradient(135deg, #F87171 0%, #EF4444 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .dew-glass-card {
-  background: #FFFFFF;
-  border: 1px solid #D5E2D9;
+  background: #12161F;
+  border: 1px solid #252E3E;
   border-radius: 0.75rem;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03), 0 4px 12px rgba(27, 77, 62, 0.03);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
 }
 
 .dew-glass-card:hover {
-  border-color: #A3C4B2;
-  box-shadow: 0 4px 16px rgba(27, 77, 62, 0.08);
+  border-color: rgba(16, 185, 129, 0.4);
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.6);
 }
 
 .dew-podium-1 {
-  background: #FFFFFF;
-  border: 2px solid #1B4D3E;
-  box-shadow: 0 4px 16px rgba(27, 77, 62, 0.12);
+  background: #12161F;
+  border: 2px solid #10B981;
+  box-shadow: 0 0 20px rgba(16, 185, 129, 0.25);
 }
 
 .dew-podium-2 {
-  background: #FFFFFF;
-  border: 1.5px solid #64748B;
-  box-shadow: 0 4px 12px rgba(100, 116, 139, 0.10);
+  background: #12161F;
+  border: 1.5px solid #CBD5E1;
+  box-shadow: 0 0 16px rgba(203, 213, 225, 0.2);
 }
 
 .dew-podium-3 {
-  background: #FFFFFF;
-  border: 1.5px solid #DC2626;
-  box-shadow: 0 4px 12px rgba(220, 38, 38, 0.10);
+  background: #12161F;
+  border: 1.5px solid #EF4444;
+  box-shadow: 0 0 16px rgba(239, 68, 68, 0.2);
 }
 
 /* Custom Scrollbar */
@@ -78,12 +78,12 @@
   height: 8px;
 }
 ::-webkit-scrollbar-track {
-  background: #F1F5F9;
+  background: #090B0E;
 }
 ::-webkit-scrollbar-thumb {
-  background: #CBD5E1;
+  background: #252E3E;
   border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #94A3B8;
+  background: #10B981;
 }

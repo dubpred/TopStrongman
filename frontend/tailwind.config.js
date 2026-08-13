@@ -8,14 +8,14 @@ export default {
     extend: {
       colors: {
         dew: {
-          green: "#1B4D3E",     // Deep Forest Green (Primary Contrast)
-          neon: "#2D6A4F",      // Emerald Pine
-          red: "#DC2626",       // Crimson Accent
-          yellow: "#475569",    // Muted Slate
-          dark: "#F8FAFC",      // Off-White / Crisp Canvas
-          card: "#FFFFFF",      // Clean Card Surface
-          border: "#D5E2D9",    // Sage Hairline Border
-          accent: "#EBF2EE"     // Soft Sage Container Surface
+          green: "#10B981",     // High-Visibility Athletic Emerald
+          neon: "#34D399",      // Vibrant Mint Highlight
+          red: "#EF4444",       // High-Contrast Athletic Crimson
+          yellow: "#E2E8F0",    // Crisp Platinum Slate
+          dark: "#090B0E",      // Deep Obsidian Background
+          card: "#12161F",      // Dark Charcoal Surface
+          border: "#252E3E",    // Defined Contrast Border
+          accent: "#181E2B"     // Elevated Container Accent
         }
       },
       fontFamily: {
@@ -24,9 +24,9 @@ export default {
         sans: ['Inter', 'sans-serif'],
       },
       boxShadow: {
-        'dew-glow': '0 4px 16px rgba(27, 77, 62, 0.15)',
-        'red-glow': '0 4px 16px rgba(220, 38, 38, 0.15)',
-        'yellow-glow': '0 4px 16px rgba(71, 85, 105, 0.15)',
+        'dew-glow': '0 4px 16px rgba(16, 185, 129, 0.22)',
+        'red-glow': '0 4px 16px rgba(239, 68, 68, 0.22)',
+        'yellow-glow': '0 4px 16px rgba(226, 232, 240, 0.15)',
       }
     },
   },
