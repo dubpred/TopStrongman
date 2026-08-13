@@ -100,7 +100,7 @@ export default function RankingSimulator({ formula, setFormula }) {
               {ranks.map((r) => (
                 <tr key={r} className="hover:bg-white/5">
                   <td className="py-3 px-4 text-left font-bold text-white">
-                    Place #{r} {r === 1 ? '🥇' : r === 2 ? '🥈' : r === 3 ? '🥉' : ''}
+                    Place #{r} {r === 1 ? '(1ST)' : r === 2 ? '(2ND)' : r === 3 ? '(3RD)' : ''}
                   </td>
                   <td className={`py-3 px-4 font-bold ${formula === 'INVERSE' ? 'text-dew-green bg-dew-green/10' : 'text-gray-300'}`}>
                     {getPoints(r, 'INVERSE')} PTS

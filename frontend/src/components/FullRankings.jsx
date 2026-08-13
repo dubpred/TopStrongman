@@ -221,7 +221,7 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
                   {item.competitor.name}
                 </div>
                 <div className="text-xs font-mono text-zinc-400 flex items-center gap-1.5 mt-0.5">
-                  <span>{item.competitor.flagEmoji || '🌐'} {item.competitor.country}</span>
+                  <span>{item.competitor.country}</span>
                   <span>•</span>
                   <span>{item.totalShows} SHOWS</span>
                 </div>

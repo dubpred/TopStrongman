@@ -286,7 +286,7 @@ function getCountryData(fullName, rowCountryCode) {
   const meta = athleteMeta[fullName];
   if (meta) return { country: meta.country, countryCode: meta.countryCode, flagEmoji: meta.flagEmoji };
   
-  return { country: "International", countryCode: "INT", flagEmoji: "🌐" };
+  return { country: "International", countryCode: "INT" };
 }
 
 export function computeRankingsFromDatabase(options = {}) {

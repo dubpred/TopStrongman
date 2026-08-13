@@ -37,8 +37,7 @@ export default function CompetitorModal({ athlete, onClose }) {
           {/* Hero Section */}
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4 p-5 sm:p-6 bg-[#141414] border-2 border-[#262626] rounded-none">
             <div className="text-center sm:text-left space-y-1">
-              <div className="text-xs font-mono text-white font-bold uppercase tracking-wider flex items-center justify-center sm:justify-start gap-1.5">
-                <span>{competitor.flagEmoji || '🌐'}</span>
+              <div className="text-xs font-mono text-zinc-400 font-bold uppercase tracking-wider flex items-center justify-center sm:justify-start gap-1.5">
                 <span>{competitor.country}</span>
               </div>
               <h2 className="font-display text-4xl sm:text-5xl font-black uppercase text-white tracking-wider">
@@ -86,7 +85,7 @@ export default function CompetitorModal({ athlete, onClose }) {
                   <div className="flex items-start justify-between gap-2">
                     <div>
                       <div className="font-display font-black text-white text-lg uppercase tracking-wide">
-                        {idx === 0 && <span className="mr-1 text-white">⭐</span>}
+                        {idx === 0 && <span className="mr-1.5 text-xs font-mono font-bold text-white">[BEST]</span>}
                         {c.competitionName}
                       </div>
                       <div className="text-xs font-mono text-zinc-400 flex items-center gap-2 mt-0.5">
@@ -138,7 +137,7 @@ export default function CompetitorModal({ athlete, onClose }) {
                     {contributions && contributions.map((c, idx) => (
                       <tr key={idx} className={`hover:bg-[#1C1C1C] transition-colors ${idx === 0 ? 'bg-white/5' : ''}`}>
                         <td className="py-3.5 px-4 font-bold text-white uppercase">
-                          {idx === 0 && <span className="mr-1.5 text-white">⭐</span>}
+                          {idx === 0 && <span className="mr-1.5 text-xs font-mono font-bold text-white">[BEST]</span>}
                           {c.competitionName}
                         </td>
                         <td className="py-3.5 px-4 text-center font-mono text-zinc-400 font-bold">

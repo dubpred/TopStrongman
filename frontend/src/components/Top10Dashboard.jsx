@@ -91,9 +91,9 @@ export default function Top10Dashboard({ rankings, onSelectCompetitor, formula }
                   <div className="font-display text-3xl font-black text-dew-yellow">{second.totalPoints.toFixed(1)} <span className="text-xs text-gray-400">PTS</span></div>
                 </div>
                 <div className="flex justify-between w-full text-xs font-mono text-gray-300 pt-2 border-t border-dew-yellow/20">
-                  <span>🏆 {second.winsCount} Wins</span>
-                  <span>🥇 {second.podiumsCount} Podiums</span>
-                  <span>🎪 {second.totalShows} Shows</span>
+                  <span>{second.winsCount} WINS</span>
+                  <span>{second.podiumsCount} PODIUMS</span>
+                  <span>{second.totalShows} SHOWS</span>
                 </div>
               </div>
             </div>
@@ -124,10 +124,12 @@ export default function Top10Dashboard({ rankings, onSelectCompetitor, formula }
                   <div className="text-xs text-dew-green font-mono font-bold tracking-wider">GLOBAL WORLD SCORE</div>
                   <div className="font-display text-4xl font-black text-white">{first.totalPoints.toFixed(1)} <span className="text-sm text-dew-green">PTS</span></div>
                 </div>
-                <div className="flex justify-between w-full text-xs font-mono text-gray-200 pt-2 border-t border-dew-green/30">
-                  <span>🏆 {first.winsCount} Wins</span>
-                  <span>🥇 {first.podiumsCount} Podiums</span>
-                  <span>🎪 {first.totalShows} Shows</span>
+                <div className="flex flex-wrap justify-center items-center gap-4 text-xs font-mono text-gray-200 pt-2 border-t border-dew-green/30">
+                  <span>{first.winsCount} WINS</span>
+                  <span>•</span>
+                  <span>{first.podiumsCount} PODIUMS</span>
+                  <span>•</span>
+                  <span>{first.totalShows} SHOWS</span>
                 </div>
               </div>
             </div>
@@ -156,9 +158,9 @@ export default function Top10Dashboard({ rankings, onSelectCompetitor, formula }
                   <div className="font-display text-3xl font-black text-dew-red">{third.totalPoints.toFixed(1)} <span className="text-xs text-gray-400">PTS</span></div>
                 </div>
                 <div className="flex justify-between w-full text-xs font-mono text-gray-300 pt-2 border-t border-dew-red/20">
-                  <span>🏆 {third.winsCount} Wins</span>
-                  <span>🥇 {third.podiumsCount} Podiums</span>
-                  <span>🎪 {third.totalShows} Shows</span>
+                  <span>{third.winsCount} WINS</span>
+                  <span>{third.podiumsCount} PODIUMS</span>
+                  <span>{third.totalShows} SHOWS</span>
                 </div>
               </div>
             </div>
