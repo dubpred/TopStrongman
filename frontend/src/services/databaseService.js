@@ -285,8 +285,11 @@ function getCountryData(fullName, rowCountryCode) {
 export function computeRankingsFromDatabase(options = {}) {
   const {
     yearsLimit = 5,
-    placementLimit = 'all'
+    placementLimit = 'all',
+    division = 'men'
   } = options;
+
+  const targetDivision = division === 'women' ? 'women' : 'men';
 
   const isWithinTimeframe = (dateStr) => {
     if (!dateStr) return false;
@@ -300,7 +303,9 @@ export function computeRankingsFromDatabase(options = {}) {
   // Step 1: Calculate Pure Rankings using Top-6 Best Results Cap
   const athletePtsList = {};
   databaseRows.forEach((row) => {
-    if (!isWithinTimeframe(row.Date) || isOmittedShow(row.Show_Name)) return;
+    const rowDiv = row.division || 'men';
+    if (rowDiv !== targetDivision) return;
+    if (!isWithinTimeframe(row.Date)) return;
 
     const fullName = `${row.Competitor_fName} ${row.Compititor_LName}`;
     const tierInfo = getTierInfo(row.Show_Promotion, row.Show_Name);
@@ -335,7 +340,9 @@ export function computeRankingsFromDatabase(options = {}) {
   // Step 2: Calculate Competition Difficulty within timeframe
   const showGroupMap = {};
   databaseRows.forEach((row) => {
-    if (!isWithinTimeframe(row.Date) || isOmittedShow(row.Show_Name)) return;
+    const rowDiv = row.division || 'men';
+    if (rowDiv !== targetDivision) return;
+    if (!isWithinTimeframe(row.Date)) return;
     if (!showGroupMap[row.Show_Name]) showGroupMap[row.Show_Name] = [];
     showGroupMap[row.Show_Name].push(row);
   });

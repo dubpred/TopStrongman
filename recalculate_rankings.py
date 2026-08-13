@@ -5,7 +5,8 @@ from datetime import datetime
 
 DATASET_FILE = "strongman_contests_dataset.json"
 FILTERED_FILE = "strongman_contests_filtered.json"
-RANKED_FILE = "strongman_contests_ranked_last_5_years.json"
+RANKED_MEN_FILE = "strongman_contests_ranked_last_5_years.json"
+RANKED_WOMEN_FILE = "strongwoman_contests_ranked_last_5_years.json"
 UNRANKABLE_FILE = "strongman_contests_unrankable_last_5_years.json"
 DB_FILE = "database_strongman.json"
 FRONTEND_DB_FILE = "frontend/src/services/database_strongman.json"
@@ -14,29 +15,30 @@ CURRENT_DATE = datetime(2026, 8, 13)
 WEIGHTS = [1.0, 0.85, 0.70, 0.55, 0.40, 0.30, 0.20, 0.15, 0.10, 0.05]
 POWER_EXPONENT = 1.5
 
-def is_omitted_show(show_name):
+def classify_division(show_name):
     name = (show_name or "").lower()
 
-    # Omit weight class, masters, women's divisions, and WSM Group Heats
-    is_weight_or_masters = ("105" in name or "u105" in name or "u90" in name or "u80" in name or "masters" in name)
+    # Omit weight classes (U64, U73, U82, U90, U105, 105), masters, heats, novice
+    is_weight_or_masters = (
+        "u64" in name or "u73" in name or "u82" in name or "105" in name or "u105" in name or
+        "u90" in name or "u80" in name or "masters" in name or "novice" in name or "inspirational" in name
+    )
     is_wsm_heat = ("wsm" in name and ("group" in name or "heat" in name)) or "wsm group" in name
-    is_women = ("women" in name or "woman" in name or "wsw" in name or "female" in name or "inspirational" in name or "arnold wsm" in name)
-    return is_weight_or_masters or is_wsm_heat or is_women
+    if is_weight_or_masters or is_wsm_heat:
+        return "OMITTED"
 
-def get_tier_info(show_name):
+    is_women = ("women" in name or "woman" in name or "wsw" in name or "female" in name)
+    return "women" if is_women else "men"
+
+def get_tier_info(show_name, division):
     name = (show_name or "").lower()
 
-    if is_omitted_show(name):
-        return "OMITTED", 0.0
-
-    # TIER 4 exemptions (qualifiers, heats, Arnold Pro/Am & Amateur, Shaw Classic Open)
     if (
         "group" in name or "heat" in name or "qualifier" in name or "qualifying" in name or
         "pro/am" in name or "amateur" in name or "shaw classic open" in name
     ):
         return "TIER_4", 1.0
 
-    # TIER 5 exemptions (local spectacles, novice, natural shows)
     if (
         "novice" in name or "spectacle" in name or "festif" in name or
         "pehar" in name or "hero of" in name or "cup of friendship" in name or
@@ -44,35 +46,31 @@ def get_tier_info(show_name):
     ):
         return "TIER_5", 0.25
 
-    # TIER 1 — ONLY Arnold Strongman Classic, WSM Finals, SMOE, Rogue
     if (
-        "world's strongest man" in name or
-        "arnold strongman classic" in name or
-        "strongest man on earth" in name or
-        "shaw classic" in name or
-        "rogue invitational" in name
+        "world's strongest man" in name or "world's strongest woman" in name or
+        "arnold strongman classic" in name or "arnold strongwoman classic" in name or
+        "strongest man on earth" in name or "official strongman games" in name or
+        "shaw classic" in name or "rogue invitational" in name
     ):
         return "TIER_1", 5.0
 
-    # TIER 2 — All other Arnold World Series shows & Giants Live International
     if (
         "giants live" in name or "arnold" in name or
-        "world tour finals" in name or "strongman classic" in name or
-        "world open" in name or "strongman open" in name or
+        "world tour finals" in name or "strongman classic" in name or "strongwoman classic" in name or
+        "world open" in name or "strongman open" in name or "strongwoman open" in name or
         "world deadlift" in name or "world log lift" in name or "log lift championships" in name
     ):
         return "TIER_2", 3.0
 
-    # TIER 3 — Continental Championships
     if (
-        "europe's strongest man" in name or "north america's strongest man" in name or
-        "britain's strongest man" in name or "america's strongest man" in name or
-        "official strongman games" in name
+        "europe's strongest man" in name or "europe's strongest woman" in name or
+        "north america's strongest man" in name or "north america's strongest woman" in name or
+        "britain's strongest man" in name or "britain's strongest woman" in name or
+        "america's strongest man" in name or "america's strongest woman" in name
     ):
         return "TIER_3", 2.0
 
-    # TIER 4 — SCL & National Circuits
-    if "strongman champions league" in name or "scl" in name or "strongest man" in name:
+    if "strongman champions league" in name or "scl" in name or "strongest man" in name or "strongest woman" in name:
         return "TIER_4", 1.0
 
     return "TIER_5", 0.25
@@ -105,36 +103,26 @@ def get_exponential_base_points(rank):
     except (ValueError, TypeError):
         return 0.0
 
-def run_full_recalculation():
-    with open(DATASET_FILE, 'r', encoding='utf-8') as f:
-        raw_contests = json.load(f)
+def process_division(raw_contests, target_division):
+    div_contests = [c for c in raw_contests if classify_division(c.get('contest_name', '')) == target_division]
 
-    # Filter out non-open or omitted shows
-    contests = [c for c in raw_contests if not is_omitted_show(c.get('contest_name', ''))]
-
-    # Step 1: Pure Points calculation
     athlete_points_list = {}
-
-    for contest in contests:
+    for contest in div_contests:
         cname = contest.get('contest_name', '')
         details = contest.get('details', '')
-        tier_name, tier_mult = get_tier_info(cname)
+        tier_name, tier_mult = get_tier_info(cname, target_division)
         recency_mult = get_recency_multiplier(details, cname)
 
-        if recency_mult == 0.0:
-            continue
+        if recency_mult == 0.0: continue
 
-        results = contest.get('results', [])
-        for res in results:
+        for res in contest.get('results', []):
             person = res.get('person_name', '').strip()
             rank_val = res.get('rank')
-            if not person:
-                continue
+            if not person: continue
             base_pts = get_exponential_base_points(rank_val)
             final_pts = base_pts * tier_mult * recency_mult
             
-            if person not in athlete_points_list:
-                athlete_points_list[person] = []
+            if person not in athlete_points_list: athlete_points_list[person] = []
             athlete_points_list[person].append(final_pts)
 
     pure_map = {}
@@ -143,31 +131,21 @@ def run_full_recalculation():
         weighted_sum = sum(p * w for p, w in zip(pts_list, WEIGHTS))
         pure_map[athlete] = weighted_sum
 
-    # Step 2: Show Difficulty Score Calculation
+    min_field_size = 3 if target_division == 'women' else 5
     rankable_contests = []
-    unrankable_contests = []
 
-    for contest in contests:
+    for contest in div_contests:
         cid = contest.get('contest_id')
         cname = contest.get('contest_name')
         details = contest.get('details')
         results = contest.get('results', [])
 
         top5_finishers = [res for res in results if str(res.get('rank')).isdigit() and 1 <= int(res.get('rank')) <= 5]
-
-        if len(results) < 5 or len(top5_finishers) < 5:
-            unrankable_contests.append({
-                "contest_id": cid,
-                "contest_name": cname,
-                "details": details,
-                "reason": f"Fewer than 5 competitors ({len(results)} listed)",
-                "total_competitors": len(results),
-                "results": results
-            })
+        if len(results) < min_field_size:
             continue
 
         raw_diff = sum(pure_map.get(res.get('person_name', '').strip(), 0.0) for res in top5_finishers)
-        tier_name, tier_mult = get_tier_info(cname)
+        tier_name, tier_mult = get_tier_info(cname, target_division)
         recency_mult = get_recency_multiplier(details, cname)
 
         rankable_contests.append({
@@ -177,6 +155,7 @@ def run_full_recalculation():
             "tier": tier_name,
             "tier_multiplier": tier_mult,
             "recency_multiplier": recency_mult,
+            "division": target_division,
             "total_competitors": len(results),
             "raw_difficulty": raw_diff,
             "top_5_finishers": [f"{r.get('person_name')} (#{r.get('rank')})" for r in top5_finishers],
@@ -184,74 +163,77 @@ def run_full_recalculation():
         })
 
     max_raw_diff = max((c['raw_difficulty'] for c in rankable_contests), default=1.0)
-
     for c in rankable_contests:
         norm = math.pow(c['raw_difficulty'] / (max_raw_diff or 1.0), POWER_EXPONENT) * 1000.0
         c['difficulty_score'] = round(norm, 1)
 
     rankable_contests.sort(key=lambda x: x['difficulty_score'], reverse=True)
-
     for idx, c in enumerate(rankable_contests):
         c['competition_rank'] = idx + 1
 
-    with open(RANKED_FILE, 'w', encoding='utf-8') as f:
-        json.dump(rankable_contests, f, indent=2, ensure_ascii=False)
+    return rankable_contests
 
-    with open(UNRANKABLE_FILE, 'w', encoding='utf-8') as f:
-        json.dump(unrankable_contests, f, indent=2, ensure_ascii=False)
+def parse_promotion(cname):
+    name = cname.lower()
+    if "world's strongest" in name or "wsm" in name or "wsw" in name: return "WSM"
+    if "arnold" in name: return "Arnold Classic"
+    if "shaw classic" in name or "strongest man on earth" in name: return "Shaw Classic"
+    if "rogue" in name: return "Rogue"
+    if "giants live" in name: return "Giants Live"
+    if "europe's strongest" in name or "north america's strongest" in name: return "NASM"
+    if "strongman champions league" in name or "scl" in name: return "SCL"
+    if "official strongman" in name or "osg" in name: return "OSG"
+    return "Other"
 
-    # Step 3: Rebuild database_strongman.json
-    def parse_promotion(cname):
-        name = cname.lower()
-        if "world's strongest man" in name or "wsm" in name: return "WSM"
-        if "arnold" in name: return "Arnold Classic"
-        if "shaw classic" in name or "strongest man on earth" in name: return "Shaw Classic"
-        if "rogue" in name: return "Rogue"
-        if "giants live" in name: return "Giants Live"
-        if "europe's strongest man" in name or "north america's strongest man" in name: return "NASM"
-        if "strongman champions league" in name or "scl" in name: return "SCL"
-        if "official strongman" in name or "osg" in name: return "OSG"
-        return "Other"
+def run_full_recalculation():
+    with open(DATASET_FILE, 'r', encoding='utf-8') as f:
+        raw_contests = json.load(f)
+
+    men_contests = process_division(raw_contests, "men")
+    women_contests = process_division(raw_contests, "women")
+
+    with open(RANKED_MEN_FILE, 'w', encoding='utf-8') as f:
+        json.dump(men_contests, f, indent=2, ensure_ascii=False)
+
+    with open(RANKED_WOMEN_FILE, 'w', encoding='utf-8') as f:
+        json.dump(women_contests, f, indent=2, ensure_ascii=False)
 
     flattened_rows = []
-    for contest in rankable_contests:
-        cname = contest.get('contest_name', '')
-        details = contest.get('details', '')
-        diff_score = contest.get('difficulty_score', 0.0)
-        promo = parse_promotion(cname)
+    for div_name, contest_list in [("men", men_contests), ("women", women_contests)]:
+        for contest in contest_list:
+            cname = contest.get('contest_name', '')
+            details = contest.get('details', '')
+            diff_score = contest.get('difficulty_score', 0.0)
+            promo = parse_promotion(cname)
 
-        date_match = re.search(r'(\d{4}-\d{2}-\d{2})', details)
-        if date_match:
-            date_str = date_match.group(1)
-        else:
-            year_match = re.search(r'\b(20\d\d)\b', cname) or re.search(r'\b(20\d\d)\b', details)
-            date_str = f"{year_match.group(1)}-06-01" if year_match else "2024-06-01"
-            
-        year_val = int(date_str[:4]) if len(date_str) >= 4 else 2024
+            date_match = re.search(r'(\d{4}-\d{2}-\d{2})', details)
+            date_str = date_match.group(1) if date_match else "2024-06-01"
+            year_val = int(date_str[:4]) if len(date_str) >= 4 else 2024
 
-        for res in contest.get('results', []):
-            pname = res.get('person_name', '').strip()
-            if not pname: continue
-            try:
-                rank_val = int(res.get('rank'))
-            except (ValueError, TypeError):
-                continue
+            for res in contest.get('results', []):
+                pname = res.get('person_name', '').strip()
+                if not pname: continue
+                try:
+                    rank_val = int(res.get('rank'))
+                except (ValueError, TypeError):
+                    continue
 
-            parts = pname.split(' ', 1)
-            fname = parts[0]
-            lname = parts[1] if len(parts) > 1 else ""
+                parts = pname.split(' ', 1)
+                fname = parts[0]
+                lname = parts[1] if len(parts) > 1 else ""
 
-            flattened_rows.append({
-                "Show_Name": cname,
-                "Show_Promotion": promo,
-                "Date": date_str,
-                "Year": year_val,
-                "PlacementRank": rank_val,
-                "Competitor_fName": fname,
-                "Compititor_LName": lname,
-                "difficulty": diff_score,
-                "country_code": res.get('country', '')
-            })
+                flattened_rows.append({
+                    "Show_Name": cname,
+                    "Show_Promotion": promo,
+                    "Date": date_str,
+                    "Year": year_val,
+                    "PlacementRank": rank_val,
+                    "Competitor_fName": fname,
+                    "Compititor_LName": lname,
+                    "difficulty": diff_score,
+                    "country_code": res.get('country', ''),
+                    "division": div_name
+                })
 
     with open(DB_FILE, 'w', encoding='utf-8') as f:
         json.dump(flattened_rows, f, indent=2, ensure_ascii=False)
@@ -259,7 +241,7 @@ def run_full_recalculation():
     with open(FRONTEND_DB_FILE, 'w', encoding='utf-8') as f:
         json.dump(flattened_rows, f, indent=2, ensure_ascii=False)
 
-    print(f"Recalculation complete! {len(rankable_contests)} open-class competitions ranked.")
+    print(f"Recalculation complete! {len(men_contests)} Men's Open and {len(women_contests)} Women's Open competitions ranked.")
 
 if __name__ == "__main__":
     run_full_recalculation()

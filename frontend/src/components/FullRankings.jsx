@@ -6,6 +6,7 @@ const PAGE_SIZE = 50;
 
 export default function FullRankings({ rankings: initialRankings, onSelectCompetitor, formula }) {
   const [showAdvanced, setShowAdvanced] = useState(false);
+  const [division, setDivision] = useState('men');
   const [yearsLimit, setYearsLimit] = useState(5);
   const [placementLimit, setPlacementLimit] = useState('all');
   const [searchTerm, setSearchTerm] = useState('');
@@ -14,10 +15,10 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
 
   const isAdvancedActive = yearsLimit !== 5 || placementLimit !== 'all';
 
-  // Compute active rankings dynamically based on selected Timeframe and Placements Scope
+  // Compute active rankings dynamically based on selected Timeframe, Division, and Placements Scope
   const rankings = useMemo(() => {
-    return computeRankingsFromDatabase({ yearsLimit, placementLimit });
-  }, [yearsLimit, placementLimit]);
+    return computeRankingsFromDatabase({ yearsLimit, placementLimit, division });
+  }, [yearsLimit, placementLimit, division]);
 
   // Extract unique countries
   const countries = useMemo(() => {
@@ -29,7 +30,6 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
   // Filtered & Sorted Rankings
   const filteredRankings = useMemo(() => {
     if (!rankings) return [];
-    setPage(1); // reset page on filter change
     return rankings
       .filter((item) => {
         const matchesSearch =
@@ -38,13 +38,17 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
         const matchesCountry = selectedCountry === 'ALL' || item.competitor.country === selectedCountry;
         return matchesSearch && matchesCountry;
       })
-      .sort((a, b) => b.totalPoints - a.totalPoints)
-      .map((item, idx) => ({ ...item, globalRank: idx + 1 }));
+      .sort((a, b) => a.rank - b.rank);
   }, [rankings, searchTerm, selectedCountry]);
 
+  // Pagination
   const totalPages = Math.max(1, Math.ceil(filteredRankings.length / PAGE_SIZE));
   const safePage = Math.min(page, totalPages);
-  const pagedRankings = filteredRankings.slice((safePage - 1) * PAGE_SIZE, safePage * PAGE_SIZE);
+  const pagedRankings = useMemo(() => {
+    return filteredRankings
+      .slice((safePage - 1) * PAGE_SIZE, safePage * PAGE_SIZE)
+      .map((item, idx) => ({ ...item, globalRank: (safePage - 1) * PAGE_SIZE + idx + 1 }));
+  }, [filteredRankings, safePage]);
 
   return (
     <div className="space-y-8">
@@ -54,20 +58,35 @@ export default function FullRankings({ rankings: initialRankings, onSelectCompet
         <div>
           <div className="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-dew-green/10 border border-dew-green/30 text-dew-green text-xs font-mono font-bold uppercase tracking-wider mb-2">
             <Award className="w-3.5 h-3.5" />
-            <span>GLOBAL ATHLETE MATRIX • {yearsLimit}-YEAR WINDOW • SCOPE: {placementLimit.toUpperCase()}</span>
+            <span>GLOBAL ATHLETE MATRIX • {division === 'women' ? "WOMEN'S OPEN" : "MEN'S OPEN"} DIVISION • {yearsLimit}-YEAR WINDOW</span>
           </div>
           <h1 className="font-display text-4xl md:text-5xl font-extrabold uppercase text-white">
-            ALL COMPETITOR <span className="dew-gradient-text">RANKINGS</span>
+            {division === 'women' ? "WOMEN'S OPEN" : "MEN'S OPEN"} <span className="dew-gradient-text">RANKINGS</span>
           </h1>
         </div>
 
-        <div className="flex items-center space-x-3 bg-[#080D08] px-4 py-3 rounded-2xl border border-dew-green/20">
-          <div className="text-right font-mono">
-            <div className="text-xs text-gray-400">SHOWING / TOTAL</div>
-            <div className="font-display text-3xl font-extrabold text-dew-green">
-              {filteredRankings.length}<span className="text-gray-500 text-lg">/{rankings?.length || 0}</span>
-            </div>
-          </div>
+        {/* Division Switcher */}
+        <div className="flex items-center space-x-2 bg-[#080D08] p-1.5 rounded-2xl border border-dew-green/30 shadow-inner">
+          <button
+            onClick={() => { setDivision('men'); setPage(1); }}
+            className={`px-5 py-2.5 rounded-xl font-display font-black text-xs uppercase tracking-wider transition-all flex items-center space-x-2 ${
+              division === 'men'
+                ? 'bg-dew-green text-black shadow-dew-glow'
+                : 'text-gray-400 hover:text-white hover:bg-white/5'
+            }`}
+          >
+            <span>MEN'S OPEN ♂</span>
+          </button>
+          <button
+            onClick={() => { setDivision('women'); setPage(1); }}
+            className={`px-5 py-2.5 rounded-xl font-display font-black text-xs uppercase tracking-wider transition-all flex items-center space-x-2 ${
+              division === 'women'
+                ? 'bg-dew-green text-black shadow-dew-glow'
+                : 'text-gray-400 hover:text-white hover:bg-white/5'
+            }`}
+          >
+            <span>WOMEN'S OPEN ♀</span>
+          </button>
         </div>
       </div>
 
