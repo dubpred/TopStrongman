@@ -4,8 +4,8 @@
     "contest_name": "2025 Arnold Strongwoman Classic",
     "details": "Columbus, Ohio, 2025-02-28 to 2025-03-01",
     "tier": "TIER_1",
-    "tier_multiplier": 5.0,
-    "recency_multiplier": 3.0,
+    "tier_multiplier": 5,
+    "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 12,
     "raw_difficulty": 24739.449878632826,
@@ -33,7 +33,7 @@
         "rank": "3",
         "person_name": "Angelica Jardine",
         "country": "USA",
-        "score": 50.0
+        "score": 50
       },
       {
         "rank": "4",
@@ -51,13 +51,13 @@
         "rank": "6",
         "person_name": "Lucy Underdown",
         "country": "GBR",
-        "score": 36.0
+        "score": 36
       },
       {
         "rank": "7",
         "person_name": "Jennifer Lyle",
         "country": "USA",
-        "score": 35.0
+        "score": 35
       },
       {
         "rank": "8",
@@ -81,7 +81,7 @@
         "rank": "11",
         "person_name": "Nadia Stowers",
         "country": "USA",
-        "score": 23.0
+        "score": 23
       },
       {
         "rank": "12",
@@ -90,7 +90,7 @@
         "score": 15.5
       }
     ],
-    "difficulty_score": 1000.0,
+    "difficulty_score": 1000,
     "competition_rank": 1
   },
   {
@@ -98,11 +98,11 @@
     "contest_name": "2024 Arnold Strongwoman Classic",
     "details": "Columbus, Ohio, 2024-03-01 to 2024-03-02",
     "tier": "TIER_1",
-    "tier_multiplier": 5.0,
-    "recency_multiplier": 1.0,
+    "tier_multiplier": 5,
+    "recency_multiplier": 1,
     "division": "women",
     "total_competitors": 12,
-    "raw_difficulty": 23755.018559845405,
+    "raw_difficulty": 23755.0185598454,
     "top_5_finishers": [
       "Angelica Jardine (#1)",
       "Olga Liashchuk (#2)",
@@ -115,7 +115,7 @@
         "rank": "1",
         "person_name": "Angelica Jardine",
         "country": "USA",
-        "score": 45.0
+        "score": 45
       },
       {
         "rank": "2",
@@ -133,55 +133,55 @@
         "rank": "4",
         "person_name": "Hannah Linzay",
         "country": "USA",
-        "score": 40.0
+        "score": 40
       },
       {
         "rank": "5",
         "person_name": "Inez Carrasquillo",
         "country": "USA",
-        "score": 36.0
+        "score": 36
       },
       {
         "rank": "6",
         "person_name": "Samantha Belliveau",
         "country": "CAN",
-        "score": 34.0
+        "score": 34
       },
       {
         "rank": "6",
         "person_name": "Rebecca Roberts",
         "country": "GBR",
-        "score": 34.0
+        "score": 34
       },
       {
         "rank": "8",
         "person_name": "Andrea Thompson",
         "country": "GBR",
-        "score": 32.0
+        "score": 32
       },
       {
         "rank": "9",
         "person_name": "Melissa Peacock",
         "country": "CAN",
-        "score": 27.0
+        "score": 27
       },
       {
         "rank": "10",
         "person_name": "Erin Murray",
         "country": "USA",
-        "score": 25.0
+        "score": 25
       },
       {
         "rank": "11",
         "person_name": "Victoria Long",
         "country": "USA",
-        "score": 10.0
+        "score": 10
       },
       {
         "rank": "12",
         "person_name": "Donna Moore",
         "country": "GBR",
-        "score": 7.0
+        "score": 7
       }
     ],
     "difficulty_score": 940.9,
@@ -192,8 +192,8 @@
     "contest_name": "2024 Rogue Invitational (Women)",
     "details": "Aberdeen, Scotland, 2024-11-08 to 2024-11-09",
     "tier": "TIER_1",
-    "tier_multiplier": 5.0,
-    "recency_multiplier": 3.0,
+    "tier_multiplier": 5,
+    "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 10,
     "raw_difficulty": 23755.018559845405,
@@ -209,31 +209,31 @@
         "rank": "1",
         "person_name": "Inez Carrasquillo",
         "country": "PUR",
-        "score": 53.0
+        "score": 53
       },
       {
         "rank": "2",
         "person_name": "Olga Liashchuk",
         "country": "UKR",
-        "score": 47.0
+        "score": 47
       },
       {
         "rank": "3",
         "person_name": "Lucy Underdown",
         "country": "GBR",
-        "score": 41.0
+        "score": 41
       },
       {
         "rank": "4",
         "person_name": "Angelica Jardine",
         "country": "USA",
-        "score": 40.0
+        "score": 40
       },
       {
         "rank": "5",
         "person_name": "Hannah Linzay",
         "country": "USA",
-        "score": 29.0
+        "score": 29
       },
       {
         "rank": "6",
@@ -251,19 +251,19 @@
         "rank": "8",
         "person_name": "Samantha Belliveau",
         "country": "CAN",
-        "score": 26.0
+        "score": 26
       },
       {
         "rank": "8",
         "person_name": "Andrea Thompson",
         "country": "GBR",
-        "score": 26.0
+        "score": 26
       },
       {
         "rank": "10",
         "person_name": "Donna Moore",
         "country": "GBR",
-        "score": 10.0
+        "score": 10
       }
     ],
     "difficulty_score": 940.9,
@@ -274,8 +274,8 @@
     "contest_name": "2025 Rogue Invitational (Women)",
     "details": "Aberdeen, Scotland, 2025-10-31 to 2025-11-01",
     "tier": "TIER_1",
-    "tier_multiplier": 5.0,
-    "recency_multiplier": 5.0,
+    "tier_multiplier": 5,
+    "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 10,
     "raw_difficulty": 23755.018559845405,
@@ -291,7 +291,7 @@
         "rank": "1",
         "person_name": "Inez Carrasquillo",
         "country": "PUR",
-        "score": 50.0
+        "score": 50
       },
       {
         "rank": "2",
@@ -303,7 +303,7 @@
         "rank": "3",
         "person_name": "Angelica Jardine",
         "country": "USA",
-        "score": 39.0
+        "score": 39
       },
       {
         "rank": "4",
@@ -315,7 +315,7 @@
         "rank": "5",
         "person_name": "Lucy Underdown",
         "country": "GBR",
-        "score": 35.0
+        "score": 35
       },
       {
         "rank": "6",
@@ -327,13 +327,13 @@
         "rank": "7",
         "person_name": "Rebecca Roberts",
         "country": "GBR",
-        "score": 28.0
+        "score": 28
       },
       {
         "rank": "8",
         "person_name": "Melissa Peacock",
         "country": "CAN",
-        "score": 23.0
+        "score": 23
       },
       {
         "rank": "9",
@@ -345,7 +345,7 @@
         "rank": "10",
         "person_name": "Samantha Belliveau",
         "country": "CAN",
-        "score": 17.0
+        "score": 17
       }
     ],
     "difficulty_score": 940.9,
@@ -356,8 +356,8 @@
     "contest_name": "2026 Arnold Strongwoman Classic",
     "details": "Columbus, Ohio, 2026-03-06 to 2026-03-07",
     "tier": "TIER_1",
-    "tier_multiplier": 5.0,
-    "recency_multiplier": 5.0,
+    "tier_multiplier": 5,
+    "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 10,
     "raw_difficulty": 23755.018559845405,
@@ -379,7 +379,7 @@
         "rank": "2",
         "person_name": "Inez Carrasquillo",
         "country": "PUR",
-        "score": 49.0
+        "score": 49
       },
       {
         "rank": "3",
@@ -391,13 +391,13 @@
         "rank": "4",
         "person_name": "Hannah Linzay",
         "country": "USA",
-        "score": 35.0
+        "score": 35
       },
       {
         "rank": "5",
         "person_name": "Lucy Underdown",
         "country": "GBR",
-        "score": 33.0
+        "score": 33
       },
       {
         "rank": "6",
@@ -415,19 +415,19 @@
         "rank": "8",
         "person_name": "Jennifer Lyle",
         "country": "USA",
-        "score": 27.0
+        "score": 27
       },
       {
         "rank": "9",
         "person_name": "Jackie Osczevski",
         "country": "CAN",
-        "score": 20.0
+        "score": 20
       },
       {
         "rank": "10",
         "person_name": "Andrea Thompson",
         "country": "GBR",
-        "score": 5.0
+        "score": 5
       }
     ],
     "difficulty_score": 940.9,
@@ -438,8 +438,8 @@
     "contest_name": "2024 Arnold UK - Strongwoman",
     "details": "Birmingham, England, 2024-03-16 to 2024-03-17",
     "tier": "TIER_2",
-    "tier_multiplier": 3.0,
-    "recency_multiplier": 1.0,
+    "tier_multiplier": 3,
+    "recency_multiplier": 1,
     "division": "women",
     "total_competitors": 9,
     "raw_difficulty": 21836.884143230396,
@@ -456,55 +456,55 @@
         "rank": "1",
         "person_name": "Lucy Underdown",
         "country": "GBR",
-        "score": 30.0
+        "score": 30
       },
       {
         "rank": "2",
         "person_name": "Angelica Jardine",
         "country": "USA",
-        "score": 30.0
+        "score": 30
       },
       {
         "rank": "3",
         "person_name": "Nadia Stowers",
         "country": "USA",
-        "score": 29.0
+        "score": 29
       },
       {
         "rank": "4",
         "person_name": "Andrea Thompson",
         "country": "GBR",
-        "score": 28.0
+        "score": 28
       },
       {
         "rank": "5",
         "person_name": "Samantha Belliveau",
         "country": "CAN",
-        "score": 26.0
+        "score": 26
       },
       {
         "rank": "5",
         "person_name": "Inez Carrasquillo",
         "country": "USA",
-        "score": 26.0
+        "score": 26
       },
       {
         "rank": "7",
         "person_name": "Rebecca Roberts",
         "country": "GBR",
-        "score": 21.0
+        "score": 21
       },
       {
         "rank": "8",
         "person_name": "Melissa Peacock",
         "country": "CAN",
-        "score": 20.0
+        "score": 20
       },
       {
         "rank": "9",
         "person_name": "Hannah Linzay",
         "country": "USA",
-        "score": 13.0
+        "score": 13
       }
     ],
     "difficulty_score": 829.3,
@@ -515,7 +515,7 @@
     "contest_name": "2022 World's Strongest Woman",
     "details": "Daytona Beach, Florida, 2022-11-12 to 2022-11-13",
     "tier": "TIER_1",
-    "tier_multiplier": 5.0,
+    "tier_multiplier": 5,
     "recency_multiplier": 0.5,
     "division": "women",
     "total_competitors": 10,
@@ -544,7 +544,7 @@
         "rank": "3",
         "person_name": "Inez Carrasquillo",
         "country": "PUR",
-        "score": 49.0
+        "score": 49
       },
       {
         "rank": "4",
@@ -574,22 +574,22 @@
         "rank": "8",
         "person_name": "Rebecca Roberts",
         "country": "GBR",
-        "score": 30.0
+        "score": 30
       },
       {
         "rank": "9",
         "person_name": "Anna Harjapää",
         "country": "SWE",
-        "score": 22.0
+        "score": 22
       },
       {
         "rank": "10",
         "person_name": "Stefanie Herod",
         "country": "USA",
-        "score": 21.0
+        "score": 21
       }
     ],
-    "difficulty_score": 780.0,
+    "difficulty_score": 780,
     "competition_rank": 7
   },
   {
@@ -597,7 +597,7 @@
     "contest_name": "2023 Arnold Strongwoman Classic",
     "details": "Columbus, Ohio, 2023-03-03 to 2023-03-04",
     "tier": "TIER_1",
-    "tier_multiplier": 5.0,
+    "tier_multiplier": 5,
     "recency_multiplier": 0.5,
     "division": "women",
     "total_competitors": 10,
@@ -620,19 +620,19 @@
         "rank": "2",
         "person_name": "Rebecca Roberts",
         "country": "GBR",
-        "score": 38.0
+        "score": 38
       },
       {
         "rank": "3",
         "person_name": "Andrea Thompson",
         "country": "GBR",
-        "score": 36.0
+        "score": 36
       },
       {
         "rank": "4",
         "person_name": "Olga Liashchuk",
         "country": "UKR",
-        "score": 34.0
+        "score": 34
       },
       {
         "rank": "5",
@@ -650,19 +650,19 @@
         "rank": "7",
         "person_name": "Samantha Belliveau",
         "country": "CAN",
-        "score": 20.0
+        "score": 20
       },
       {
         "rank": "7",
         "person_name": "Melissa Peacock",
         "country": "CAN",
-        "score": 20.0
+        "score": 20
       },
       {
         "rank": "9",
         "person_name": "Hannah Linzay",
         "country": "USA",
-        "score": 19.0
+        "score": 19
       },
       {
         "rank": "10",
@@ -679,7 +679,7 @@
     "contest_name": "2021 World's Strongest Woman",
     "details": "Daytona Beach, Florida, 2021-11-12 to 2021-11-14",
     "tier": "TIER_1",
-    "tier_multiplier": 5.0,
+    "tier_multiplier": 5,
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 10,
@@ -708,19 +708,19 @@
         "rank": "3",
         "person_name": "Annabelle Chapman",
         "country": "ENG",
-        "score": 45.0
+        "score": 45
       },
       {
         "rank": "4",
         "person_name": "Inez Carrasquillo",
         "country": "PUR",
-        "score": 45.0
+        "score": 45
       },
       {
         "rank": "5",
         "person_name": "Gabi Dixson",
         "country": "USA",
-        "score": 37.0
+        "score": 37
       },
       {
         "rank": "6",
@@ -732,7 +732,7 @@
         "rank": "7",
         "person_name": "Anna Harjapää",
         "country": "SWE",
-        "score": 28.0
+        "score": 28
       },
       {
         "rank": "8",
@@ -744,13 +744,13 @@
         "rank": "9",
         "person_name": "Julie Rader",
         "country": "USA",
-        "score": 14.0
+        "score": 14
       },
       {
         "rank": "10",
         "person_name": "Cherry Muchindu",
         "country": "ZAM",
-        "score": 11.0
+        "score": 11
       }
     ],
     "difficulty_score": 563.8,
@@ -761,8 +761,8 @@
     "contest_name": "2026 North America's Strongest Woman",
     "details": "Victoriaville, Canada, 2026-07-24 to 2026-07-25",
     "tier": "TIER_3",
-    "tier_multiplier": 2.0,
-    "recency_multiplier": 5.0,
+    "tier_multiplier": 2,
+    "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 13,
     "raw_difficulty": 16687.45375899314,
@@ -778,7 +778,7 @@
         "rank": "1",
         "person_name": "Angelica Jardine",
         "country": "USA",
-        "score": 92.0
+        "score": 92
       },
       {
         "rank": "2",
@@ -790,37 +790,37 @@
         "rank": "3",
         "person_name": "Jackie Osczevski",
         "country": "CAN",
-        "score": 84.0
+        "score": 84
       },
       {
         "rank": "4",
         "person_name": "Bailey Deschene",
         "country": "CAN",
-        "score": 64.0
+        "score": 64
       },
       {
         "rank": "5",
         "person_name": "Rebecca Houston",
         "country": "USA",
-        "score": 58.0
+        "score": 58
       },
       {
         "rank": "6",
         "person_name": "Jackie Rhodes",
         "country": "USA",
-        "score": 57.0
+        "score": 57
       },
       {
         "rank": "7",
         "person_name": "Ashley Telford",
         "country": "CAN",
-        "score": 54.0
+        "score": 54
       },
       {
         "rank": "8",
         "person_name": "Taylor Doxey",
         "country": "USA",
-        "score": 45.0
+        "score": 45
       },
       {
         "rank": "9",
@@ -832,28 +832,28 @@
         "rank": "10",
         "person_name": "Samantha Koski-Moffat",
         "country": "CAN",
-        "score": 43.0
+        "score": 43
       },
       {
         "rank": "11",
         "person_name": "Jo-Annie Paquet",
         "country": "CAN",
-        "score": 17.0
+        "score": 17
       },
       {
         "rank": "12",
         "person_name": "Josée De Lachevrotière",
         "country": "CAN",
-        "score": 9.0
+        "score": 9
       },
       {
         "rank": "13",
         "person_name": "Joscelyne O'Brien",
         "country": "CAN",
-        "score": 3.0
+        "score": 3
       }
     ],
-    "difficulty_score": 554.0,
+    "difficulty_score": 554,
     "competition_rank": 10
   },
   {
@@ -861,8 +861,8 @@
     "contest_name": "2025 World's Strongest Woman",
     "details": "Arlington, Texas, 2025-11-21 to 2025-11-23",
     "tier": "TIER_1",
-    "tier_multiplier": 5.0,
-    "recency_multiplier": 5.0,
+    "tier_multiplier": 5,
+    "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 9,
     "raw_difficulty": 16485.904977188537,
@@ -879,43 +879,43 @@
         "rank": "1",
         "person_name": "Andrea Thompson",
         "country": "GBR",
-        "score": 43.0
+        "score": 43
       },
       {
         "rank": "2",
         "person_name": "Allira-Joy Cowley",
         "country": "AUS",
-        "score": 37.0
+        "score": 37
       },
       {
         "rank": "3",
         "person_name": "Jackie Osczevski",
         "country": "CAN",
-        "score": 32.0
+        "score": 32
       },
       {
         "rank": "4",
         "person_name": "Jackie Rhodes",
         "country": "USA",
-        "score": 30.0
+        "score": 30
       },
       {
         "rank": "5",
         "person_name": "Katie Blunden",
         "country": "AUS",
-        "score": 29.0
+        "score": 29
       },
       {
         "rank": "5",
         "person_name": "Nadia Stowers",
         "country": "USA",
-        "score": 29.0
+        "score": 29
       },
       {
         "rank": "7",
         "person_name": "Destiney Bass",
         "country": "USA",
-        "score": 25.0
+        "score": 25
       },
       {
         "rank": "8",
@@ -930,7 +930,7 @@
         "score": 21.5
       }
     ],
-    "difficulty_score": 544.0,
+    "difficulty_score": 544,
     "competition_rank": 11
   },
   {
@@ -938,11 +938,11 @@
     "contest_name": "2022 Arnold Pro Strongwoman",
     "details": "Columbus, Ohio, 2022-03-04 to 2022-03-05",
     "tier": "TIER_2",
-    "tier_multiplier": 3.0,
+    "tier_multiplier": 3,
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 15238.217543940296,
+    "raw_difficulty": 15238.217543940294,
     "top_5_finishers": [
       "Victoria Long (#1)",
       "Andrea Thompson (#2)",
@@ -967,13 +967,13 @@
         "rank": "3",
         "person_name": "Hannah Linzay",
         "country": "USA",
-        "score": 40.0
+        "score": 40
       },
       {
         "rank": "4",
         "person_name": "Olga Liashchuk",
         "country": "UKR",
-        "score": 40.0
+        "score": 40
       },
       {
         "rank": "5",
@@ -985,13 +985,13 @@
         "rank": "6",
         "person_name": "Donna Moore",
         "country": "GBR",
-        "score": 30.0
+        "score": 30
       },
       {
         "rank": "7",
         "person_name": "Anna Harjapää",
         "country": "SWE",
-        "score": 28.0
+        "score": 28
       },
       {
         "rank": "8",
@@ -1020,8 +1020,8 @@
     "contest_name": "2023 World's Strongest Woman",
     "details": "Charleston, West Virginia, 2023-12-01 to 2023-12-03",
     "tier": "TIER_1",
-    "tier_multiplier": 5.0,
-    "recency_multiplier": 1.0,
+    "tier_multiplier": 5,
+    "recency_multiplier": 1,
     "division": "women",
     "total_competitors": 10,
     "raw_difficulty": 14566.173260896227,
@@ -1037,61 +1037,61 @@
         "rank": "1",
         "person_name": "Rebecca Roberts",
         "country": "GBR",
-        "score": 49.0
+        "score": 49
       },
       {
         "rank": "2",
         "person_name": "Lucy Underdown",
         "country": "GBR",
-        "score": 49.0
+        "score": 49
       },
       {
         "rank": "3",
         "person_name": "Nicole Genrich",
         "country": "AUS",
-        "score": 46.0
+        "score": 46
       },
       {
         "rank": "4",
         "person_name": "Inez Carrasquillo",
         "country": "PUR",
-        "score": 43.0
+        "score": 43
       },
       {
         "rank": "5",
         "person_name": "Gabi Dixson",
         "country": "USA",
-        "score": 38.0
+        "score": 38
       },
       {
         "rank": "6",
         "person_name": "Shayna Wirihana",
         "country": "NZL",
-        "score": 25.0
+        "score": 25
       },
       {
         "rank": "7",
         "person_name": "Cherry Muchindu",
         "country": "ZAM",
-        "score": 24.0
+        "score": 24
       },
       {
         "rank": "8",
         "person_name": "Jennifer Lyle",
         "country": "USA",
-        "score": 21.0
+        "score": 21
       },
       {
         "rank": "9",
         "person_name": "Monica Quarles",
         "country": "USA",
-        "score": 19.0
+        "score": 19
       },
       {
         "rank": "10",
         "person_name": "Jackie Rhodes",
         "country": "USA",
-        "score": 16.0
+        "score": 16
       }
     ],
     "difficulty_score": 451.8,
@@ -1102,11 +1102,11 @@
     "contest_name": "2022 America's Strongest Woman",
     "details": "Las Vegas, Nevada, 2022-12-16 to 2022-12-17",
     "tier": "TIER_3",
-    "tier_multiplier": 2.0,
+    "tier_multiplier": 2,
     "recency_multiplier": 0.5,
     "division": "women",
     "total_competitors": 5,
-    "raw_difficulty": 14349.074800167098,
+    "raw_difficulty": 14349.074800167096,
     "top_5_finishers": [
       "Victoria Long (#1)",
       "Olga Liashchuk (#2)",
@@ -1119,13 +1119,13 @@
         "rank": "1",
         "person_name": "Victoria Long",
         "country": "USA",
-        "score": 25.0
+        "score": 25
       },
       {
         "rank": "2",
         "person_name": "Olga Liashchuk",
         "country": "UKR",
-        "score": 17.0
+        "score": 17
       },
       {
         "rank": "3",
@@ -1137,7 +1137,7 @@
         "rank": "4",
         "person_name": "Gabi Dixson",
         "country": "USA",
-        "score": 10.0
+        "score": 10
       },
       {
         "rank": "5",
@@ -1154,11 +1154,11 @@
     "contest_name": "2023 Shaw Classic Open (Women)",
     "details": "Loveland, Colorado, 2023-08-19 to 2023-08-20",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 1.0,
+    "tier_multiplier": 1,
+    "recency_multiplier": 1,
     "division": "women",
     "total_competitors": 14,
-    "raw_difficulty": 12901.895112082968,
+    "raw_difficulty": 12901.895112082966,
     "top_5_finishers": [
       "Olga Liashchuk (#1)",
       "Samantha Belliveau (#2)",
@@ -1171,19 +1171,19 @@
         "rank": "1",
         "person_name": "Olga Liashchuk",
         "country": "UKR",
-        "score": 67.0
+        "score": 67
       },
       {
         "rank": "2",
         "person_name": "Samantha Belliveau",
         "country": "CAN",
-        "score": 63.0
+        "score": 63
       },
       {
         "rank": "3",
         "person_name": "Melissa Peacock",
         "country": "CAN",
-        "score": 60.0
+        "score": 60
       },
       {
         "rank": "4",
@@ -1195,43 +1195,43 @@
         "rank": "5",
         "person_name": "Cori Butler",
         "country": "USA",
-        "score": 47.0
+        "score": 47
       },
       {
         "rank": "6",
         "person_name": "Jackie Rhodes",
         "country": "USA",
-        "score": 41.0
+        "score": 41
       },
       {
         "rank": "7",
         "person_name": "Rebecca Houston",
         "country": "USA",
-        "score": 30.0
+        "score": 30
       },
       {
         "rank": "7",
         "person_name": "Morgan Irons",
         "country": "USA",
-        "score": 30.0
+        "score": 30
       },
       {
         "rank": "9",
         "person_name": "Stephanie Bisignano",
         "country": "CAN",
-        "score": 28.0
+        "score": 28
       },
       {
         "rank": "10",
         "person_name": "Austyn Grubb",
         "country": "USA",
-        "score": 27.0
+        "score": 27
       },
       {
         "rank": "11",
         "person_name": "Jess Trumbull",
         "country": "USA",
-        "score": 18.0
+        "score": 18
       },
       {
         "rank": "12",
@@ -1243,13 +1243,13 @@
         "rank": "13",
         "person_name": "Laura de Berdt Romilly",
         "country": "CAN",
-        "score": 8.0
+        "score": 8
       },
       {
         "rank": "13",
         "person_name": "Angela Highfield",
         "country": "USA",
-        "score": 8.0
+        "score": 8
       }
     ],
     "difficulty_score": 376.6,
@@ -1260,11 +1260,11 @@
     "contest_name": "2025 Britain's Strongest Woman",
     "details": "York, England, 2025-07-19",
     "tier": "TIER_3",
-    "tier_multiplier": 2.0,
-    "recency_multiplier": 3.0,
+    "tier_multiplier": 2,
+    "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 12,
-    "raw_difficulty": 12684.642170035253,
+    "raw_difficulty": 12684.642170035251,
     "top_5_finishers": [
       "Lucy Underdown (#1)",
       "Rebecca Roberts (#2)",
@@ -1277,25 +1277,25 @@
         "rank": "1",
         "person_name": "Lucy Underdown",
         "country": "ENG",
-        "score": 53.0
+        "score": 53
       },
       {
         "rank": "2",
         "person_name": "Rebecca Roberts",
         "country": "WAL",
-        "score": 47.0
+        "score": 47
       },
       {
         "rank": "3",
         "person_name": "Naomi Hadley",
         "country": "ENG",
-        "score": 45.0
+        "score": 45
       },
       {
         "rank": "4",
         "person_name": "Andrea Thompson",
         "country": "ENG",
-        "score": 42.0
+        "score": 42
       },
       {
         "rank": "5",
@@ -1307,19 +1307,19 @@
         "rank": "6",
         "person_name": "Donna Moore",
         "country": "ENG",
-        "score": 32.0
+        "score": 32
       },
       {
         "rank": "7",
         "person_name": "Annabelle Chapman",
         "country": "ENG",
-        "score": 32.0
+        "score": 32
       },
       {
         "rank": "8",
         "person_name": "Gemma Moore",
         "country": "IRL",
-        "score": 30.0
+        "score": 30
       },
       {
         "rank": "9",
@@ -1337,7 +1337,7 @@
         "rank": "11",
         "person_name": "Meg Robson-Austin",
         "country": "ENG",
-        "score": 10.0
+        "score": 10
       },
       {
         "rank": "12",
@@ -1354,11 +1354,11 @@
     "contest_name": "2023 Britain's Strongest Woman",
     "details": "Doncaster, England, 2023-09-30",
     "tier": "TIER_3",
-    "tier_multiplier": 2.0,
-    "recency_multiplier": 1.0,
+    "tier_multiplier": 2,
+    "recency_multiplier": 1,
     "division": "women",
     "total_competitors": 13,
-    "raw_difficulty": 12622.387348418135,
+    "raw_difficulty": 12622.387348418131,
     "top_5_finishers": [
       "Rebecca Roberts (#1)",
       "Lucy Underdown (#2)",
@@ -1383,43 +1383,43 @@
         "rank": "3",
         "person_name": "Andrea Thompson",
         "country": "ENG",
-        "score": 50.0
+        "score": 50
       },
       {
         "rank": "4",
         "person_name": "Donna Moore",
         "country": "ENG",
-        "score": 46.0
+        "score": 46
       },
       {
         "rank": "5",
         "person_name": "Naomi Hadley",
         "country": "ENG",
-        "score": 40.0
+        "score": 40
       },
       {
         "rank": "6",
         "person_name": "Laura Baxter",
         "country": "SCO",
-        "score": 36.0
+        "score": 36
       },
       {
         "rank": "7",
         "person_name": "Katie Smith",
         "country": "ENG",
-        "score": 29.0
+        "score": 29
       },
       {
         "rank": "8",
         "person_name": "Claire Myler",
         "country": "WAL",
-        "score": 27.0
+        "score": 27
       },
       {
         "rank": "9",
         "person_name": "Emmajane Smith",
         "country": "SCO",
-        "score": 26.0
+        "score": 26
       },
       {
         "rank": "10",
@@ -1431,13 +1431,13 @@
         "rank": "11",
         "person_name": "Chloe Brennan",
         "country": "ENG",
-        "score": 19.0
+        "score": 19
       },
       {
         "rank": "11",
         "person_name": "Ayshea Ullah",
         "country": "IRL",
-        "score": 19.0
+        "score": 19
       },
       {
         "rank": "13",
@@ -1454,8 +1454,8 @@
     "contest_name": "2024 North America's Strongest Woman",
     "details": "Victoriaville, Canada, 2024-07-26 to 2024-07-28",
     "tier": "TIER_3",
-    "tier_multiplier": 2.0,
-    "recency_multiplier": 1.0,
+    "tier_multiplier": 2,
+    "recency_multiplier": 1,
     "division": "women",
     "total_competitors": 11,
     "raw_difficulty": 12098.457648451427,
@@ -1471,13 +1471,13 @@
         "rank": "1",
         "person_name": "Inez Carrasquillo",
         "country": "USA",
-        "score": 62.0
+        "score": 62
       },
       {
         "rank": "2",
         "person_name": "Samantha Belliveau",
         "country": "CAN",
-        "score": 53.0
+        "score": 53
       },
       {
         "rank": "3",
@@ -1489,19 +1489,19 @@
         "rank": "4",
         "person_name": "Morgan Irons",
         "country": "USA",
-        "score": 38.0
+        "score": 38
       },
       {
         "rank": "5",
         "person_name": "Jackie Osczevski",
         "country": "CAN",
-        "score": 35.0
+        "score": 35
       },
       {
         "rank": "6",
         "person_name": "Josée De Lachevrotière",
         "country": "CAN",
-        "score": 28.0
+        "score": 28
       },
       {
         "rank": "7",
@@ -1534,7 +1534,7 @@
         "score": 11.5
       }
     ],
-    "difficulty_score": 342.0,
+    "difficulty_score": 342,
     "competition_rank": 18
   },
   {
@@ -1542,8 +1542,8 @@
     "contest_name": "2025 America's Strongest Woman",
     "details": "Las Vegas, Nevada, 2025-10-10 to 2025-10-11",
     "tier": "TIER_3",
-    "tier_multiplier": 2.0,
-    "recency_multiplier": 5.0,
+    "tier_multiplier": 2,
+    "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 9,
     "raw_difficulty": 11922.61253801907,
@@ -1559,7 +1559,7 @@
         "rank": "1",
         "person_name": "Olga Liashchuk",
         "country": "UKR",
-        "score": 52.0
+        "score": 52
       },
       {
         "rank": "2",
@@ -1577,7 +1577,7 @@
         "rank": "4",
         "person_name": "Nadia Stowers",
         "country": "USA",
-        "score": 34.0
+        "score": 34
       },
       {
         "rank": "5",
@@ -1601,7 +1601,7 @@
         "rank": "8",
         "person_name": "Allyson Abbs",
         "country": "USA",
-        "score": 18.0
+        "score": 18
       },
       {
         "rank": "9",
@@ -1618,8 +1618,8 @@
     "contest_name": "2024 World's Strongest Woman",
     "details": "Madison, Wisconsin, 2024-12-06 to 2024-12-08",
     "tier": "TIER_1",
-    "tier_multiplier": 5.0,
-    "recency_multiplier": 3.0,
+    "tier_multiplier": 5,
+    "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 10,
     "raw_difficulty": 11549.508701772525,
@@ -1641,7 +1641,7 @@
         "rank": "2",
         "person_name": "Jackie Osczevski",
         "country": "CAN",
-        "score": 47.0
+        "score": 47
       },
       {
         "rank": "3",
@@ -1653,7 +1653,7 @@
         "rank": "4",
         "person_name": "Katie Blunden",
         "country": "AUS",
-        "score": 46.0
+        "score": 46
       },
       {
         "rank": "5",
@@ -1671,7 +1671,7 @@
         "rank": "7",
         "person_name": "Monica Quarles",
         "country": "USA",
-        "score": 34.0
+        "score": 34
       },
       {
         "rank": "8",
@@ -1689,10 +1689,10 @@
         "rank": "10",
         "person_name": "Jackie Rhodes",
         "country": "USA",
-        "score": 25.0
+        "score": 25
       }
     ],
-    "difficulty_score": 319.0,
+    "difficulty_score": 319,
     "competition_rank": 20
   },
   {
@@ -1717,13 +1717,13 @@
         "rank": "1",
         "person_name": "Inez Carrasquillo",
         "country": "PUR",
-        "score": 40.0
+        "score": 40
       },
       {
         "rank": "2",
         "person_name": "Angelica Jardine",
         "country": "USA",
-        "score": 34.0
+        "score": 34
       },
       {
         "rank": "3",
@@ -1753,7 +1753,7 @@
         "rank": "7",
         "person_name": "Rachael Peterson",
         "country": "USA",
-        "score": 5.0
+        "score": 5
       }
     ],
     "difficulty_score": 316.2,
@@ -1764,8 +1764,8 @@
     "contest_name": "2023 America's Strongest Woman",
     "details": "Orlando, Florida, 2023-11-03 to 2023-11-04",
     "tier": "TIER_3",
-    "tier_multiplier": 2.0,
-    "recency_multiplier": 1.0,
+    "tier_multiplier": 2,
+    "recency_multiplier": 1,
     "division": "women",
     "total_competitors": 6,
     "raw_difficulty": 11220.865583135514,
@@ -1793,7 +1793,7 @@
         "rank": "3",
         "person_name": "Cori Butler",
         "country": "USA",
-        "score": 24.0
+        "score": 24
       },
       {
         "rank": "4",
@@ -1805,7 +1805,7 @@
         "rank": "5",
         "person_name": "Alyssa Manu",
         "country": "USA",
-        "score": 15.0
+        "score": 15
       },
       {
         "rank": "6",
@@ -1818,386 +1818,12 @@
     "competition_rank": 22
   },
   {
-    "contest_id": 1227,
-    "contest_name": "2016 Arnold Amateur Strongwoman World Championships",
-    "details": "Columbus, Ohio, 2016-03-04 to 2016-03-06",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 10,
-    "raw_difficulty": 11073.02026341466,
-    "top_5_finishers": [
-      "Donna Moore (#1)",
-      "Britteny Cornelius (#2)",
-      "Olga Liashchuk (#3)",
-      "Julie Rader (#4)",
-      "Andrea Thompson (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Donna Moore",
-        "country": "GBR",
-        "score": 22.07
-      },
-      {
-        "rank": "2",
-        "person_name": "Britteny Cornelius",
-        "country": "USA",
-        "score": 21.14
-      },
-      {
-        "rank": "3",
-        "person_name": "Olga Liashchuk",
-        "country": "UKR",
-        "score": 15.74
-      },
-      {
-        "rank": "4",
-        "person_name": "Julie Rader",
-        "country": "USA",
-        "score": 15.4
-      },
-      {
-        "rank": "5",
-        "person_name": "Andrea Thompson",
-        "country": "GBR",
-        "score": 9.2
-      },
-      {
-        "rank": "6",
-        "person_name": "Holly Garner",
-        "country": "USA",
-        "score": 8.67
-      },
-      {
-        "rank": "7",
-        "person_name": "Lidiia Hunko",
-        "country": "UKR",
-        "score": 7.46
-      },
-      {
-        "rank": "8",
-        "person_name": "Amber Lynn",
-        "country": "USA",
-        "score": 5.61
-      },
-      {
-        "rank": "9",
-        "person_name": "Anna Harjapää",
-        "country": "SWE",
-        "score": 5.2
-      },
-      {
-        "rank": "10",
-        "person_name": "Keeley Moffitt",
-        "country": "USA",
-        "score": 3.73
-      }
-    ],
-    "difficulty_score": 299.4,
-    "competition_rank": 23
-  },
-  {
-    "contest_id": 1085,
-    "contest_name": "2019 Arnold Pro Strongwoman",
-    "details": "Columbus, Ohio, 2019-03-01 to 2019-03-02",
-    "tier": "TIER_2",
-    "tier_multiplier": 3.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 10,
-    "raw_difficulty": 11059.288571491388,
-    "top_5_finishers": [
-      "Olga Liashchuk (#1)",
-      "Donna Moore (#2)",
-      "Andrea Thompson (#3)",
-      "Sandra Bradley (#4)",
-      "Jessica Fithen (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Olga Liashchuk",
-        "country": "UKR",
-        "score": 44.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Donna Moore",
-        "country": "GBR",
-        "score": 41.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Andrea Thompson",
-        "country": "GBR",
-        "score": 39.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Sandra Bradley",
-        "country": "GER",
-        "score": 32.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Jessica Fithen",
-        "country": "USA",
-        "score": 30.0
-      },
-      {
-        "rank": "6",
-        "person_name": "Brooke Sousa",
-        "country": "USA",
-        "score": 28.0
-      },
-      {
-        "rank": "7",
-        "person_name": "Jessica Theaker",
-        "country": "CAN",
-        "score": 20.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Allison Lockhart",
-        "country": "CAN",
-        "score": 15.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Laura Anderson",
-        "country": "USA",
-        "score": 11.0
-      },
-      {
-        "rank": "10",
-        "person_name": "Farah Fonseca",
-        "country": "GBR",
-        "score": 2.0
-      }
-    ],
-    "difficulty_score": 298.9,
-    "competition_rank": 24
-  },
-  {
-    "contest_id": 1222,
-    "contest_name": "2017 Arnold Amateur Strongwoman World Championships",
-    "details": "Columbus, Ohio, 2017-03-03 to 2017-03-04",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 10,
-    "raw_difficulty": 11056.103353010083,
-    "top_5_finishers": [
-      "Donna Moore (#1)",
-      "Lidiia Hunko (#2)",
-      "Andrea Thompson (#3)",
-      "Olga Liashchuk (#4)",
-      "Mollie Hoss (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Donna Moore",
-        "country": "GBR",
-        "score": 21.27
-      },
-      {
-        "rank": "2",
-        "person_name": "Lidiia Hunko",
-        "country": "UKR",
-        "score": 20.74
-      },
-      {
-        "rank": "3",
-        "person_name": "Andrea Thompson",
-        "country": "GBR",
-        "score": 15.93
-      },
-      {
-        "rank": "4",
-        "person_name": "Olga Liashchuk",
-        "country": "UKR",
-        "score": 15.54
-      },
-      {
-        "rank": "5",
-        "person_name": "Mollie Hoss",
-        "country": "USA",
-        "score": 11.87
-      },
-      {
-        "rank": "6",
-        "person_name": "Anna Harjapää",
-        "country": "SWE",
-        "score": 10.14
-      },
-      {
-        "rank": "7",
-        "person_name": "Diondra Fryer",
-        "country": "USA",
-        "score": 8.13
-      },
-      {
-        "rank": "8",
-        "person_name": "Martha Tevita",
-        "country": "AUS",
-        "score": 8.13
-      },
-      {
-        "rank": "9",
-        "person_name": "Laurie Middleswarth",
-        "country": "USA",
-        "score": 5.87
-      },
-      {
-        "rank": "10",
-        "person_name": "Lisa Yeats",
-        "country": "GBR",
-        "score": 2.4
-      }
-    ],
-    "difficulty_score": 298.8,
-    "competition_rank": 25
-  },
-  {
-    "contest_id": 1084,
-    "contest_name": "2020 Arnold Pro Strongwoman",
-    "details": "Columbus, Ohio, 2020-03-06 to 2020-03-07",
-    "tier": "TIER_2",
-    "tier_multiplier": 3.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 9,
-    "raw_difficulty": 10428.921382694314,
-    "top_5_finishers": [
-      "Olga Liashchuk (#1)",
-      "Danielle Vaji (#2)",
-      "Jessica Fithen (#3)",
-      "Anna Harjapää (#4)",
-      "Andrea Thompson (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Olga Liashchuk",
-        "country": "UKR",
-        "score": 40.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Danielle Vaji",
-        "country": "USA",
-        "score": 34.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Jessica Fithen",
-        "country": "USA",
-        "score": 33.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Anna Harjapää",
-        "country": "SWE",
-        "score": 31.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Andrea Thompson",
-        "country": "GBR",
-        "score": 30.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Brooke Sousa",
-        "country": "USA",
-        "score": 15.0
-      },
-      {
-        "rank": "7",
-        "person_name": "Britteny Cornelius",
-        "country": "USA",
-        "score": 13.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Bailey Deschene",
-        "country": "CAN",
-        "score": 7.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Christina Bangma",
-        "country": "USA",
-        "score": 5.5
-      }
-    ],
-    "difficulty_score": 273.7,
-    "competition_rank": 26
-  },
-  {
-    "contest_id": 1095,
-    "contest_name": "2018 Strongest Woman in the World",
-    "details": "Vinstra, Norway, 2018-07-26 to 2018-07-27",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 5,
-    "raw_difficulty": 9770.857104176634,
-    "top_5_finishers": [
-      "Brooke Sousa (#1)",
-      "Olga Liashchuk (#2)",
-      "Julie Rader (#3)",
-      "Jessica Fithen (#4)",
-      "Jackie Osczevski (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Brooke Sousa",
-        "country": "USA",
-        "score": 24.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Olga Liashchuk",
-        "country": "UKR",
-        "score": 22.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Julie Rader",
-        "country": "USA",
-        "score": 18.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Jessica Fithen",
-        "country": "USA",
-        "score": 17.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Jackie Osczevski",
-        "country": "CAN",
-        "score": 7.0
-      }
-    ],
-    "difficulty_score": 248.2,
-    "competition_rank": 27
-  },
-  {
     "contest_id": 1601,
     "contest_name": "2024 America's Strongest Woman",
     "details": "Las Vegas, Nevada, 2024-10-11 to 2024-10-12",
     "tier": "TIER_3",
-    "tier_multiplier": 2.0,
-    "recency_multiplier": 3.0,
+    "tier_multiplier": 2,
+    "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 5,
     "raw_difficulty": 9533.881041337021,
@@ -2225,7 +1851,7 @@
         "rank": "3",
         "person_name": "Erin Murray",
         "country": "USA",
-        "score": 17.0
+        "score": 17
       },
       {
         "rank": "4",
@@ -2241,18 +1867,18 @@
       }
     ],
     "difficulty_score": 239.2,
-    "competition_rank": 28
+    "competition_rank": 23
   },
   {
     "contest_id": 2247,
     "contest_name": "2026 Britain's Strongest Woman",
     "details": "York, England, 2026-07-25",
     "tier": "TIER_3",
-    "tier_multiplier": 2.0,
-    "recency_multiplier": 5.0,
+    "tier_multiplier": 2,
+    "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 9297.568761666089,
+    "raw_difficulty": 9297.568761666087,
     "top_5_finishers": [
       "Lucy Underdown (#1)",
       "Rebecca Roberts (#2)",
@@ -2265,7 +1891,7 @@
         "rank": "1",
         "person_name": "Lucy Underdown",
         "country": "ENG",
-        "score": 46.0
+        "score": 46
       },
       {
         "rank": "2",
@@ -2283,134 +1909,58 @@
         "rank": "4",
         "person_name": "Naomi Hadley",
         "country": "ENG",
-        "score": 27.0
+        "score": 27
       },
       {
         "rank": "5",
         "person_name": "Claire Myler",
         "country": "WAL",
-        "score": 26.0
+        "score": 26
       },
       {
         "rank": "6",
         "person_name": "Donna Moore",
         "country": "ENG",
-        "score": 21.0
+        "score": 21
       },
       {
         "rank": "7",
         "person_name": "Rachel Greener",
         "country": "SCO",
-        "score": 15.0
+        "score": 15
       },
       {
         "rank": "7",
         "person_name": "Michaela Pearson",
         "country": "ENG",
-        "score": 15.0
+        "score": 15
       },
       {
         "rank": "9",
         "person_name": "Sam Taylor",
         "country": "WAL",
-        "score": 14.0
+        "score": 14
       },
       {
         "rank": "10",
         "person_name": "Nicola Bennett",
         "country": "SCO",
-        "score": 6.0
+        "score": 6
       }
     ],
     "difficulty_score": 230.4,
-    "competition_rank": 29
-  },
-  {
-    "contest_id": 1784,
-    "contest_name": "2021 Rainier Classic Pro-Am (Women)",
-    "details": "Federal Way, Washington, 2021-07-08",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 9,
-    "raw_difficulty": 9237.533786268068,
-    "top_5_finishers": [
-      "Victoria Long (#1)",
-      "Inez Carrasquillo (#2)",
-      "Nadia Stowers (#3)",
-      "Gabi Dixson (#4)",
-      "Kimberly Baum (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Victoria Long",
-        "country": "USA",
-        "score": 41.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Inez Carrasquillo",
-        "country": "PUR",
-        "score": 38.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Nadia Stowers",
-        "country": "USA",
-        "score": 27.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Gabi Dixson",
-        "country": "USA",
-        "score": 26.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Kimberly Baum",
-        "country": "USA",
-        "score": 21.0
-      },
-      {
-        "rank": "6",
-        "person_name": "Monica Quarles",
-        "country": "USA",
-        "score": 19.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Jodi Kennedy",
-        "country": "USA",
-        "score": 19.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Cori Butler",
-        "country": "USA",
-        "score": 13.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Rachael Peterson",
-        "country": "USA",
-        "score": 8.0
-      }
-    ],
-    "difficulty_score": 228.2,
-    "competition_rank": 30
+    "competition_rank": 24
   },
   {
     "contest_id": 1501,
     "contest_name": "2024 Britain's Strongest Woman",
     "details": "York, England, 2024-06-22",
     "tier": "TIER_3",
-    "tier_multiplier": 2.0,
-    "recency_multiplier": 1.0,
+    "tier_multiplier": 2,
+    "recency_multiplier": 1,
     "division": "women",
     "total_competitors": 12,
-    "raw_difficulty": 8739.35919713535,
+    "raw_difficulty": 8739.359197135349,
     "top_5_finishers": [
       "Lucy Underdown (#1)",
       "Rebecca Roberts (#2)",
@@ -2429,13 +1979,13 @@
         "rank": "2",
         "person_name": "Rebecca Roberts",
         "country": "WAL",
-        "score": 50.0
+        "score": 50
       },
       {
         "rank": "3",
         "person_name": "Donna Moore",
         "country": "ENG",
-        "score": 48.0
+        "score": 48
       },
       {
         "rank": "4",
@@ -2459,48 +2009,48 @@
         "rank": "7",
         "person_name": "Katie Smith",
         "country": "ENG",
-        "score": 26.0
+        "score": 26
       },
       {
         "rank": "8",
         "person_name": "Claire Myler",
         "country": "WAL",
-        "score": 21.0
+        "score": 21
       },
       {
         "rank": "9",
         "person_name": "Nicola Bennett",
         "country": "SCO",
-        "score": 20.0
+        "score": 20
       },
       {
         "rank": "10",
         "person_name": "Chloe Brennan",
         "country": "ENG",
-        "score": 19.0
+        "score": 19
       },
       {
         "rank": "11",
         "person_name": "Gemma Moore",
         "country": "IRL",
-        "score": 14.0
+        "score": 14
       },
       {
         "rank": "12",
         "person_name": "Faye Pittman",
         "country": "WAL",
-        "score": 5.0
+        "score": 5
       }
     ],
-    "difficulty_score": 210.0,
-    "competition_rank": 31
+    "difficulty_score": 210,
+    "competition_rank": 25
   },
   {
     "contest_id": 1280,
     "contest_name": "2022 Arnold Amateur Strongwoman World Championships",
     "details": "Columbus, Ohio, 2022-03-04 to 2022-03-06",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
+    "tier_multiplier": 1,
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 11,
@@ -2581,14 +2131,14 @@
       }
     ],
     "difficulty_score": 209.4,
-    "competition_rank": 32
+    "competition_rank": 26
   },
   {
     "contest_id": 1409,
     "contest_name": "2023 Arnold Amateur Strongwoman World Championships",
     "details": "Columbus, Ohio, 2023-03-03 to 2023-03-05",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
+    "tier_multiplier": 1,
     "recency_multiplier": 0.5,
     "division": "women",
     "total_competitors": 10,
@@ -2663,18 +2213,18 @@
       }
     ],
     "difficulty_score": 198.1,
-    "competition_rank": 33
+    "competition_rank": 27
   },
   {
     "contest_id": 1344,
     "contest_name": "2022 Shaw Classic Open (Women)",
     "details": "Loveland, Colorado, 2022-08-13 to 2022-08-14",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
+    "tier_multiplier": 1,
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 8352.040073490904,
+    "raw_difficulty": 8352.040073490905,
     "top_5_finishers": [
       "Victoria Long (#1)",
       "Olga Liashchuk (#2)",
@@ -2711,7 +2261,7 @@
         "rank": "5",
         "person_name": "Samantha Belliveau",
         "country": "CAN",
-        "score": 31.0
+        "score": 31
       },
       {
         "rank": "6",
@@ -2741,22 +2291,22 @@
         "rank": "10",
         "person_name": "Taylor Woods",
         "country": "CAN",
-        "score": 8.0
+        "score": 8
       }
     ],
     "difficulty_score": 196.2,
-    "competition_rank": 34
+    "competition_rank": 28
   },
   {
     "contest_id": 1277,
     "contest_name": "2022 UK's Strongest Woman",
     "details": "Doncaster, England, 2022-04-30",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
+    "tier_multiplier": 1,
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 12,
-    "raw_difficulty": 8001.166469852059,
+    "raw_difficulty": 8001.16646985206,
     "top_5_finishers": [
       "Rebecca Roberts (#1)",
       "Donna Moore (#2)",
@@ -2781,19 +2331,19 @@
         "rank": "3",
         "person_name": "Lucy Underdown",
         "country": "ENG",
-        "score": 51.0
+        "score": 51
       },
       {
         "rank": "4",
         "person_name": "Annabelle Chapman",
         "country": "ENG",
-        "score": 49.0
+        "score": 49
       },
       {
         "rank": "5",
         "person_name": "Izzy Tait",
         "country": "SCO",
-        "score": 32.0
+        "score": 32
       },
       {
         "rank": "6",
@@ -2823,7 +2373,7 @@
         "rank": "10",
         "person_name": "Claire Myler",
         "country": "WAL",
-        "score": 15.0
+        "score": 15
       },
       {
         "rank": "11",
@@ -2839,14 +2389,14 @@
       }
     ],
     "difficulty_score": 183.9,
-    "competition_rank": 35
+    "competition_rank": 29
   },
   {
     "contest_id": 1113,
     "contest_name": "2021 UK's Strongest Woman",
     "details": "Bangor, Northern Ireland, 2021-08-21 to 2021-08-22",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
+    "tier_multiplier": 1,
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 12,
@@ -2863,19 +2413,19 @@
         "rank": "1",
         "person_name": "Donna Moore",
         "country": "ENG",
-        "score": 55.0
+        "score": 55
       },
       {
         "rank": "2",
         "person_name": "Rebecca Roberts",
         "country": "WAL",
-        "score": 54.0
+        "score": 54
       },
       {
         "rank": "3",
         "person_name": "Lucy Underdown",
         "country": "ENG",
-        "score": 51.0
+        "score": 51
       },
       {
         "rank": "4",
@@ -2887,7 +2437,7 @@
         "rank": "5",
         "person_name": "Annabelle Chapman",
         "country": "ENG",
-        "score": 43.0
+        "score": 43
       },
       {
         "rank": "6",
@@ -2933,18 +2483,18 @@
       }
     ],
     "difficulty_score": 183.4,
-    "competition_rank": 36
+    "competition_rank": 30
   },
   {
     "contest_id": 1430,
     "contest_name": "2023 UK's Strongest Woman",
     "details": "Nottingham, England, 2023-05-27 to 2023-05-29",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
+    "tier_multiplier": 1,
     "recency_multiplier": 0.5,
     "division": "women",
     "total_competitors": 8,
-    "raw_difficulty": 7946.535832727623,
+    "raw_difficulty": 7946.535832727622,
     "top_5_finishers": [
       "Rebecca Roberts (#1)",
       "Lucy Underdown (#2)",
@@ -2957,53 +2507,53 @@
         "rank": "1",
         "person_name": "Rebecca Roberts",
         "country": "WAL",
-        "score": 38.0
+        "score": 38
       },
       {
         "rank": "2",
         "person_name": "Lucy Underdown",
         "country": "ENG",
-        "score": 37.0
+        "score": 37
       },
       {
         "rank": "3",
         "person_name": "Katie Smith",
         "country": "ENG",
-        "score": 19.0
+        "score": 19
       },
       {
         "rank": "4",
         "person_name": "Claire Myler",
         "country": "WAL",
-        "score": 17.0
+        "score": 17
       },
       {
         "rank": "5",
         "person_name": "Izzy Tait",
         "country": "SCO",
-        "score": 16.0
+        "score": 16
       },
       {
         "rank": "6",
         "person_name": "Sarah Reynolds",
         "country": "IRL",
-        "score": 13.0
+        "score": 13
       },
       {
         "rank": "7",
         "person_name": "Gemma Moore",
         "country": "IRL",
-        "score": 12.0
+        "score": 12
       },
       {
         "rank": "8",
         "person_name": "Nadine Guy",
         "country": "ENG",
-        "score": 7.0
+        "score": 7
       }
     ],
-    "difficulty_score": 182.0,
-    "competition_rank": 37
+    "difficulty_score": 182,
+    "competition_rank": 31
   },
   {
     "contest_id": 1434,
@@ -3014,7 +2564,7 @@
     "recency_multiplier": 0.5,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 7313.077065216511,
+    "raw_difficulty": 7313.07706521651,
     "top_5_finishers": [
       "Lucy Underdown (#1)",
       "Rebecca Roberts (#2)",
@@ -3027,76 +2577,76 @@
         "rank": "1",
         "person_name": "Lucy Underdown",
         "country": "ENG",
-        "score": 58.0
+        "score": 58
       },
       {
         "rank": "2",
         "person_name": "Rebecca Roberts",
         "country": "WAL",
-        "score": 56.0
+        "score": 56
       },
       {
         "rank": "3",
         "person_name": "Katie Smith",
         "country": "ENG",
-        "score": 38.0
+        "score": 38
       },
       {
         "rank": "4",
         "person_name": "Femke Huisman",
         "country": "NED",
-        "score": 29.0
+        "score": 29
       },
       {
         "rank": "5",
         "person_name": "Gemma Moore",
         "country": "IRL",
-        "score": 28.0
+        "score": 28
       },
       {
         "rank": "6",
         "person_name": "Sabrina Retzer",
         "country": "GER",
-        "score": 26.0
+        "score": 26
       },
       {
         "rank": "7",
         "person_name": "Andrea Seed",
         "country": "ENG",
-        "score": 18.0
+        "score": 18
       },
       {
         "rank": "8",
         "person_name": "Rosslyn Cole",
         "country": "SCO",
-        "score": 18.0
+        "score": 18
       },
       {
         "rank": "9",
         "person_name": "Izzy Tait",
         "country": "SCO",
-        "score": 12.0
+        "score": 12
       },
       {
         "rank": "10",
         "person_name": "Jonna Pohjola",
         "country": "FIN",
-        "score": 9.0
+        "score": 9
       }
     ],
     "difficulty_score": 160.7,
-    "competition_rank": 38
+    "competition_rank": 32
   },
   {
     "contest_id": 2457,
     "contest_name": "2026 Arnold Strongman Pro/Am (Women)",
     "details": "Columbus, Ohio, 2026-03-07 to 2026-03-08",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 5.0,
+    "tier_multiplier": 1,
+    "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 8,
-    "raw_difficulty": 7255.906933612037,
+    "raw_difficulty": 7255.906933612038,
     "top_5_finishers": [
       "Jackie Rhodes (#1)",
       "Kasey Croy (#2)",
@@ -3121,7 +2671,7 @@
         "rank": "3",
         "person_name": "Allira-Joy Cowley",
         "country": "AUS",
-        "score": 34.0
+        "score": 34
       },
       {
         "rank": "4",
@@ -3139,211 +2689,23 @@
         "rank": "6",
         "person_name": "Destiney Bass",
         "country": "USA",
-        "score": 29.0
+        "score": 29
       },
       {
         "rank": "7",
         "person_name": "Joscelyne O'Brien",
         "country": "CAN",
-        "score": 26.0
+        "score": 26
       },
       {
         "rank": "8",
         "person_name": "Bailey Deschene",
         "country": "CAN",
-        "score": 25.0
+        "score": 25
       }
     ],
     "difficulty_score": 158.8,
-    "competition_rank": 39
-  },
-  {
-    "contest_id": 1079,
-    "contest_name": "2016 World's Strongest Woman",
-    "details": "Doncaster, England, 2016-09-17",
-    "tier": "TIER_1",
-    "tier_multiplier": 5.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 14,
-    "raw_difficulty": 7099.1518094455805,
-    "top_5_finishers": [
-      "Donna Moore (#1)",
-      "Lidiia Hunko (#2)",
-      "Olga Liashchuk (#3)",
-      "Kristin Rhodes (#4)",
-      "Anna Harjapää (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Donna Moore",
-        "country": "GBR",
-        "score": 60.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Lidiia Hunko",
-        "country": "UKR",
-        "score": 55.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Olga Liashchuk",
-        "country": "UKR",
-        "score": 53.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Kristin Rhodes",
-        "country": "USA",
-        "score": 52.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Anna Harjapää",
-        "country": "SWE",
-        "score": 46.0
-      },
-      {
-        "rank": "6",
-        "person_name": "Liefia Ingalls",
-        "country": "USA",
-        "score": 44.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Brooke Sousa",
-        "country": "USA",
-        "score": 44.0
-      },
-      {
-        "rank": "8",
-        "person_name": "Andrea Thompson",
-        "country": "GBR",
-        "score": 33.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Tracey Halladay",
-        "country": "CAN",
-        "score": 29.0
-      },
-      {
-        "rank": "10",
-        "person_name": "Jenny Todd",
-        "country": "USA",
-        "score": 27.5
-      },
-      {
-        "rank": "11",
-        "person_name": "Olivia Lane",
-        "country": "IRL",
-        "score": 27.5
-      },
-      {
-        "rank": "12",
-        "person_name": "Lisa Yeats",
-        "country": "GBR",
-        "score": 25.5
-      },
-      {
-        "rank": "13",
-        "person_name": "Sandra Bradley",
-        "country": "GER",
-        "score": 19.0
-      },
-      {
-        "rank": "14",
-        "person_name": "Kikki Berli-Johnsen",
-        "country": "NOR",
-        "score": 1.0
-      }
-    ],
-    "difficulty_score": 153.7,
-    "competition_rank": 40
-  },
-  {
-    "contest_id": 1086,
-    "contest_name": "2018 Arnold Pro Strongwoman",
-    "details": "Columbus, Ohio, 2018-03-02 to 2018-03-03",
-    "tier": "TIER_2",
-    "tier_multiplier": 3.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 10,
-    "raw_difficulty": 7029.896075712864,
-    "top_5_finishers": [
-      "Donna Moore (#1)",
-      "Liefia Ingalls (#2)",
-      "Kristin Rhodes (#3)",
-      "Britteny Cornelius (#4)",
-      "Olga Liashchuk (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Donna Moore",
-        "country": "GBR",
-        "score": 43.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Liefia Ingalls",
-        "country": "USA",
-        "score": 39.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Kristin Rhodes",
-        "country": "USA",
-        "score": 36.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Britteny Cornelius",
-        "country": "USA",
-        "score": 32.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Olga Liashchuk",
-        "country": "UKR",
-        "score": 30.0
-      },
-      {
-        "rank": "6",
-        "person_name": "Lidiia Hunko",
-        "country": "UKR",
-        "score": 27.0
-      },
-      {
-        "rank": "7",
-        "person_name": "Brittany Diamond",
-        "country": "USA",
-        "score": 21.0
-      },
-      {
-        "rank": "8",
-        "person_name": "Laura Anderson",
-        "country": "USA",
-        "score": 14.0
-      },
-      {
-        "rank": "9",
-        "person_name": "Jessica Theaker",
-        "country": "CAN",
-        "score": 12.0
-      },
-      {
-        "rank": "10",
-        "person_name": "Keya Woodland",
-        "country": "AUS",
-        "score": 10.0
-      }
-    ],
-    "difficulty_score": 151.5,
-    "competition_rank": 41
+    "competition_rank": 33
   },
   {
     "contest_id": 1785,
@@ -3354,7 +2716,7 @@
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 7010.04089951074,
+    "raw_difficulty": 7010.040899510739,
     "top_5_finishers": [
       "Inez Carrasquillo (#1)",
       "Gabi Dixson (#2)",
@@ -3367,7 +2729,7 @@
         "rank": "1",
         "person_name": "Inez Carrasquillo",
         "country": "PUR",
-        "score": 50.0
+        "score": 50
       },
       {
         "rank": "2",
@@ -3385,7 +2747,7 @@
         "rank": "4",
         "person_name": "Britta Maggard",
         "country": "USA",
-        "score": 31.0
+        "score": 31
       },
       {
         "rank": "5",
@@ -3403,29 +2765,29 @@
         "rank": "7",
         "person_name": "Jodi Kennedy",
         "country": "USA",
-        "score": 23.0
+        "score": 23
       },
       {
         "rank": "8",
         "person_name": "Poha Henson",
         "country": "USA",
-        "score": 22.0
+        "score": 22
       },
       {
         "rank": "9",
         "person_name": "Pauline De Pinto",
         "country": "USA",
-        "score": 15.0
+        "score": 15
       },
       {
         "rank": "10",
         "person_name": "Quessandra Catlett",
         "country": "USA",
-        "score": 13.0
+        "score": 13
       }
     ],
     "difficulty_score": 150.8,
-    "competition_rank": 42
+    "competition_rank": 34
   },
   {
     "contest_id": 1104,
@@ -3449,64 +2811,64 @@
         "rank": "1",
         "person_name": "Annabelle Chapman",
         "country": "GBR",
-        "score": 32.0
+        "score": 32
       },
       {
         "rank": "2",
         "person_name": "Donna Moore",
         "country": "GBR",
-        "score": 30.0
+        "score": 30
       },
       {
         "rank": "3",
         "person_name": "Melissa Peacock",
         "country": "CAN",
-        "score": 29.0
+        "score": 29
       },
       {
         "rank": "4",
         "person_name": "Andrea Thompson",
         "country": "GBR",
-        "score": 25.0
+        "score": 25
       },
       {
         "rank": "5",
         "person_name": "Cori Butler",
         "country": "USA",
-        "score": 21.0
+        "score": 21
       },
       {
         "rank": "6",
         "person_name": "Sandra Bradley",
         "country": "GER",
-        "score": 17.0
+        "score": 17
       },
       {
         "rank": "7",
         "person_name": "Jessica Fithen",
         "country": "USA",
-        "score": 14.0
+        "score": 14
       },
       {
         "rank": "8",
         "person_name": "Nadia Stowers",
         "country": "USA",
-        "score": 12.0
+        "score": 12
       }
     ],
     "difficulty_score": 146.4,
-    "competition_rank": 43
+    "competition_rank": 35
   },
   {
     "contest_id": 1163,
     "contest_name": "2021 Canada's Strongest Woman",
     "details": "Thunder Bay, Canada, 2021-12-04 to 2021-12-05",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
+    "tier_multiplier": 1,
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 6469.747525260904,
+    "raw_difficulty": 6469.747525260903,
     "top_5_finishers": [
       "Samantha Belliveau (#1)",
       "Jackie Osczevski (#2)",
@@ -3525,7 +2887,7 @@
         "rank": "2",
         "person_name": "Jackie Osczevski",
         "country": "CAN",
-        "score": 63.0
+        "score": 63
       },
       {
         "rank": "3",
@@ -3543,31 +2905,31 @@
         "rank": "5",
         "person_name": "Bailey Deschene",
         "country": "CAN",
-        "score": 40.0
+        "score": 40
       },
       {
         "rank": "6",
         "person_name": "Josée De Lachevrotière",
         "country": "CAN",
-        "score": 35.0
+        "score": 35
       },
       {
         "rank": "7",
         "person_name": "Holly McRae",
         "country": "CAN",
-        "score": 33.0
+        "score": 33
       },
       {
         "rank": "8",
         "person_name": "Alisha Thompson",
         "country": "CAN",
-        "score": 30.0
+        "score": 30
       },
       {
         "rank": "9",
         "person_name": "Stephanie Bisignano",
         "country": "CAN",
-        "score": 26.0
+        "score": 26
       },
       {
         "rank": "10",
@@ -3577,18 +2939,18 @@
       }
     ],
     "difficulty_score": 133.7,
-    "competition_rank": 44
+    "competition_rank": 36
   },
   {
     "contest_id": 1694,
     "contest_name": "2025 Arnold Strongman Pro/Am (Women)",
     "details": "Columbus, Ohio, 2025-03-01 to 2025-03-02",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 3.0,
+    "tier_multiplier": 1,
+    "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 8,
-    "raw_difficulty": 6388.269590837967,
+    "raw_difficulty": 6388.2695908379665,
     "top_5_finishers": [
       "Katie Blunden (#1)",
       "Morgan Irons (#2)",
@@ -3613,7 +2975,7 @@
         "rank": "3",
         "person_name": "Stevie Aligbe",
         "country": "NGR",
-        "score": 26.0
+        "score": 26
       },
       {
         "rank": "4",
@@ -3643,101 +3005,19 @@
         "rank": "8",
         "person_name": "Ashley Telford",
         "country": "CAN",
-        "score": 8.0
+        "score": 8
       }
     ],
     "difficulty_score": 131.2,
-    "competition_rank": 45
-  },
-  {
-    "contest_id": 1096,
-    "contest_name": "2017 Strongest Woman in the World",
-    "details": "Las Vegas, Nevada, 2017-09-16",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 10,
-    "raw_difficulty": 6346.38904800646,
-    "top_5_finishers": [
-      "Olga Liashchuk (#1)",
-      "Britteny Cornelius (#2)",
-      "Lidiia Hunko (#3)",
-      "Kristin Rhodes (#4)",
-      "Brooke Sousa (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Olga Liashchuk",
-        "country": "UKR",
-        "score": 41.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Britteny Cornelius",
-        "country": "USA",
-        "score": 39.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Lidiia Hunko",
-        "country": "UKR",
-        "score": 38.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Kristin Rhodes",
-        "country": "USA",
-        "score": 37.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Brooke Sousa",
-        "country": "USA",
-        "score": 29.0
-      },
-      {
-        "rank": "6",
-        "person_name": "Andrea Thompson",
-        "country": "GBR",
-        "score": 24.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Kaitlin Burgess",
-        "country": "USA",
-        "score": 23.0
-      },
-      {
-        "rank": "8",
-        "person_name": "Julie Rader",
-        "country": "USA",
-        "score": 21.0
-      },
-      {
-        "rank": "9",
-        "person_name": "Mollie Hoss",
-        "country": "USA",
-        "score": 3.0
-      },
-      {
-        "rank": "10",
-        "person_name": "Laura Guy",
-        "country": "GBR",
-        "score": 2.0
-      }
-    ],
-    "difficulty_score": 129.9,
-    "competition_rank": 46
+    "competition_rank": 37
   },
   {
     "contest_id": 1700,
     "contest_name": "2025 Australia's Strongest Woman",
     "details": "Sydney, Australia, 2025-05-09 to 2025-05-10",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 3.0,
+    "tier_multiplier": 1,
+    "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 9,
     "raw_difficulty": 5896.40335588803,
@@ -3753,13 +3033,13 @@
         "rank": "1",
         "person_name": "Allira-Joy Cowley",
         "country": "AUS",
-        "score": 63.0
+        "score": 63
       },
       {
         "rank": "2",
         "person_name": "Elly Latemore",
         "country": "AUS",
-        "score": 57.0
+        "score": 57
       },
       {
         "rank": "3",
@@ -3789,23 +3069,23 @@
         "rank": "7",
         "person_name": "Lenisa Manu",
         "country": "AUS",
-        "score": 14.0
+        "score": 14
       },
       {
         "rank": "8",
         "person_name": "Annette St George",
         "country": "AUS",
-        "score": 10.0
+        "score": 10
       },
       {
         "rank": "9",
         "person_name": "Ash Devlin",
         "country": "AUS",
-        "score": 8.0
+        "score": 8
       }
     ],
     "difficulty_score": 116.4,
-    "competition_rank": 47
+    "competition_rank": 38
   },
   {
     "contest_id": 1372,
@@ -3835,7 +3115,7 @@
         "rank": "2",
         "person_name": "Andrea Thompson",
         "country": "GBR",
-        "score": 26.0
+        "score": 26
       },
       {
         "rank": "3",
@@ -3869,15 +3149,15 @@
       }
     ],
     "difficulty_score": 116.2,
-    "competition_rank": 48
+    "competition_rank": 39
   },
   {
     "contest_id": 2819,
     "contest_name": "2026 Western Canada's Strongest Woman",
     "details": "Lemberg, Canada, 2026-08-08",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 5.0,
+    "tier_multiplier": 1,
+    "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 13,
     "raw_difficulty": 5784.770052241901,
@@ -3893,7 +3173,7 @@
         "rank": "1",
         "person_name": "Jackie Osczevski",
         "country": "CAN",
-        "score": 63.0
+        "score": 63
       },
       {
         "rank": "2",
@@ -3905,7 +3185,7 @@
         "rank": "3",
         "person_name": "Anatasia Pfund",
         "country": "CAN",
-        "score": 55.0
+        "score": 55
       },
       {
         "rank": "4",
@@ -3917,13 +3197,13 @@
         "rank": "5",
         "person_name": "Amanda Tafelmeyer",
         "country": "CAN",
-        "score": 37.0
+        "score": 37
       },
       {
         "rank": "6",
         "person_name": "Stephanie Bisignano",
         "country": "CAN",
-        "score": 36.0
+        "score": 36
       },
       {
         "rank": "7",
@@ -3935,19 +3215,19 @@
         "rank": "8",
         "person_name": "Eryn Penner",
         "country": "CAN",
-        "score": 26.0
+        "score": 26
       },
       {
         "rank": "9",
         "person_name": "Tracey Ball",
         "country": "CAN",
-        "score": 24.0
+        "score": 24
       },
       {
         "rank": "9",
         "person_name": "Michelle Morette",
         "country": "CAN",
-        "score": 24.0
+        "score": 24
       },
       {
         "rank": "11",
@@ -3959,107 +3239,25 @@
         "rank": "12",
         "person_name": "Astra Richards",
         "country": "CAN",
-        "score": 16.0
+        "score": 16
       },
       {
         "rank": "13",
         "person_name": "Mariah Kehler",
         "country": "CAN",
-        "score": 9.0
+        "score": 9
       }
     ],
     "difficulty_score": 113.1,
-    "competition_rank": 49
-  },
-  {
-    "contest_id": 1076,
-    "contest_name": "2019 World's Strongest Woman",
-    "details": "Daytona Beach, Florida, 2019-11-02 to 2019-11-03",
-    "tier": "TIER_1",
-    "tier_multiplier": 5.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 10,
-    "raw_difficulty": 5221.652067444379,
-    "top_5_finishers": [
-      "Donna Moore (#1)",
-      "Victoria Long (#2)",
-      "Andrea Thompson (#3)",
-      "Jessica Fithen (#4)",
-      "Melissa Edwards (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Donna Moore",
-        "country": "GBR",
-        "score": 53.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Victoria Long",
-        "country": "USA",
-        "score": 51.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Andrea Thompson",
-        "country": "GBR",
-        "score": 43.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Jessica Fithen",
-        "country": "USA",
-        "score": 36.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Melissa Edwards",
-        "country": "USA",
-        "score": 33.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Brooke Sousa",
-        "country": "USA",
-        "score": 31.0
-      },
-      {
-        "rank": "7",
-        "person_name": "Rebecca Roberts",
-        "country": "GBR",
-        "score": 24.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Haley Randall",
-        "country": "CAN",
-        "score": 20.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Émilie Morin",
-        "country": "CAN",
-        "score": 17.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Annabelle Chapman",
-        "country": "GBR",
-        "score": 17.0
-      }
-    ],
-    "difficulty_score": 97.0,
-    "competition_rank": 50
+    "competition_rank": 40
   },
   {
     "contest_id": 1593,
     "contest_name": "2024 Shaw Classic Open (Women)",
     "details": "Loveland, Colorado, 2024-08-16 to 2024-08-18",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 3.0,
+    "tier_multiplier": 1,
+    "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 10,
     "raw_difficulty": 4929.425002442626,
@@ -4105,13 +3303,13 @@
         "rank": "6",
         "person_name": "Jackie Osczevski",
         "country": "CAN",
-        "score": 37.0
+        "score": 37
       },
       {
         "rank": "7",
         "person_name": "Ashley Crawford",
         "country": "USA",
-        "score": 37.0
+        "score": 37
       },
       {
         "rank": "8",
@@ -4133,89 +3331,7 @@
       }
     ],
     "difficulty_score": 88.9,
-    "competition_rank": 51
-  },
-  {
-    "contest_id": 1077,
-    "contest_name": "2018 World's Strongest Woman",
-    "details": "Raleigh, North Carolina, 2018-12-08 to 2018-12-09",
-    "tier": "TIER_1",
-    "tier_multiplier": 5.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 10,
-    "raw_difficulty": 4739.759348190571,
-    "top_5_finishers": [
-      "Andrea Thompson (#1)",
-      "Donna Moore (#2)",
-      "Kristin Rhodes (#2)",
-      "Jessica Fithen (#4)",
-      "Brooke Sousa (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Andrea Thompson",
-        "country": "GBR",
-        "score": 53.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Donna Moore",
-        "country": "GBR",
-        "score": 52.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Kristin Rhodes",
-        "country": "USA",
-        "score": 52.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Jessica Fithen",
-        "country": "USA",
-        "score": 40.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Brooke Sousa",
-        "country": "USA",
-        "score": 32.0
-      },
-      {
-        "rank": "6",
-        "person_name": "Anna Harjapää",
-        "country": "SWE",
-        "score": 26.0
-      },
-      {
-        "rank": "7",
-        "person_name": "Émilie Morin",
-        "country": "CAN",
-        "score": 25.0
-      },
-      {
-        "rank": "8",
-        "person_name": "Haley Randall",
-        "country": "CAN",
-        "score": 21.0
-      },
-      {
-        "rank": "9",
-        "person_name": "Christina Kirk",
-        "country": "USA",
-        "score": 15.0
-      },
-      {
-        "rank": "10",
-        "person_name": "Sharon Moss",
-        "country": "USA",
-        "score": 10.0
-      }
-    ],
-    "difficulty_score": 83.9,
-    "competition_rank": 52
+    "competition_rank": 41
   },
   {
     "contest_id": 1595,
@@ -4223,10 +3339,10 @@
     "details": "York, England, 2024-08-17 to 2024-08-18",
     "tier": "TIER_5",
     "tier_multiplier": 0.25,
-    "recency_multiplier": 3.0,
+    "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 9,
-    "raw_difficulty": 4726.7822660503625,
+    "raw_difficulty": 4726.782266050362,
     "top_5_finishers": [
       "Rebecca Roberts (#1)",
       "Donna Moore (#2)",
@@ -4245,7 +3361,7 @@
         "rank": "2",
         "person_name": "Donna Moore",
         "country": "GBR",
-        "score": 36.0
+        "score": 36
       },
       {
         "rank": "3",
@@ -4257,25 +3373,25 @@
         "rank": "4",
         "person_name": "Patricia Smit",
         "country": "NED",
-        "score": 22.0
+        "score": 22
       },
       {
         "rank": "5",
         "person_name": "Stephanie Dutton",
         "country": "GBR",
-        "score": 18.0
+        "score": 18
       },
       {
         "rank": "6",
         "person_name": "Maxine Winter",
         "country": "GBR",
-        "score": 16.0
+        "score": 16
       },
       {
         "rank": "7",
         "person_name": "Holly Ford",
         "country": "GBR",
-        "score": 12.0
+        "score": 12
       },
       {
         "rank": "8",
@@ -4291,97 +3407,15 @@
       }
     ],
     "difficulty_score": 83.5,
-    "competition_rank": 53
-  },
-  {
-    "contest_id": 1078,
-    "contest_name": "2017 World's Strongest Woman",
-    "details": "Raleigh, North Carolina, 2017-12-15 to 2017-12-16",
-    "tier": "TIER_1",
-    "tier_multiplier": 5.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 10,
-    "raw_difficulty": 4724.039544846633,
-    "top_5_finishers": [
-      "Donna Moore (#1)",
-      "Kristin Rhodes (#2)",
-      "Britteny Cornelius (#3)",
-      "Andrea Thompson (#4)",
-      "Samantha Coleman (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Donna Moore",
-        "country": "GBR",
-        "score": 49.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Kristin Rhodes",
-        "country": "USA",
-        "score": 47.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Britteny Cornelius",
-        "country": "USA",
-        "score": 42.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Andrea Thompson",
-        "country": "GBR",
-        "score": 40.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Samantha Coleman",
-        "country": "USA",
-        "score": 36.0
-      },
-      {
-        "rank": "6",
-        "person_name": "Brooke Sousa",
-        "country": "USA",
-        "score": 31.0
-      },
-      {
-        "rank": "7",
-        "person_name": "Lisa Yeats",
-        "country": "GBR",
-        "score": 23.0
-      },
-      {
-        "rank": "8",
-        "person_name": "Tracey Halladay",
-        "country": "CAN",
-        "score": 20.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Mekayla Breland",
-        "country": "USA",
-        "score": 16.0
-      },
-      {
-        "rank": "10",
-        "person_name": "Meg Davis",
-        "country": "USA",
-        "score": 14.5
-      }
-    ],
-    "difficulty_score": 83.4,
-    "competition_rank": 54
+    "competition_rank": 42
   },
   {
     "contest_id": 2514,
     "contest_name": "2026 Australia's Strongest Woman",
     "details": "Sydney, Australia, 2026-05-02",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 5.0,
+    "tier_multiplier": 1,
+    "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 14,
     "raw_difficulty": 4701.924801784883,
@@ -4397,31 +3431,31 @@
         "rank": "1",
         "person_name": "Sarah Rainbow",
         "country": "AUS",
-        "score": 69.0
+        "score": 69
       },
       {
         "rank": "2",
         "person_name": "Shayna Wirihana",
         "country": "AUS",
-        "score": 59.0
+        "score": 59
       },
       {
         "rank": "3",
         "person_name": "Elly Latemore",
         "country": "AUS",
-        "score": 58.0
+        "score": 58
       },
       {
         "rank": "4",
         "person_name": "Allira-Joy Cowley",
         "country": "AUS",
-        "score": 56.0
+        "score": 56
       },
       {
         "rank": "5",
         "person_name": "Nichole Wight",
         "country": "AUS",
-        "score": 47.0
+        "score": 47
       },
       {
         "rank": "6",
@@ -4433,19 +3467,19 @@
         "rank": "7",
         "person_name": "Reiariki Kimitaunga",
         "country": "AUS",
-        "score": 42.0
+        "score": 42
       },
       {
         "rank": "8",
         "person_name": "Shauna Maher",
         "country": "AUS",
-        "score": 35.0
+        "score": 35
       },
       {
         "rank": "9",
         "person_name": "Carly Patterson",
         "country": "AUS",
-        "score": 32.0
+        "score": 32
       },
       {
         "rank": "10",
@@ -4457,37 +3491,37 @@
         "rank": "11",
         "person_name": "Katie Martin",
         "country": "AUS",
-        "score": 19.0
+        "score": 19
       },
       {
         "rank": "12",
         "person_name": "Hannahzhazie Kanari",
         "country": "AUS",
-        "score": 17.0
+        "score": 17
       },
       {
         "rank": "13",
         "person_name": "Amy McGuire",
         "country": "AUS",
-        "score": 7.0
+        "score": 7
       },
       {
         "rank": "14",
         "person_name": "Tayla Brown",
         "country": "AUS",
-        "score": 4.0
+        "score": 4
       }
     ],
     "difficulty_score": 82.9,
-    "competition_rank": 55
+    "competition_rank": 43
   },
   {
     "contest_id": 1598,
     "contest_name": "2024 UK's Strongest Woman",
     "details": "Warrington, England, 2024-08-25",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 3.0,
+    "tier_multiplier": 1,
+    "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 8,
     "raw_difficulty": 4173.725705758827,
@@ -4503,37 +3537,37 @@
         "rank": "1",
         "person_name": "Rebecca Roberts",
         "country": "WAL",
-        "score": 40.0
+        "score": 40
       },
       {
         "rank": "2",
         "person_name": "Sam Taylor",
         "country": "WAL",
-        "score": 27.0
+        "score": 27
       },
       {
         "rank": "3",
         "person_name": "Gemma Ferguson",
         "country": "ENG",
-        "score": 24.0
+        "score": 24
       },
       {
         "rank": "4",
         "person_name": "Sarah Reynolds",
         "country": "IRL",
-        "score": 21.0
+        "score": 21
       },
       {
         "rank": "5",
         "person_name": "Nadine Guy",
         "country": "ENG",
-        "score": 20.0
+        "score": 20
       },
       {
         "rank": "6",
         "person_name": "Steffi Murray",
         "country": "SCO",
-        "score": 18.0
+        "score": 18
       },
       {
         "rank": "7",
@@ -4549,15 +3583,15 @@
       }
     ],
     "difficulty_score": 69.3,
-    "competition_rank": 56
+    "competition_rank": 44
   },
   {
     "contest_id": 1490,
     "contest_name": "2024 Australia's Strongest Woman",
     "details": "Sydney, Australia, 2024-04-19 to 2024-04-20",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 1.0,
+    "tier_multiplier": 1,
+    "recency_multiplier": 1,
     "division": "women",
     "total_competitors": 9,
     "raw_difficulty": 3981.6793053711494,
@@ -4573,67 +3607,67 @@
         "rank": "1",
         "person_name": "Nicole Genrich",
         "country": "AUS",
-        "score": 69.0
+        "score": 69
       },
       {
         "rank": "2",
         "person_name": "Katie Blunden",
         "country": "AUS",
-        "score": 50.0
+        "score": 50
       },
       {
         "rank": "3",
         "person_name": "Ari Mann",
         "country": "AUS",
-        "score": 50.0
+        "score": 50
       },
       {
         "rank": "4",
         "person_name": "Elly Latemore",
         "country": "AUS",
-        "score": 39.0
+        "score": 39
       },
       {
         "rank": "5",
         "person_name": "Nichole Wight",
         "country": "AUS",
-        "score": 29.0
+        "score": 29
       },
       {
         "rank": "6",
         "person_name": "Sarah Hallifax",
         "country": "AUS",
-        "score": 27.0
+        "score": 27
       },
       {
         "rank": "7",
         "person_name": "Rebekah Chessum",
         "country": "AUS",
-        "score": 26.0
+        "score": 26
       },
       {
         "rank": "8",
         "person_name": "Allira-Joy Cowley",
         "country": "AUS",
-        "score": 25.0
+        "score": 25
       },
       {
         "rank": "9",
         "person_name": "Liz Aitken",
         "country": "AUS",
-        "score": 24.0
+        "score": 24
       }
     ],
     "difficulty_score": 64.6,
-    "competition_rank": 57
+    "competition_rank": 45
   },
   {
     "contest_id": 1525,
     "contest_name": "2024 Arnold Amateur Strongwoman World Championships",
     "details": "Columbus, Ohio, 2024-03-02 to 2024-03-03",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 1.0,
+    "tier_multiplier": 1,
+    "recency_multiplier": 1,
     "division": "women",
     "total_competitors": 4,
     "raw_difficulty": 3471.8132181892106,
@@ -4670,96 +3704,14 @@
       }
     ],
     "difficulty_score": 52.6,
-    "competition_rank": 58
-  },
-  {
-    "contest_id": 1207,
-    "contest_name": "2020 Arnold Amateur Strongwoman World Championships",
-    "details": "Columbus, Ohio, 2020-03-06 to 2020-03-08",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 10,
-    "raw_difficulty": 3223.899666391468,
-    "top_5_finishers": [
-      "Hannah Linzay (#1)",
-      "Monica Quarles (#2)",
-      "Britta Maggard (#3)",
-      "Julia Hamilton (#4)",
-      "Emily Pernice (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Hannah Linzay",
-        "country": "USA",
-        "score": 21.82
-      },
-      {
-        "rank": "2",
-        "person_name": "Monica Quarles",
-        "country": "USA",
-        "score": 13.73
-      },
-      {
-        "rank": "3",
-        "person_name": "Britta Maggard",
-        "country": "USA",
-        "score": 13.36
-      },
-      {
-        "rank": "4",
-        "person_name": "Julia Hamilton",
-        "country": "USA",
-        "score": 11.82
-      },
-      {
-        "rank": "5",
-        "person_name": "Emily Pernice",
-        "country": "USA",
-        "score": 9.46
-      },
-      {
-        "rank": "6",
-        "person_name": "Lisa Livingstone",
-        "country": "GBR",
-        "score": 8.0
-      },
-      {
-        "rank": "7",
-        "person_name": "Nicole Genrich",
-        "country": "AUS",
-        "score": 7.45
-      },
-      {
-        "rank": "7",
-        "person_name": "Lucy Underdown",
-        "country": "GBR",
-        "score": 7.45
-      },
-      {
-        "rank": "9",
-        "person_name": "Lindsay Hall",
-        "country": "USA",
-        "score": 4.37
-      },
-      {
-        "rank": "10",
-        "person_name": "Stephanie Bisignano",
-        "country": "CAN",
-        "score": 3.45
-      }
-    ],
-    "difficulty_score": 47.0,
-    "competition_rank": 59
+    "competition_rank": 46
   },
   {
     "contest_id": 1392,
     "contest_name": "2023 Australia's Strongest Woman",
     "details": "Melbourne, Australia, 2023-03-18 to 2023-03-19",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
+    "tier_multiplier": 1,
     "recency_multiplier": 0.5,
     "division": "women",
     "total_competitors": 9,
@@ -4794,7 +3746,7 @@
         "rank": "4",
         "person_name": "Rebekah Chessum",
         "country": "AUS",
-        "score": 43.0
+        "score": 43
       },
       {
         "rank": "5",
@@ -4818,25 +3770,25 @@
         "rank": "8",
         "person_name": "Reiariki Kimitaunga",
         "country": "AUS",
-        "score": 29.0
+        "score": 29
       },
       {
         "rank": "9",
         "person_name": "Elly Latemore",
         "country": "AUS",
-        "score": 21.0
+        "score": 21
       }
     ],
     "difficulty_score": 44.6,
-    "competition_rank": 60
+    "competition_rank": 47
   },
   {
     "contest_id": 1635,
     "contest_name": "2025 North America's Strongest Woman",
     "details": "Victoriaville, Canada, 2025-07-25 to 2025-07-26",
     "tier": "TIER_3",
-    "tier_multiplier": 2.0,
-    "recency_multiplier": 3.0,
+    "tier_multiplier": 2,
+    "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 10,
     "raw_difficulty": 3017.4168030991136,
@@ -4852,7 +3804,7 @@
         "rank": "1",
         "person_name": "Samantha Belliveau",
         "country": "CAN",
-        "score": 77.0
+        "score": 77
       },
       {
         "rank": "2",
@@ -4864,13 +3816,13 @@
         "rank": "3",
         "person_name": "Samantha Koski-Moffat",
         "country": "CAN",
-        "score": 53.0
+        "score": 53
       },
       {
         "rank": "4",
         "person_name": "Stevie Aligbe",
         "country": "USA",
-        "score": 51.0
+        "score": 51
       },
       {
         "rank": "5",
@@ -4888,7 +3840,7 @@
         "rank": "7",
         "person_name": "Joscelyne O'Brien",
         "country": "CAN",
-        "score": 37.0
+        "score": 37
       },
       {
         "rank": "8",
@@ -4900,28 +3852,28 @@
         "rank": "9",
         "person_name": "Tara Simonson",
         "country": "USA",
-        "score": 17.0
+        "score": 17
       },
       {
         "rank": "10",
         "person_name": "Jules Mansfield",
         "country": "USA",
-        "score": 4.0
+        "score": 4
       }
     ],
     "difficulty_score": 42.6,
-    "competition_rank": 61
+    "competition_rank": 48
   },
   {
     "contest_id": 2520,
     "contest_name": "2026 Alberta's Strongest Woman",
     "details": "Red Deer, Canada, 2026-04-11",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 5.0,
+    "tier_multiplier": 1,
+    "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 2995.21798023029,
+    "raw_difficulty": 2995.2179802302903,
     "top_5_finishers": [
       "Bailey Deschene (#1)",
       "Joscelyne O'Brien (#2)",
@@ -4934,76 +3886,76 @@
         "rank": "1",
         "person_name": "Bailey Deschene",
         "country": "CAN",
-        "score": 56.0
+        "score": 56
       },
       {
         "rank": "2",
         "person_name": "Joscelyne O'Brien",
         "country": "CAN",
-        "score": 54.0
+        "score": 54
       },
       {
         "rank": "3",
         "person_name": "Amanda Wozny",
         "country": "CAN",
-        "score": 42.0
+        "score": 42
       },
       {
         "rank": "4",
         "person_name": "Tami Newman",
         "country": "CAN",
-        "score": 41.0
+        "score": 41
       },
       {
         "rank": "5",
         "person_name": "Tracey Ball",
         "country": "CAN",
-        "score": 31.0
+        "score": 31
       },
       {
         "rank": "6",
         "person_name": "Amy Detmers",
         "country": "CAN",
-        "score": 27.0
+        "score": 27
       },
       {
         "rank": "7",
         "person_name": "Helen Lin",
         "country": "CAN",
-        "score": 27.0
+        "score": 27
       },
       {
         "rank": "8",
         "person_name": "Courtney Johnston",
         "country": "CAN",
-        "score": 20.0
+        "score": 20
       },
       {
         "rank": "9",
         "person_name": "Mariah Kehler",
         "country": "CAN",
-        "score": 18.0
+        "score": 18
       },
       {
         "rank": "10",
         "person_name": "Shay O'Brien",
         "country": "CAN",
-        "score": 11.0
+        "score": 11
       }
     ],
     "difficulty_score": 42.1,
-    "competition_rank": 62
+    "competition_rank": 49
   },
   {
     "contest_id": 1127,
     "contest_name": "2021 America's Strongest Woman",
     "details": "Orlando, Florida, 2021-10-08 to 2021-10-09",
     "tier": "TIER_3",
-    "tier_multiplier": 2.0,
+    "tier_multiplier": 2,
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 6,
-    "raw_difficulty": 2901.674455926772,
+    "raw_difficulty": 2901.6744559267718,
     "top_5_finishers": [
       "Victoria Long (#1)",
       "Cori Butler (#2)",
@@ -5016,19 +3968,19 @@
         "rank": "1",
         "person_name": "Victoria Long",
         "country": "USA",
-        "score": 30.0
+        "score": 30
       },
       {
         "rank": "2",
         "person_name": "Cori Butler",
         "country": "USA",
-        "score": 23.0
+        "score": 23
       },
       {
         "rank": "3",
         "person_name": "Britta Maggard",
         "country": "USA",
-        "score": 21.0
+        "score": 21
       },
       {
         "rank": "4",
@@ -5046,11 +3998,11 @@
         "rank": "6",
         "person_name": "Brooke Sousa",
         "country": "USA",
-        "score": 4.0
+        "score": 4
       }
     ],
     "difficulty_score": 40.2,
-    "competition_rank": 63
+    "competition_rank": 50
   },
   {
     "contest_id": 1712,
@@ -5058,7 +4010,7 @@
     "details": "Virginia Beach, Virginia, 2025-05-31",
     "tier": "TIER_5",
     "tier_multiplier": 0.25,
-    "recency_multiplier": 3.0,
+    "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 10,
     "raw_difficulty": 2518.7372723655967,
@@ -5080,13 +4032,13 @@
         "rank": "2",
         "person_name": "Chelsea Held",
         "country": "USA",
-        "score": 47.0
+        "score": 47
       },
       {
         "rank": "3",
         "person_name": "Lydia Wallace",
         "country": "USA",
-        "score": 37.0
+        "score": 37
       },
       {
         "rank": "4",
@@ -5098,7 +4050,7 @@
         "rank": "5",
         "person_name": "Josée De Lachevrotière",
         "country": "CAN",
-        "score": 34.0
+        "score": 34
       },
       {
         "rank": "6",
@@ -5110,13 +4062,13 @@
         "rank": "7",
         "person_name": "Claire Myler",
         "country": "GBR",
-        "score": 29.0
+        "score": 29
       },
       {
         "rank": "8",
         "person_name": "Emma Grunnill",
         "country": "GBR",
-        "score": 27.0
+        "score": 27
       },
       {
         "rank": "9",
@@ -5128,18 +4080,18 @@
         "rank": "10",
         "person_name": "Kaci Jenkins",
         "country": "USA",
-        "score": 4.0
+        "score": 4
       }
     ],
     "difficulty_score": 32.5,
-    "competition_rank": 64
+    "competition_rank": 51
   },
   {
     "contest_id": 1279,
     "contest_name": "2022 Australia's Strongest Woman",
     "details": "Melbourne, Australia, 2022-03-26 to 2022-03-27",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
+    "tier_multiplier": 1,
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 5,
@@ -5156,13 +4108,13 @@
         "rank": "1",
         "person_name": "Alirene Clair",
         "country": "AUS",
-        "score": 31.0
+        "score": 31
       },
       {
         "rank": "2",
         "person_name": "Reiariki Kimitaunga",
         "country": "AUS",
-        "score": 26.0
+        "score": 26
       },
       {
         "rank": "3",
@@ -5174,7 +4126,7 @@
         "rank": "4",
         "person_name": "Nichole Wight",
         "country": "AUS",
-        "score": 20.0
+        "score": 20
       },
       {
         "rank": "5",
@@ -5184,7 +4136,7 @@
       }
     ],
     "difficulty_score": 22.2,
-    "competition_rank": 65
+    "competition_rank": 52
   },
   {
     "contest_id": 1608,
@@ -5192,7 +4144,7 @@
     "details": "Singapore, 2024-10-04",
     "tier": "TIER_5",
     "tier_multiplier": 0.25,
-    "recency_multiplier": 3.0,
+    "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 7,
     "raw_difficulty": 1852.301729351879,
@@ -5208,47 +4160,47 @@
         "rank": "1",
         "person_name": "Angéline Berva",
         "country": "FRA",
-        "score": 28.0
+        "score": 28
       },
       {
         "rank": "2",
         "person_name": "Allyson Abbs",
         "country": "USA",
-        "score": 27.0
+        "score": 27
       },
       {
         "rank": "3",
         "person_name": "Emmajane Smith",
         "country": "GBR",
-        "score": 25.0
+        "score": 25
       },
       {
         "rank": "4",
         "person_name": "Bailey Deschene",
         "country": "CAN",
-        "score": 19.0
+        "score": 19
       },
       {
         "rank": "5",
         "person_name": "Bárbara Mattos",
         "country": "BRA",
-        "score": 12.0
+        "score": 12
       },
       {
         "rank": "6",
         "person_name": "Carolina Barbosa",
         "country": "BRA",
-        "score": 9.0
+        "score": 9
       },
       {
         "rank": "7",
         "person_name": "Suhani Gandhi",
         "country": "IND",
-        "score": 7.0
+        "score": 7
       }
     ],
     "difficulty_score": 20.5,
-    "competition_rank": 66
+    "competition_rank": 53
   },
   {
     "contest_id": 1639,
@@ -5256,7 +4208,7 @@
     "details": "York, England, 2025-08-02 to 2025-08-03",
     "tier": "TIER_5",
     "tier_multiplier": 0.25,
-    "recency_multiplier": 3.0,
+    "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 14,
     "raw_difficulty": 1676.393018059003,
@@ -5285,13 +4237,13 @@
         "rank": "3",
         "person_name": "Patricia Smit",
         "country": "NED",
-        "score": 47.0
+        "score": 47
       },
       {
         "rank": "4",
         "person_name": "Jana Roubalová",
         "country": "CZE",
-        "score": 41.0
+        "score": 41
       },
       {
         "rank": "5",
@@ -5309,19 +4261,19 @@
         "rank": "7",
         "person_name": "Cassandra Annergren",
         "country": "SWE",
-        "score": 37.0
+        "score": 37
       },
       {
         "rank": "8",
         "person_name": "Claire Myler",
         "country": "GBR",
-        "score": 33.0
+        "score": 33
       },
       {
         "rank": "9",
         "person_name": "Stephanie Dutton",
         "country": "GBR",
-        "score": 23.0
+        "score": 23
       },
       {
         "rank": "10",
@@ -5333,7 +4285,7 @@
         "rank": "11",
         "person_name": "Nicole McMillan",
         "country": "IRL",
-        "score": 17.0
+        "score": 17
       },
       {
         "rank": "12",
@@ -5345,28 +4297,28 @@
         "rank": "13",
         "person_name": "Becky Mills",
         "country": "GBR",
-        "score": 16.0
+        "score": 16
       },
       {
         "rank": "14",
         "person_name": "Holly Ford",
         "country": "GBR",
-        "score": 2.0
+        "score": 2
       }
     ],
     "difficulty_score": 17.6,
-    "competition_rank": 67
+    "competition_rank": 54
   },
   {
     "contest_id": 2572,
     "contest_name": "2025 New Zealand's Strongest Woman",
     "details": "Auckland, New Zealand, 2025-09-27",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 5.0,
+    "tier_multiplier": 1,
+    "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 7,
-    "raw_difficulty": 1612.7887183482476,
+    "raw_difficulty": 1612.788718348248,
     "top_5_finishers": [
       "A’emalemaloitiafau Wilson (#1)",
       "Esther Waqa (#2)",
@@ -5385,7 +4337,7 @@
         "rank": "2",
         "person_name": "Esther Waqa",
         "country": "NZL",
-        "score": 28.0
+        "score": 28
       },
       {
         "rank": "3",
@@ -5397,7 +4349,7 @@
         "rank": "4",
         "person_name": "Nerisa Utailesolo",
         "country": "NZL",
-        "score": 23.0
+        "score": 23
       },
       {
         "rank": "5",
@@ -5409,7 +4361,7 @@
         "rank": "6",
         "person_name": "Rayanna Jackson",
         "country": "NZL",
-        "score": 9.0
+        "score": 9
       },
       {
         "rank": "7",
@@ -5419,7 +4371,7 @@
       }
     ],
     "difficulty_score": 16.6,
-    "competition_rank": 68
+    "competition_rank": 55
   },
   {
     "contest_id": 1788,
@@ -5427,10 +4379,10 @@
     "details": "Puyallup, Washington, 2025-06-15 to 2025-06-16",
     "tier": "TIER_5",
     "tier_multiplier": 0.25,
-    "recency_multiplier": 3.0,
+    "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 5,
-    "raw_difficulty": 1423.42443374188,
+    "raw_difficulty": 1423.4244337418797,
     "top_5_finishers": [
       "Jammie Booker (#1)",
       "Kasey Croy (#2)",
@@ -5443,13 +4395,13 @@
         "rank": "1",
         "person_name": "Jammie Booker",
         "country": "USA",
-        "score": 29.0
+        "score": 29
       },
       {
         "rank": "2",
         "person_name": "Kasey Croy",
         "country": "USA",
-        "score": 22.0
+        "score": 22
       },
       {
         "rank": "3",
@@ -5461,7 +4413,7 @@
         "rank": "4",
         "person_name": "Tara Simonson",
         "country": "USA",
-        "score": 12.0
+        "score": 12
       },
       {
         "rank": "5",
@@ -5471,7 +4423,7 @@
       }
     ],
     "difficulty_score": 13.8,
-    "competition_rank": 69
+    "competition_rank": 56
   },
   {
     "contest_id": 2733,
@@ -5479,7 +4431,7 @@
     "details": "Burien, Washington, 2026-07-11 to 2026-07-12",
     "tier": "TIER_5",
     "tier_multiplier": 0.25,
-    "recency_multiplier": 5.0,
+    "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 5,
     "raw_difficulty": 1386.6942387370602,
@@ -5495,19 +4447,19 @@
         "rank": "1",
         "person_name": "Kasey Croy",
         "country": "USA",
-        "score": 28.0
+        "score": 28
       },
       {
         "rank": "2",
         "person_name": "Amanda Wozny",
         "country": "CAN",
-        "score": 21.0
+        "score": 21
       },
       {
         "rank": "3",
         "person_name": "Francesca  Nicoletti",
         "country": "USA",
-        "score": 18.0
+        "score": 18
       },
       {
         "rank": "4",
@@ -5523,7 +4475,7 @@
       }
     ],
     "difficulty_score": 13.3,
-    "competition_rank": 70
+    "competition_rank": 57
   },
   {
     "contest_id": 1543,
@@ -5531,10 +4483,10 @@
     "details": "Colorado Springs, Colorado, 2024-03-23",
     "tier": "TIER_5",
     "tier_multiplier": 0.25,
-    "recency_multiplier": 1.0,
+    "recency_multiplier": 1,
     "division": "women",
     "total_competitors": 4,
-    "raw_difficulty": 1168.797317577042,
+    "raw_difficulty": 1168.7973175770417,
     "top_5_finishers": [
       "Rebecca Houston (#1)",
       "Lydia Wallace (#2)",
@@ -5546,7 +4498,7 @@
         "rank": "1",
         "person_name": "Rebecca Houston",
         "country": "USA",
-        "score": 16.0
+        "score": 16
       },
       {
         "rank": "2",
@@ -5564,19 +4516,19 @@
         "rank": "4",
         "person_name": "Angela Highfield",
         "country": "USA",
-        "score": 7.0
+        "score": 7
       }
     ],
     "difficulty_score": 10.3,
-    "competition_rank": 71
+    "competition_rank": 58
   },
   {
     "contest_id": 1597,
     "contest_name": "2024 Shaw Classic Open (LW Women)",
     "details": "Loveland, Colorado, 2024-08-16 to 2024-08-18",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 3.0,
+    "tier_multiplier": 1,
+    "recency_multiplier": 3,
     "division": "women",
     "total_competitors": 10,
     "raw_difficulty": 974.6544804340424,
@@ -5592,13 +4544,13 @@
         "rank": "1",
         "person_name": "Kira Wrixon",
         "country": "USA",
-        "score": 56.0
+        "score": 56
       },
       {
         "rank": "2",
         "person_name": "Taylor Woods",
         "country": "CAN",
-        "score": 49.0
+        "score": 49
       },
       {
         "rank": "3",
@@ -5610,13 +4562,13 @@
         "rank": "4",
         "person_name": "Krystal Krause",
         "country": "USA",
-        "score": 38.0
+        "score": 38
       },
       {
         "rank": "5",
         "person_name": "Stacy Burr",
         "country": "USA",
-        "score": 37.0
+        "score": 37
       },
       {
         "rank": "6",
@@ -5628,7 +4580,7 @@
         "rank": "7",
         "person_name": "Diana Juárez Ferrer",
         "country": "MEX",
-        "score": 35.0
+        "score": 35
       },
       {
         "rank": "8",
@@ -5640,7 +4592,7 @@
         "rank": "9",
         "person_name": "Heidi Humar",
         "country": "AUS",
-        "score": 29.0
+        "score": 29
       },
       {
         "rank": "10",
@@ -5650,15 +4602,15 @@
       }
     ],
     "difficulty_score": 7.8,
-    "competition_rank": 72
+    "competition_rank": 59
   },
   {
     "contest_id": 1455,
     "contest_name": "2023 Africa's Strongest Woman",
     "details": "Livingstone, Zambia, 2023-10-28 to 2023-10-29",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 1.0,
+    "tier_multiplier": 1,
+    "recency_multiplier": 1,
     "division": "women",
     "total_competitors": 3,
     "raw_difficulty": 960.5326246531882,
@@ -5672,23 +4624,23 @@
         "rank": "1",
         "person_name": "Cherry Muchindu",
         "country": "ZAM",
-        "score": 18.0
+        "score": 18
       },
       {
         "rank": "2",
         "person_name": "Natasha Grobler",
         "country": "RSA",
-        "score": 10.0
+        "score": 10
       },
       {
         "rank": "3",
         "person_name": "Chido Maenzanise",
         "country": "RSA",
-        "score": 2.0
+        "score": 2
       }
     ],
     "difficulty_score": 7.7,
-    "competition_rank": 73
+    "competition_rank": 60
   },
   {
     "contest_id": 2691,
@@ -5696,7 +4648,7 @@
     "details": "Santa Monica, California, 2026-06-27 to 2026-06-28",
     "tier": "TIER_5",
     "tier_multiplier": 0.25,
-    "recency_multiplier": 5.0,
+    "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 5,
     "raw_difficulty": 906.3038624045288,
@@ -5718,7 +4670,7 @@
         "rank": "2",
         "person_name": "Hanna Coldiron",
         "country": "USA",
-        "score": 25.0
+        "score": 25
       },
       {
         "rank": "3",
@@ -5730,24 +4682,24 @@
         "rank": "4",
         "person_name": "Jeana  Jenkins",
         "country": "USA",
-        "score": 11.0
+        "score": 11
       },
       {
         "rank": "5",
         "person_name": "Jasmin Quan-Martinez",
         "country": "CHN",
-        "score": 2.0
+        "score": 2
       }
     ],
-    "difficulty_score": 7.0,
-    "competition_rank": 74
+    "difficulty_score": 7,
+    "competition_rank": 61
   },
   {
     "contest_id": 1149,
     "contest_name": "2021 Africa's Strongest Woman",
     "details": "Mossel Bay, South Africa, 2021-11-27 to 2021-11-28",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
+    "tier_multiplier": 1,
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 4,
@@ -5763,7 +4715,7 @@
         "rank": "1",
         "person_name": "Faith Aviwe Totiyana",
         "country": "RSA",
-        "score": 19.0
+        "score": 19
       },
       {
         "rank": "2",
@@ -5781,22 +4733,22 @@
         "rank": "4",
         "person_name": "Sinenhlanhla Sithole",
         "country": "RSA",
-        "score": 7.0
+        "score": 7
       }
     ],
     "difficulty_score": 6.7,
-    "competition_rank": 75
+    "competition_rank": 62
   },
   {
     "contest_id": 1438,
     "contest_name": "2023 Western Canada's Strongest Woman",
     "details": "Fort McMurray, Canada, 2023-07-01 to 2023-07-02",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
+    "tier_multiplier": 1,
     "recency_multiplier": 0.5,
     "division": "women",
     "total_competitors": 6,
-    "raw_difficulty": 748.5079010445611,
+    "raw_difficulty": 748.507901044561,
     "top_5_finishers": [
       "Tamara Nolan (#1)",
       "Joscelyne O'Brien (#2)",
@@ -5815,7 +4767,7 @@
         "rank": "2",
         "person_name": "Joscelyne O'Brien",
         "country": "CAN",
-        "score": 39.0
+        "score": 39
       },
       {
         "rank": "3",
@@ -5827,34 +4779,34 @@
         "rank": "4",
         "person_name": "Olivia Hoyem",
         "country": "CAN",
-        "score": 18.0
+        "score": 18
       },
       {
         "rank": "5",
         "person_name": "Jaclyn Klukach",
         "country": "CAN",
-        "score": 17.0
+        "score": 17
       },
       {
         "rank": "6",
         "person_name": "Nicole Pederson",
         "country": "CAN",
-        "score": 11.0
+        "score": 11
       }
     ],
     "difficulty_score": 5.3,
-    "competition_rank": 76
+    "competition_rank": 63
   },
   {
     "contest_id": 1313,
     "contest_name": "2022 Middle East's Strongest Woman",
     "details": "Dubai, United Arab Emirates, 2022-08-27",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
+    "tier_multiplier": 1,
     "recency_multiplier": 0.5,
     "division": "women",
     "total_competitors": 4,
-    "raw_difficulty": 741.7589454205826,
+    "raw_difficulty": 741.7589454205827,
     "top_5_finishers": [
       "Reiariki Kimitaunga (#1)",
       "Scarlett Harvey (#2)",
@@ -5866,7 +4818,7 @@
         "rank": "1",
         "person_name": "Reiariki Kimitaunga",
         "country": "AUS",
-        "score": 16.0
+        "score": 16
       },
       {
         "rank": "2",
@@ -5884,11 +4836,11 @@
         "rank": "4",
         "person_name": "Krista Zhivago-Prall",
         "country": "CAN",
-        "score": 7.0
+        "score": 7
       }
     ],
     "difficulty_score": 5.2,
-    "competition_rank": 77
+    "competition_rank": 64
   },
   {
     "contest_id": 2552,
@@ -5896,7 +4848,7 @@
     "details": "Fredericton, Canada, 2026-05-09",
     "tier": "TIER_5",
     "tier_multiplier": 0.25,
-    "recency_multiplier": 5.0,
+    "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 8,
     "raw_difficulty": 718.9299019317833,
@@ -5924,19 +4876,19 @@
         "rank": "3",
         "person_name": "Jo-Annie Paquet",
         "country": "CAN",
-        "score": 26.0
+        "score": 26
       },
       {
         "rank": "4",
         "person_name": "Marie-Fée Leroux",
         "country": "CAN",
-        "score": 25.0
+        "score": 25
       },
       {
         "rank": "5",
         "person_name": "Ann Roussel",
         "country": "CAN",
-        "score": 24.0
+        "score": 24
       },
       {
         "rank": "6",
@@ -5954,93 +4906,11 @@
         "rank": "8",
         "person_name": "Kat Namit",
         "country": "CAN",
-        "score": 0.0
+        "score": 0
       }
     ],
-    "difficulty_score": 5.0,
-    "competition_rank": 78
-  },
-  {
-    "contest_id": 1232,
-    "contest_name": "2015 Arnold Amateur Strongwoman World Championships",
-    "details": "Columbus, Ohio, 2015-03-06 to 2015-03-08",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 10,
-    "raw_difficulty": 697.8322675494136,
-    "top_5_finishers": [
-      "Kristin Rhodes (#1)",
-      "Kristy Scott (#2)",
-      "Danielle Curry (#3)",
-      "Britteny Cornelius (#4)",
-      "Donna Moore (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Kristin Rhodes",
-        "country": "USA",
-        "score": 19.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Kristy Scott",
-        "country": "USA",
-        "score": 19.32
-      },
-      {
-        "rank": "3",
-        "person_name": "Danielle Curry",
-        "country": "USA",
-        "score": 18.51
-      },
-      {
-        "rank": "4",
-        "person_name": "Britteny Cornelius",
-        "country": "USA",
-        "score": 14.67
-      },
-      {
-        "rank": "5",
-        "person_name": "Donna Moore",
-        "country": "GBR",
-        "score": 11.64
-      },
-      {
-        "rank": "6",
-        "person_name": "Amy Hartman",
-        "country": "USA",
-        "score": 8.36
-      },
-      {
-        "rank": "7",
-        "person_name": "Candace Pellock",
-        "country": "USA",
-        "score": 7.46
-      },
-      {
-        "rank": "8",
-        "person_name": "Billie Jean McLoughlin",
-        "country": "USA",
-        "score": 6.36
-      },
-      {
-        "rank": "9",
-        "person_name": "Jolanta Sviķe",
-        "country": "LAT",
-        "score": 5.09
-      },
-      {
-        "rank": "10",
-        "person_name": "Jenn Tibbenham",
-        "country": "GBR",
-        "score": 3.64
-      }
-    ],
-    "difficulty_score": 4.7,
-    "competition_rank": 79
+    "difficulty_score": 5,
+    "competition_rank": 65
   },
   {
     "contest_id": 2658,
@@ -6048,7 +4918,7 @@
     "details": "Claregalway, Ireland, 2026-06-27",
     "tier": "TIER_5",
     "tier_multiplier": 0.25,
-    "recency_multiplier": 5.0,
+    "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 7,
     "raw_difficulty": 663.7234954535222,
@@ -6070,7 +4940,7 @@
         "rank": "2",
         "person_name": "Sabrina Retzer",
         "country": "GER",
-        "score": 32.0
+        "score": 32
       },
       {
         "rank": "3",
@@ -6082,258 +4952,36 @@
         "rank": "4",
         "person_name": "Andrea Seed",
         "country": "GBR",
-        "score": 28.0
+        "score": 28
       },
       {
         "rank": "5",
         "person_name": "Jade Harkin",
         "country": "IRL",
-        "score": 16.0
+        "score": 16
       },
       {
         "rank": "6",
         "person_name": "Shannon Smith",
         "country": "GBR",
-        "score": 14.0
+        "score": 14
       },
       {
         "rank": "7",
         "person_name": "Mary  Egan",
         "country": "IRL",
-        "score": 12.0
+        "score": 12
       }
     ],
     "difficulty_score": 4.4,
-    "competition_rank": 80
-  },
-  {
-    "contest_id": 1212,
-    "contest_name": "2019 Arnold Amateur Strongwoman World Championships",
-    "details": "Columbus, Ohio, 2019-03-01 to 2019-03-03",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 10,
-    "raw_difficulty": 548.7867220771792,
-    "top_5_finishers": [
-      "Anna Harjapää (#1)",
-      "Shanice Hairston (#2)",
-      "Melissa Edwards (#3)",
-      "Monica Quarles (#4)",
-      "Amanda Kelly (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Anna Harjapää",
-        "country": "SWE",
-        "score": 19.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Shanice Hairston",
-        "country": "USA",
-        "score": 17.1
-      },
-      {
-        "rank": "3",
-        "person_name": "Melissa Edwards",
-        "country": "USA",
-        "score": 12.9
-      },
-      {
-        "rank": "4",
-        "person_name": "Monica Quarles",
-        "country": "USA",
-        "score": 10.6
-      },
-      {
-        "rank": "5",
-        "person_name": "Amanda Kelly",
-        "country": "USA",
-        "score": 9.2
-      },
-      {
-        "rank": "6",
-        "person_name": "Tiffany Drake",
-        "country": "USA",
-        "score": 8.8
-      },
-      {
-        "rank": "7",
-        "person_name": "Julia Smay",
-        "country": "USA",
-        "score": 4.8
-      },
-      {
-        "rank": "8",
-        "person_name": "Ashlyn Harlan",
-        "country": "USA",
-        "score": 3.8
-      },
-      {
-        "rank": "9",
-        "person_name": "Katherine Cross",
-        "country": "USA",
-        "score": 3.4
-      },
-      {
-        "rank": "10",
-        "person_name": "Lisa Yeats",
-        "country": "GBR",
-        "score": 1.6
-      }
-    ],
-    "difficulty_score": 3.3,
-    "competition_rank": 81
-  },
-  {
-    "contest_id": 1094,
-    "contest_name": "2019 Strongest Woman in the World",
-    "details": "Palmer, Alaska, 2019-08-25",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 6,
-    "raw_difficulty": 208.9661584693431,
-    "top_5_finishers": [
-      "Jessica Fithen (#1)",
-      "Brooke Sousa (#2)",
-      "Britteny Cornelius (#3)",
-      "Cori Butler (#4)",
-      "Émilie Morin (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Jessica Fithen",
-        "country": "USA",
-        "score": 29.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Brooke Sousa",
-        "country": "USA",
-        "score": 19.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Britteny Cornelius",
-        "country": "USA",
-        "score": 19.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Cori Butler",
-        "country": "USA",
-        "score": 14.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Émilie Morin",
-        "country": "CAN",
-        "score": 12.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Jackie Osczevski",
-        "country": "CAN",
-        "score": 8.5
-      }
-    ],
-    "difficulty_score": 0.8,
-    "competition_rank": 82
-  },
-  {
-    "contest_id": 1217,
-    "contest_name": "2018 Arnold Amateur Strongwoman World Championships",
-    "details": "Columbus, Ohio, 2018-03-02 to 2018-03-04",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 10,
-    "raw_difficulty": 198.0243007072489,
-    "top_5_finishers": [
-      "Jessica Fithen (#1)",
-      "Cori Butler (#2)",
-      "Courtney Martin (#3)",
-      "Shanice Hairston (#4)",
-      "Katherine Cross (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Jessica Fithen",
-        "country": "USA",
-        "score": 19.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Cori Butler",
-        "country": "USA",
-        "score": 17.01
-      },
-      {
-        "rank": "3",
-        "person_name": "Courtney Martin",
-        "country": "USA",
-        "score": 15.25
-      },
-      {
-        "rank": "4",
-        "person_name": "Shanice Hairston",
-        "country": "USA",
-        "score": 14.76
-      },
-      {
-        "rank": "5",
-        "person_name": "Katherine Cross",
-        "country": "USA",
-        "score": 10.01
-      },
-      {
-        "rank": "6",
-        "person_name": "Melissa Edwards",
-        "country": "USA",
-        "score": 9.38
-      },
-      {
-        "rank": "7",
-        "person_name": "Tiffany Drake",
-        "country": "USA",
-        "score": 9.13
-      },
-      {
-        "rank": "8",
-        "person_name": "Anna Harjapää",
-        "country": "SWE",
-        "score": 8.13
-      },
-      {
-        "rank": "9",
-        "person_name": "Martha Tevita",
-        "country": "AUS",
-        "score": 7.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Amanda Kelly",
-        "country": "USA",
-        "score": 7.38
-      }
-    ],
-    "difficulty_score": 0.7,
-    "competition_rank": 83
+    "competition_rank": 66
   },
   {
     "contest_id": 1122,
     "contest_name": "2021 Middle East's Strongest Woman",
     "details": "Dubai, United Arab Emirates, 2021-10-01",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
+    "tier_multiplier": 1,
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 3,
@@ -6348,30 +4996,30 @@
         "rank": "1",
         "person_name": "Ekaterina Zaitseva",
         "country": "RUS",
-        "score": 14.0
+        "score": 14
       },
       {
         "rank": "2",
         "person_name": "Brendali Theron",
         "country": "RSA",
-        "score": 11.0
+        "score": 11
       },
       {
         "rank": "3",
         "person_name": "Scarlett Harvey",
         "country": "GBR",
-        "score": 5.0
+        "score": 5
       }
     ],
     "difficulty_score": 0.3,
-    "competition_rank": 84
+    "competition_rank": 67
   },
   {
     "contest_id": 1158,
     "contest_name": "2021 Russia's Strongest Woman",
     "details": "Moscow, Russia, 2021-12-11",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
+    "tier_multiplier": 1,
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 6,
@@ -6388,7 +5036,7 @@
         "rank": "1",
         "person_name": "Ekaterina Zaitseva",
         "country": "RUS",
-        "score": 28.0
+        "score": 28
       },
       {
         "rank": "2",
@@ -6406,116 +5054,34 @@
         "rank": "4",
         "person_name": "Nataliya Kuznetsova",
         "country": "RUS",
-        "score": 16.0
+        "score": 16
       },
       {
         "rank": "5",
         "person_name": "Olga Yaremyuk",
         "country": "RUS",
-        "score": 12.0
+        "score": 12
       },
       {
         "rank": "6",
         "person_name": "Kseniya Baturina",
         "country": "RUS",
-        "score": 3.0
+        "score": 3
       }
     ],
     "difficulty_score": 0.3,
-    "competition_rank": 85
-  },
-  {
-    "contest_id": 1318,
-    "contest_name": "2021 Finland's Strongest Woman",
-    "details": "Kauhava, Finland, 2021-08-13 to 2021-08-14",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.25,
-    "division": "women",
-    "total_competitors": 10,
-    "raw_difficulty": 80.63943591741238,
-    "top_5_finishers": [
-      "Laura Koskenniemi (#1)",
-      "Mirka Valo (#2)",
-      "Jatta Sipola (#3)",
-      "Tea Lindroos (#4)",
-      "Anniina Vaaranmaa (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Laura Koskenniemi",
-        "country": "FIN",
-        "score": 97.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Mirka Valo",
-        "country": "FIN",
-        "score": 89.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Jatta Sipola",
-        "country": "FIN",
-        "score": 82.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Tea Lindroos",
-        "country": "FIN",
-        "score": 76.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Anniina Vaaranmaa",
-        "country": "FIN",
-        "score": 73.0
-      },
-      {
-        "rank": "6",
-        "person_name": "Riia Nieminen",
-        "country": "FIN",
-        "score": 68.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Viivi Heinonen",
-        "country": "FIN",
-        "score": 66.0
-      },
-      {
-        "rank": "8",
-        "person_name": "Jonna Kettunen",
-        "country": "FIN",
-        "score": 60.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Mari Räihä",
-        "country": "FIN",
-        "score": 57.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Mari Kauppinen",
-        "country": "FIN",
-        "score": 43.0
-      }
-    ],
-    "difficulty_score": 0.2,
-    "competition_rank": 86
+    "competition_rank": 68
   },
   {
     "contest_id": 1339,
     "contest_name": "2022 Finland's Strongest Woman",
     "details": "Kauhava, Finland, 2022-08-12 to 2022-08-13",
     "tier": "TIER_4",
-    "tier_multiplier": 1.0,
+    "tier_multiplier": 1,
     "recency_multiplier": 0.25,
     "division": "women",
     "total_competitors": 10,
-    "raw_difficulty": 91.46917875384555,
+    "raw_difficulty": 80.63943591741238,
     "top_5_finishers": [
       "Nelma Nieminen (#1)",
       "Salla Romo (#2)",
@@ -6552,7 +5118,7 @@
         "rank": "5",
         "person_name": "Viivi Heinonen",
         "country": "FIN",
-        "score": 89.0
+        "score": 89
       },
       {
         "rank": "6",
@@ -6576,1336 +5142,25 @@
         "rank": "9",
         "person_name": "Bea Enholm",
         "country": "FIN",
-        "score": 62.0
+        "score": 62
       },
       {
         "rank": "10",
         "person_name": "Piia Schulte",
         "country": "FIN",
-        "score": 61.0
+        "score": 61
       }
     ],
     "difficulty_score": 0.2,
-    "competition_rank": 87
-  },
-  {
-    "contest_id": 1080,
-    "contest_name": "2003 World's Strongest Woman",
-    "details": "Victoria Falls, Zambia, 2003-09-27 to 2003-09-30",
-    "tier": "TIER_1",
-    "tier_multiplier": 5.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 8,
-    "raw_difficulty": 0.0,
-    "top_5_finishers": [
-      "Aneta Florczyk (#1)",
-      "Anna Rosén (#2)",
-      "Heini Koivuniemi (#3)",
-      "Julie Dunkley (#4)",
-      "Liane Blyn (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Aneta Florczyk",
-        "country": "POL",
-        "score": 51.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Anna Rosén",
-        "country": "SWE",
-        "score": 46.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Heini Koivuniemi",
-        "country": "FIN",
-        "score": 40.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Julie Dunkley",
-        "country": "GBR",
-        "score": 34.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Liane Blyn",
-        "country": "USA",
-        "score": 25.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Jackie Young",
-        "country": "GBR",
-        "score": 24.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Josée Morneau",
-        "country": "CAN",
-        "score": 15.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Jennifer Aylward",
-        "country": "USA",
-        "score": 12.5
-      }
-    ],
-    "difficulty_score": 0.0,
-    "competition_rank": 88
-  },
-  {
-    "contest_id": 1081,
-    "contest_name": "2002 World's Strongest Woman",
-    "details": "Kuala Lumpur, Malaysia, 2002-09-21 to 2002-09-24",
-    "tier": "TIER_1",
-    "tier_multiplier": 5.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 8,
-    "raw_difficulty": 0.0,
-    "top_5_finishers": [
-      "Jill Mills (#1)",
-      "Jackie Young (#2)",
-      "Heini Koivuniemi (#3)",
-      "Anna Rosén (#4)",
-      "Shannon Hartnett (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Jill Mills",
-        "country": "USA",
-        "score": 48.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Jackie Young",
-        "country": "GBR",
-        "score": 39.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Heini Koivuniemi",
-        "country": "FIN",
-        "score": 39.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Anna Rosén",
-        "country": "SWE",
-        "score": 39.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Shannon Hartnett",
-        "country": "USA",
-        "score": 30.0
-      },
-      {
-        "rank": "6",
-        "person_name": "Simone Sauter",
-        "country": "GER",
-        "score": 23.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Josée Morneau",
-        "country": "CAN",
-        "score": 15.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Trish Porter",
-        "country": "IRL",
-        "score": 14.5
-      }
-    ],
-    "difficulty_score": 0.0,
-    "competition_rank": 89
-  },
-  {
-    "contest_id": 1082,
-    "contest_name": "2001 World's Strongest Woman",
-    "details": "Victoria Falls, Zambia, 2001-10-12 to 2001-10-15",
-    "tier": "TIER_1",
-    "tier_multiplier": 5.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 8,
-    "raw_difficulty": 0.0,
-    "top_5_finishers": [
-      "Jill Mills (#1)",
-      "Heini Koivuniemi (#2)",
-      "Robin Coleman (#3)",
-      "Jackie Young (#4)",
-      "Josée Morneau (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Jill Mills",
-        "country": "USA",
-        "score": 50.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Heini Koivuniemi",
-        "country": "FIN",
-        "score": 48.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Robin Coleman",
-        "country": "USA",
-        "score": 35.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Jackie Young",
-        "country": "GBR",
-        "score": 33.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Josée Morneau",
-        "country": "CAN",
-        "score": 32.0
-      },
-      {
-        "rank": "6",
-        "person_name": "Charmaigne Bos",
-        "country": "RSA",
-        "score": 25.0
-      },
-      {
-        "rank": "7",
-        "person_name": "Sharon Waters",
-        "country": "AUS",
-        "score": 17.0
-      },
-      {
-        "rank": "8",
-        "person_name": "Monica Porter",
-        "country": "GBR",
-        "score": 12.0
-      }
-    ],
-    "difficulty_score": 0.0,
-    "competition_rank": 90
-  },
-  {
-    "contest_id": 1083,
-    "contest_name": "1997 World's Strongest Woman",
-    "details": "Helsingør, Denmark, 1997",
-    "tier": "TIER_1",
-    "tier_multiplier": 5.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 7,
-    "raw_difficulty": 0.0,
-    "top_5_finishers": [
-      "Michelle Sørensen (#1)",
-      "Joanne Amies-Winter (#2)",
-      "Anna Stikkelstad (#3)",
-      "Karen Wilkeson (#4)",
-      "Susanne Formgren (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Michelle Sørensen",
-        "country": "DEN",
-        "score": 38.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Joanne Amies-Winter",
-        "country": "GBR",
-        "score": 34.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Anna Stikkelstad",
-        "country": "NOR",
-        "score": 25.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Karen Wilkeson",
-        "country": "USA",
-        "score": 23.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Susanne Formgren",
-        "country": "SWE",
-        "score": 20.0
-      },
-      {
-        "rank": "6",
-        "person_name": "Doris Schumacher",
-        "country": "GER",
-        "score": 19.0
-      },
-      {
-        "rank": "7",
-        "person_name": "Sigrún Hreidarsdóttir",
-        "country": "ISL",
-        "score": 7.5
-      }
-    ],
-    "difficulty_score": 0.0,
-    "competition_rank": 91
-  },
-  {
-    "contest_id": 1087,
-    "contest_name": "2017 Arnold Pro Strongwoman",
-    "details": "Columbus, Ohio, 2017-03-03 to 2017-03-04",
-    "tier": "TIER_2",
-    "tier_multiplier": 3.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 10,
-    "raw_difficulty": 16.916910404576587,
-    "top_5_finishers": [
-      "Liefia Ingalls (#1)",
-      "Kaitlin Burgess (#2)",
-      "Julie Rader (#3)",
-      "Britteny Cornelius (#4)",
-      "Kimberly Lawrance (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Liefia Ingalls",
-        "country": "USA",
-        "score": 43.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Kaitlin Burgess",
-        "country": "USA",
-        "score": 37.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Julie Rader",
-        "country": "USA",
-        "score": 33.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Britteny Cornelius",
-        "country": "USA",
-        "score": 32.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Kimberly Lawrance",
-        "country": "USA",
-        "score": 31.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Brooke Sousa",
-        "country": "USA",
-        "score": 30.0
-      },
-      {
-        "rank": "7",
-        "person_name": "Kristin Johnson",
-        "country": "USA",
-        "score": 19.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Jessica Kite",
-        "country": "USA",
-        "score": 15.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Leslie Hofheins",
-        "country": "USA",
-        "score": 6.0
-      },
-      {
-        "rank": "10",
-        "person_name": "Jamie Christenson",
-        "country": "USA",
-        "score": 2.0
-      }
-    ],
-    "difficulty_score": 0.0,
-    "competition_rank": 92
-  },
-  {
-    "contest_id": 1088,
-    "contest_name": "2007 Europe's Strongest Woman",
-    "details": "Trondheim, Norway, 2007-08-10 to 2007-08-11",
-    "tier": "TIER_3",
-    "tier_multiplier": 2.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 9,
-    "raw_difficulty": 0.0,
-    "top_5_finishers": [
-      "Aneta Florczyk (#1)",
-      "Anna Rosén (#2)",
-      "Anki Öberg (#3)",
-      "Kati Luoto (#4)",
-      "Renathe Vik (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Aneta Florczyk",
-        "country": "POL",
-        "score": 66.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Anna Rosén",
-        "country": "SWE",
-        "score": 61.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Anki Öberg",
-        "country": "SWE",
-        "score": 55.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Kati Luoto",
-        "country": "FIN",
-        "score": 55.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Renathe Vik",
-        "country": "NOR",
-        "score": 36.0
-      },
-      {
-        "rank": "6",
-        "person_name": "Nadja Bjerke",
-        "country": "NOR",
-        "score": 26.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Kikki Berli-Johnsen",
-        "country": "NOR",
-        "score": 20.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Heidi Monsen",
-        "country": "NOR",
-        "score": 18.0
-      },
-      {
-        "rank": "9",
-        "person_name": "Hanne Bingle",
-        "country": "DEN",
-        "score": 13.0
-      }
-    ],
-    "difficulty_score": 0.0,
-    "competition_rank": 93
-  },
-  {
-    "contest_id": 1089,
-    "contest_name": "2005 Europe's Strongest Woman",
-    "details": "Bydgoszcz, Poland, 2005-12-11",
-    "tier": "TIER_3",
-    "tier_multiplier": 2.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 6,
-    "raw_difficulty": 0.0,
-    "top_5_finishers": [
-      "Aneta Florczyk (#1)",
-      "Gemma Taylor (#2)",
-      "Anki Öberg (#3)",
-      "Heini Koivuniemi (#4)",
-      "Kati Luoto (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Aneta Florczyk",
-        "country": "POL",
-        "score": 36.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Gemma Taylor",
-        "country": "GBR",
-        "score": 27.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Anki Öberg",
-        "country": "SWE",
-        "score": 20.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Heini Koivuniemi",
-        "country": "FIN",
-        "score": 19.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Kati Luoto",
-        "country": "FIN",
-        "score": 17.0
-      },
-      {
-        "rank": "6",
-        "person_name": "Lilian Matonina",
-        "country": "EST",
-        "score": 7.0
-      }
-    ],
-    "difficulty_score": 0.0,
-    "competition_rank": 94
-  },
-  {
-    "contest_id": 1090,
-    "contest_name": "2004 Europe's Strongest Woman",
-    "details": "Glenarm, Northern Ireland, 2004-07-13 to 2004-07-14",
-    "tier": "TIER_3",
-    "tier_multiplier": 2.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 8,
-    "raw_difficulty": 0.0,
-    "top_5_finishers": [
-      "Aneta Florczyk (#1)",
-      "Anna Rosén (#2)",
-      "Heini Koivuniemi (#3)",
-      "Julie Dunkley (#4)",
-      "Ielja Strik (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Aneta Florczyk",
-        "country": "POL",
-        "score": 52.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Anna Rosén",
-        "country": "SWE",
-        "score": 41.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Heini Koivuniemi",
-        "country": "FIN",
-        "score": 41.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Julie Dunkley",
-        "country": "GBR",
-        "score": 38.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Ielja Strik",
-        "country": "NED",
-        "score": 32.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Emma James",
-        "country": "IRL",
-        "score": 18.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Trish Porter",
-        "country": "IRL",
-        "score": 17.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Joanne Cutts",
-        "country": "GBR",
-        "score": 11.0
-      }
-    ],
-    "difficulty_score": 0.0,
-    "competition_rank": 95
-  },
-  {
-    "contest_id": 1091,
-    "contest_name": "2003 Europe's Strongest Woman",
-    "details": "Ireland, 2003",
-    "tier": "TIER_3",
-    "tier_multiplier": 2.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 5,
-    "raw_difficulty": 0.0,
-    "top_5_finishers": [
-      "Anna Rosén (#1)",
-      "Heini Koivuniemi (#2)",
-      "Jackie Young (#3)",
-      "Aneta Florczyk (#4)",
-      "Ielja Strik (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Anna Rosén",
-        "country": "SWE",
-        "score": 0.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Heini Koivuniemi",
-        "country": "FIN",
-        "score": 0.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Jackie Young",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Aneta Florczyk",
-        "country": "POL",
-        "score": 0.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Ielja Strik",
-        "country": "NED",
-        "score": 0.0
-      }
-    ],
-    "difficulty_score": 0.0,
-    "competition_rank": 96
-  },
-  {
-    "contest_id": 1092,
-    "contest_name": "2002 Europe's Strongest Woman",
-    "details": "Callander, Scotland, 2002",
-    "tier": "TIER_3",
-    "tier_multiplier": 2.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 5,
-    "raw_difficulty": 0.0,
-    "top_5_finishers": [
-      "Heini Koivuniemi (#1)",
-      "Jackie Young (#2)",
-      "Simone Sauter (#3)",
-      "Joanne Cutts (#4)",
-      "Hanne Bingle (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Heini Koivuniemi",
-        "country": "FIN",
-        "score": 0.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Jackie Young",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Simone Sauter",
-        "country": "GER",
-        "score": 0.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Joanne Cutts",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Hanne Bingle",
-        "country": "DEN",
-        "score": 0.0
-      }
-    ],
-    "difficulty_score": 0.0,
-    "competition_rank": 97
-  },
-  {
-    "contest_id": 1093,
-    "contest_name": "1998 Europe's Strongest Woman",
-    "details": "Germany, 1998",
-    "tier": "TIER_3",
-    "tier_multiplier": 2.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 4,
-    "raw_difficulty": 0.0,
-    "top_5_finishers": [
-      "Edith Pongratz (#1)",
-      "Heini Koivuniemi (#2)",
-      "Bryndís Ólafsdóttir (#3)",
-      "Kristin Samuelsson (#4)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Edith Pongratz",
-        "country": "AUT",
-        "score": 15.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Heini Koivuniemi",
-        "country": "FIN",
-        "score": 14.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Bryndís Ólafsdóttir",
-        "country": "ISL",
-        "score": 11.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Kristin Samuelsson",
-        "country": "SWE",
-        "score": 9.0
-      }
-    ],
-    "difficulty_score": 0.0,
-    "competition_rank": 98
-  },
-  {
-    "contest_id": 1097,
-    "contest_name": "2016 Strongest Woman in the World",
-    "details": "Jacksonville, Florida, 2016-08-27 to 2016-08-28",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 8,
-    "raw_difficulty": 31.24215024758609,
-    "top_5_finishers": [
-      "Britteny Cornelius (#1)",
-      "Julie Rader (#2)",
-      "Brooke Sousa (#3)",
-      "Mollie Hoss (#4)",
-      "Cerise Peck (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Britteny Cornelius",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Julie Rader",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Brooke Sousa",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Mollie Hoss",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Cerise Peck",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "6",
-        "person_name": "Julia Smay",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "7",
-        "person_name": "Tracey Halladay",
-        "country": "CAN",
-        "score": 0.0
-      },
-      {
-        "rank": "8",
-        "person_name": "Joyce Turner",
-        "country": "CAN",
-        "score": 0.0
-      }
-    ],
-    "difficulty_score": 0.0,
-    "competition_rank": 99
-  },
-  {
-    "contest_id": 1098,
-    "contest_name": "2013 World Strongwoman Championships",
-    "details": "Helsinki, Finland, 2013-11-23",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 8,
-    "raw_difficulty": 9.196986029286059,
-    "top_5_finishers": [
-      "Kati Luoto (#1)",
-      "Kristin Rhodes (#2)",
-      "Anniina Vaaranmaa (#3)",
-      "Niina Jumppanen (#4)",
-      "Kim Zimmerman (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Kati Luoto",
-        "country": "FIN",
-        "score": 20.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Kristin Rhodes",
-        "country": "USA",
-        "score": 21.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Anniina Vaaranmaa",
-        "country": "FIN",
-        "score": 25.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Niina Jumppanen",
-        "country": "FIN",
-        "score": 27.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Kim Zimmerman",
-        "country": "USA",
-        "score": 32.0
-      },
-      {
-        "rank": "6",
-        "person_name": "Anki Öberg",
-        "country": "SWE",
-        "score": 39.0
-      },
-      {
-        "rank": "7",
-        "person_name": "Donna Moore",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "8",
-        "person_name": "Clara Dahlin",
-        "country": "SWE",
-        "score": 0.0
-      }
-    ],
-    "difficulty_score": 0.0,
-    "competition_rank": 100
-  },
-  {
-    "contest_id": 1099,
-    "contest_name": "2012 World Strongwoman Championships",
-    "details": "Hämeenlinna, Finland, 2012-11-24",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 11,
-    "raw_difficulty": 0.0,
-    "top_5_finishers": [
-      "Kristin Rhodes (#1)",
-      "Sophie Mangano (#2)",
-      "Janne Grandalen-Flo (#3)",
-      "Elena Naumcevski (#4)",
-      "Alina Leisiö (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Kristin Rhodes",
-        "country": "USA",
-        "score": 15.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Sophie Mangano",
-        "country": "GBR",
-        "score": 29.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Janne Grandalen-Flo",
-        "country": "NOR",
-        "score": 29.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Elena Naumcevski",
-        "country": "AUS",
-        "score": 32.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Alina Leisiö",
-        "country": "FIN",
-        "score": 36.0
-      },
-      {
-        "rank": "6",
-        "person_name": "Annina Saine",
-        "country": "FIN",
-        "score": 36.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Bryndís Ólafsdóttir",
-        "country": "ISL",
-        "score": 50.0
-      },
-      {
-        "rank": "8",
-        "person_name": "Emilie Bäcklund",
-        "country": "SWE",
-        "score": 53.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Anna Rosén",
-        "country": "SWE",
-        "score": 57.0
-      },
-      {
-        "rank": "10",
-        "person_name": "Niina Jumppanen",
-        "country": "FIN",
-        "score": 58.5
-      },
-      {
-        "rank": "11",
-        "person_name": "Siobhan Hyland",
-        "country": "IRL",
-        "score": 64.5
-      }
-    ],
-    "difficulty_score": 0.0,
-    "competition_rank": 101
-  },
-  {
-    "contest_id": 1100,
-    "contest_name": "2011 World Strongwoman Championships",
-    "details": "Poltava, Ukraine, 2011-08-23 to 2011-08-24",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 8,
-    "raw_difficulty": 0.0,
-    "top_5_finishers": [
-      "Nina Geria (#1)",
-      "Gemma Taylor (#2)",
-      "Anett von der Weppen (#3)",
-      "Marina Kegelyova (#4)",
-      "Christina Lafex (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Nina Geria",
-        "country": "UKR",
-        "score": 0.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Gemma Taylor",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Anett von der Weppen",
-        "country": "GER",
-        "score": 0.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Marina Kegelyova",
-        "country": "RUS",
-        "score": 0.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Christina Lafex",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "6",
-        "person_name": "Kati Luoto",
-        "country": "FIN",
-        "score": 0.0
-      },
-      {
-        "rank": "7",
-        "person_name": "Thora Thorsteinsdóttir",
-        "country": "ISL",
-        "score": 0.0
-      },
-      {
-        "rank": "8",
-        "person_name": "Leigh Holland-Keen",
-        "country": "AUS",
-        "score": 0.0
-      }
-    ],
-    "difficulty_score": 0.0,
-    "competition_rank": 102
-  },
-  {
-    "contest_id": 1101,
-    "contest_name": "2008 World Strongwoman Championships",
-    "details": "Tczew, Poland, 2008-05-25",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 9,
-    "raw_difficulty": 0.0,
-    "top_5_finishers": [
-      "Aneta Florczyk (#1)",
-      "Kristin Rhodes (#2)",
-      "Kati Luoto (#3)",
-      "Anki Öberg (#4)",
-      "Lacy Okey (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Aneta Florczyk",
-        "country": "POL",
-        "score": 68.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Kristin Rhodes",
-        "country": "USA",
-        "score": 58.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Kati Luoto",
-        "country": "FIN",
-        "score": 56.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Anki Öberg",
-        "country": "SWE",
-        "score": 48.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Lacy Okey",
-        "country": "USA",
-        "score": 32.0
-      },
-      {
-        "rank": "6",
-        "person_name": "Amy Wattles",
-        "country": "USA",
-        "score": 31.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Elizabeth Horne",
-        "country": "GBR",
-        "score": 21.0
-      },
-      {
-        "rank": "8",
-        "person_name": "Kristyn Vytlacil",
-        "country": "USA",
-        "score": 18.0
-      },
-      {
-        "rank": "9",
-        "person_name": "Hanne Bingle",
-        "country": "DEN",
-        "score": 7.0
-      }
-    ],
-    "difficulty_score": 0.0,
-    "competition_rank": 103
-  },
-  {
-    "contest_id": 1102,
-    "contest_name": "2006 World Strongwoman Championships",
-    "details": "Opalenica, Poland, 2006-09-10",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 9,
-    "raw_difficulty": 0.0,
-    "top_5_finishers": [
-      "Aneta Florczyk (#1)",
-      "Anna Rosén (#2)",
-      "Anki Öberg (#3)",
-      "Kati Luoto (#4)",
-      "Julie Dunkley (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Aneta Florczyk",
-        "country": "POL",
-        "score": 64.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Anna Rosén",
-        "country": "SWE",
-        "score": 54.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Anki Öberg",
-        "country": "SWE",
-        "score": 46.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Kati Luoto",
-        "country": "FIN",
-        "score": 41.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Julie Dunkley",
-        "country": "GBR",
-        "score": 33.0
-      },
-      {
-        "rank": "6",
-        "person_name": "Gemma Taylor",
-        "country": "GBR",
-        "score": 29.0
-      },
-      {
-        "rank": "7",
-        "person_name": "Alexandra Murashova",
-        "country": "RUS",
-        "score": 29.0
-      },
-      {
-        "rank": "8",
-        "person_name": "Heini Koivuniemi",
-        "country": "FIN",
-        "score": 27.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Elena Seiple",
-        "country": "USA",
-        "score": 24.5
-      }
-    ],
-    "difficulty_score": 0.0,
-    "competition_rank": 104
-  },
-  {
-    "contest_id": 1103,
-    "contest_name": "2005 World Strongwoman Championships",
-    "details": "Glenarm, Northern Ireland, 2005-07-13 to 2005-07-14",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 8,
-    "raw_difficulty": 0.0,
-    "top_5_finishers": [
-      "Aneta Florczyk (#1)",
-      "Gemma Taylor (#2)",
-      "Jill Mills (#3)",
-      "Anna Rosén (#4)",
-      "Heini Koivuniemi (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Aneta Florczyk",
-        "country": "POL",
-        "score": 47.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Gemma Taylor",
-        "country": "GBR",
-        "score": 43.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Jill Mills",
-        "country": "USA",
-        "score": 37.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Anna Rosén",
-        "country": "SWE",
-        "score": 35.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Heini Koivuniemi",
-        "country": "FIN",
-        "score": 26.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Julie Dunkley",
-        "country": "GBR",
-        "score": 25.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Kati Luoto",
-        "country": "FIN",
-        "score": 17.0
-      },
-      {
-        "rank": "8",
-        "person_name": "Josée Morneau",
-        "country": "CAN",
-        "score": 14.0
-      }
-    ],
-    "difficulty_score": 0.0,
-    "competition_rank": 105
-  },
-  {
-    "contest_id": 1268,
-    "contest_name": "2003 Europe's Strongest Woman",
-    "details": "Glenarm, Northern Ireland, 2003-07-14 to 2003-07-15",
-    "tier": "TIER_3",
-    "tier_multiplier": 2.0,
-    "recency_multiplier": 0.0,
-    "division": "women",
-    "total_competitors": 10,
-    "raw_difficulty": 0.0,
-    "top_5_finishers": [
-      "Anna Rosén (#1)",
-      "Jackie Young (#2)",
-      "Heini Koivuniemi (#3)",
-      "Aneta Florczyk (#4)",
-      "Ielja Strik (#5)"
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Anna Rosén",
-        "country": "SWE",
-        "score": 67.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Jackie Young",
-        "country": "GBR",
-        "score": 63.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Heini Koivuniemi",
-        "country": "FIN",
-        "score": 61.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Aneta Florczyk",
-        "country": "POL",
-        "score": 60.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Ielja Strik",
-        "country": "NED",
-        "score": 45.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Julie Dunkley",
-        "country": "GBR",
-        "score": 38.0
-      },
-      {
-        "rank": "7",
-        "person_name": "Viktoria Posmitna",
-        "country": "UKR",
-        "score": 34.0
-      },
-      {
-        "rank": "8",
-        "person_name": "Trish Porter",
-        "country": "IRL",
-        "score": 32.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Michaela Schütz",
-        "country": "AUT",
-        "score": 13.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Tracey Thompson",
-        "country": "GBR",
-        "score": 8.5
-      }
-    ],
-    "difficulty_score": 0.0,
-    "competition_rank": 106
+    "competition_rank": 69
   },
   {
     "contest_id": 2337,
     "contest_name": "2026 Rogue Invitational (Women)",
     "details": "Aberdeen, Scotland, 2026-10-23 to 2026-10-24",
     "tier": "TIER_1",
-    "tier_multiplier": 5.0,
-    "recency_multiplier": 5.0,
+    "tier_multiplier": 5,
+    "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 6,
     "raw_difficulty": 0,
@@ -7915,41 +5170,41 @@
         "rank": "-",
         "person_name": "Inez Carrasquillo",
         "country": "PUR",
-        "score": 0.0
+        "score": 0
       },
       {
         "rank": "-",
         "person_name": "Angelica Jardine",
         "country": "USA",
-        "score": 0.0
+        "score": 0
       },
       {
         "rank": "-",
         "person_name": "Olga Liashchuk",
         "country": "UKR",
-        "score": 0.0
+        "score": 0
       },
       {
         "rank": "-",
         "person_name": "Hannah Linzay",
         "country": "USA",
-        "score": 0.0
+        "score": 0
       },
       {
         "rank": "-",
         "person_name": "Andrea Thompson",
         "country": "GBR",
-        "score": 0.0
+        "score": 0
       },
       {
         "rank": "-",
         "person_name": "Lucy Underdown",
         "country": "GBR",
-        "score": 0.0
+        "score": 0
       }
     ],
-    "difficulty_score": 0.0,
-    "competition_rank": 107
+    "difficulty_score": 0,
+    "competition_rank": 70
   },
   {
     "contest_id": 2460,
@@ -7957,7 +5212,7 @@
     "details": "Rotherham, England, 2026-09-26",
     "tier": "TIER_5",
     "tier_multiplier": 0.25,
-    "recency_multiplier": 5.0,
+    "recency_multiplier": 5,
     "division": "women",
     "total_competitors": 10,
     "raw_difficulty": 0,
@@ -7967,64 +5222,64 @@
         "rank": "-",
         "person_name": "Nicola Bennett",
         "country": "GBR",
-        "score": 0.0
+        "score": 0
       },
       {
         "rank": "-",
         "person_name": "Angéline Berva",
         "country": "FRA",
-        "score": 0.0
+        "score": 0
       },
       {
         "rank": "-",
         "person_name": "Chloe Brennan",
         "country": "GBR",
-        "score": 0.0
+        "score": 0
       },
       {
         "rank": "-",
         "person_name": "Naomi Hadley",
         "country": "GBR",
-        "score": 0.0
+        "score": 0
       },
       {
         "rank": "-",
         "person_name": "Grace Hilbourne",
         "country": "GBR",
-        "score": 0.0
+        "score": 0
       },
       {
         "rank": "-",
         "person_name": "Donna Moore",
         "country": "GBR",
-        "score": 0.0
+        "score": 0
       },
       {
         "rank": "-",
         "person_name": "Gemma Moore",
         "country": "IRL",
-        "score": 0.0
+        "score": 0
       },
       {
         "rank": "-",
         "person_name": "Erin Murray",
         "country": "USA",
-        "score": 0.0
+        "score": 0
       },
       {
         "rank": "-",
         "person_name": "Claire Myler",
         "country": "GBR",
-        "score": 0.0
+        "score": 0
       },
       {
         "rank": "-",
         "person_name": "Sam Taylor",
         "country": "GBR",
-        "score": 0.0
+        "score": 0
       }
     ],
-    "difficulty_score": 0.0,
-    "competition_rank": 108
+    "difficulty_score": 0,
+    "competition_rank": 71
   }
 ]

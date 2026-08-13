@@ -75,7 +75,7 @@ const getTierInfo = (promotion, showName) => {
   return { name: "TIER_5", multiplier: 0.25 };
 };
 
-// Steeper 36-Month Recency Decay Curve (Expires after 36 months)
+// 60-Month Recency Decay Curve (Expires after 60 months / 5 years)
 const getRecencyMultiplier = (dateStr) => {
   if (!dateStr) return 0.0;
   const currentDate = new Date(); // always use today
@@ -85,6 +85,7 @@ const getRecencyMultiplier = (dateStr) => {
   const diffDays = diffTime / (1000 * 60 * 60 * 24);
   const diffMonths = diffDays / 30.436875;
 
+  if (diffMonths < 0) return 5.0;   // Current / Upcoming
   if (diffMonths < 12) return 5.0;  // 100% weight (0-12 months)
   if (diffMonths < 24) return 3.0;  // 60% weight (12-24 months)
   if (diffMonths < 36) return 1.0;  // 20% weight (24-36 months)
@@ -305,9 +306,11 @@ export function computeRankingsFromDatabase(options = {}) {
     if (rowDiv !== targetDivision) return;
     if (!isWithinTimeframe(row.Date)) return;
 
+    const recencyMult = getRecencyMultiplier(row.Date);
+    if (recencyMult === 0.0) return;
+
     const fullName = `${row.Competitor_fName} ${row.Compititor_LName}`;
     const tierInfo = getTierInfo(row.Show_Promotion, row.Show_Name);
-    const recencyMult = getRecencyMultiplier(row.Date);
     const basePts = getExponentialBasePoints(row.PlacementRank);
     const finalPts = basePts * tierInfo.multiplier * recencyMult;
 
@@ -341,6 +344,7 @@ export function computeRankingsFromDatabase(options = {}) {
     const rowDiv = row.division || 'men';
     if (rowDiv !== targetDivision) return;
     if (!isWithinTimeframe(row.Date)) return;
+    if (getRecencyMultiplier(row.Date) === 0.0) return;
     if (!showGroupMap[row.Show_Name]) showGroupMap[row.Show_Name] = [];
     showGroupMap[row.Show_Name].push(row);
   });
@@ -372,9 +376,11 @@ export function computeRankingsFromDatabase(options = {}) {
     if (rowDiv !== targetDivision) return;
     if (!isWithinTimeframe(row.Date)) return;
 
+    const recencyMult = getRecencyMultiplier(row.Date);
+    if (recencyMult === 0.0) return;
+
     const fullName = `${row.Competitor_fName} ${row.Compititor_LName}`;
     const tierInfo = getTierInfo(row.Show_Promotion, row.Show_Name);
-    const recencyMult = getRecencyMultiplier(row.Date);
     const placementFactor = Math.exp(-0.25 * (row.PlacementRank - 1));
     const compDifficulty = row.difficulty !== undefined ? row.difficulty : (showDifficulties[row.Show_Name](row));
     const finalPts = compDifficulty * placementFactor * recencyMult;
@@ -461,6 +467,7 @@ export function getAllShowsWithDifficulty() {
   const map = {};
   databaseRows.forEach(row => {
     if (isOmittedShow(row.Show_Name)) return;
+    if (getRecencyMultiplier(row.Date) === 0.0) return;
     if (!map[row.Show_Name]) {
       const tierInfo = getTierInfo(row.Show_Promotion, row.Show_Name);
       const tierFormatted = (tierInfo.name || "TIER_4").replace('_', ' ');

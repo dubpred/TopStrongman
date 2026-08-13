@@ -11,7 +11,7 @@ UNRANKABLE_FILE = "strongman_contests_unrankable_last_5_years.json"
 DB_FILE = "database_strongman.json"
 FRONTEND_DB_FILE = "frontend/src/services/database_strongman.json"
 
-CURRENT_DATE = datetime(2026, 8, 13)
+CURRENT_DATE = datetime.now()
 WEIGHTS = [1.0, 0.85, 0.70, 0.55, 0.40, 0.30, 0.20, 0.15, 0.10, 0.05]
 POWER_EXPONENT = 1.5
 
@@ -76,12 +76,12 @@ def get_tier_info(show_name, division):
     return "TIER_5", 0.25
 
 def get_recency_multiplier(details_str, contest_name):
-    date_match = re.search(r'(\d{4})-(\d{2})-(\d{2})', details_str)
+    date_match = re.search(r'(\d{4})-(\d{2})-(\d{2})', details_str or "")
     if date_match:
         y, m, d = int(date_match.group(1)), int(date_match.group(2)), int(date_match.group(3))
         comp_date = datetime(y, m, d)
     else:
-        year_match = re.search(r'\b(20\d\d)\b', contest_name) or re.search(r'\b(20\d\d)\b', details_str)
+        year_match = re.search(r'\b(20\d\d)\b', contest_name or "") or re.search(r'\b(20\d\d)\b', details_str or "")
         if year_match:
             y = int(year_match.group(1))
             comp_date = datetime(y, 6, 1)
@@ -91,6 +91,7 @@ def get_recency_multiplier(details_str, contest_name):
     diff_days = (CURRENT_DATE - comp_date).days
     diff_months = diff_days / 30.436875
 
+    if diff_months < 0: return 5.0
     if diff_months < 12: return 5.0
     if diff_months < 24: return 3.0
     if diff_months < 36: return 1.0
@@ -142,13 +143,17 @@ def process_division(raw_contests, target_division):
         details = contest.get('details')
         results = contest.get('results', [])
 
+        recency_mult = get_recency_multiplier(details, cname)
+        # Strictly limit to competitions within the last 5 years / 60 months
+        if recency_mult == 0.0:
+            continue
+
         top5_finishers = [res for res in results if str(res.get('rank')).isdigit() and 1 <= int(res.get('rank')) <= 5]
         if len(results) < min_field_size:
             continue
 
         raw_diff = sum(pure_map.get(res.get('person_name', '').strip(), 0.0) for res in top5_finishers)
         tier_name, tier_mult = get_tier_info(cname, target_division)
-        recency_mult = get_recency_multiplier(details, cname)
 
         rankable_contests.append({
             "contest_id": cid,
