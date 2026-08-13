@@ -37,7 +37,7 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen flex flex-col bg-dew-dark text-gray-100">
+    <div className="min-h-screen flex flex-col bg-white text-white">
       
       {/* Top Navbar */}
       <Navbar
