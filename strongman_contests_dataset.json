@@ -177103,5 +177103,74 @@
         "score": 6
       }
     ]
+  },
+  {
+    "contest_id": 2837,
+    "contest_name": "2025 Shaw Classic Open (Women)",
+    "details": "Loveland, Colorado, 2025-08-15 to 2025-08-17",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2837",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jennifer Lyle",
+        "country": "USA",
+        "score": 54.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Jackie Osczevski",
+        "country": "CAN",
+        "score": 50.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Jackie Rhodes",
+        "country": "USA",
+        "score": 50
+      },
+      {
+        "rank": "4",
+        "person_name": "Nancy Johnson",
+        "country": "USA",
+        "score": 46
+      },
+      {
+        "rank": "5",
+        "person_name": "Erin Murray",
+        "country": "USA",
+        "score": 45.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Kira Wrixon",
+        "country": "USA",
+        "score": 40.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Rebecca Houston",
+        "country": "USA",
+        "score": 35.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Nichole Wight",
+        "country": "AUS",
+        "score": 21
+      },
+      {
+        "rank": "9",
+        "person_name": "Cheyenne Ruiz",
+        "country": "USA",
+        "score": 21
+      },
+      {
+        "rank": "10",
+        "person_name": "Trisha Mank",
+        "country": "USA",
+        "score": 19.5
+      }
+    ]
   }
 ]

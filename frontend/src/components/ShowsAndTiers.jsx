@@ -42,21 +42,20 @@ export default function ShowsAndTiers({ showsData }) {
       shows: [
         "Europe's Strongest Man (ESM)",
         "North America's Strongest Man (NASM)",
-        "Britain's Strongest Man",
         "Official Strongman Games (OSG World Finals)"
       ]
     },
     {
       tier: 'TIER 4',
-      name: 'NATIONAL & SCL CIRCUIT / WSM HEATS',
+      name: 'NATIONAL CHAMPIONSHIPS & SCL CIRCUIT',
       multiplier: '1x Multiplier',
       color: 'border-blue-500 text-blue-400 bg-blue-950/40',
       badge: 'bg-blue-600 text-white',
-      description: 'WSM group heats, SCL main circuit stages, and national championship finals.',
+      description: 'National championship finals and SCL main circuit stages.',
       shows: [
-        "WSM Group Stage Heats (Groups 1–5)",
         "Strongman Champions League (SCL) Main Circuit Stages",
-        "America's Strongest Man & Major National Titles",
+        "Britain's Strongest Man (National Title)",
+        "America's Strongest Man & Other Major National Titles",
         "Australia's Strongest Man, England's Strongest Man"
       ]
     },
@@ -69,8 +68,7 @@ export default function ShowsAndTiers({ showsData }) {
       description: 'Local town cups, amateur/novice invitationals, and regional challenges.',
       shows: [
         "Local Town Cups & Regional Spectacles (Achlum, Pehar, Festif, Hero of Baikal)",
-        "Amateur & Novice Open Invitationals",
-        "Single-Lift Record Challenges (e.g. World Log Lift Championships)"
+        "Amateur & Novice Open Invitationals"
       ]
     }
   ];

@@ -70,13 +70,13 @@ function getTierInfo(showName, division) {
   if (
     name.includes("europe's strongest man") || name.includes("europe's strongest woman") ||
     name.includes("north america's strongest man") || name.includes("north america's strongest woman") ||
-    name.includes("britain's strongest man") || name.includes("britain's strongest woman") ||
     name.includes("america's strongest man") || name.includes("america's strongest woman")
   ) {
     return { tier: "TIER_3", multiplier: 2.0 };
   }
 
-  if (name.includes("strongman champions league") || name.includes("scl") || name.includes("strongest man") || name.includes("strongest woman")) {
+  if (name.includes("britain's strongest man") || name.includes("britain's strongest woman") ||
+      name.includes("strongman champions league") || name.includes("scl") || name.includes("strongest man") || name.includes("strongest woman")) {
     return { tier: "TIER_4", multiplier: 1.0 };
   }
 
