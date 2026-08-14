@@ -34,29 +34,31 @@ export default function ShowsAndTiers({ showsData }) {
     },
     {
       tier: 'TIER 3',
-      name: 'CONTINENTAL CHAMPIONSHIPS',
+      name: 'CONTINENTAL & PREMIER NATIONAL CHAMPIONSHIPS',
       multiplier: '2x Multiplier',
       color: 'border-dew-red text-dew-red bg-dew-red/10',
       badge: 'bg-dew-red text-white',
-      description: 'Prestigious continental championships determining top regional titles.',
+      description: 'Prestigious continental championships and premier national titles determining elite regional champions.',
       shows: [
-        "Europe's Strongest Man (ESM)",
-        "North America's Strongest Man (NASM)",
-        "Official Strongman Games (OSG World Finals)"
+        "Europe's Strongest Man (ESM) / Europe's Strongest Woman",
+        "North America's Strongest Man (NASM) / North America's Strongest Woman",
+        "Britain's Strongest Man (BSM) / Britain's Strongest Woman",
+        "America's Strongest Man (ASM) / America's Strongest Woman"
       ]
     },
     {
       tier: 'TIER 4',
-      name: 'NATIONAL CHAMPIONSHIPS & SCL CIRCUIT',
+      name: 'NATIONALS, REGIONALS, OSG & QUALIFIERS',
       multiplier: '1x Multiplier',
       color: 'border-blue-500 text-blue-400 bg-blue-950/40',
       badge: 'bg-blue-600 text-white',
-      description: 'National championship finals and SCL main circuit stages.',
+      description: 'Official Strongman Games, Shaw Classic Open, Arnold Pro/Am & Amateur, SCL, and National titles.',
       shows: [
+        "Official Strongman Games (OSG World Finals & European Championships)",
+        "Shaw Classic Open (Men & Women Open)",
+        "Arnold Strongman Pro/Am & Arnold Amateur World Championships",
         "Strongman Champions League (SCL) Main Circuit Stages",
-        "Britain's Strongest Man (National Title)",
-        "America's Strongest Man & Other Major National Titles",
-        "Australia's Strongest Man, England's Strongest Man"
+        "UK's Strongest Man, England's & Australia's Strongest Man"
       ]
     },
     {

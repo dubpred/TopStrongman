@@ -40,7 +40,9 @@ def get_tier_info(show_name, division):
 
     if (
         "group" in name or "heat" in name or "qualifier" in name or "qualifying" in name or
-        "pro/am" in name or "amateur" in name or "shaw classic open" in name
+        "pro/am" in name or "pro-am" in name or "amateur" in name or
+        "shaw classic open" in name or
+        "official strongman" in name or "osg" in name
     ):
         return "TIER_4", 1.0
 

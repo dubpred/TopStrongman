@@ -22,10 +22,12 @@ const getTierInfo = (promotion, showName) => {
   const name = (showName || "").toLowerCase();
   const promo = (promotion || "").toLowerCase();
 
-  // WSM heats, group stages, qualifiers, Arnold Pro/Am, Arnold Amateur, and Shaw Classic Open are TIER 4 (1.0x)
+  // WSM heats, group stages, qualifiers, Arnold Pro/Am, Arnold Amateur, Shaw Classic Open, and OSG are TIER 4 (1.0x)
   if (
     name.includes("group") || name.includes("heat") || name.includes("qualifier") || name.includes("qualifying") ||
-    name.includes("pro/am") || name.includes("amateur") || name.includes("shaw classic open")
+    name.includes("pro/am") || name.includes("pro-am") || name.includes("amateur") ||
+    name.includes("shaw classic open") ||
+    name.includes("official strongman") || name.includes("osg") || promo === "osg"
   ) {
     return { name: "TIER_4", multiplier: 1.0 };
   }
@@ -67,9 +69,10 @@ const getTierInfo = (promotion, showName) => {
 
   // TIER 3 — Continental & Premier National Championships (2.0x)
   if (
-    name.includes("europe's strongest man") || name.includes("north america's strongest man") ||
+    name.includes("europe's strongest man") || name.includes("europe's strongest woman") ||
+    name.includes("north america's strongest man") || name.includes("north america's strongest woman") ||
     name.includes("britain's strongest man") || name.includes("america's strongest man") ||
-    name.includes("official strongman games") || promo === "nasm"
+    promo === "nasm"
   ) {
     return { name: "TIER_3", multiplier: 2.0 };
   }
