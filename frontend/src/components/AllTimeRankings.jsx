@@ -79,31 +79,31 @@ export default function AllTimeRankings({ onSelectCompetitor }) {
   };
 
   return (
-    <div className="space-y-10 pb-16">
+    <div className="space-y-6 sm:space-y-10 pb-16">
       
       {/* Header Banner (Rogue Steel Industrial Design) */}
-      <div className="relative bg-[#080808] border-4 border-[#262626] p-6 sm:p-10 shadow-2xl overflow-hidden">
-        <div className="absolute top-0 right-0 w-96 h-96 bg-red-600/10 rounded-full blur-3xl pointer-events-none -mr-20 -mt-20"></div>
-        <div className="relative z-10 flex flex-col md:flex-row md:items-center justify-between gap-6">
-          <div className="space-y-3">
-            <div className="inline-flex items-center gap-2 px-3 py-1 bg-red-950/60 border border-red-800/80 text-red-400 font-mono text-xs tracking-widest uppercase font-bold">
-              <Crown className="w-3.5 h-3.5 text-yellow-500" />
+      <div className="relative bg-[#080808] border-2 sm:border-4 border-[#262626] p-4 sm:p-8 md:p-10 shadow-2xl overflow-hidden">
+        <div className="absolute top-0 right-0 w-72 sm:w-96 h-72 sm:h-96 bg-red-600/10 rounded-full blur-3xl pointer-events-none -mr-20 -mt-20"></div>
+        <div className="relative z-10 flex flex-col md:flex-row md:items-center justify-between gap-4 sm:gap-6">
+          <div className="space-y-2 sm:space-y-3">
+            <div className="inline-flex items-center gap-1.5 sm:gap-2 px-2.5 sm:px-3 py-1 bg-red-950/60 border border-red-800/80 text-red-400 font-mono text-[11px] sm:text-xs tracking-widest uppercase font-bold">
+              <Crown className="w-3 sm:w-3.5 h-3 sm:h-3.5 text-yellow-500 shrink-0" />
               <span>Historical World Rankings (1977 – Present)</span>
             </div>
-            <h1 className="font-display text-4xl sm:text-6xl md:text-7xl font-black uppercase tracking-tight text-white leading-none">
+            <h1 className="font-display text-3xl sm:text-5xl md:text-7xl font-black uppercase tracking-tight text-white leading-none">
               BEST OF <span className="text-red-600">ALL TIME</span>
             </h1>
-            <p className="text-zinc-400 text-sm sm:text-base max-w-2xl font-sans leading-relaxed">
-              Evaluating the absolute greatest strongman legends in history. Powered by our recursive field-strength model and exponential placement decay across all career competitions.
+            <p className="text-zinc-400 text-xs sm:text-sm md:text-base max-w-2xl font-sans leading-relaxed">
+              Evaluating the absolute greatest strongman legends in history. Powered by our cross-era normalized field-strength model and exponential placement decay across all career competitions.
             </p>
           </div>
 
-          <div className="flex flex-col sm:flex-row md:flex-col gap-3 shrink-0">
+          <div className="shrink-0">
             <button
               onClick={() => setShowExplanation(!showExplanation)}
-              className="flex items-center justify-center gap-2 px-4 py-2.5 bg-[#141414] hover:bg-[#202020] border-2 border-[#333] text-zinc-300 text-xs font-mono font-bold tracking-wider uppercase transition-all"
+              className="w-full sm:w-auto flex items-center justify-center gap-2 px-4 py-2 sm:py-2.5 bg-[#141414] hover:bg-[#202020] border-2 border-[#333] text-zinc-300 text-xs font-mono font-bold tracking-wider uppercase transition-all active:scale-95"
             >
-              <Info className="w-4 h-4 text-red-500" />
+              <Info className="w-3.5 h-3.5 text-red-500" />
               <span>{showExplanation ? 'Hide Methodology' : 'How It Works'}</span>
             </button>
           </div>
@@ -111,69 +111,71 @@ export default function AllTimeRankings({ onSelectCompetitor }) {
 
         {/* Methodology Dropdown */}
         {showExplanation && (
-          <div className="mt-8 pt-6 border-t-2 border-[#262626] grid grid-cols-1 md:grid-cols-2 gap-4 text-xs font-sans text-zinc-400">
-            <div className="bg-[#121212] p-4 border border-[#222]">
-              <div className="font-display text-sm font-black text-white uppercase tracking-wider mb-1 flex items-center gap-2">
-                <Zap className="w-4 h-4 text-yellow-500" /> 1. Recursive Competition Difficulty
+          <div className="mt-6 pt-5 border-t-2 border-[#262626] grid grid-cols-1 md:grid-cols-2 gap-3 sm:gap-4 text-xs font-sans text-zinc-400">
+            <div className="bg-[#121212] p-3.5 sm:p-4 border border-[#222] space-y-1">
+              <div className="font-display text-sm font-black text-white uppercase tracking-wider flex items-center gap-2">
+                <Zap className="w-4 h-4 text-yellow-500" /> 1. Cross-Era Normalized Difficulty
               </div>
-              <p>Every historical contest from 1977 to present has its difficulty calculated recursively (0–1000 pts) based on the caliber of athletes who placed in the top 5.</p>
+              <p>Every historical contest from 1977 to present has its difficulty evaluated relative to its era's peak world championship field (0–1000 pts).</p>
             </div>
-            <div className="bg-[#121212] p-4 border border-[#222]">
-              <div className="font-display text-sm font-black text-white uppercase tracking-wider mb-1 flex items-center gap-2">
-                <Trophy className="w-4 h-4 text-emerald-500" /> 2. Placement Performance Points
+            <div className="bg-[#121212] p-3.5 sm:p-4 border border-[#222] space-y-1">
+              <div className="font-display text-sm font-black text-white uppercase tracking-wider flex items-center gap-2">
+                <Trophy className="w-4 h-4 text-emerald-500" /> 2. Placement Performance + Major Bonus
               </div>
-              <p>Athletes earn points from each show based on its difficulty and finishing rank (1st = 100%, 2nd = 77.9%, 3rd = 60.7%). Total career score is the sum of points earned.</p>
+              <p>Athletes earn points from each show based on its difficulty and finishing rank (1st = 100%, 2nd = 77.9%), plus a +1,000 flat bonus for Major World Titles (WSM, Arnold Classic, SMOE, Rogue).</p>
             </div>
           </div>
         )}
       </div>
 
       {/* Division Switcher */}
-      <div className="flex justify-center">
-        <div className="inline-flex p-1.5 bg-[#0e0e0e] border-2 border-[#262626] shadow-xl">
+      <div className="flex justify-center px-1">
+        <div className="grid grid-cols-2 w-full max-w-lg p-1 bg-[#0e0e0e] border-2 border-[#262626] shadow-xl">
           <button
             onClick={() => setDivision('men')}
-            className={`px-8 py-3 font-display text-lg sm:text-xl font-black tracking-wider uppercase transition-all ${
+            className={`py-2.5 sm:py-3 font-display text-sm sm:text-lg font-black tracking-wider uppercase transition-all text-center ${
               division === 'men'
                 ? 'bg-red-600 text-white shadow-lg shadow-red-950/50'
                 : 'text-zinc-400 hover:text-white'
             }`}
           >
-            MEN'S OPEN (1977–PRESENT)
+            <span className="block sm:hidden">MEN'S OPEN</span>
+            <span className="hidden sm:block">MEN'S OPEN (1977–PRESENT)</span>
           </button>
           <button
             onClick={() => setDivision('women')}
-            className={`px-8 py-3 font-display text-lg sm:text-xl font-black tracking-wider uppercase transition-all ${
+            className={`py-2.5 sm:py-3 font-display text-sm sm:text-lg font-black tracking-wider uppercase transition-all text-center ${
               division === 'women'
                 ? 'bg-red-600 text-white shadow-lg shadow-red-950/50'
                 : 'text-zinc-400 hover:text-white'
             }`}
           >
-            WOMEN'S OPEN (1997–PRESENT)
+            <span className="block sm:hidden">WOMEN'S OPEN</span>
+            <span className="hidden sm:block">WOMEN'S OPEN (1997–PRESENT)</span>
           </button>
         </div>
       </div>
 
       {/* Search and Sort Controls */}
-      <div className="bg-[#0e0e0e] border-2 border-[#262626] p-4 sm:p-6 shadow-xl">
+      <div className="bg-[#0e0e0e] border-2 border-[#262626] p-3.5 sm:p-5 shadow-xl space-y-3">
         <div className="flex flex-col sm:flex-row gap-3">
           <div className="relative flex-1">
             <Search className="w-4 h-4 text-zinc-500 absolute left-3.5 top-1/2 -translate-y-1/2" />
             <input
               type="text"
-              placeholder="Search all-time legend by name, country (LTU, USA, ISL, POL), or years..."
+              placeholder="Search all-time legend (e.g. Savickas, Shaw, Kazmaier)..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full pl-10 pr-4 py-2.5 bg-[#141414] border border-[#2a2a2a] focus:border-red-600 text-white font-sans text-sm outline-none transition-colors placeholder:text-zinc-600"
+              className="w-full pl-10 pr-4 py-2.5 bg-[#141414] border border-[#2a2a2a] focus:border-red-600 text-white font-sans text-xs sm:text-sm outline-none transition-colors placeholder:text-zinc-600 rounded-none"
             />
           </div>
 
           <div className="flex items-center gap-2">
-            <span className="text-xs font-mono text-zinc-400 uppercase font-bold whitespace-nowrap">Sort By:</span>
+            <span className="text-[11px] font-mono text-zinc-400 uppercase font-bold whitespace-nowrap">Sort By:</span>
             <select
               value={sortBy}
               onChange={(e) => setSortBy(e.target.value)}
-              className="bg-[#141414] border border-[#2a2a2a] focus:border-red-600 text-white font-mono text-xs py-2.5 px-3 outline-none"
+              className="flex-1 sm:flex-initial bg-[#141414] border border-[#2a2a2a] focus:border-red-600 text-white font-mono text-xs py-2.5 px-3 outline-none rounded-none"
             >
               <option value="goatScore">GOAT Score (Overall)</option>
               <option value="majorTitles">Major Titles (WSM + ASC + SMOE + Rogue)</option>
@@ -184,8 +186,115 @@ export default function AllTimeRankings({ onSelectCompetitor }) {
         </div>
       </div>
 
-      {/* Full Leaderboard Table */}
-      <div className="bg-[#0a0a0a] border-2 border-[#262626] overflow-hidden shadow-2xl">
+      {/* Mobile Card List View (Phones & Small Tablets) */}
+      <div className="block md:hidden space-y-2.5">
+        {filteredRankings.slice(0, 100).map((athlete) => {
+          const isTop1 = athlete.rank === 1;
+          const isTop2 = athlete.rank === 2;
+          const isTop3 = athlete.rank === 3;
+
+          return (
+            <div
+              key={athlete.name}
+              onClick={() => handleAthleteClick(athlete)}
+              className={`p-3.5 sm:p-4 bg-[#0e0e0e] border-2 transition-all active:scale-[0.98] cursor-pointer space-y-2.5 ${
+                isTop1 ? 'border-yellow-500/80 bg-yellow-950/10' :
+                isTop2 ? 'border-zinc-400/80 bg-zinc-900/30' :
+                isTop3 ? 'border-amber-700/80 bg-amber-950/10' :
+                'border-[#262626] hover:border-zinc-500'
+              }`}
+            >
+              {/* Row 1: Rank, Name, Flag, and Score */}
+              <div className="flex items-start justify-between gap-2">
+                <div className="flex items-center gap-2.5 min-w-0">
+                  <span className={`font-display text-lg font-black px-2 py-0.5 shrink-0 ${
+                    isTop1 ? 'bg-yellow-400 text-black' :
+                    isTop2 ? 'bg-zinc-300 text-black' :
+                    isTop3 ? 'bg-amber-600 text-white' :
+                    'bg-[#181818] text-zinc-400 border border-[#333]'
+                  }`}>
+                    #{athlete.rank}
+                  </span>
+                  <div className="min-w-0">
+                    <div className="font-display text-base sm:text-lg font-black text-white uppercase truncate tracking-wide flex items-center gap-1.5">
+                      {athlete.country && (
+                        <img
+                          src={getCountryFlagUrl(athlete.country)}
+                          alt={athlete.country}
+                          onError={(e) => { e.target.style.display = 'none'; }}
+                          className="w-4 h-3 object-cover border border-zinc-700 shrink-0 inline-block"
+                        />
+                      )}
+                      <span className="truncate">{athlete.name}</span>
+                    </div>
+                    <div className="text-[11px] font-mono text-zinc-400 flex items-center gap-1.5 mt-0.5">
+                      <span>{athlete.country || 'N/A'}</span>
+                      <span>•</span>
+                      <span>{athlete.activeYears}</span>
+                      <span>•</span>
+                      <span>{athlete.totalShows} SHOWS</span>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="text-right shrink-0">
+                  <div className={`font-display text-xl sm:text-2xl font-black ${
+                    isTop1 ? 'text-yellow-400' : isTop3 ? 'text-zinc-200' : 'text-white'
+                  }`}>
+                    {athlete.goatScore.toLocaleString()}
+                  </div>
+                  <div className="text-[9px] font-mono text-zinc-500 uppercase font-bold">GOAT PTS</div>
+                </div>
+              </div>
+
+              {/* Row 2: Major Titles Badges */}
+              {(athlete.wsmWins > 0 || athlete.ascWins > 0 || athlete.smoeWins > 0 || athlete.rogueWins > 0) && (
+                <div className="flex flex-wrap gap-1 pt-1 border-t border-[#1c1c1c]">
+                  {athlete.wsmWins > 0 && (
+                    <span className="px-1.5 py-0.5 bg-yellow-950/80 border border-yellow-700/80 text-yellow-400 font-mono text-[10px] font-black">
+                      🏆 {athlete.wsmWins}x WSM
+                    </span>
+                  )}
+                  {athlete.ascWins > 0 && (
+                    <span className="px-1.5 py-0.5 bg-red-950/80 border border-red-800 text-red-400 font-mono text-[10px] font-bold">
+                      🥇 {athlete.ascWins}x ASC
+                    </span>
+                  )}
+                  {athlete.smoeWins > 0 && (
+                    <span className="px-1.5 py-0.5 bg-amber-950/80 border border-amber-800 text-amber-400 font-mono text-[10px] font-bold">
+                      ⚡ {athlete.smoeWins}x SMOE
+                    </span>
+                  )}
+                  {athlete.rogueWins > 0 && (
+                    <span className="px-1.5 py-0.5 bg-zinc-900 border border-zinc-500 text-white font-mono text-[10px] font-bold">
+                      ⚔️ {athlete.rogueWins}x ROGUE
+                    </span>
+                  )}
+                </div>
+              )}
+
+              {/* Row 3: Career Record Summary */}
+              <div className="flex items-center justify-between text-[11px] font-mono text-zinc-400 pt-1 border-t border-[#1c1c1c]">
+                <div>
+                  <span className="text-white font-bold">{athlete.totalWins} Wins</span> ({athlete.winRate}%) • <span className="text-zinc-300 font-bold">{athlete.totalPodiums} Podiums</span>
+                </div>
+                <div className="text-red-400 text-[10px] font-bold flex items-center gap-0.5">
+                  TOP 10 SHOWS <ChevronRight className="w-3 h-3 inline" />
+                </div>
+              </div>
+            </div>
+          );
+        })}
+
+        {filteredRankings.length > 100 && (
+          <div className="p-4 bg-[#0e0e0e] border border-[#262626] text-center text-xs font-mono text-zinc-500">
+            Showing Top 100 of {filteredRankings.length} historical open-class athletes.
+          </div>
+        )}
+      </div>
+
+      {/* Desktop Leaderboard Table (Tablets & Desktops) */}
+      <div className="hidden md:block bg-[#0a0a0a] border-2 border-[#262626] overflow-hidden shadow-2xl">
         <div className="overflow-x-auto">
           <table className="w-full text-left border-collapse font-sans">
             <thead>
@@ -200,7 +309,7 @@ export default function AllTimeRankings({ onSelectCompetitor }) {
               </tr>
             </thead>
             <tbody className="divide-y divide-[#1c1c1c] text-sm">
-              {filteredRankings.slice(0, 100).map((athlete, idx) => {
+              {filteredRankings.slice(0, 100).map((athlete) => {
                 const isTop1 = athlete.rank === 1;
                 const isTop3 = athlete.rank <= 3;
                 const isTop10 = athlete.rank <= 10;
@@ -232,6 +341,7 @@ export default function AllTimeRankings({ onSelectCompetitor }) {
                           <img
                             src={getCountryFlagUrl(athlete.country)}
                             alt={athlete.country}
+                            onError={(e) => { e.target.style.display = 'none'; }}
                             className="w-6 h-4 object-cover rounded-none border border-zinc-700 shrink-0"
                           />
                         )}
