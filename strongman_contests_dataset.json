@@ -134113,79 +134113,85 @@
     "contest_name": "2026 Giants Live Strongman Open",
     "details": "Birmingham, England, 2026-09-05",
     "url": "https://strongmanarchives.com/viewContest.php?id=2078",
-    "total_competitors": 12,
+    "total_competitors": 13,
     "results": [
       {
         "rank": "-",
         "person_name": "Austin Andrade",
         "country": "USA",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Evans Nana Aryee",
         "country": "GHA",
-        "score": 0
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Gavin Bilton",
+        "country": "GBR",
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Adam Bishop",
         "country": "GBR",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Hafthór Júlíus Björnsson",
         "country": "ISL",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Raul Flores",
         "country": "MEX",
-        "score": 0
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ben Glasscock",
+        "country": "GBR",
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Nick Guardione",
         "country": "USA",
-        "score": 0
-      },
-      {
-        "rank": "-",
-        "person_name": "Paddy Haynes",
-        "country": "GBR",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "James Jeffers",
         "country": "CAN",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Bryce Johnson",
         "country": "USA",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Trey Mitchell",
         "country": "USA",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Evan Singleton",
         "country": "USA",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Tom Stoltman",
         "country": "GBR",
-        "score": 0
+        "score": 0.0
       }
     ]
   },
@@ -134200,37 +134206,37 @@
         "rank": "-",
         "person_name": "Evans Nana Aryee",
         "country": "GHA",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Ondřej Fojtů",
         "country": "CZE",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Trey Mitchell",
         "country": "USA",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Evan Singleton",
         "country": "USA",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Luke Stoltman",
         "country": "GBR",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Tom Stoltman",
         "country": "GBR",
-        "score": 0
+        "score": 0.0
       }
     ]
   },
@@ -137221,13 +137227,13 @@
         "rank": "-",
         "person_name": "Jani Illikainen",
         "country": "FIN",
-        "score": 78
+        "score": 78.0
       },
       {
         "rank": "-",
         "person_name": "Jani Kolehmainen",
         "country": "FIN",
-        "score": 71
+        "score": 71.0
       },
       {
         "rank": "-",
@@ -137239,31 +137245,31 @@
         "rank": "-",
         "person_name": "Juha-Matti Järvi",
         "country": "FIN",
-        "score": 65
+        "score": 65.0
       },
       {
         "rank": "-",
         "person_name": "Mika Hiltunen",
         "country": "FIN",
-        "score": 59
+        "score": 59.0
       },
       {
         "rank": "-",
         "person_name": "Ville Vihola",
         "country": "FIN",
-        "score": 56
+        "score": 56.0
       },
       {
         "rank": "-",
         "person_name": "Harri Peltomaa",
         "country": "FIN",
-        "score": 45
+        "score": 45.0
       },
       {
         "rank": "-",
         "person_name": "Jarno Kirselä",
         "country": "FIN",
-        "score": 33
+        "score": 33.0
       },
       {
         "rank": "-",
@@ -137299,7 +137305,7 @@
         "rank": "-",
         "person_name": "Anssi Tennilä",
         "country": "FIN",
-        "score": 7
+        "score": 7.0
       }
     ]
   },
@@ -148717,49 +148723,67 @@
     "contest_name": "2026 Rogue Invitational (Men)",
     "details": "Aberdeen, Scotland, 2026-10-23 to 2026-10-24",
     "url": "https://strongmanarchives.com/viewContest.php?id=2336",
-    "total_competitors": 7,
+    "total_competitors": 10,
     "results": [
       {
         "rank": "-",
         "person_name": "Austin Andrade",
         "country": "USA",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Hafthór Júlíus Björnsson",
         "country": "ISL",
-        "score": 0
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Thomas Evans",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ondřej Fojtů",
+        "country": "CZE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Paddy Haynes",
+        "country": "GBR",
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Mitchell Hooper",
         "country": "CAN",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Martins Licis",
         "country": "USA",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Trey Mitchell",
         "country": "USA",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Rayno Nel",
         "country": "RSA",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Tom Stoltman",
         "country": "GBR",
-        "score": 0
+        "score": 0.0
       }
     ]
   },
@@ -148768,43 +148792,67 @@
     "contest_name": "2026 Rogue Invitational (Women)",
     "details": "Aberdeen, Scotland, 2026-10-23 to 2026-10-24",
     "url": "https://strongmanarchives.com/viewContest.php?id=2337",
-    "total_competitors": 6,
+    "total_competitors": 10,
     "results": [
+      {
+        "rank": "-",
+        "person_name": "Katie Blunden",
+        "country": "AUS",
+        "score": 0.0
+      },
       {
         "rank": "-",
         "person_name": "Inez Carrasquillo",
         "country": "PUR",
-        "score": 0
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Grace Hilbourne",
+        "country": "GBR",
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Angelica Jardine",
         "country": "USA",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Olga Liashchuk",
         "country": "UKR",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
-        "person_name": "Hannah Linzay",
+        "person_name": "Jennifer Lyle",
         "country": "USA",
-        "score": 0
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jackie Osczevski",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Rebecca Roberts",
+        "country": "GBR",
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Andrea Thompson",
         "country": "GBR",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Lucy Underdown",
         "country": "GBR",
-        "score": 0
+        "score": 0.0
       }
     ]
   },
@@ -149554,79 +149602,79 @@
         "rank": "-",
         "person_name": "Gianluca Ardenghi",
         "country": "ESP",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Evans Nana Aryee",
         "country": "GHA",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Patrick Eibel",
         "country": "GER",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Pálmi Gudfinnsson",
         "country": "ISL",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Jesper Hansson",
         "country": "SWE",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Kevin Hazeleger",
         "country": "NED",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Brian Kichton",
         "country": "USA",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Valtter Kortelainen",
         "country": "FIN",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Tuomas Lindroos",
         "country": "FIN",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Adam Roszkowski",
         "country": "POL",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Colten Sloan",
         "country": "CAN",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Ervin Toots",
         "country": "EST",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Mika Törrö",
         "country": "FIN",
-        "score": 0
+        "score": 0.0
       }
     ]
   },
@@ -154648,55 +154696,55 @@
         "rank": "-",
         "person_name": "Anders Aslak",
         "country": "DEN",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Chris Beetham",
         "country": "SCO",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Jamie Butler",
         "country": "WAL",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Andrew Flynn",
         "country": "GBR",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Kane Francis",
         "country": "GBR",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Ben Glasscock",
         "country": "GBR",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Paddy Haynes",
         "country": "GBR",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Pavlo Kordiyaka",
         "country": "UKR",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Paul Smith",
         "country": "GBR",
-        "score": 0
+        "score": 0.0
       }
     ]
   },
@@ -154711,61 +154759,61 @@
         "rank": "-",
         "person_name": "Nicola Bennett",
         "country": "GBR",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Angéline Berva",
         "country": "FRA",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Chloe Brennan",
         "country": "GBR",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Naomi Hadley",
         "country": "GBR",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Grace Hilbourne",
         "country": "GBR",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Donna Moore",
         "country": "GBR",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Gemma Moore",
         "country": "IRL",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Erin Murray",
         "country": "USA",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Claire Myler",
         "country": "GBR",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Sam Taylor",
         "country": "GBR",
-        "score": 0
+        "score": 0.0
       }
     ]
   },
@@ -160526,7 +160574,7 @@
   {
     "contest_id": 2561,
     "contest_name": "2026 Strongman Mania",
-    "details": "Norrköping, Sweden, 2026-11-07 to 2026-11-08",
+    "details": "NorrkÃ¶ping, Sweden, 2026-11-07 to 2026-11-08",
     "url": "https://strongmanarchives.com/viewContest.php?id=2561",
     "total_competitors": 6,
     "results": [
@@ -160534,37 +160582,37 @@
         "rank": "-",
         "person_name": "Evans Nana Aryee",
         "country": "GHA",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Adam Bishop",
         "country": "GBR",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Ben Glasscock",
         "country": "GBR",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Cim Johansson",
         "country": "SWE",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Fredrik Johansson",
         "country": "SWE",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Pavlo Kordiyaka",
         "country": "UKR",
-        "score": 0
+        "score": 0.0
       }
     ]
   },
@@ -172411,49 +172459,49 @@
         "rank": "-",
         "person_name": "Arjan Boghaert",
         "country": "BEL",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Mike De Clerck",
         "country": "BEL",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Laurens Prontera",
         "country": "BEL",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Michael Simons",
         "country": "BEL",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Kevin Tancré",
         "country": "BEL",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Castelijns Tjörven",
         "country": "BEL",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Stijn van Bogaert",
         "country": "BEL",
-        "score": 0
+        "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Glenn Van Dierendonck",
         "country": "BEL",
-        "score": 0
+        "score": 0.0
       }
     ]
   },
@@ -177170,6 +177218,2262 @@
         "person_name": "Trisha Mank",
         "country": "USA",
         "score": 19.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2838,
+    "contest_name": "2025 Shaw Classic Open (LW Men)",
+    "details": "Loveland, Colorado, 2025-08-15 to 2025-08-17",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2838",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tyler Pruitt",
+        "country": "USA",
+        "score": 52.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jordan Wychulis",
+        "country": "USA",
+        "score": 49.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Sean Mullican",
+        "country": "USA",
+        "score": 46.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Kevin Candito",
+        "country": "USA",
+        "score": 44.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Christopher Otero",
+        "country": "USA",
+        "score": 40.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Derek Brooks",
+        "country": "USA",
+        "score": 35.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Joe Korasick",
+        "country": "USA",
+        "score": 34.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Gabe Deal",
+        "country": "USA",
+        "score": 31.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Bodie Giron",
+        "country": "USA",
+        "score": 25.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Skye Olsen",
+        "country": "USA",
+        "score": 25.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2839,
+    "contest_name": "2025 Shaw Classic Open (LW Women)",
+    "details": "Loveland, Colorado, 2025-08-15 to 2025-08-17",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2839",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Meg Davis",
+        "country": "NZL",
+        "score": 59.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Camilla Fogagnolo",
+        "country": "AUS",
+        "score": 57.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Taylor Woods",
+        "country": "CAN",
+        "score": 46.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Diana Juárez Ferrer",
+        "country": "MEX",
+        "score": 46.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Kristin Ellis",
+        "country": "USA",
+        "score": 43.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Holly McRae",
+        "country": "CAN",
+        "score": 31.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Hanna Coldiron",
+        "country": "USA",
+        "score": 28.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Jamie Strong",
+        "country": "USA",
+        "score": 26.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Savannah Schepp",
+        "country": "USA",
+        "score": 26.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Alex  Martin",
+        "country": "USA",
+        "score": 19.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2840,
+    "contest_name": "2026 England's Strongest Woman",
+    "details": "Doncaster, England, 2026-01-18",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2840",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Grace Hilbourne",
+        "country": "ENG",
+        "score": 59.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Michaela Pearson",
+        "country": "ENG",
+        "score": 49.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Vikki Mills",
+        "country": "ENG",
+        "score": 39.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Leanne Coghlan",
+        "country": "ENG",
+        "score": 39.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Rebecca Worgan",
+        "country": "ENG",
+        "score": 37.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Stephanie Dutton",
+        "country": "ENG",
+        "score": 32.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Abi King",
+        "country": "ENG",
+        "score": 24.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Natalie Tung",
+        "country": "ENG",
+        "score": 23.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Jakki Duncan",
+        "country": "ENG",
+        "score": 19.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Rajuska Podojahina",
+        "country": "ENG",
+        "score": 19.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Faye Saunders",
+        "country": "ENG",
+        "score": 15.0
+      },
+      {
+        "rank": "12",
+        "person_name": "Amy Notman-Howes",
+        "country": "ENG",
+        "score": 12.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2841,
+    "contest_name": "2026 South Africa's Strongest Woman",
+    "details": "Benoni, South Africa, 2026-07-04 to 2026-07-05",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2841",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Savannah van der Heever",
+        "country": "RSA",
+        "score": 20.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Veané Nel",
+        "country": "RSA",
+        "score": 15.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Monique Hougaard",
+        "country": "RSA",
+        "score": 6.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Louise Faber",
+        "country": "RSA",
+        "score": 3.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2842,
+    "contest_name": "2026 Junior South Africa's Strongest Man",
+    "details": "Benoni, South Africa, 2026-07-04 to 2026-07-05",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2842",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Shaun Boshoff",
+        "country": "RSA",
+        "score": 16.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Jaendre van der Berg",
+        "country": "RSA",
+        "score": 13.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Kyle Rosslee",
+        "country": "RSA",
+        "score": 10.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Thuto Ramaele",
+        "country": "RSA",
+        "score": 3.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2843,
+    "contest_name": "2026 Masters South Africa's Strongest Man",
+    "details": "Benoni, South Africa, 2026-07-04 to 2026-07-05",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2843",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Shane Jensen",
+        "country": "RSA",
+        "score": 30.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Andre Sweeney",
+        "country": "RSA",
+        "score": 26.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Jan van Bavel",
+        "country": "RSA",
+        "score": 22.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Cesar Da Silva",
+        "country": "RSA",
+        "score": 19.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Cedric Kayumba",
+        "country": "COD",
+        "score": 16.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Shaine Jenkins",
+        "country": "RSA",
+        "score": 14.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Terrence Viviers",
+        "country": "RSA",
+        "score": 9.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2844,
+    "contest_name": "2026 U105 South Africa's Strongest Man",
+    "details": "Benoni, South Africa, 2026-07-04 to 2026-07-05",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2844",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jacque de Jager",
+        "country": "RSA",
+        "score": 29.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Wessel Davel",
+        "country": "RSA",
+        "score": 20.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Michael Geldenhuys",
+        "country": "RSA",
+        "score": 15.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Wiann  Le Grange",
+        "country": "RSA",
+        "score": 15.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Ettien Britz",
+        "country": "RSA",
+        "score": 9.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Rueben Jansen van Rensburg",
+        "country": "RSA",
+        "score": 3.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2845,
+    "contest_name": "2026 U90 South Africa's Strongest Man",
+    "details": "Benoni, South Africa, 2026-07-04 to 2026-07-05",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2845",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Wessel Davel",
+        "country": "RSA",
+        "score": 18.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Dillan Davel",
+        "country": "RSA",
+        "score": 17.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Erin Barnard",
+        "country": "RSA",
+        "score": 6.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Timeon Jansen van Rensburg",
+        "country": "RSA",
+        "score": 4.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2846,
+    "contest_name": "2021 Lietuvos galiÅ«nÅ³ Äempionato",
+    "details": "Pakruojis, Lithuania, 2021-08-28",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2846",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Dainius Repšys",
+        "country": "LTU",
+        "score": 39.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Modestas Struckus",
+        "country": "LTU",
+        "score": 34.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Karolis Aleksandravičius",
+        "country": "LTU",
+        "score": 31.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Saulius Skikas",
+        "country": "LTU",
+        "score": 29.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "score": 29.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Lukas Mataitis",
+        "country": "LTU",
+        "score": 23.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Vytenis Pauža",
+        "country": "LTU",
+        "score": 14.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Gintaras Šaulys",
+        "country": "LTU",
+        "score": 11.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Rokas Černiauskas",
+        "country": "LTU",
+        "score": 10.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2847,
+    "contest_name": "2022 Lietuvos galiÅ«nÅ³ Äempionato",
+    "details": "MaÅ¾eikai, Lithuania, 2022-06-03",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2847",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mantas Lalas",
+        "country": "LTU",
+        "score": 31.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Saulius Skikas",
+        "country": "LTU",
+        "score": 27.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "score": 27.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Tomas Šliupas",
+        "country": "LTU",
+        "score": 24.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Modestas Struckus",
+        "country": "LTU",
+        "score": 24.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Lukas Mataitis",
+        "country": "LTU",
+        "score": 17.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Vytenis Pauža",
+        "country": "LTU",
+        "score": 14.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Gintaras Šaulys",
+        "country": "LTU",
+        "score": 12.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2848,
+    "contest_name": "2022 Lietuvos galiÅ«nÅ³ Äempionato",
+    "details": "Å ilalÄ, Lithuania, 2022-08-06",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2848",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Karolis Aleksandravičius",
+        "country": "LTU",
+        "score": 44.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Lukas Mataitis",
+        "country": "LTU",
+        "score": 39.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Rokas Černiauskas",
+        "country": "LTU",
+        "score": 35.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Tomas Šliupas",
+        "country": "LTU",
+        "score": 30.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Modestas Struckus",
+        "country": "LTU",
+        "score": 30.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Saulius Skikas",
+        "country": "LTU",
+        "score": 27.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Vytenis Pauža",
+        "country": "LTU",
+        "score": 21.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Tomas Sinkevičius",
+        "country": "LTU",
+        "score": 19.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Gintaras Šaulys",
+        "country": "LTU",
+        "score": 14.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Robertas Bartkevičius",
+        "country": "LTU",
+        "score": 10.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2849,
+    "contest_name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
+    "details": "MaÅ¾eikai, Lithuania, 2023-06-03",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2849",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Marius Lalas",
+        "country": "LTU",
+        "score": 44.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "score": 40.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Tomas Šliupas",
+        "country": "LTU",
+        "score": 36.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Rokas Černiauskas",
+        "country": "LTU",
+        "score": 29.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Lukas Mataitis",
+        "country": "LTU",
+        "score": 29.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Vytenis Pauža",
+        "country": "LTU",
+        "score": 22.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Saulius Skikas",
+        "country": "LTU",
+        "score": 22.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Robertas Bartkevičius",
+        "country": "LTU",
+        "score": 20.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Gintaras Šaulys",
+        "country": "LTU",
+        "score": 19.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Donatas Maskolaitis",
+        "country": "LTU",
+        "score": 4.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2850,
+    "contest_name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
+    "details": "KupiÅ¡kis, Lithuania, 2023-06-10",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2850",
+    "total_competitors": 11,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Modestas Struckus",
+        "country": "LTU",
+        "score": 51.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Karolis Aleksandravičius",
+        "country": "LTU",
+        "score": 49.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Dainius Repšys",
+        "country": "LTU",
+        "score": 41.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Tomas Šliupas",
+        "country": "LTU",
+        "score": 38.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Lukas Mataitis",
+        "country": "LTU",
+        "score": 32.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Vytenis Pauža",
+        "country": "LTU",
+        "score": 29.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Rokas Černiauskas",
+        "country": "LTU",
+        "score": 27.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Robertas Bartkevičius",
+        "country": "LTU",
+        "score": 20.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Ramūnas Liebus",
+        "country": "LTU",
+        "score": 20.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Gintaras Šaulys",
+        "country": "LTU",
+        "score": 13.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Donatas Maskolaitis",
+        "country": "LTU",
+        "score": 5.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2851,
+    "contest_name": "2017 BirÅ¡tono galiÅ«nas",
+    "details": "BirÅ¡tonas, Lithuania, 2017-09-02",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2851",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Martynas Vaitkevičius",
+        "country": "LTU",
+        "score": 44.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Kęstutis Daugėla",
+        "country": "LTU",
+        "score": 41.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Lukas Mataitis",
+        "country": "LTU",
+        "score": 33.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Darius Janutis",
+        "country": "LTU",
+        "score": 31.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "score": 28.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Saulius Skikas",
+        "country": "LTU",
+        "score": 26.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Mantas Virbickas",
+        "country": "LTU",
+        "score": 26.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Tadas Gečas",
+        "country": "LTU",
+        "score": 20.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Artūras Balnionis",
+        "country": "LTU",
+        "score": 11.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Gilbertas Tamulevičius",
+        "country": "LTU",
+        "score": 11.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2852,
+    "contest_name": "2025 England's Strongest Woman",
+    "details": "Doncaster, England, 2025-02-22",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2852",
+    "total_competitors": 13,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Grace Hilbourne",
+        "country": "ENG",
+        "score": 62.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Annabelle Chapman",
+        "country": "ENG",
+        "score": 52.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Leanne Coghlan",
+        "country": "ENG",
+        "score": 49.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Andrea Seed",
+        "country": "ENG",
+        "score": 48.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Anna Stelfox",
+        "country": "ENG",
+        "score": 43.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Maxine Winter",
+        "country": "ENG",
+        "score": 43.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Hannah Johnstone",
+        "country": "ENG",
+        "score": 34.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Stephanie Dutton",
+        "country": "ENG",
+        "score": 24.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Emma Grunnill",
+        "country": "ENG",
+        "score": 22.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Gemma Ferguson",
+        "country": "ENG",
+        "score": 21.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Stacey Pope",
+        "country": "ENG",
+        "score": 10.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Rajuska Podojahina",
+        "country": "ENG",
+        "score": 8.0
+      },
+      {
+        "rank": "13",
+        "person_name": "Abi King",
+        "country": "ENG",
+        "score": 4.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2853,
+    "contest_name": "2026 European Strongman Cup",
+    "details": "Wejherowo, Poland, 2026-08-16",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2853",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Oskar Ziółkowski",
+        "country": "POL",
+        "score": 27.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Tomas Šliupas",
+        "country": "LTU",
+        "score": 23.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Oleh Pylypiak",
+        "country": "UKR",
+        "score": 22.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Jan Lacina",
+        "country": "CZE",
+        "score": 20.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Dawid Pakulski",
+        "country": "POL",
+        "score": 17.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Pavlo Kordiyaka",
+        "country": "UKR",
+        "score": 11.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2854,
+    "contest_name": "2017 Baltijos galiÅ«nÅ³ Äempionato",
+    "details": "MolÄtai, Lithuania, 2017-07-01",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2854",
+    "total_competitors": 11,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Žydrūnas Savickas",
+        "country": "LTU",
+        "score": 60.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jānis Šleckus",
+        "country": "LAT",
+        "score": 58.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Mindaugas Jaras",
+        "country": "LTU",
+        "score": 45.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Martynas Brusokas",
+        "country": "LTU",
+        "score": 43.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Karolis Aleksandravičius",
+        "country": "LTU",
+        "score": 40.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "score": 26.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Martynas Vaitkevičius",
+        "country": "LTU",
+        "score": 23.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Kęstutis Daugėla",
+        "country": "LTU",
+        "score": 21.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Darius Janutis",
+        "country": "LTU",
+        "score": 20.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Dainius Repšys",
+        "country": "LTU",
+        "score": 14.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Marius Jančiukas",
+        "country": "LTU",
+        "score": 11.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2855,
+    "contest_name": "2017 Å umavskÃ½ Strongman",
+    "details": "SuÅ¡ice, Czech Republic, 2017-07-01",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2855",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jiří Vytiska",
+        "country": "CZE",
+        "score": 45.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Lukáš Svoboda",
+        "country": "CZE",
+        "score": 42.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 41.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Josef Mazač",
+        "country": "CZE",
+        "score": 35.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Peter Puha",
+        "country": "SVK",
+        "score": 31.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Čestmír Šíma",
+        "country": "CZE",
+        "score": 30.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Jiří Marek",
+        "country": "CZE",
+        "score": 29.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Donaldas Andriulis",
+        "country": "LTU",
+        "score": 26.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Jaroslav Švejda",
+        "country": "CZE",
+        "score": 25.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Mari Zvrtek",
+        "country": "CZE",
+        "score": 19.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Jan Šleis",
+        "country": "CZE",
+        "score": 11.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Peter Rekenei",
+        "country": "SVK",
+        "score": 9.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2856,
+    "contest_name": "2017 Baltijos galiÅ«nÅ³ Äempionato",
+    "details": "KurÅ¡Änai, Lithuania, 2017-05-21",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2856",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Vytautas Lalas",
+        "country": "LTU",
+        "score": 61.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Oskars Martuzāns",
+        "country": "LAT",
+        "score": 49.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Jānis Šleckus",
+        "country": "LAT",
+        "score": 49.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Dainius Repšys",
+        "country": "LTU",
+        "score": 49.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Saulius Brusokas",
+        "country": "LTU",
+        "score": 45.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Martynas Brusokas",
+        "country": "LTU",
+        "score": 42.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Mindaugas Jaras",
+        "country": "LTU",
+        "score": 41.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Dalius Ziminskas",
+        "country": "LTU",
+        "score": 37.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Darius Janutis",
+        "country": "LTU",
+        "score": 32.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Donaldas Andriulis",
+        "country": "LTU",
+        "score": 23.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Karolis Aleksandravičius",
+        "country": "LTU",
+        "score": 20.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Deividas Ignatavičius",
+        "country": "LTU",
+        "score": 15.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2857,
+    "contest_name": "2017 Baltijos galiÅ«nÅ³ Äempionato",
+    "details": "TauragÄ, Lithuania, 2017-06-02",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2857",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 62.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Jānis Šleckus",
+        "country": "LAT",
+        "score": 56.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Saulius Brusokas",
+        "country": "LTU",
+        "score": 52.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2858,
+    "contest_name": "2017 Baltijos galiÅ«nÅ³ Äempionato",
+    "details": "AkmenÄ, Lithuania, 2017-06-10",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2858",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 46.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Martynas Brusokas",
+        "country": "LTU",
+        "score": 36.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Jānis Šleckus",
+        "country": "LAT",
+        "score": 34.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Deividas Ignatavičius",
+        "country": "LTU",
+        "score": 34.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Oskars Martuzāns",
+        "country": "LAT",
+        "score": 33.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Saulius Brusokas",
+        "country": "LTU",
+        "score": 33.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Karolis Aleksandravičius",
+        "country": "LTU",
+        "score": 28.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Mindaugas Jaras",
+        "country": "LTU",
+        "score": 28.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Donaldas Andriulis",
+        "country": "LTU",
+        "score": 18.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Darius Janutis",
+        "country": "LTU",
+        "score": 14.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2859,
+    "contest_name": "2017 Lietuvos galiÅ«nÅ³ Äempionato",
+    "details": "Kretinga, Lithuania, 2017-06-16",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2859",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 65.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Donaldas Andriulis",
+        "country": "LTU",
+        "score": 58.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Martynas Brusokas",
+        "country": "LTU",
+        "score": 57.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Dainius Repšys",
+        "country": "LTU",
+        "score": 57.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Mindaugas Jaras",
+        "country": "LTU",
+        "score": 45.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Antanas Žiurauskas",
+        "country": "LTU",
+        "score": 37.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Darius Janutis",
+        "country": "LTU",
+        "score": 30.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Karolis Aleksandravičius",
+        "country": "LTU",
+        "score": 28.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Kęstutis Daugėla",
+        "country": "LTU",
+        "score": 27.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Martynas Vaitkevičius",
+        "country": "LTU",
+        "score": 25.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "score": 19.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Marius Jančiukas",
+        "country": "LTU",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2860,
+    "contest_name": "2017 Baltic Strongest Man",
+    "details": "RadviliÅ¡kis, Lithuania, 2017-07-06",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2860",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jānis Šleckus",
+        "country": "LAT",
+        "score": 37.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 35.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Mindaugas Jaras",
+        "country": "LTU",
+        "score": 28.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Martynas Brusokas",
+        "country": "LTU",
+        "score": 25.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Donaldas Andriulis",
+        "country": "LTU",
+        "score": 13.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "score": 12.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Karolis Aleksandravičius",
+        "country": "LTU",
+        "score": 11.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2861,
+    "contest_name": "2016 Baltijos galiÅ«nÅ³ Äempionato",
+    "details": "TauragÄ, Lithuania, 2016-06-03",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2861",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 76.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jānis Šleckus",
+        "country": "LAT",
+        "score": 73.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Marius Beniušis",
+        "country": "LTU",
+        "score": 54.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Dainius Repšys",
+        "country": "LTU",
+        "score": 54.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Māris Rozentāls",
+        "country": "LAT",
+        "score": 53.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Edgars Andersons",
+        "country": "LAT",
+        "score": 52.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Markus Männik",
+        "country": "EST",
+        "score": 50.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Mindaugas Jaras",
+        "country": "LTU",
+        "score": 33.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Donaldas Andriulis",
+        "country": "LTU",
+        "score": 32.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Vitalijus Grižanauskas",
+        "country": "LTU",
+        "score": 22.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Martynas Brusokas",
+        "country": "LTU",
+        "score": 20.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Marius Jančiukas",
+        "country": "LTU",
+        "score": 17.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2862,
+    "contest_name": "2016 Baltijos galiÅ«nÅ³ Äempionato",
+    "details": "KurÅ¡Änai, Lithuania, 2016-05-22",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2862",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Vytautas Lalas",
+        "country": "LTU",
+        "score": 98.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Saulius Brusokas",
+        "country": "LTU",
+        "score": 79.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Markus Männik",
+        "country": "EST",
+        "score": 78.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2863,
+    "contest_name": "2016 Baltijos galiÅ«nÅ³ Äempionato",
+    "details": "TelÅ¡iai, Lithuania, 2016-06-11",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2863",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Markus Männik",
+        "country": "EST",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jānis Šleckus",
+        "country": "LAT",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2864,
+    "contest_name": "2016 Baltijos galiÅ«nÅ³ Äempionato",
+    "details": "RokiÅ¡kis, Lithuania, 2016-06-24",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2864",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 66.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Saulius Brusokas",
+        "country": "LTU",
+        "score": 58.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Markus Männik",
+        "country": "EST",
+        "score": 48.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Mindaugas Jaras",
+        "country": "LTU",
+        "score": 39.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Edgars Andersons",
+        "country": "LAT",
+        "score": 38.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Dainius Repšys",
+        "country": "LTU",
+        "score": 37.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Donaldas Andriulis",
+        "country": "LTU",
+        "score": 36.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Darius Janutis",
+        "country": "LTU",
+        "score": 33.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Māris Rozentāls",
+        "country": "LAT",
+        "score": 33.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Jānis Šleckus",
+        "country": "LAT",
+        "score": 27.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Paul Erik Rosenberg",
+        "country": "EST",
+        "score": 26.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Vitalijus Grižanauskas",
+        "country": "LTU",
+        "score": 13.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2865,
+    "contest_name": "2016 Baltijos galiÅ«nÅ³ Äempionato",
+    "details": "Sidabravas, Lithuania, 2016-07-02",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2865",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 53.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Markus Männik",
+        "country": "EST",
+        "score": 51.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Saulius Brusokas",
+        "country": "LTU",
+        "score": 44.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Edgars Andersons",
+        "country": "LAT",
+        "score": 41.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Donaldas Andriulis",
+        "country": "LTU",
+        "score": 34.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Dainius Repšys",
+        "country": "LTU",
+        "score": 31.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Mindaugas Jaras",
+        "country": "LTU",
+        "score": 24.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Māris Rozentāls",
+        "country": "LAT",
+        "score": 22.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Darius Janutis",
+        "country": "LTU",
+        "score": 19.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Vitalijus Grižanauskas",
+        "country": "LTU",
+        "score": 2.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2866,
+    "contest_name": "2016 Baltic Strongest Man",
+    "details": "Sidabravas, Lithuania, 2016-07-02",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2866",
+    "total_competitors": 19,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 115.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Markus Männik",
+        "country": "EST",
+        "score": 96.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Saulius Brusokas",
+        "country": "LTU",
+        "score": 96.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Edgars Andersons",
+        "country": "LAT",
+        "score": 55.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Jānis Šleckus",
+        "country": "LAT",
+        "score": 48.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Mindaugas Jaras",
+        "country": "LTU",
+        "score": 41.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Donaldas Andriulis",
+        "country": "LTU",
+        "score": 37.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Dainius Repšys",
+        "country": "LTU",
+        "score": 34.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Vytautas Lalas",
+        "country": "LTU",
+        "score": 25.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Māris Rozentāls",
+        "country": "LAT",
+        "score": 22.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Marius Beniušis",
+        "country": "LTU",
+        "score": 20.0
+      },
+      {
+        "rank": "12",
+        "person_name": "Darius Janutis",
+        "country": "LTU",
+        "score": 20.0
+      },
+      {
+        "rank": "13",
+        "person_name": "Antanas Abrutis",
+        "country": "LTU",
+        "score": 13.0
+      },
+      {
+        "rank": "14",
+        "person_name": "Vitalijus Grižanauskas",
+        "country": "LTU",
+        "score": 9.0
+      },
+      {
+        "rank": "15",
+        "person_name": "Dalius Ziminskas",
+        "country": "LTU",
+        "score": 6.0
+      },
+      {
+        "rank": "16",
+        "person_name": "Artūras Urbanavičius",
+        "country": "LTU",
+        "score": 2.0
+      },
+      {
+        "rank": "17",
+        "person_name": "Paul Erik Rosenberg",
+        "country": "EST",
+        "score": 2.0
+      },
+      {
+        "rank": "18",
+        "person_name": "Martynas Brusokas",
+        "country": "LTU",
+        "score": 1.0
+      },
+      {
+        "rank": "19",
+        "person_name": "Kęstutis Daugėla",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2867,
+    "contest_name": "2015 Lietuvos galiÅ«nÅ³ Äempionato",
+    "details": "TauragÄ, Lithuania, 2015-05-31",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2867",
+    "total_competitors": 11,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Saulius Brusokas",
+        "country": "LTU",
+        "score": 74.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Dainius Repšys",
+        "country": "LTU",
+        "score": 49.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Donaldas Andriulis",
+        "country": "LTU",
+        "score": 49.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Martynas Brusokas",
+        "country": "LTU",
+        "score": 42.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Antanas Žiurauskas",
+        "country": "LTU",
+        "score": 40.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Darius Janutis",
+        "country": "LTU",
+        "score": 38.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Mindaugas Jaras",
+        "country": "LTU",
+        "score": 38.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Tadas Gečas",
+        "country": "LTU",
+        "score": 33.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Dalius Ziminskas",
+        "country": "LTU",
+        "score": 30.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Vitalijus Grižanauskas",
+        "country": "LTU",
+        "score": 24.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Karolis Aleksandravičius",
+        "country": "LTU",
+        "score": 13.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2868,
+    "contest_name": "2015 Å½iemos galiÅ«nas",
+    "details": "VilkaviÅ¡kis, Lithuania, 2015-02-07",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2868",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Grzegorz Szymański",
+        "country": "POL",
+        "score": 40.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 37.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Saulius Brusokas",
+        "country": "LTU",
+        "score": 34.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2869,
+    "contest_name": "2015 Lietuvos galiÅ«nÅ³ Äempionato",
+    "details": "TeiÅ¡iai, Lithuania, 2015-06-13",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2869",
+    "total_competitors": 15,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Saulius Brusokas",
+        "country": "LTU",
+        "score": 94.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 93.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Jānis Šleckus",
+        "country": "LAT",
+        "score": 73.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Dalius Ziminskas",
+        "country": "LTU",
+        "score": 70.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Mindaugas Jaras",
+        "country": "LTU",
+        "score": 62.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Antanas Žiurauskas",
+        "country": "LTU",
+        "score": 62.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Martynas Brusokas",
+        "country": "LTU",
+        "score": 60.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Oleksii Novikov",
+        "country": "UKR",
+        "score": 54.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Dainius Repšys",
+        "country": "LTU",
+        "score": 51.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Mindaugas Brazauskas",
+        "country": "LTU",
+        "score": 46.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Tadas Gečas",
+        "country": "LTU",
+        "score": 45.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Darius Janutis",
+        "country": "LTU",
+        "score": 39.0
+      },
+      {
+        "rank": "13",
+        "person_name": "Donaldas Andriulis",
+        "country": "LTU",
+        "score": 33.5
+      },
+      {
+        "rank": "14",
+        "person_name": "Dmitry Tanashchuk",
+        "country": "UKR",
+        "score": 27.0
+      },
+      {
+        "rank": "15",
+        "person_name": "Antanas Abrutis",
+        "country": "LTU",
+        "score": 20.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2870,
+    "contest_name": "2015 Lietuvos galiÅ«nÅ³ Äempionato",
+    "details": "BirÅ¡tonas, Lithuania, 2015-07-06",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2870",
+    "total_competitors": 11,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Saulius Brusokas",
+        "country": "LTU",
+        "score": 69.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Donaldas Andriulis",
+        "country": "LTU",
+        "score": 55.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Antanas Žiurauskas",
+        "country": "LTU",
+        "score": 50.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Oleksii Novikov",
+        "country": "UKR",
+        "score": 46.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Dalius Ziminskas",
+        "country": "LTU",
+        "score": 44.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 40.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Dainius Repšys",
+        "country": "LTU",
+        "score": 36.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Mindaugas Jaras",
+        "country": "LTU",
+        "score": 34.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Darius Janutis",
+        "country": "LTU",
+        "score": 32.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Vitalijus Grižanauskas",
+        "country": "LTU",
+        "score": 27.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Tadas Gečas",
+        "country": "LTU",
+        "score": 24.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2871,
+    "contest_name": "2015 Lietuvos galiÅ«nÅ³ Äempionato",
+    "details": "Palanga, Lithuania, 2015-08-22",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2871",
+    "total_competitors": 11,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 65.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jānis Šleckus",
+        "country": "LAT",
+        "score": 56.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Dainius Repšys",
+        "country": "LTU",
+        "score": 53.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Oleksii Novikov",
+        "country": "UKR",
+        "score": 53.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Dalius Ziminskas",
+        "country": "LTU",
+        "score": 44.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Martynas Brusokas",
+        "country": "LTU",
+        "score": 43.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Donaldas Andriulis",
+        "country": "LTU",
+        "score": 40.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Mindaugas Jaras",
+        "country": "LTU",
+        "score": 34.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Tadas Gečas",
+        "country": "LTU",
+        "score": 29.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Darius Janutis",
+        "country": "LTU",
+        "score": 28.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Vitalijus Grižanauskas",
+        "country": "LTU",
+        "score": 8.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2872,
+    "contest_name": "2009 Lietuvos galiÅ«nÅ³ Äempionato",
+    "details": "Jurbarkas, Lithuania, 2009-06-21",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2872",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 72.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Alvydas Brazdžius",
+        "country": "LTU",
+        "score": 64.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Nerijus Liobikas",
+        "country": "LTU",
+        "score": 56.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2873,
+    "contest_name": "2009 Lietuvos galiÅ«nÅ³ Äempionato",
+    "details": "Alytus, Lithuania, 2009-07-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2873",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Žydrūnas Savickas",
+        "country": "LTU",
+        "score": 48.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Saulius Brusokas",
+        "country": "LTU",
+        "score": 37.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Vilius Petrauskas",
+        "country": "LTU",
+        "score": 37.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Nerijus Liobikas",
+        "country": "LTU",
+        "score": 22.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Darius Miškelis",
+        "country": "LTU",
+        "score": 21.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Darius Šukys",
+        "country": "LTU",
+        "score": 17.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Vidas Blekaitis",
+        "country": "LTU",
+        "score": 15.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Kęstutis Gilys",
+        "country": "LTU",
+        "score": 10.5
       }
     ]
   }
