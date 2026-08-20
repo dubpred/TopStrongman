@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const repoDir = "c:\\Users\\bkyou\\Desktop\\antigravity apps\\Strongman Rankings";
+const repoDir = __dirname;
 const DATASET_FILE = path.join(repoDir, "strongman_contests_dataset.json");
 const OUTPUT_RANKINGS = path.join(repoDir, "frontend", "src", "services", "alltime_rankings.json");
 const OUTPUT_CONTESTS = path.join(repoDir, "frontend", "src", "services", "ranked_contests.json");
