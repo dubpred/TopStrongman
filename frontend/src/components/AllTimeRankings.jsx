@@ -31,14 +31,13 @@ const getCountryFlagUrl = (countryCode) => {
 export default function AllTimeRankings({ onSelectCompetitor }) {
   const [division, setDivision] = useState('men');
   const [searchQuery, setSearchQuery] = useState('');
-  const [sortBy, setSortBy] = useState('goatScore'); // goatScore, majorTitles, totalWins, winRate
   const [showExplanation, setShowExplanation] = useState(false);
 
   const rawData = useMemo(() => {
     return getAllTimeRankings(division);
   }, [division]);
 
-  // Filter by search and sort
+  // Filter by search
   const filteredRankings = useMemo(() => {
     let list = [...rawData];
 
@@ -51,16 +50,9 @@ export default function AllTimeRankings({ onSelectCompetitor }) {
       );
     }
 
-    // Sort
-    list.sort((a, b) => {
-      if (sortBy === 'majorTitles') return b.majorTitles - a.majorTitles || b.goatScore - a.goatScore;
-      if (sortBy === 'totalWins') return b.totalWins - a.totalWins || b.goatScore - a.goatScore;
-      if (sortBy === 'winRate') return b.winRate - a.winRate || b.goatScore - a.goatScore;
-      return b.goatScore - a.goatScore;
-    });
-
+    list.sort((a, b) => b.goatScore - a.goatScore);
     return list;
-  }, [rawData, searchQuery, sortBy]);
+  }, [rawData, searchQuery]);
 
   const handleAthleteClick = (athlete) => {
     if (onSelectCompetitor) {
@@ -156,33 +148,17 @@ export default function AllTimeRankings({ onSelectCompetitor }) {
         </div>
       </div>
 
-      {/* Search and Sort Controls */}
-      <div className="bg-[#0e0e0e] border-2 border-[#262626] p-3.5 sm:p-5 shadow-xl space-y-3">
-        <div className="flex flex-col sm:flex-row gap-3">
-          <div className="relative flex-1">
-            <Search className="w-4 h-4 text-zinc-500 absolute left-3.5 top-1/2 -translate-y-1/2" />
-            <input
-              type="text"
-              placeholder="Search all-time legend (e.g. Savickas, Shaw, Kazmaier)..."
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full pl-10 pr-4 py-2.5 bg-[#141414] border border-[#2a2a2a] focus:border-red-600 text-white font-sans text-xs sm:text-sm outline-none transition-colors placeholder:text-zinc-600 rounded-none"
-            />
-          </div>
-
-          <div className="flex items-center gap-2">
-            <span className="text-[11px] font-mono text-zinc-400 uppercase font-bold whitespace-nowrap">Sort By:</span>
-            <select
-              value={sortBy}
-              onChange={(e) => setSortBy(e.target.value)}
-              className="flex-1 sm:flex-initial bg-[#141414] border border-[#2a2a2a] focus:border-red-600 text-white font-mono text-xs py-2.5 px-3 outline-none rounded-none"
-            >
-              <option value="goatScore">GOAT Score (Overall)</option>
-              <option value="majorTitles">Major Titles (WSM + ASC + SMOE + Rogue)</option>
-              <option value="totalWins">Total Career Wins</option>
-              <option value="winRate">Career Win %</option>
-            </select>
-          </div>
+      {/* Search Bar */}
+      <div className="bg-[#0e0e0e] border-2 border-[#262626] p-3.5 sm:p-5 shadow-xl">
+        <div className="relative">
+          <Search className="w-4 h-4 text-zinc-500 absolute left-3.5 top-1/2 -translate-y-1/2" />
+          <input
+            type="text"
+            placeholder="Search all-time legend (e.g. Savickas, Shaw, Kazmaier, Sigmarsson)..."
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            className="w-full pl-10 pr-4 py-2.5 bg-[#141414] border border-[#2a2a2a] focus:border-red-600 text-white font-sans text-xs sm:text-sm outline-none transition-colors placeholder:text-zinc-600 rounded-none"
+          />
         </div>
       </div>
 
