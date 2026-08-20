@@ -10,9 +10,11 @@ import { computeRankingsFromDatabase, getCompetitionByName } from './services/da
 
 export default function App() {
   const checkIsGoatUrl = () => {
-    const p = (window.location.pathname || '').toUpperCase();
-    const h = (window.location.hash || '').toUpperCase();
-    return p === '/GOAT' || p === '/GOAT/' || h === '#/GOAT' || h === '#GOAT';
+    const pathname = (window.location.pathname || '').toLowerCase();
+    const hash = (window.location.hash || '').toLowerCase();
+    const search = (window.location.search || '').toLowerCase();
+    return pathname.includes('goat') || hash.includes('goat') || search.includes('goat') ||
+           pathname.includes('alltime') || hash.includes('alltime');
   };
 
   const [activeTab, setActiveTabState] = useState(() => (checkIsGoatUrl() ? 'alltime' : 'all'));
@@ -24,9 +26,9 @@ export default function App() {
   const setActiveTab = (tab) => {
     setActiveTabState(tab);
     if (tab === 'alltime') {
-      window.history.pushState({}, '', '/GOAT');
+      window.history.pushState({}, '', '/goat');
     } else {
-      if (window.location.pathname.toUpperCase() === '/GOAT') {
+      if (checkIsGoatUrl()) {
         window.history.pushState({}, '', '/');
       }
     }
