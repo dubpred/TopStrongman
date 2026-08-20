@@ -2,7 +2,7 @@ import React, { useState, useMemo } from 'react';
 import { getAllShowsWithDifficulty } from '../services/databaseService';
 import { TrendingUp, Search, Filter, Info, ShieldCheck, Award } from 'lucide-react';
 
-export default function DifficultyGraph() {
+export default function DifficultyGraph({ onSelectCompetition }) {
   const [division, setDivision] = useState('men');
   const [selectedTier, setSelectedTier] = useState('ALL');
   const [searchTerm, setSearchTerm] = useState('');
@@ -249,6 +249,7 @@ export default function DifficultyGraph() {
                   fill="#DC2626"
                   stroke="#000000"
                   strokeWidth="0.75"
+                  onClick={() => onSelectCompetition && onSelectCompetition(show.name)}
                 />
               </g>
             );
@@ -257,13 +258,14 @@ export default function DifficultyGraph() {
 
         {/* Floating Tooltip Card */}
         {hoveredShow && (
-          <div className="mt-4 bg-[#181818] border-2 border-white rounded-none p-4 flex flex-col sm:flex-row sm:items-center justify-between gap-3 animate-in fade-in duration-100">
+          <div 
+            onClick={() => onSelectCompetition && onSelectCompetition(hoveredShow.name)}
+            className="mt-4 bg-[#181818] border-2 border-white rounded-none p-4 flex flex-col sm:flex-row sm:items-center justify-between gap-3 animate-in fade-in duration-100 cursor-pointer hover:bg-[#222] transition-colors group"
+          >
             <div className="space-y-1">
               <div className="flex items-center space-x-2">
-                <span
-                  className="w-3 h-3 inline-block rounded-none bg-red-600"
-                ></span>
-                <span className="font-display text-2xl font-black text-white uppercase tracking-wider">{hoveredShow.name}</span>
+                <span className="w-3 h-3 inline-block rounded-none bg-red-600"></span>
+                <span className="font-display text-2xl font-black text-white group-hover:text-red-500 transition-colors uppercase tracking-wider">{hoveredShow.name}</span>
                 <span className="text-xs font-mono px-2 py-0.5 bg-[#080808] text-white border border-[#333] rounded-none font-bold">
                   {hoveredShow.tier}
                 </span>
@@ -271,6 +273,9 @@ export default function DifficultyGraph() {
               <p className="text-xs text-zinc-300 font-mono">
                 PROMOTION: <span className="text-white font-bold">{hoveredShow.promotion}</span> • YEAR: <span className="text-white font-bold">{hoveredShow.year}</span> • DATE: <span className="text-white font-bold">{hoveredShow.date}</span>
               </p>
+              <div className="text-[11px] font-mono text-red-400 font-bold flex items-center gap-1 pt-1">
+                <span>CLICK TO VIEW DECISIONING MATH & FULL RESULTS ➔</span>
+              </div>
             </div>
             <div className="text-right font-mono bg-[#080808] px-4 py-2 border-2 border-[#262626] rounded-none">
               <div className="text-[10px] text-zinc-400 uppercase font-bold">SHOW DIFFICULTY</div>
@@ -287,23 +292,24 @@ export default function DifficultyGraph() {
       <div className="space-y-3 pt-2">
         <div className="flex items-center justify-between text-xs font-mono text-zinc-300 font-bold uppercase tracking-wider">
           <span>TOP 5 HARDEST COMPETITIONS IN DATABASE</span>
-          <span className="text-white font-black">0 - 1000 PTS BENCHMARK</span>
+          <span className="text-white font-black">CLICK TO VIEW DECISIONING MATH</span>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-5 gap-3 font-mono text-xs">
           {rawShows.slice(0, 5).map((show, idx) => (
             <div
               key={show.name}
-              onClick={() => setHoveredShow(show)}
-              className="bg-[#181818] p-3 border-2 border-[#262626] cursor-pointer hover:border-white rounded-none transition-all space-y-1"
+              onClick={() => onSelectCompetition ? onSelectCompetition(show.name) : setHoveredShow(show)}
+              className="bg-[#181818] p-3 border-2 border-[#262626] cursor-pointer hover:border-white rounded-none transition-all space-y-1 group"
             >
               <div className="flex items-center justify-between text-[10px] text-zinc-400 uppercase">
                 <span>#{idx + 1} HARDEST</span>
                 <span className="text-white font-black">{show.tier}</span>
               </div>
-              <div className="font-display text-base font-black text-white truncate uppercase">{show.name}</div>
+              <div className="font-display text-base font-black text-white group-hover:text-red-500 transition-colors truncate uppercase">{show.name}</div>
               <div className="font-display text-3xl font-black text-white">
                 {show.difficulty.toFixed(1)} <span className="text-[10px] text-zinc-400 font-normal">PTS</span>
               </div>
+              <div className="text-[9px] text-zinc-500 font-mono group-hover:text-zinc-300 uppercase">View Formula ➔</div>
             </div>
           ))}
         </div>

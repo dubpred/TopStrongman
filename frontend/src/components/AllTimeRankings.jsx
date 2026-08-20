@@ -1,0 +1,325 @@
+import React, { useState, useMemo } from 'react';
+import { Trophy, Award, Crown, Search, ChevronRight, Shield, Zap, Info, Calendar } from 'lucide-react';
+import { getAllTimeRankings } from '../services/databaseService';
+
+// Flag SVG helper mapping
+const countryToFlagCode = {
+  'LTU': 'lt', 'USA': 'us', 'POL': 'pl', 'CAN': 'ca', 'ISL': 'is',
+  'GBR': 'gb', 'ENG': 'gb-eng', 'SCO': 'gb-sct', 'WAL': 'gb-wls',
+  'UKR': 'ua', 'NOR': 'no', 'SWE': 'se', 'FIN': 'fi', 'LAT': 'lv',
+  'EST': 'ee', 'GER': 'de', 'DEU': 'de', 'RUS': 'ru', 'GEO': 'ge', 'BUL': 'bg',
+  'NED': 'nl', 'NLD': 'nl', 'BEL': 'be', 'FRA': 'fr', 'AUS': 'au', 'NZL': 'nz',
+  'RSA': 'za', 'ZAF': 'za', 'BRA': 'br', 'HUN': 'hu', 'CZE': 'cz', 'AUT': 'at',
+  'SRB': 'rs', 'SLO': 'si', 'SVN': 'si', 'SVK': 'sk', 'IRL': 'ie', 'ITA': 'it',
+  'PUR': 'pr', 'MEX': 'mx', 'GHA': 'gh', 'IRI': 'ir',
+  'DEN': 'dk', 'DNK': 'dk', 'DK': 'dk',
+  'SUI': 'ch', 'CHE': 'ch', 'ESP': 'es', 'POR': 'pt', 'PRT': 'pt',
+  'ROU': 'ro', 'CRO': 'hr', 'HRV': 'hr', 'BIH': 'ba', 'GRE': 'gr', 'GRC': 'gr',
+  'CYP': 'cy', 'TUR': 'tr', 'ISR': 'il', 'JPN': 'jp', 'CHN': 'cn', 'KOR': 'kr',
+  'IND': 'in', 'EGY': 'eg', 'NGR': 'ng', 'KEN': 'ke', 'ARG': 'ar', 'CHI': 'cl',
+  'CHL': 'cl', 'COL': 'co', 'FRO': 'fo', 'SAM': 'ws', 'WSM': 'ws', 'FIJ': 'fj', 'TGA': 'to',
+  'MAR': 'ma', 'ALG': 'dz', 'TUN': 'tn', 'BFA': 'bf', 'BUR': 'bf', 'CMR': 'cm'
+};
+
+const getCountryFlagUrl = (countryCode) => {
+  if (!countryCode) return null;
+  const upper = countryCode.toUpperCase().trim();
+  const code = countryToFlagCode[upper] || countryCode.toLowerCase().trim();
+  return `https://flagcdn.com/w40/${code}.png`;
+};
+
+export default function AllTimeRankings({ onSelectCompetitor }) {
+  const [division, setDivision] = useState('men');
+  const [searchQuery, setSearchQuery] = useState('');
+  const [sortBy, setSortBy] = useState('goatScore'); // goatScore, majorTitles, totalWins, winRate
+  const [showExplanation, setShowExplanation] = useState(false);
+
+  const rawData = useMemo(() => {
+    return getAllTimeRankings(division);
+  }, [division]);
+
+  // Filter by search and sort
+  const filteredRankings = useMemo(() => {
+    let list = [...rawData];
+
+    if (searchQuery.trim()) {
+      const q = searchQuery.toLowerCase().trim();
+      list = list.filter(item =>
+        item.name.toLowerCase().includes(q) ||
+        (item.country && item.country.toLowerCase().includes(q)) ||
+        item.activeYears.includes(q)
+      );
+    }
+
+    // Sort
+    list.sort((a, b) => {
+      if (sortBy === 'majorTitles') return b.majorTitles - a.majorTitles || b.goatScore - a.goatScore;
+      if (sortBy === 'totalWins') return b.totalWins - a.totalWins || b.goatScore - a.goatScore;
+      if (sortBy === 'winRate') return b.winRate - a.winRate || b.goatScore - a.goatScore;
+      return b.goatScore - a.goatScore;
+    });
+
+    return list;
+  }, [rawData, searchQuery, sortBy]);
+
+  const handleAthleteClick = (athlete) => {
+    if (onSelectCompetitor) {
+      onSelectCompetitor({
+        ...athlete,
+        totalPoints: athlete.goatScore,
+        globalRank: athlete.rank,
+        winsCount: athlete.totalWins,
+        podiumsCount: athlete.totalPodiums,
+        totalShows: athlete.totalShows,
+        evaluatedCount: athlete.topShows ? athlete.topShows.length : 0,
+        topShows: athlete.topShows || [],
+        isAllTime: true
+      });
+    }
+  };
+
+  return (
+    <div className="space-y-10 pb-16">
+      
+      {/* Header Banner (Rogue Steel Industrial Design) */}
+      <div className="relative bg-[#080808] border-4 border-[#262626] p-6 sm:p-10 shadow-2xl overflow-hidden">
+        <div className="absolute top-0 right-0 w-96 h-96 bg-red-600/10 rounded-full blur-3xl pointer-events-none -mr-20 -mt-20"></div>
+        <div className="relative z-10 flex flex-col md:flex-row md:items-center justify-between gap-6">
+          <div className="space-y-3">
+            <div className="inline-flex items-center gap-2 px-3 py-1 bg-red-950/60 border border-red-800/80 text-red-400 font-mono text-xs tracking-widest uppercase font-bold">
+              <Crown className="w-3.5 h-3.5 text-yellow-500" />
+              <span>Historical World Rankings (1977 – Present)</span>
+            </div>
+            <h1 className="font-display text-4xl sm:text-6xl md:text-7xl font-black uppercase tracking-tight text-white leading-none">
+              BEST OF <span className="text-red-600">ALL TIME</span>
+            </h1>
+            <p className="text-zinc-400 text-sm sm:text-base max-w-2xl font-sans leading-relaxed">
+              Evaluating the absolute greatest strongman legends in history. Powered by our recursive field-strength model and exponential placement decay across all career competitions.
+            </p>
+          </div>
+
+          <div className="flex flex-col sm:flex-row md:flex-col gap-3 shrink-0">
+            <button
+              onClick={() => setShowExplanation(!showExplanation)}
+              className="flex items-center justify-center gap-2 px-4 py-2.5 bg-[#141414] hover:bg-[#202020] border-2 border-[#333] text-zinc-300 text-xs font-mono font-bold tracking-wider uppercase transition-all"
+            >
+              <Info className="w-4 h-4 text-red-500" />
+              <span>{showExplanation ? 'Hide Methodology' : 'How It Works'}</span>
+            </button>
+          </div>
+        </div>
+
+        {/* Methodology Dropdown */}
+        {showExplanation && (
+          <div className="mt-8 pt-6 border-t-2 border-[#262626] grid grid-cols-1 md:grid-cols-2 gap-4 text-xs font-sans text-zinc-400">
+            <div className="bg-[#121212] p-4 border border-[#222]">
+              <div className="font-display text-sm font-black text-white uppercase tracking-wider mb-1 flex items-center gap-2">
+                <Zap className="w-4 h-4 text-yellow-500" /> 1. Recursive Competition Difficulty
+              </div>
+              <p>Every historical contest from 1977 to present has its difficulty calculated recursively (0–1000 pts) based on the caliber of athletes who placed in the top 5.</p>
+            </div>
+            <div className="bg-[#121212] p-4 border border-[#222]">
+              <div className="font-display text-sm font-black text-white uppercase tracking-wider mb-1 flex items-center gap-2">
+                <Trophy className="w-4 h-4 text-emerald-500" /> 2. Placement Performance Points
+              </div>
+              <p>Athletes earn points from each show based on its difficulty and finishing rank (1st = 100%, 2nd = 77.9%, 3rd = 60.7%). Total career score is the sum of points earned.</p>
+            </div>
+          </div>
+        )}
+      </div>
+
+      {/* Division Switcher */}
+      <div className="flex justify-center">
+        <div className="inline-flex p-1.5 bg-[#0e0e0e] border-2 border-[#262626] shadow-xl">
+          <button
+            onClick={() => setDivision('men')}
+            className={`px-8 py-3 font-display text-lg sm:text-xl font-black tracking-wider uppercase transition-all ${
+              division === 'men'
+                ? 'bg-red-600 text-white shadow-lg shadow-red-950/50'
+                : 'text-zinc-400 hover:text-white'
+            }`}
+          >
+            MEN'S OPEN (1977–PRESENT)
+          </button>
+          <button
+            onClick={() => setDivision('women')}
+            className={`px-8 py-3 font-display text-lg sm:text-xl font-black tracking-wider uppercase transition-all ${
+              division === 'women'
+                ? 'bg-red-600 text-white shadow-lg shadow-red-950/50'
+                : 'text-zinc-400 hover:text-white'
+            }`}
+          >
+            WOMEN'S OPEN (1997–PRESENT)
+          </button>
+        </div>
+      </div>
+
+      {/* Search and Sort Controls */}
+      <div className="bg-[#0e0e0e] border-2 border-[#262626] p-4 sm:p-6 shadow-xl">
+        <div className="flex flex-col sm:flex-row gap-3">
+          <div className="relative flex-1">
+            <Search className="w-4 h-4 text-zinc-500 absolute left-3.5 top-1/2 -translate-y-1/2" />
+            <input
+              type="text"
+              placeholder="Search all-time legend by name, country (LTU, USA, ISL, POL), or years..."
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              className="w-full pl-10 pr-4 py-2.5 bg-[#141414] border border-[#2a2a2a] focus:border-red-600 text-white font-sans text-sm outline-none transition-colors placeholder:text-zinc-600"
+            />
+          </div>
+
+          <div className="flex items-center gap-2">
+            <span className="text-xs font-mono text-zinc-400 uppercase font-bold whitespace-nowrap">Sort By:</span>
+            <select
+              value={sortBy}
+              onChange={(e) => setSortBy(e.target.value)}
+              className="bg-[#141414] border border-[#2a2a2a] focus:border-red-600 text-white font-mono text-xs py-2.5 px-3 outline-none"
+            >
+              <option value="goatScore">GOAT Score (Overall)</option>
+              <option value="majorTitles">Major Titles (WSM + ASC + SMOE + Rogue)</option>
+              <option value="totalWins">Total Career Wins</option>
+              <option value="winRate">Career Win %</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      {/* Full Leaderboard Table */}
+      <div className="bg-[#0a0a0a] border-2 border-[#262626] overflow-hidden shadow-2xl">
+        <div className="overflow-x-auto">
+          <table className="w-full text-left border-collapse font-sans">
+            <thead>
+              <tr className="bg-[#121212] border-b-2 border-[#262626] text-zinc-400 font-mono text-xs uppercase tracking-wider">
+                <th className="py-3.5 px-4 w-16 text-center">Rank</th>
+                <th className="py-3.5 px-4">Legend / Athlete</th>
+                <th className="py-3.5 px-4">Career Span</th>
+                <th className="py-3.5 px-4 text-center">Major Titles</th>
+                <th className="py-3.5 px-4 text-center">Career Record</th>
+                <th className="py-3.5 px-4 text-right">GOAT Score</th>
+                <th className="py-3.5 px-4 w-10"></th>
+              </tr>
+            </thead>
+            <tbody className="divide-y divide-[#1c1c1c] text-sm">
+              {filteredRankings.slice(0, 100).map((athlete, idx) => {
+                const isTop1 = athlete.rank === 1;
+                const isTop3 = athlete.rank <= 3;
+                const isTop10 = athlete.rank <= 10;
+
+                return (
+                  <tr
+                    key={athlete.name}
+                    onClick={() => handleAthleteClick(athlete)}
+                    className={`hover:bg-[#151515] transition-colors cursor-pointer group ${
+                      isTop1 ? 'bg-yellow-950/10' : (isTop3 ? 'bg-zinc-900/30' : '')
+                    }`}
+                  >
+                    {/* Rank */}
+                    <td className="py-4 px-4 text-center">
+                      <span className={`font-display text-xl font-black ${
+                        isTop1 ? 'text-yellow-400' :
+                        athlete.rank === 2 ? 'text-zinc-300' :
+                        athlete.rank === 3 ? 'text-amber-500' :
+                        isTop10 ? 'text-white' : 'text-zinc-500'
+                      }`}>
+                        #{athlete.rank}
+                      </span>
+                    </td>
+
+                    {/* Athlete Name & Country */}
+                    <td className="py-4 px-4">
+                      <div className="flex items-center gap-3">
+                        {athlete.country && (
+                          <img
+                            src={getCountryFlagUrl(athlete.country)}
+                            alt={athlete.country}
+                            className="w-6 h-4 object-cover rounded-none border border-zinc-700 shrink-0"
+                          />
+                        )}
+                        <div>
+                          <div className="font-display text-lg sm:text-xl font-black text-white group-hover:text-red-500 transition-colors uppercase leading-none">
+                            {athlete.name}
+                          </div>
+                          <div className="text-xs font-mono text-zinc-500 mt-0.5">
+                            {athlete.country || 'N/A'}
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+
+                    {/* Career Span */}
+                    <td className="py-4 px-4 font-mono text-xs text-zinc-300">
+                      <div className="flex items-center gap-1.5">
+                        <Calendar className="w-3.5 h-3.5 text-zinc-500" />
+                        <span>{athlete.activeYears}</span>
+                      </div>
+                      <div className="text-[11px] text-zinc-500">{athlete.totalShows} Contests Recorded</div>
+                    </td>
+
+                    {/* Major Titles */}
+                    <td className="py-4 px-4 text-center">
+                      <div className="inline-flex flex-wrap justify-center gap-1.5 text-xs font-mono">
+                        {athlete.wsmWins > 0 && (
+                          <span className="px-2 py-0.5 bg-yellow-950/80 border border-yellow-700/80 text-yellow-400 font-black">
+                            🏆 {athlete.wsmWins}x WSM
+                          </span>
+                        )}
+                        {athlete.ascWins > 0 && (
+                          <span className="px-2 py-0.5 bg-red-950/80 border border-red-800 text-red-400 font-bold">
+                            🥇 {athlete.ascWins}x ASC
+                          </span>
+                        )}
+                        {athlete.smoeWins > 0 && (
+                          <span className="px-2 py-0.5 bg-amber-950/80 border border-amber-800 text-amber-400 font-bold">
+                            ⚡ {athlete.smoeWins}x SMOE
+                          </span>
+                        )}
+                        {athlete.rogueWins > 0 && (
+                          <span className="px-2 py-0.5 bg-zinc-900 border border-zinc-500 text-white font-bold">
+                            ⚔️ {athlete.rogueWins}x ROGUE
+                          </span>
+                        )}
+                        {athlete.wsmWins === 0 && athlete.ascWins === 0 && athlete.smoeWins === 0 && (!athlete.rogueWins || athlete.rogueWins === 0) && (
+                          <span className="text-zinc-600 font-mono text-xs">—</span>
+                        )}
+                      </div>
+                    </td>
+
+                    {/* Career Record */}
+                    <td className="py-4 px-4 text-center font-mono text-xs">
+                      <div className="text-zinc-200 font-bold">{athlete.totalWins} Wins ({athlete.winRate}%)</div>
+                      <div className="text-zinc-500">{athlete.totalPodiums} Podiums ({athlete.podiumRate}%)</div>
+                    </td>
+
+                    {/* GOAT Score */}
+                    <td className="py-4 px-4 text-right">
+                      <div className={`font-display text-2xl font-black ${
+                        isTop1 ? 'text-yellow-400' :
+                        isTop3 ? 'text-zinc-200' :
+                        'text-white'
+                      }`}>
+                        {athlete.goatScore.toLocaleString()}
+                      </div>
+                      <div className="text-[10px] font-mono text-zinc-500">{athlete.totalShows} SHOWS</div>
+                    </td>
+
+                    {/* Chevron */}
+                    <td className="py-4 px-4 text-right">
+                      <ChevronRight className="w-4 h-4 text-zinc-600 group-hover:text-red-500 transition-colors" />
+                    </td>
+                  </tr>
+                );
+              })}
+            </tbody>
+          </table>
+        </div>
+
+        {filteredRankings.length > 100 && (
+          <div className="p-4 bg-[#0e0e0e] border-t border-[#262626] text-center text-xs font-mono text-zinc-500">
+            Showing Top 100 of {filteredRankings.length} historical open-class athletes. Use search to find specific legends.
+          </div>
+        )}
+      </div>
+
+    </div>
+  );
+}

@@ -160,6 +160,19 @@ def process_division(raw_contests, target_division):
             continue
 
         raw_diff = sum(pure_map.get(res.get('person_name', '').strip(), 0.0) for res in top5_finishers)
+        top5_details = []
+        for r in top5_finishers:
+            p_name = r.get('person_name', '').strip()
+            pwr = round(pure_map.get(p_name, 0.0), 1)
+            pct = round((pwr / raw_diff * 100.0), 1) if raw_diff > 0 else 0.0
+            top5_details.append({
+                "rank": r.get('rank'),
+                "person_name": p_name,
+                "country": r.get('country', ''),
+                "power": pwr,
+                "percent": pct
+            })
+
         tier_name, tier_mult = get_tier_info(cname, target_division)
 
         rankable_contests.append({
@@ -172,7 +185,7 @@ def process_division(raw_contests, target_division):
             "division": target_division,
             "total_competitors": len(results),
             "raw_difficulty": raw_diff,
-            "top_5_finishers": [f"{r.get('person_name')} (#{r.get('rank')})" for r in top5_finishers],
+            "top_5_finishers": top5_details,
             "results": results
         })
 

@@ -2,7 +2,7 @@ import React from 'react';
 import { Layers, ShieldCheck, Flame, Trophy, HelpCircle, Calculator } from 'lucide-react';
 import DifficultyGraph from './DifficultyGraph';
 
-export default function ShowsAndTiers({ showsData }) {
+export default function ShowsAndTiers({ showsData, onSelectCompetition }) {
   const tiers = [
     {
       tier: 'TIER 1',
@@ -135,7 +135,7 @@ export default function ShowsAndTiers({ showsData }) {
       </div>
 
       {/* Dynamic Competition Difficulty Interactive Power Curve Graph */}
-      <DifficultyGraph />
+      <DifficultyGraph onSelectCompetition={onSelectCompetition} />
 
       {/* Math & Dynamic Difficulty Formula Section */}
       <div className="bg-[#121212] p-6 md:p-8 rounded-none border-2 border-[#262626] space-y-6">

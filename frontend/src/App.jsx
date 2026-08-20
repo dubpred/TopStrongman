@@ -3,17 +3,52 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import FullRankings from './components/FullRankings';
 import CompetitorModal from './components/CompetitorModal';
+import CompetitionModal from './components/CompetitionModal';
 import ShowsAndTiers from './components/ShowsAndTiers';
-import { computeRankingsFromDatabase } from './services/databaseService';
+import AllTimeRankings from './components/AllTimeRankings';
+import { computeRankingsFromDatabase, getCompetitionByName } from './services/databaseService';
 
 export default function App() {
-  const [activeTab, setActiveTab] = useState('all');
+  const checkIsGoatUrl = () => {
+    const p = (window.location.pathname || '').toUpperCase();
+    const h = (window.location.hash || '').toUpperCase();
+    return p === '/GOAT' || p === '/GOAT/' || h === '#/GOAT' || h === '#GOAT';
+  };
+
+  const [activeTab, setActiveTabState] = useState(() => (checkIsGoatUrl() ? 'alltime' : 'all'));
   const [rankings, setRankings] = useState([]);
   const [loading, setLoading] = useState(true);
   const [selectedCompetitor, setSelectedCompetitor] = useState(null);
+  const [selectedCompetition, setSelectedCompetition] = useState(null);
+
+  const setActiveTab = (tab) => {
+    setActiveTabState(tab);
+    if (tab === 'alltime') {
+      window.history.pushState({}, '', '/GOAT');
+    } else {
+      if (window.location.pathname.toUpperCase() === '/GOAT') {
+        window.history.pushState({}, '', '/');
+      }
+    }
+  };
 
   useEffect(() => {
     fetchRankings();
+
+    const handleLocationChange = () => {
+      if (checkIsGoatUrl()) {
+        setActiveTabState('alltime');
+      } else {
+        setActiveTabState('all');
+      }
+    };
+
+    window.addEventListener('popstate', handleLocationChange);
+    window.addEventListener('hashchange', handleLocationChange);
+    return () => {
+      window.removeEventListener('popstate', handleLocationChange);
+      window.removeEventListener('hashchange', handleLocationChange);
+    };
   }, []);
 
   const fetchRankings = async () => {
@@ -33,6 +68,17 @@ export default function App() {
       setRankings(dbRankings);
     } finally {
       setLoading(false);
+    }
+  };
+
+  const handleSelectCompetition = (compOrName, isAllTimeOverride) => {
+    if (!compOrName) return;
+    const isAllTime = isAllTimeOverride !== undefined ? isAllTimeOverride : (activeTab === 'alltime');
+    if (typeof compOrName === 'string') {
+      const found = getCompetitionByName(compOrName, isAllTime);
+      setSelectedCompetition(found || { name: compOrName, contest_name: compOrName, isAllTime });
+    } else {
+      setSelectedCompetition({ ...compOrName, isAllTime });
     }
   };
 
@@ -63,7 +109,15 @@ export default function App() {
         )}
 
         {activeTab === 'shows' && (
-          <ShowsAndTiers />
+          <ShowsAndTiers
+            onSelectCompetition={handleSelectCompetition}
+          />
+        )}
+
+        {activeTab === 'alltime' && (
+          <AllTimeRankings
+            onSelectCompetitor={setSelectedCompetitor}
+          />
         )}
       </main>
 
@@ -72,6 +126,15 @@ export default function App() {
         <CompetitorModal
           athlete={selectedCompetitor}
           onClose={() => setSelectedCompetitor(null)}
+          onSelectCompetition={handleSelectCompetition}
+        />
+      )}
+
+      {/* Competition Decisioning Math Modal */}
+      {selectedCompetition && (
+        <CompetitionModal
+          competition={selectedCompetition}
+          onClose={() => setSelectedCompetition(null)}
         />
       )}
 

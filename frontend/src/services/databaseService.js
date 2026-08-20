@@ -1,4 +1,8 @@
 import databaseRows from './database_strongman.json';
+import allTimeRankingsData from './alltime_rankings.json';
+import rankedContestsMap from './ranked_contests.json';
+import alltimeContestsMap from './alltime_contests.json';
+import activeContestsMap from './active_contests.json';
 
 // Omit Masters division, weight-class competitions, WSM Group Stage Heats, and single-lift championships
 const isOmittedShow = (showName) => {
@@ -498,6 +502,62 @@ export function getAllShowsWithDifficulty(division = 'men') {
     }
   });
   return Object.values(map).sort((a, b) => b.difficulty - a.difficulty);
+}
+
+export function getAllTimeRankings(division = 'men') {
+  if (!allTimeRankingsData) return [];
+  if (division === 'women') {
+    return allTimeRankingsData.women || [];
+  }
+  return allTimeRankingsData.men || [];
+}
+
+export function getCompetitionByName(showName, isAllTime = false) {
+  if (!showName) return null;
+  
+  if (isAllTime) {
+    if (alltimeContestsMap && alltimeContestsMap[showName]) {
+      return { ...alltimeContestsMap[showName], isAllTime: true };
+    }
+  } else {
+    if (activeContestsMap && activeContestsMap[showName]) {
+      return { ...activeContestsMap[showName], isAllTime: false };
+    }
+  }
+  
+  if (rankedContestsMap && rankedContestsMap[showName]) {
+    return { ...rankedContestsMap[showName], isAllTime };
+  }
+  
+  // Fallback: look up from active databaseRows
+  const rows = databaseRows.filter(r => r.Show_Name === showName);
+  if (rows.length === 0) return null;
+  
+  const first = rows[0];
+  const tierInfo = getTierInfo(first.Show_Promotion, first.Show_Name);
+  const recMult = getRecencyMultiplier(first.Date);
+  const results = rows.map(r => ({
+    rank: String(r.PlacementRank),
+    person_name: `${r.Competitor_fName} ${r.Compititor_LName}`.trim(),
+    country: r.country_code || 'USA',
+    score: r.score
+  })).sort((a, b) => parseInt(a.rank) - parseInt(b.rank));
+
+  const top5 = results.slice(0, 5).map(r => `${r.person_name} (#${r.rank})`);
+
+  return {
+    name: first.Show_Name,
+    contest_name: first.Show_Name,
+    details: `${first.Show_Promotion} • ${first.Date}`,
+    tier: tierInfo.name,
+    tier_multiplier: tierInfo.multiplier,
+    recency_multiplier: recMult,
+    division: first.division || 'men',
+    difficulty_score: first.difficulty || 0,
+    difficulty: first.difficulty || 0,
+    top_5_finishers: top5,
+    results: results
+  };
 }
 
 
