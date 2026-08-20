@@ -1,0 +1,6 @@
+# Allow all search engine crawlers (Googlebot, Bingbot, DuckDuckBot, etc.)
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://strongman-rankings-2026.web.app/sitemap.xml

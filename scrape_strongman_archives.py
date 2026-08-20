@@ -206,23 +206,64 @@ def scrape_contest(session, contest_id):
         "results": competitors
     }
 
+def is_pending_contest(contest_obj):
+    """
+    Returns True if a contest has pending / placeholder results (e.g. rank '-' or no numeric ranks).
+    """
+    if not contest_obj:
+        return True
+    results = contest_obj.get('results', [])
+    if not results:
+        return True
+    
+    # If all results have '-' or non-digit ranks, it's an uncompleted/upcoming placeholder contest
+    has_numeric_rank = any(str(r.get('rank', '')).strip().isdigit() for r in results)
+    return not has_numeric_rank
+
 def main():
     logging.info("Starting Strongman Archives Contest Scraper...")
     existing_data, scraped_ids = load_existing_data(JSON_FILE)
     
     # Map data by contest_id for easy updates
     dataset_map = {item['contest_id']: item for item in existing_data}
-    
-    # Determine starting ID (resume from max existing ID + 1, or start at 1)
-    if scraped_ids:
-        start_id = max(scraped_ids) + 1
-        logging.info(f"Resuming from Contest ID {start_id} (already scraped up to ID {max(scraped_ids)})")
-    else:
-        start_id = 1
-        logging.info("Starting fresh from Contest ID 1")
 
     session = requests.Session()
     session.headers.update(headers)
+
+    # -------------------------------------------------------------
+    # PHASE 1: Re-scrape all pending / upcoming competitions
+    # -------------------------------------------------------------
+    pending_ids = [cid for cid, c in dataset_map.items() if is_pending_contest(c)]
+    logging.info(f"Found {len(pending_ids)} pending/upcoming contests in database to check for updates: {pending_ids}")
+
+    updated_pending_count = 0
+    for cid in pending_ids:
+        logging.info(f"Checking pending contest ID {cid} for finalized results...")
+        contest_data = scrape_contest(session, cid)
+        if contest_data:
+            if not is_pending_contest(contest_data):
+                dataset_map[cid] = contest_data
+                updated_pending_count += 1
+                logging.info(f"★ [ID {cid}] FINALIZED RESULTS INGESTED: '{contest_data['contest_name']}' ({contest_data['total_competitors']} competitors)")
+            else:
+                # Update details/roster if changed
+                dataset_map[cid] = contest_data
+                logging.info(f"• [ID {cid}] '{contest_data['contest_name']}' still pending / in progress.")
+        time.sleep(REQUEST_DELAY_SEC)
+
+    if updated_pending_count > 0:
+        logging.info(f"Saved {updated_pending_count} newly finalized competitions to '{JSON_FILE}'.")
+        save_data(list(dataset_map.values()), JSON_FILE)
+
+    # -------------------------------------------------------------
+    # PHASE 2: Discover and scrape new contest IDs
+    # -------------------------------------------------------------
+    if scraped_ids:
+        start_id = max(scraped_ids) + 1
+        logging.info(f"Checking for new contest IDs starting from {start_id} (max existing ID: {max(scraped_ids)})...")
+    else:
+        start_id = 1
+        logging.info("Starting fresh from Contest ID 1")
 
     current_id = start_id
     consecutive_empty = 0
@@ -231,7 +272,7 @@ def main():
     try:
         while True:
             # Skip if ID was already scraped
-            if current_id in scraped_ids:
+            if current_id in dataset_map:
                 current_id += 1
                 continue
 
@@ -248,7 +289,7 @@ def main():
                     f"({contest_data['total_competitors']} competitors)"
                 )
 
-                # Save to disk every contest or periodically
+                # Save to disk
                 save_data(list(dataset_map.values()), JSON_FILE)
             else:
                 consecutive_empty += 1
@@ -270,7 +311,7 @@ def main():
     finally:
         final_list = list(dataset_map.values())
         save_data(final_list, JSON_FILE)
-        logging.info(f"Done! Scraped {scraped_count_session} new contests in this run.")
+        logging.info(f"Done! {updated_pending_count} pending shows updated with final results, {scraped_count_session} new contest IDs added.")
         logging.info(f"Total dataset size: {len(final_list)} contests saved in '{JSON_FILE}'.")
 
 if __name__ == "__main__":
