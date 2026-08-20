@@ -189,30 +189,16 @@ export default function AllTimeRankings({ onSelectCompetitor }) {
       {/* Mobile Card List View (Phones & Small Tablets) */}
       <div className="block md:hidden space-y-2.5">
         {filteredRankings.slice(0, 100).map((athlete) => {
-          const isTop1 = athlete.rank === 1;
-          const isTop2 = athlete.rank === 2;
-          const isTop3 = athlete.rank === 3;
-
           return (
             <div
               key={athlete.name}
               onClick={() => handleAthleteClick(athlete)}
-              className={`p-3.5 sm:p-4 bg-[#0e0e0e] border-2 transition-all active:scale-[0.98] cursor-pointer space-y-2.5 ${
-                isTop1 ? 'border-yellow-500/80 bg-yellow-950/10' :
-                isTop2 ? 'border-zinc-400/80 bg-zinc-900/30' :
-                isTop3 ? 'border-amber-700/80 bg-amber-950/10' :
-                'border-[#262626] hover:border-zinc-500'
-              }`}
+              className="p-3.5 sm:p-4 bg-[#0e0e0e] border-2 border-[#262626] hover:border-zinc-500 transition-all active:scale-[0.98] cursor-pointer space-y-2.5"
             >
               {/* Row 1: Rank, Name, Flag, and Score */}
               <div className="flex items-start justify-between gap-2">
                 <div className="flex items-center gap-2.5 min-w-0">
-                  <span className={`font-display text-lg font-black px-2 py-0.5 shrink-0 ${
-                    isTop1 ? 'bg-yellow-400 text-black' :
-                    isTop2 ? 'bg-zinc-300 text-black' :
-                    isTop3 ? 'bg-amber-600 text-white' :
-                    'bg-[#181818] text-zinc-400 border border-[#333]'
-                  }`}>
+                  <span className="font-display text-lg font-black px-2 py-0.5 shrink-0 bg-[#181818] text-zinc-400 border border-[#333]">
                     #{athlete.rank}
                   </span>
                   <div className="min-w-0">
@@ -238,9 +224,7 @@ export default function AllTimeRankings({ onSelectCompetitor }) {
                 </div>
 
                 <div className="text-right shrink-0">
-                  <div className={`font-display text-xl sm:text-2xl font-black ${
-                    isTop1 ? 'text-yellow-400' : isTop3 ? 'text-zinc-200' : 'text-white'
-                  }`}>
+                  <div className="font-display text-xl sm:text-2xl font-black text-white">
                     {athlete.goatScore.toLocaleString()}
                   </div>
                   <div className="text-[9px] font-mono text-zinc-500 uppercase font-bold">GOAT PTS</div>
@@ -310,26 +294,15 @@ export default function AllTimeRankings({ onSelectCompetitor }) {
             </thead>
             <tbody className="divide-y divide-[#1c1c1c] text-sm">
               {filteredRankings.slice(0, 100).map((athlete) => {
-                const isTop1 = athlete.rank === 1;
-                const isTop3 = athlete.rank <= 3;
-                const isTop10 = athlete.rank <= 10;
-
                 return (
                   <tr
                     key={athlete.name}
                     onClick={() => handleAthleteClick(athlete)}
-                    className={`hover:bg-[#151515] transition-colors cursor-pointer group ${
-                      isTop1 ? 'bg-yellow-950/10' : (isTop3 ? 'bg-zinc-900/30' : '')
-                    }`}
+                    className="hover:bg-[#151515] transition-colors cursor-pointer group"
                   >
                     {/* Rank */}
                     <td className="py-4 px-4 text-center">
-                      <span className={`font-display text-xl font-black ${
-                        isTop1 ? 'text-yellow-400' :
-                        athlete.rank === 2 ? 'text-zinc-300' :
-                        athlete.rank === 3 ? 'text-amber-500' :
-                        isTop10 ? 'text-white' : 'text-zinc-500'
-                      }`}>
+                      <span className="font-display text-xl font-black text-zinc-400 group-hover:text-white">
                         #{athlete.rank}
                       </span>
                     </td>
@@ -402,11 +375,7 @@ export default function AllTimeRankings({ onSelectCompetitor }) {
 
                     {/* GOAT Score */}
                     <td className="py-4 px-4 text-right">
-                      <div className={`font-display text-2xl font-black ${
-                        isTop1 ? 'text-yellow-400' :
-                        isTop3 ? 'text-zinc-200' :
-                        'text-white'
-                      }`}>
+                      <div className="font-display text-2xl font-black text-white">
                         {athlete.goatScore.toLocaleString()}
                       </div>
                       <div className="text-[10px] font-mono text-zinc-500">{athlete.totalShows} SHOWS</div>
