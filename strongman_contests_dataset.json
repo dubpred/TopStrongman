@@ -134113,7 +134113,7 @@
     "contest_name": "2026 Giants Live Strongman Open",
     "details": "Birmingham, England, 2026-09-05",
     "url": "https://strongmanarchives.com/viewContest.php?id=2078",
-    "total_competitors": 13,
+    "total_competitors": 12,
     "results": [
       {
         "rank": "-",
@@ -134137,12 +134137,6 @@
         "rank": "-",
         "person_name": "Adam Bishop",
         "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Hafthór Júlíus Björnsson",
-        "country": "ISL",
         "score": 0.0
       },
       {
@@ -149596,18 +149590,12 @@
     "contest_name": "2026 SCL World's Strongest Viking",
     "details": "Turenki, Finland, 2026-08-22",
     "url": "https://strongmanarchives.com/viewContest.php?id=2351",
-    "total_competitors": 13,
+    "total_competitors": 12,
     "results": [
       {
         "rank": "-",
         "person_name": "Gianluca Ardenghi",
         "country": "ESP",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Evans Nana Aryee",
-        "country": "GHA",
         "score": 0.0
       },
       {
@@ -149618,20 +149606,26 @@
       },
       {
         "rank": "-",
-        "person_name": "Pálmi Gudfinnsson",
-        "country": "ISL",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
         "person_name": "Jesper Hansson",
         "country": "SWE",
         "score": 0.0
       },
       {
         "rank": "-",
+        "person_name": "Albin Hasanović",
+        "country": "SRB",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
         "person_name": "Kevin Hazeleger",
         "country": "NED",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Péter Juhász",
+        "country": "HUN",
         "score": 0.0
       },
       {
@@ -149654,20 +149648,14 @@
       },
       {
         "rank": "-",
+        "person_name": "Antti Mourujärvi",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
         "person_name": "Adam Roszkowski",
         "country": "POL",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Colten Sloan",
-        "country": "CAN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Ervin Toots",
-        "country": "EST",
         "score": 0.0
       },
       {
@@ -154753,7 +154741,7 @@
     "contest_name": "2026 Summit of Strength (Women)",
     "details": "Rotherham, England, 2026-09-26",
     "url": "https://strongmanarchives.com/viewContest.php?id=2460",
-    "total_competitors": 10,
+    "total_competitors": 9,
     "results": [
       {
         "rank": "-",
@@ -154782,12 +154770,6 @@
       {
         "rank": "-",
         "person_name": "Grace Hilbourne",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Donna Moore",
         "country": "GBR",
         "score": 0.0
       },
@@ -179474,6 +179456,120 @@
         "person_name": "Kęstutis Gilys",
         "country": "LTU",
         "score": 10.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2874,
+    "contest_name": "2026 Harlem European Strongman Cup",
+    "details": "KÅobuck, Poland, 2026-06-07",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2874",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Robert Cyrwus",
+        "country": "POL",
+        "score": 29.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Benjamin Blass",
+        "country": "GER",
+        "score": 26.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Vojtěch Kučera",
+        "country": "CZE",
+        "score": 24.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Matěj Svoboda",
+        "country": "CZE",
+        "score": 23.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Vladimir Bulatović",
+        "country": "SRB",
+        "score": 15.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "score": 5.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2875,
+    "contest_name": "2012 Holland's Got Power",
+    "details": "Hoofddorp, Netherlands, 2012-06-10",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2875",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Richard van der Linden",
+        "country": "NED",
+        "score": 49.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Sebastian Davidsson Liljeblad",
+        "country": "SWE",
+        "score": 40.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Konstantine Janashia",
+        "country": "GEO",
+        "score": 32.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Henrik Ottosson",
+        "country": "SWE",
+        "score": 28.0
+      },
+      {
+        "rank": "5",
+        "person_name": "David Nyström",
+        "country": "SWE",
+        "score": 26.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Tamás Hajnal",
+        "country": "HUN",
+        "score": 25.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Jack Krajewski",
+        "country": "ESP",
+        "score": 24.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Fredy Gonzáles",
+        "country": "ESP",
+        "score": 22.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Sándor Biró",
+        "country": "HUN",
+        "score": 15.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Evgeny Scherbakov",
+        "country": "BLR",
+        "score": 12.5
       }
     ]
   }
