@@ -149593,76 +149593,76 @@
     "total_competitors": 12,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Gianluca Ardenghi",
-        "country": "ESP",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Patrick Eibel",
-        "country": "GER",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jesper Hansson",
-        "country": "SWE",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Albin Hasanović",
-        "country": "SRB",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Kevin Hazeleger",
-        "country": "NED",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Péter Juhász",
-        "country": "HUN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Brian Kichton",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Valtter Kortelainen",
-        "country": "FIN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Tuomas Lindroos",
-        "country": "FIN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Antti Mourujärvi",
-        "country": "FIN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Adam Roszkowski",
         "country": "POL",
-        "score": 0.0
+        "score": 60.0
       },
       {
-        "rank": "-",
+        "rank": "2",
+        "person_name": "Péter Juhász",
+        "country": "HUN",
+        "score": 51.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Jesper Hansson",
+        "country": "SWE",
+        "score": 51.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Gianluca Ardenghi",
+        "country": "ESP",
+        "score": 48.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Valtter Kortelainen",
+        "country": "FIN",
+        "score": 41.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Kevin Hazeleger",
+        "country": "NED",
+        "score": 41.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Brian Kichton",
+        "country": "USA",
+        "score": 38.0
+      },
+      {
+        "rank": "8",
         "person_name": "Mika Törrö",
         "country": "FIN",
-        "score": 0.0
+        "score": 37.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Patrick Eibel",
+        "country": "GER",
+        "score": 31.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Tuomas Lindroos",
+        "country": "FIN",
+        "score": 31.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Albin Hasanović",
+        "country": "SRB",
+        "score": 26.0
+      },
+      {
+        "rank": "12",
+        "person_name": "Antti Mourujärvi",
+        "country": "FIN",
+        "score": 9.0
       }
     ]
   },
@@ -179570,6 +179570,492 @@
         "person_name": "Evgeny Scherbakov",
         "country": "BLR",
         "score": 12.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2876,
+    "contest_name": "2026 Tenka Musou (Men)",
+    "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2876",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Eric Carlson",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Makoa Chapa",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jean-Stephen Coraboeuf",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "D.J. Doggett",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Hayato Fujiwara",
+        "country": "JPN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Stefan Larch",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kenji Nakajima",
+        "country": "JPN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kazuki Nakamura",
+        "country": "JPN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tobias Schönfelder",
+        "country": "GER",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Cameron Veblungsnes",
+        "country": "USA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2877,
+    "contest_name": "2026 Tenka Musou (Women)",
+    "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2877",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Bailee Packer",
+        "country": "USA",
+        "score": 19.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Peiyin Liou",
+        "country": "TWN",
+        "score": 13.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Kim Best",
+        "country": "SCO",
+        "score": 7.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Nicole Gruber",
+        "country": "AUT",
+        "score": 2.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2878,
+    "contest_name": "2026 U80 Tenka Musou",
+    "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2878",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Jerome Chen",
+        "country": "TWN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Wei Syuan Chen",
+        "country": "TWN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Yi Dong Chen",
+        "country": "TWN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Yu Lun Cheng",
+        "country": "TWN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Keng Hui Lin",
+        "country": "TWN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Sagar Pathak",
+        "country": "IND",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Yosuke Takamura",
+        "country": "JPN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Chen Hao Wang",
+        "country": "TWN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Chih Wei",
+        "country": "TWN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Po Wei Weng",
+        "country": "TWN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Christopher White",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Neal Yang",
+        "country": "TWN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2879,
+    "contest_name": "2026 U90 Tenka Musou",
+    "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2879",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Markus Drabek",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Yoshihara Eita",
+        "country": "JPN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Yu Hao Hsu",
+        "country": "TWN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Bo Kai Huang",
+        "country": "TWN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Hong Sheng Lu",
+        "country": "TWN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Haruka Ota",
+        "country": "JPN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tomomichi Shiozaki",
+        "country": "JPN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ittipol Srimuang",
+        "country": "THA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Yen Chia  Wei",
+        "country": "TWN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2880,
+    "contest_name": "2026 U105 Tenka Musou",
+    "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2880",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Calvin Chen",
+        "country": "TWN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Masaya Hirata",
+        "country": "JPN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tsubasa Mori",
+        "country": "JPN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ian Nam",
+        "country": "HKG",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kyle Norton",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Derek Owens",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Thomas Steinacker",
+        "country": "AUT",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Harry Walker",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Chi An Wang",
+        "country": "TWN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2881,
+    "contest_name": "2026 M50+ Tenka Musou (Men)",
+    "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2881",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Kazunori  Hikida",
+        "country": "JPN",
+        "score": 9.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Ken Uedoi",
+        "country": "USA",
+        "score": 3.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2882,
+    "contest_name": "2026 M40+ U105 Tenka Musou",
+    "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2882",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Nathan Novak",
+        "country": "TWN",
+        "score": 8.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Arron  Rhodes",
+        "country": "HKG",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2883,
+    "contest_name": "2026 U64 Tenka Musou",
+    "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2883",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Kai Hsuan Hsieh",
+        "country": "TWN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kuan Ying Huang",
+        "country": "TWN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Alex  Martin",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Monica Brasil Medeiros",
+        "country": "HKG",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jasmie Mong",
+        "country": "HKG",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Nayuka Takada",
+        "country": "JPN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Chin Wang",
+        "country": "TWN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2884,
+    "contest_name": "2026 U73 Tenka Musou",
+    "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2884",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Hsiao Yu Lin",
+        "country": "TWN",
+        "score": 14.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Harumi Ikeda",
+        "country": "JPN",
+        "score": 8.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Jo Yun  Fan",
+        "country": "TWN",
+        "score": 6.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2885,
+    "contest_name": "2026 M40+ Tenka Musou (Women)",
+    "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2885",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Christie  Purtle",
+        "country": "AUS",
+        "score": 8.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Kiri Lawrence",
+        "country": "AUS",
+        "score": 6.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2886,
+    "contest_name": "2026 M50+ Tenka Musou (Women)",
+    "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2886",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tsai Ning Hsu",
+        "country": "TWN",
+        "score": 4.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2889,
+    "contest_name": "2026 M40+ U73 Tenka Musou",
+    "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2889",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "I-Wei Yeh",
+        "country": "TWN",
+        "score": 7.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Wei Ko Hung",
+        "country": "TWN",
+        "score": 6.0
       }
     ]
   }
