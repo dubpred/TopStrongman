@@ -179581,64 +179581,64 @@
     "total_competitors": 10,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Eric Carlson",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Makoa Chapa",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Jean-Stephen Coraboeuf",
         "country": "AUS",
-        "score": 0.0
+        "score": 42.5
       },
       {
-        "rank": "-",
-        "person_name": "D.J. Doggett",
+        "rank": "2",
+        "person_name": "Makoa Chapa",
         "country": "USA",
-        "score": 0.0
+        "score": 40.5
       },
       {
-        "rank": "-",
-        "person_name": "Hayato Fujiwara",
-        "country": "JPN",
-        "score": 0.0
+        "rank": "3",
+        "person_name": "Eric Carlson",
+        "country": "USA",
+        "score": 37.5
       },
       {
-        "rank": "-",
+        "rank": "4",
         "person_name": "Stefan Larch",
         "country": "AUT",
-        "score": 0.0
+        "score": 34.5
       },
       {
-        "rank": "-",
+        "rank": "5",
+        "person_name": "D.J. Doggett",
+        "country": "USA",
+        "score": 28.5
+      },
+      {
+        "rank": "6",
         "person_name": "Kenji Nakajima",
         "country": "JPN",
-        "score": 0.0
+        "score": 27.0
       },
       {
-        "rank": "-",
-        "person_name": "Kazuki Nakamura",
-        "country": "JPN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "7",
         "person_name": "Tobias Schönfelder",
         "country": "GER",
-        "score": 0.0
+        "score": 20.5
       },
       {
-        "rank": "-",
+        "rank": "8",
+        "person_name": "Kazuki Nakamura",
+        "country": "JPN",
+        "score": 19.0
+      },
+      {
+        "rank": "9",
         "person_name": "Cameron Veblungsnes",
         "country": "USA",
-        "score": 0.0
+        "score": 11.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Hayato Fujiwara",
+        "country": "JPN",
+        "score": 1.0
       }
     ]
   },
@@ -179683,76 +179683,76 @@
     "total_competitors": 12,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Jerome Chen",
-        "country": "TWN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Wei Syuan Chen",
-        "country": "TWN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Yi Dong Chen",
-        "country": "TWN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Yu Lun Cheng",
-        "country": "TWN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Keng Hui Lin",
-        "country": "TWN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Sagar Pathak",
-        "country": "IND",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Yosuke Takamura",
         "country": "JPN",
-        "score": 0.0
+        "score": 57.0
       },
       {
-        "rank": "-",
-        "person_name": "Chen Hao Wang",
+        "rank": "2",
+        "person_name": "Keng Hui Lin",
         "country": "TWN",
-        "score": 0.0
+        "score": 51.0
       },
       {
-        "rank": "-",
-        "person_name": "Chih Wei",
+        "rank": "3",
+        "person_name": "Wei Syuan Chen",
         "country": "TWN",
-        "score": 0.0
+        "score": 43.0
       },
       {
-        "rank": "-",
-        "person_name": "Po Wei Weng",
+        "rank": "4",
+        "person_name": "Yu Lun Cheng",
         "country": "TWN",
-        "score": 0.0
+        "score": 34.5
       },
       {
-        "rank": "-",
+        "rank": "5",
         "person_name": "Christopher White",
         "country": "USA",
-        "score": 0.0
+        "score": 32.0
       },
       {
-        "rank": "-",
+        "rank": "6",
         "person_name": "Neal Yang",
         "country": "TWN",
-        "score": 0.0
+        "score": 31.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Chih Wei",
+        "country": "TWN",
+        "score": 30.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Yi Dong Chen",
+        "country": "TWN",
+        "score": 26.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Chen Hao Wang",
+        "country": "TWN",
+        "score": 24.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Po Wei Weng",
+        "country": "TWN",
+        "score": 20.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Jerome Chen",
+        "country": "TWN",
+        "score": 17.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Sagar Pathak",
+        "country": "IND",
+        "score": 9.5
       }
     ]
   },
@@ -179764,58 +179764,58 @@
     "total_competitors": 9,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Markus Drabek",
-        "country": "AUT",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Yoshihara Eita",
-        "country": "JPN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Yu Hao Hsu",
-        "country": "TWN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Bo Kai Huang",
-        "country": "TWN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Hong Sheng Lu",
-        "country": "TWN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Haruka Ota",
-        "country": "JPN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Tomomichi Shiozaki",
-        "country": "JPN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Ittipol Srimuang",
         "country": "THA",
-        "score": 0.0
+        "score": 44.0
       },
       {
-        "rank": "-",
+        "rank": "2",
+        "person_name": "Yoshihara Eita",
+        "country": "JPN",
+        "score": 36.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Tomomichi Shiozaki",
+        "country": "JPN",
+        "score": 30.5
+      },
+      {
+        "rank": "4",
         "person_name": "Yen Chia  Wei",
         "country": "TWN",
-        "score": 0.0
+        "score": 25.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Yu Hao Hsu",
+        "country": "TWN",
+        "score": 23.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Haruka Ota",
+        "country": "JPN",
+        "score": 20.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Bo Kai Huang",
+        "country": "TWN",
+        "score": 18.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Hong Sheng Lu",
+        "country": "TWN",
+        "score": 12.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Markus Drabek",
+        "country": "AUT",
+        "score": 11.0
       }
     ]
   },
@@ -179827,58 +179827,58 @@
     "total_competitors": 9,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Calvin Chen",
-        "country": "TWN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Masaya Hirata",
-        "country": "JPN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Tsubasa Mori",
-        "country": "JPN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Ian Nam",
-        "country": "HKG",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Kyle Norton",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Derek Owens",
         "country": "USA",
-        "score": 0.0
+        "score": 39.5
       },
       {
-        "rank": "-",
-        "person_name": "Thomas Steinacker",
-        "country": "AUT",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Harry Walker",
         "country": "USA",
-        "score": 0.0
+        "score": 38.5
       },
       {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Chi An Wang",
         "country": "TWN",
-        "score": 0.0
+        "score": 29.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Kyle Norton",
+        "country": "AUS",
+        "score": 27.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Ian Nam",
+        "country": "HKG",
+        "score": 25.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Calvin Chen",
+        "country": "TWN",
+        "score": 24.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Thomas Steinacker",
+        "country": "AUT",
+        "score": 19.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Tsubasa Mori",
+        "country": "JPN",
+        "score": 7.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Masaya Hirata",
+        "country": "JPN",
+        "score": 4.5
       }
     ]
   },
@@ -179932,46 +179932,46 @@
     "total_competitors": 7,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Kai Hsuan Hsieh",
-        "country": "TWN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Kuan Ying Huang",
-        "country": "TWN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Alex  Martin",
         "country": "USA",
-        "score": 0.0
+        "score": 33.0
       },
       {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Monica Brasil Medeiros",
         "country": "HKG",
-        "score": 0.0
+        "score": 26.0
       },
       {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Jasmie Mong",
         "country": "HKG",
-        "score": 0.0
+        "score": 24.0
       },
       {
-        "rank": "-",
-        "person_name": "Nayuka Takada",
-        "country": "JPN",
-        "score": 0.0
+        "rank": "4",
+        "person_name": "Kai Hsuan Hsieh",
+        "country": "TWN",
+        "score": 20.0
       },
       {
-        "rank": "-",
+        "rank": "5",
         "person_name": "Chin Wang",
         "country": "TWN",
-        "score": 0.0
+        "score": 20.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Kuan Ying Huang",
+        "country": "TWN",
+        "score": 12.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Nayuka Takada",
+        "country": "JPN",
+        "score": 5.0
       }
     ]
   },
