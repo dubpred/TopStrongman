@@ -180058,5 +180058,56 @@
         "score": 6.0
       }
     ]
+  },
+  {
+    "contest_id": 2890,
+    "contest_name": "2026 Harlem European Strongman Cup",
+    "details": "BiaÅystok, Poland, 2026-08-23",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2890",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "score": 42.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Vojtěch Kučera",
+        "country": "CZE",
+        "score": 30.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Adam Wadolowski",
+        "country": "POL",
+        "score": 29.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Donatas Maskolaitis",
+        "country": "LTU",
+        "score": 25.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Richard Tabaček",
+        "country": "SVK",
+        "score": 19.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Mário Karička",
+        "country": "SVK",
+        "score": 11.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Szabolcs Boros",
+        "country": "SVK",
+        "score": 4.0
+      }
+    ]
   }
 ]
