@@ -180109,5 +180109,128 @@
         "score": 4.0
       }
     ]
+  },
+  {
+    "contest_id": 2891,
+    "contest_name": "2026 Natural World's Strongest Man",
+    "details": "Paisley, Scotland, 2026-08-22",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2891",
+    "total_competitors": 19,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Štěpán Bystřinec",
+        "country": "CZE",
+        "score": 112.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Jarna Mihaere",
+        "country": "NZL",
+        "score": 109.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Josh Berriman",
+        "country": "GBR",
+        "score": 105.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Faleono Tasi",
+        "country": "NZL",
+        "score": 101.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Dylan Quinones",
+        "country": "USA",
+        "score": 94.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Andy Harkin",
+        "country": "SCO",
+        "score": 92.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Owen Boothby",
+        "country": "GBR",
+        "score": 85.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Rhys Calland",
+        "country": "GBR",
+        "score": 83.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Dennis Schäfer",
+        "country": "GER",
+        "score": 82.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Alex Hill-King",
+        "country": "GBR",
+        "score": 69.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Emanuele Greco",
+        "country": "ITA",
+        "score": 65.0
+      },
+      {
+        "rank": "12",
+        "person_name": "Justin Zahner",
+        "country": "USA",
+        "score": 64.0
+      },
+      {
+        "rank": "13",
+        "person_name": "Mat Gordon",
+        "country": "GBR",
+        "score": 58.5
+      },
+      {
+        "rank": "14",
+        "person_name": "Luc Laplante",
+        "country": "CAN",
+        "score": 50.5
+      },
+      {
+        "rank": "15",
+        "person_name": "Julian Cospito",
+        "country": "CAN",
+        "score": 35.5
+      },
+      {
+        "rank": "16",
+        "person_name": "Émile Boissonnault",
+        "country": "CAN",
+        "score": 33.5
+      },
+      {
+        "rank": "17",
+        "person_name": "Nathaniel Hunt Kelly",
+        "country": "USA",
+        "score": 32.5
+      },
+      {
+        "rank": "18",
+        "person_name": "Keegan Macaulay",
+        "country": "AUS",
+        "score": 20.5
+      },
+      {
+        "rank": "19",
+        "person_name": "Braedan Rupert",
+        "country": "CAN",
+        "score": 10.0
+      }
+    ]
   }
 ]
