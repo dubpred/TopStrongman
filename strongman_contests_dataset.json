@@ -134141,6 +134141,12 @@
       },
       {
         "rank": "-",
+        "person_name": "Hafthór Júlíus Björnsson",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
         "person_name": "Raul Flores",
         "country": "MEX",
         "score": 0.0
@@ -134177,12 +134183,6 @@
       },
       {
         "rank": "-",
-        "person_name": "Evan Singleton",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
         "person_name": "Tom Stoltman",
         "country": "GBR",
         "score": 0.0
@@ -134194,7 +134194,7 @@
     "contest_name": "2026 Giants Live World Tour Finals",
     "details": "Glasgow, Scotland, 2026-10-17",
     "url": "https://strongmanarchives.com/viewContest.php?id=2079",
-    "total_competitors": 6,
+    "total_competitors": 7,
     "results": [
       {
         "rank": "-",
@@ -134204,14 +134204,14 @@
       },
       {
         "rank": "-",
-        "person_name": "Ondřej Fojtů",
-        "country": "CZE",
+        "person_name": "Andrew Flynn",
+        "country": "GBR",
         "score": 0.0
       },
       {
         "rank": "-",
-        "person_name": "Trey Mitchell",
-        "country": "USA",
+        "person_name": "Ondřej Fojtů",
+        "country": "CZE",
         "score": 0.0
       },
       {
@@ -134230,6 +134230,12 @@
         "rank": "-",
         "person_name": "Tom Stoltman",
         "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Eddie Williams",
+        "country": "AUS",
         "score": 0.0
       }
     ]
@@ -154678,7 +154684,7 @@
     "contest_name": "2026 Summit of Strength (Men)",
     "details": "Rotherham, England, 2026-09-26",
     "url": "https://strongmanarchives.com/viewContest.php?id=2459",
-    "total_competitors": 9,
+    "total_competitors": 10,
     "results": [
       {
         "rank": "-",
@@ -154700,7 +154706,7 @@
       },
       {
         "rank": "-",
-        "person_name": "Andrew Flynn",
+        "person_name": "Alex Feri",
         "country": "GBR",
         "score": 0.0
       },
@@ -154730,6 +154736,12 @@
       },
       {
         "rank": "-",
+        "person_name": "Jamie Nelson",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
         "person_name": "Paul Smith",
         "country": "GBR",
         "score": 0.0
@@ -154745,8 +154757,8 @@
     "results": [
       {
         "rank": "-",
-        "person_name": "Nicola Bennett",
-        "country": "GBR",
+        "person_name": "Cassandra Annergren",
+        "country": "SWE",
         "score": 0.0
       },
       {
@@ -154763,14 +154775,8 @@
       },
       {
         "rank": "-",
-        "person_name": "Naomi Hadley",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Grace Hilbourne",
-        "country": "GBR",
+        "person_name": "Rachel Greener",
+        "country": "SCO",
         "score": 0.0
       },
       {
@@ -154787,14 +154793,20 @@
       },
       {
         "rank": "-",
-        "person_name": "Claire Myler",
-        "country": "GBR",
+        "person_name": "Rebecca Roberts",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jana Roubalová",
+        "country": "CZE",
         "score": 0.0
       },
       {
         "rank": "-",
         "person_name": "Sam Taylor",
-        "country": "GBR",
+        "country": "WAL",
         "score": 0.0
       }
     ]
