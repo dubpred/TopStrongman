@@ -180244,5 +180244,83 @@
         "score": 10.0
       }
     ]
+  },
+  {
+    "contest_id": 2892,
+    "contest_name": "2020 Canada's Strongest Woman",
+    "details": "Quebec City, Canada, 2020-10-03",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2892",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jackie Osczevski",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Bailey Deschene",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Haley Randall",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Stephanie Bisignano",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Frances McGarry",
+        "country": "CAN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2893,
+    "contest_name": "2022 Western Canada's Strongest Woman",
+    "details": "Fort McMurray, Canada, 2022-06-11",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2893",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jackie Osczevski",
+        "country": "CAN",
+        "score": 24.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Bailey Deschene",
+        "country": "CAN",
+        "score": 15.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Alisha Thompson",
+        "country": "CAN",
+        "score": 12.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Angela Houle",
+        "country": "CAN",
+        "score": 9.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Sam Husak",
+        "country": "CAN",
+        "score": 3.5
+      }
+    ]
   }
 ]
