@@ -19458,7 +19458,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 4673.907571726324,
+    "raw_difficulty": 4672.5819537768075,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -19492,8 +19492,8 @@
         "rank": "5",
         "person_name": "Dainius Repšys",
         "country": "LTU",
-        "power": 274.2,
-        "percent": 5.9
+        "power": 272.9,
+        "percent": 5.8
       }
     ],
     "results": [
@@ -26075,7 +26075,7 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 9,
-    "raw_difficulty": 3788.096372725341,
+    "raw_difficulty": 3786.770754775824,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -26102,7 +26102,7 @@
         "rank": "4",
         "person_name": "Dainius Repšys",
         "country": "LTU",
-        "power": 274.2,
+        "power": 272.9,
         "percent": 7.2
       },
       {
@@ -26110,7 +26110,7 @@
         "person_name": "Saulius Skikas",
         "country": "LTU",
         "power": 357.9,
-        "percent": 9.4
+        "percent": 9.5
       }
     ],
     "results": [
@@ -31057,13 +31057,13 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 3335.2939528149873,
+    "raw_difficulty": 3335.161582508735,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Karolis Aleksandravičius",
         "country": "LTU",
-        "power": 126.7,
+        "power": 126.6,
         "percent": 3.8
       },
       {
@@ -31157,7 +31157,7 @@
         "score": 9
       }
     ],
-    "difficulty_score": 39.3,
+    "difficulty_score": 39.2,
     "competition_rank": 262
   },
   {
@@ -31917,7 +31917,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 3253.535474605424,
+    "raw_difficulty": 3253.403104299172,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -31951,7 +31951,7 @@
         "rank": "5",
         "person_name": "Karolis Aleksandravičius",
         "country": "LTU",
-        "power": 126.7,
+        "power": 126.6,
         "percent": 3.9
       }
     ],
@@ -33109,7 +33109,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 3201.4643461980636,
+    "raw_difficulty": 3201.1295971648556,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -33143,7 +33143,7 @@
         "rank": "5",
         "person_name": "Sebastian Kurek",
         "country": "POL",
-        "power": 61.3,
+        "power": 61.0,
         "percent": 1.9
       }
     ],
@@ -38189,112 +38189,6 @@
     "competition_rank": 324
   },
   {
-    "contest_id": 2846,
-    "contest_name": "2021 Lietuvos galiÅ«nÅ³ Äempionato",
-    "details": "Pakruojis, Lithuania, 2021-08-28",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 9,
-    "raw_difficulty": 2805.8820881601455,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Dainius Repšys",
-        "country": "LTU",
-        "power": 274.2,
-        "percent": 9.8
-      },
-      {
-        "rank": "2",
-        "person_name": "Modestas Struckus",
-        "country": "LTU",
-        "power": 1143.5,
-        "percent": 40.8
-      },
-      {
-        "rank": "3",
-        "person_name": "Karolis Aleksandravičius",
-        "country": "LTU",
-        "power": 126.7,
-        "percent": 4.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Saulius Skikas",
-        "country": "LTU",
-        "power": 357.9,
-        "percent": 12.8
-      },
-      {
-        "rank": "5",
-        "person_name": "Audrius Jokūbaitis",
-        "country": "LTU",
-        "power": 903.5,
-        "percent": 32.2
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Dainius Repšys",
-        "country": "LTU",
-        "score": 39.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Modestas Struckus",
-        "country": "LTU",
-        "score": 34.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Karolis Aleksandravičius",
-        "country": "LTU",
-        "score": 31.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Saulius Skikas",
-        "country": "LTU",
-        "score": 29.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Audrius Jokūbaitis",
-        "country": "LTU",
-        "score": 29.0
-      },
-      {
-        "rank": "6",
-        "person_name": "Lukas Mataitis",
-        "country": "LTU",
-        "score": 23.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Vytenis Pauža",
-        "country": "LTU",
-        "score": 14.0
-      },
-      {
-        "rank": "8",
-        "person_name": "Gintaras Šaulys",
-        "country": "LTU",
-        "score": 11.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Rokas Černiauskas",
-        "country": "LTU",
-        "score": 10.0
-      }
-    ],
-    "difficulty_score": 30.3,
-    "competition_rank": 325
-  },
-  {
     "contest_id": 2005,
     "contest_name": "2025 Bánovský Silák",
     "details": "Bánovce nad Bebravou, Slovakia, 2025-09-21",
@@ -38392,7 +38286,7 @@
       }
     ],
     "difficulty_score": 30.2,
-    "competition_rank": 326
+    "competition_rank": 325
   },
   {
     "contest_id": 2833,
@@ -38480,7 +38374,7 @@
       }
     ],
     "difficulty_score": 30.1,
-    "competition_rank": 327
+    "competition_rank": 326
   },
   {
     "contest_id": 1734,
@@ -38616,7 +38510,7 @@
       }
     ],
     "difficulty_score": 30.0,
-    "competition_rank": 328
+    "competition_rank": 327
   },
   {
     "contest_id": 2585,
@@ -38746,7 +38640,7 @@
       }
     ],
     "difficulty_score": 30.0,
-    "competition_rank": 329
+    "competition_rank": 328
   },
   {
     "contest_id": 1494,
@@ -38834,7 +38728,7 @@
       }
     ],
     "difficulty_score": 29.5,
-    "competition_rank": 330
+    "competition_rank": 329
   },
   {
     "contest_id": 2622,
@@ -38952,7 +38846,7 @@
       }
     ],
     "difficulty_score": 29.5,
-    "competition_rank": 331
+    "competition_rank": 330
   },
   {
     "contest_id": 2850,
@@ -38963,7 +38857,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 2742.6494525861917,
+    "raw_difficulty": 2741.1914643304226,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -38976,14 +38870,14 @@
         "rank": "2",
         "person_name": "Karolis Aleksandravičius",
         "country": "LTU",
-        "power": 126.7,
+        "power": 126.6,
         "percent": 4.6
       },
       {
         "rank": "3",
         "person_name": "Dainius Repšys",
         "country": "LTU",
-        "power": 274.2,
+        "power": 272.9,
         "percent": 10.0
       },
       {
@@ -38991,7 +38885,7 @@
         "person_name": "Tomas Šliupas",
         "country": "LTU",
         "power": 1108.9,
-        "percent": 40.4
+        "percent": 40.5
       },
       {
         "rank": "5",
@@ -39069,8 +38963,8 @@
         "score": 5.5
       }
     ],
-    "difficulty_score": 29.3,
-    "competition_rank": 332
+    "difficulty_score": 29.2,
+    "competition_rank": 331
   },
   {
     "contest_id": 2573,
@@ -39158,7 +39052,7 @@
       }
     ],
     "difficulty_score": 29.0,
-    "competition_rank": 333
+    "competition_rank": 332
   },
   {
     "contest_id": 2588,
@@ -39252,7 +39146,7 @@
       }
     ],
     "difficulty_score": 29.0,
-    "competition_rank": 334
+    "competition_rank": 333
   },
   {
     "contest_id": 2580,
@@ -39382,7 +39276,7 @@
       }
     ],
     "difficulty_score": 28.7,
-    "competition_rank": 335
+    "competition_rank": 334
   },
   {
     "contest_id": 2018,
@@ -39470,7 +39364,7 @@
       }
     ],
     "difficulty_score": 28.6,
-    "competition_rank": 336
+    "competition_rank": 335
   },
   {
     "contest_id": 2806,
@@ -39558,7 +39452,7 @@
       }
     ],
     "difficulty_score": 28.2,
-    "competition_rank": 337
+    "competition_rank": 336
   },
   {
     "contest_id": 2000,
@@ -39664,7 +39558,7 @@
       }
     ],
     "difficulty_score": 28.0,
-    "competition_rank": 338
+    "competition_rank": 337
   },
   {
     "contest_id": 1164,
@@ -39675,7 +39569,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 2659.437774826778,
+    "raw_difficulty": 2659.416220270464,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -39776,7 +39670,7 @@
       }
     ],
     "difficulty_score": 27.9,
-    "competition_rank": 339
+    "competition_rank": 338
   },
   {
     "contest_id": 2185,
@@ -39876,7 +39770,7 @@
       }
     ],
     "difficulty_score": 27.9,
-    "competition_rank": 340
+    "competition_rank": 339
   },
   {
     "contest_id": 1570,
@@ -39976,7 +39870,7 @@
       }
     ],
     "difficulty_score": 27.6,
-    "competition_rank": 341
+    "competition_rank": 340
   },
   {
     "contest_id": 2814,
@@ -40088,7 +39982,7 @@
       }
     ],
     "difficulty_score": 27.5,
-    "competition_rank": 342
+    "competition_rank": 341
   },
   {
     "contest_id": 1299,
@@ -40200,7 +40094,7 @@
       }
     ],
     "difficulty_score": 27.2,
-    "competition_rank": 343
+    "competition_rank": 342
   },
   {
     "contest_id": 2802,
@@ -40288,7 +40182,7 @@
       }
     ],
     "difficulty_score": 27.1,
-    "competition_rank": 344
+    "competition_rank": 343
   },
   {
     "contest_id": 1711,
@@ -40394,7 +40288,7 @@
       }
     ],
     "difficulty_score": 27.0,
-    "competition_rank": 345
+    "competition_rank": 344
   },
   {
     "contest_id": 2770,
@@ -40512,7 +40406,7 @@
       }
     ],
     "difficulty_score": 26.7,
-    "competition_rank": 346
+    "competition_rank": 345
   },
   {
     "contest_id": 2817,
@@ -40642,7 +40536,7 @@
       }
     ],
     "difficulty_score": 26.7,
-    "competition_rank": 347
+    "competition_rank": 346
   },
   {
     "contest_id": 1040,
@@ -40653,7 +40547,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 13,
-    "raw_difficulty": 2560.6501576226055,
+    "raw_difficulty": 2560.4392654194785,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -40666,7 +40560,7 @@
         "rank": "2",
         "person_name": "Sean O'Hagan",
         "country": "IRL",
-        "power": 68.5,
+        "power": 68.3,
         "percent": 2.7
       },
       {
@@ -40772,7 +40666,7 @@
       }
     ],
     "difficulty_score": 26.4,
-    "competition_rank": 348
+    "competition_rank": 347
   },
   {
     "contest_id": 2014,
@@ -40932,7 +40826,7 @@
       }
     ],
     "difficulty_score": 26.4,
-    "competition_rank": 349
+    "competition_rank": 348
   },
   {
     "contest_id": 1128,
@@ -41068,7 +40962,7 @@
       }
     ],
     "difficulty_score": 26.1,
-    "competition_rank": 350
+    "competition_rank": 349
   },
   {
     "contest_id": 1309,
@@ -41079,7 +40973,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 9,
-    "raw_difficulty": 2538.7339517326163,
+    "raw_difficulty": 2538.399202699408,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -41113,7 +41007,7 @@
         "rank": "5",
         "person_name": "Sebastian Kurek",
         "country": "POL",
-        "power": 61.3,
+        "power": 61.0,
         "percent": 2.4
       }
     ],
@@ -41174,7 +41068,7 @@
       }
     ],
     "difficulty_score": 26.1,
-    "competition_rank": 351
+    "competition_rank": 350
   },
   {
     "contest_id": 1335,
@@ -41298,7 +41192,7 @@
       }
     ],
     "difficulty_score": 26.1,
-    "competition_rank": 352
+    "competition_rank": 351
   },
   {
     "contest_id": 1126,
@@ -41309,20 +41203,20 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 8,
-    "raw_difficulty": 2537.1991516831704,
+    "raw_difficulty": 2535.7411634274013,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Karolis Aleksandravičius",
         "country": "LTU",
-        "power": 126.7,
+        "power": 126.6,
         "percent": 5.0
       },
       {
         "rank": "2",
         "person_name": "Dainius Repšys",
         "country": "LTU",
-        "power": 274.2,
+        "power": 272.9,
         "percent": 10.8
       },
       {
@@ -41398,7 +41292,7 @@
       }
     ],
     "difficulty_score": 26.0,
-    "competition_rank": 353
+    "competition_rank": 352
   },
   {
     "contest_id": 1439,
@@ -41522,7 +41416,7 @@
       }
     ],
     "difficulty_score": 26.0,
-    "competition_rank": 354
+    "competition_rank": 353
   },
   {
     "contest_id": 2848,
@@ -41533,13 +41427,13 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 2535.564997967555,
+    "raw_difficulty": 2535.432627661303,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Karolis Aleksandravičius",
         "country": "LTU",
-        "power": 126.7,
+        "power": 126.6,
         "percent": 5.0
       },
       {
@@ -41634,7 +41528,7 @@
       }
     ],
     "difficulty_score": 26.0,
-    "competition_rank": 355
+    "competition_rank": 354
   },
   {
     "contest_id": 1346,
@@ -41758,7 +41652,7 @@
       }
     ],
     "difficulty_score": 25.7,
-    "competition_rank": 356
+    "competition_rank": 355
   },
   {
     "contest_id": 2803,
@@ -41846,7 +41740,7 @@
       }
     ],
     "difficulty_score": 25.6,
-    "competition_rank": 357
+    "competition_rank": 356
   },
   {
     "contest_id": 1545,
@@ -41982,7 +41876,7 @@
       }
     ],
     "difficulty_score": 25.3,
-    "competition_rank": 358
+    "competition_rank": 357
   },
   {
     "contest_id": 1862,
@@ -42106,7 +42000,7 @@
       }
     ],
     "difficulty_score": 25.2,
-    "competition_rank": 359
+    "competition_rank": 358
   },
   {
     "contest_id": 1921,
@@ -42212,7 +42106,7 @@
       }
     ],
     "difficulty_score": 25.2,
-    "competition_rank": 360
+    "competition_rank": 359
   },
   {
     "contest_id": 1710,
@@ -42318,7 +42212,7 @@
       }
     ],
     "difficulty_score": 24.9,
-    "competition_rank": 361
+    "competition_rank": 360
   },
   {
     "contest_id": 2710,
@@ -42430,7 +42324,7 @@
       }
     ],
     "difficulty_score": 24.9,
-    "competition_rank": 362
+    "competition_rank": 361
   },
   {
     "contest_id": 2823,
@@ -42578,131 +42472,7 @@
       }
     ],
     "difficulty_score": 24.9,
-    "competition_rank": 363
-  },
-  {
-    "contest_id": 1043,
-    "contest_name": "2021 SCL World Finals",
-    "details": "Alanya, Turkey, 2021-11-13 to 2021-11-14",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 12,
-    "raw_difficulty": 2457.2867624510363,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Kelvin de Ruiter",
-        "country": "NED",
-        "power": 441.6,
-        "percent": 18.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Aivars Šmaukstelis",
-        "country": "LAT",
-        "power": 1282.7,
-        "percent": 52.2
-      },
-      {
-        "rank": "3",
-        "person_name": "Mika Törrö",
-        "country": "FIN",
-        "power": 613.9,
-        "percent": 25.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Travis Ortmayer",
-        "country": "USA",
-        "power": 30.0,
-        "percent": 1.2
-      },
-      {
-        "rank": "5",
-        "person_name": "Dainis Zageris",
-        "country": "LAT",
-        "power": 89.0,
-        "percent": 3.6
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Kelvin de Ruiter",
-        "country": "NED",
-        "score": 68
-      },
-      {
-        "rank": "2",
-        "person_name": "Aivars Šmaukstelis",
-        "country": "LAT",
-        "score": 66.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Mika Törrö",
-        "country": "FIN",
-        "score": 55.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Travis Ortmayer",
-        "country": "USA",
-        "score": 53.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Dainis Zageris",
-        "country": "LAT",
-        "score": 49
-      },
-      {
-        "rank": "6",
-        "person_name": "Ervin Toots",
-        "country": "EST",
-        "score": 46.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Sean O'Hagan",
-        "country": "IRL",
-        "score": 46
-      },
-      {
-        "rank": "8",
-        "person_name": "Dennis Kohlruss",
-        "country": "GER",
-        "score": 45.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Johan Espenkrona",
-        "country": "SWE",
-        "score": 43
-      },
-      {
-        "rank": "10",
-        "person_name": "Jonathan Cotton",
-        "country": "USA",
-        "score": 32.5
-      },
-      {
-        "rank": "11",
-        "person_name": "Fatih Karaca",
-        "country": "TUR",
-        "score": 23
-      },
-      {
-        "rank": "12",
-        "person_name": "Bora Güner",
-        "country": "TUR",
-        "score": 9
-      }
-    ],
-    "difficulty_score": 24.8,
-    "competition_rank": 364
+    "competition_rank": 362
   },
   {
     "contest_id": 1397,
@@ -42826,7 +42596,7 @@
       }
     ],
     "difficulty_score": 24.7,
-    "competition_rank": 365
+    "competition_rank": 363
   },
   {
     "contest_id": 1725,
@@ -42926,7 +42696,7 @@
       }
     ],
     "difficulty_score": 24.7,
-    "competition_rank": 366
+    "competition_rank": 364
   },
   {
     "contest_id": 2009,
@@ -43128,7 +42898,131 @@
       }
     ],
     "difficulty_score": 24.7,
-    "competition_rank": 367
+    "competition_rank": 365
+  },
+  {
+    "contest_id": 1043,
+    "contest_name": "2021 SCL World Finals",
+    "details": "Alanya, Turkey, 2021-11-13 to 2021-11-14",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 0.25,
+    "division": "men",
+    "total_competitors": 12,
+    "raw_difficulty": 2441.044275881467,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Kelvin de Ruiter",
+        "country": "NED",
+        "power": 441.6,
+        "percent": 18.1
+      },
+      {
+        "rank": "2",
+        "person_name": "Aivars Šmaukstelis",
+        "country": "LAT",
+        "power": 1282.7,
+        "percent": 52.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Mika Törrö",
+        "country": "FIN",
+        "power": 613.9,
+        "percent": 25.1
+      },
+      {
+        "rank": "4",
+        "person_name": "Travis Ortmayer",
+        "country": "USA",
+        "power": 30.0,
+        "percent": 1.2
+      },
+      {
+        "rank": "5",
+        "person_name": "Dainis Zageris",
+        "country": "LAT",
+        "power": 72.8,
+        "percent": 3.0
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Kelvin de Ruiter",
+        "country": "NED",
+        "score": 68
+      },
+      {
+        "rank": "2",
+        "person_name": "Aivars Šmaukstelis",
+        "country": "LAT",
+        "score": 66.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Mika Törrö",
+        "country": "FIN",
+        "score": 55.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Travis Ortmayer",
+        "country": "USA",
+        "score": 53.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Dainis Zageris",
+        "country": "LAT",
+        "score": 49
+      },
+      {
+        "rank": "6",
+        "person_name": "Ervin Toots",
+        "country": "EST",
+        "score": 46.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Sean O'Hagan",
+        "country": "IRL",
+        "score": 46
+      },
+      {
+        "rank": "8",
+        "person_name": "Dennis Kohlruss",
+        "country": "GER",
+        "score": 45.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Johan Espenkrona",
+        "country": "SWE",
+        "score": 43
+      },
+      {
+        "rank": "10",
+        "person_name": "Jonathan Cotton",
+        "country": "USA",
+        "score": 32.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Fatih Karaca",
+        "country": "TUR",
+        "score": 23
+      },
+      {
+        "rank": "12",
+        "person_name": "Bora Güner",
+        "country": "TUR",
+        "score": 9
+      }
+    ],
+    "difficulty_score": 24.6,
+    "competition_rank": 366
   },
   {
     "contest_id": 2828,
@@ -43228,7 +43122,7 @@
       }
     ],
     "difficulty_score": 24.6,
-    "competition_rank": 368
+    "competition_rank": 367
   },
   {
     "contest_id": 1607,
@@ -43346,7 +43240,7 @@
       }
     ],
     "difficulty_score": 24.4,
-    "competition_rank": 369
+    "competition_rank": 368
   },
   {
     "contest_id": 2497,
@@ -43446,7 +43340,7 @@
       }
     ],
     "difficulty_score": 24.4,
-    "competition_rank": 370
+    "competition_rank": 369
   },
   {
     "contest_id": 1443,
@@ -43576,7 +43470,7 @@
       }
     ],
     "difficulty_score": 24.3,
-    "competition_rank": 371
+    "competition_rank": 370
   },
   {
     "contest_id": 2015,
@@ -43664,7 +43558,7 @@
       }
     ],
     "difficulty_score": 24.3,
-    "competition_rank": 372
+    "competition_rank": 371
   },
   {
     "contest_id": 2516,
@@ -43764,7 +43658,7 @@
       }
     ],
     "difficulty_score": 24.1,
-    "competition_rank": 373
+    "competition_rank": 372
   },
   {
     "contest_id": 1667,
@@ -43882,7 +43776,7 @@
       }
     ],
     "difficulty_score": 24.0,
-    "competition_rank": 374
+    "competition_rank": 373
   },
   {
     "contest_id": 1708,
@@ -43994,7 +43888,7 @@
       }
     ],
     "difficulty_score": 23.9,
-    "competition_rank": 375
+    "competition_rank": 374
   },
   {
     "contest_id": 2098,
@@ -44088,7 +43982,7 @@
       }
     ],
     "difficulty_score": 23.6,
-    "competition_rank": 376
+    "competition_rank": 375
   },
   {
     "contest_id": 1306,
@@ -44212,7 +44106,7 @@
       }
     ],
     "difficulty_score": 23.5,
-    "competition_rank": 377
+    "competition_rank": 376
   },
   {
     "contest_id": 2500,
@@ -44354,7 +44248,7 @@
       }
     ],
     "difficulty_score": 23.2,
-    "competition_rank": 378
+    "competition_rank": 377
   },
   {
     "contest_id": 1571,
@@ -44460,7 +44354,7 @@
       }
     ],
     "difficulty_score": 22.2,
-    "competition_rank": 379
+    "competition_rank": 378
   },
   {
     "contest_id": 1669,
@@ -44560,7 +44454,7 @@
       }
     ],
     "difficulty_score": 22.2,
-    "competition_rank": 380
+    "competition_rank": 379
   },
   {
     "contest_id": 1782,
@@ -44690,7 +44584,7 @@
       }
     ],
     "difficulty_score": 22.2,
-    "competition_rank": 381
+    "competition_rank": 380
   },
   {
     "contest_id": 1912,
@@ -44784,7 +44678,7 @@
       }
     ],
     "difficulty_score": 22.1,
-    "competition_rank": 382
+    "competition_rank": 381
   },
   {
     "contest_id": 1487,
@@ -44795,42 +44689,42 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 2259.843880108143,
+    "raw_difficulty": 2253.8264361017414,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Fredrik Johansson",
         "country": "SWE",
         "power": 747.2,
-        "percent": 33.1
+        "percent": 33.2
       },
       {
         "rank": "2",
         "person_name": "Marcus Yngvesson",
         "country": "SWE",
         "power": 298.8,
-        "percent": 13.2
+        "percent": 13.3
       },
       {
         "rank": "3",
         "person_name": "Cim Johansson",
         "country": "SWE",
         "power": 783.0,
-        "percent": 34.6
+        "percent": 34.7
       },
       {
         "rank": "4",
         "person_name": "Johan Espenkrona",
         "country": "SWE",
-        "power": 88.5,
-        "percent": 3.9
+        "power": 82.5,
+        "percent": 3.7
       },
       {
         "rank": "5",
         "person_name": "Harley Andersson",
         "country": "SWE",
         "power": 342.3,
-        "percent": 15.1
+        "percent": 15.2
       }
     ],
     "results": [
@@ -44895,8 +44789,8 @@
         "score": 11
       }
     ],
-    "difficulty_score": 21.9,
-    "competition_rank": 383
+    "difficulty_score": 21.8,
+    "competition_rank": 382
   },
   {
     "contest_id": 2584,
@@ -45008,7 +44902,7 @@
       }
     ],
     "difficulty_score": 21.8,
-    "competition_rank": 384
+    "competition_rank": 383
   },
   {
     "contest_id": 2662,
@@ -45108,7 +45002,7 @@
       }
     ],
     "difficulty_score": 21.7,
-    "competition_rank": 385
+    "competition_rank": 384
   },
   {
     "contest_id": 1305,
@@ -45119,42 +45013,42 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 2240.9769618997084,
+    "raw_difficulty": 2224.7344753301395,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Sami Ahola",
         "country": "FIN",
         "power": 108.4,
-        "percent": 4.8
+        "percent": 4.9
       },
       {
         "rank": "2",
         "person_name": "Péter Juhász",
         "country": "HUN",
         "power": 1436.1,
-        "percent": 64.1
+        "percent": 64.6
       },
       {
         "rank": "3",
         "person_name": "Kelvin de Ruiter",
         "country": "NED",
         "power": 441.6,
-        "percent": 19.7
+        "percent": 19.8
       },
       {
         "rank": "4",
         "person_name": "Tyler Cotton",
         "country": "USA",
         "power": 165.9,
-        "percent": 7.4
+        "percent": 7.5
       },
       {
         "rank": "5",
         "person_name": "Dainis Zageris",
         "country": "LAT",
-        "power": 89.0,
-        "percent": 4.0
+        "power": 72.8,
+        "percent": 3.3
       }
     ],
     "results": [
@@ -45231,8 +45125,8 @@
         "score": 22.5
       }
     ],
-    "difficulty_score": 21.6,
-    "competition_rank": 386
+    "difficulty_score": 21.4,
+    "competition_rank": 385
   },
   {
     "contest_id": 2010,
@@ -45332,7 +45226,7 @@
       }
     ],
     "difficulty_score": 21.4,
-    "competition_rank": 387
+    "competition_rank": 386
   },
   {
     "contest_id": 1591,
@@ -45432,7 +45326,7 @@
       }
     ],
     "difficulty_score": 21.3,
-    "competition_rank": 388
+    "competition_rank": 387
   },
   {
     "contest_id": 1966,
@@ -45532,7 +45426,7 @@
       }
     ],
     "difficulty_score": 21.2,
-    "competition_rank": 389
+    "competition_rank": 388
   },
   {
     "contest_id": 2598,
@@ -45626,7 +45520,7 @@
       }
     ],
     "difficulty_score": 21.1,
-    "competition_rank": 390
+    "competition_rank": 389
   },
   {
     "contest_id": 2849,
@@ -45738,7 +45632,7 @@
       }
     ],
     "difficulty_score": 21.1,
-    "competition_rank": 391
+    "competition_rank": 390
   },
   {
     "contest_id": 1779,
@@ -45874,7 +45768,7 @@
       }
     ],
     "difficulty_score": 21.0,
-    "competition_rank": 392
+    "competition_rank": 391
   },
   {
     "contest_id": 1671,
@@ -45956,7 +45850,7 @@
       }
     ],
     "difficulty_score": 20.9,
-    "competition_rank": 393
+    "competition_rank": 392
   },
   {
     "contest_id": 1699,
@@ -46080,7 +45974,7 @@
       }
     ],
     "difficulty_score": 20.9,
-    "competition_rank": 394
+    "competition_rank": 393
   },
   {
     "contest_id": 1606,
@@ -46192,7 +46086,7 @@
       }
     ],
     "difficulty_score": 20.8,
-    "competition_rank": 395
+    "competition_rank": 394
   },
   {
     "contest_id": 1986,
@@ -46280,7 +46174,7 @@
       }
     ],
     "difficulty_score": 20.8,
-    "competition_rank": 396
+    "competition_rank": 395
   },
   {
     "contest_id": 2551,
@@ -46392,7 +46286,7 @@
       }
     ],
     "difficulty_score": 20.8,
-    "competition_rank": 397
+    "competition_rank": 396
   },
   {
     "contest_id": 2601,
@@ -46480,7 +46374,7 @@
       }
     ],
     "difficulty_score": 20.8,
-    "competition_rank": 398
+    "competition_rank": 397
   },
   {
     "contest_id": 1952,
@@ -46568,125 +46462,7 @@
       }
     ],
     "difficulty_score": 20.3,
-    "competition_rank": 399
-  },
-  {
-    "contest_id": 2332,
-    "contest_name": "2024 Denmark's Strongest Man",
-    "details": "Svendborg, Denmark, 2024-10-19",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 3.0,
-    "division": "men",
-    "total_competitors": 11,
-    "raw_difficulty": 2148.463245031137,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Anders Aslak",
-        "country": "DEN",
-        "power": 737.9,
-        "percent": 34.3
-      },
-      {
-        "rank": "2",
-        "person_name": "Frederik Nordberg",
-        "country": "DEN",
-        "power": 290.1,
-        "percent": 13.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Erik Mazur Thomsen",
-        "country": "DEN",
-        "power": 568.6,
-        "percent": 26.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Mark Møller Madsen",
-        "country": "DEN",
-        "power": 354.1,
-        "percent": 16.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Mads Schmidt",
-        "country": "DEN",
-        "power": 197.8,
-        "percent": 9.2
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Anders Aslak",
-        "country": "DEN",
-        "score": 55
-      },
-      {
-        "rank": "2",
-        "person_name": "Frederik Nordberg",
-        "country": "DEN",
-        "score": 45
-      },
-      {
-        "rank": "3",
-        "person_name": "Erik Mazur Thomsen",
-        "country": "DEN",
-        "score": 43.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Mark Møller Madsen",
-        "country": "DEN",
-        "score": 38
-      },
-      {
-        "rank": "5",
-        "person_name": "Mads Schmidt",
-        "country": "DEN",
-        "score": 30
-      },
-      {
-        "rank": "6",
-        "person_name": "Alex Thorsen",
-        "country": "DEN",
-        "score": 26
-      },
-      {
-        "rank": "7",
-        "person_name": "Vytautas Pranculevičius",
-        "country": "DEN",
-        "score": 25.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Sebastian Demant",
-        "country": "DEN",
-        "score": 19
-      },
-      {
-        "rank": "9",
-        "person_name": "Thorbjørn Eckhaus",
-        "country": "DEN",
-        "score": 15.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Philip Jensen",
-        "country": "DEN",
-        "score": 15
-      },
-      {
-        "rank": "11",
-        "person_name": "Andreas Kronborg Sørensen",
-        "country": "DEN",
-        "score": 12.5
-      }
-    ],
-    "difficulty_score": 20.3,
-    "competition_rank": 400
+    "competition_rank": 398
   },
   {
     "contest_id": 1880,
@@ -46774,7 +46550,125 @@
       }
     ],
     "difficulty_score": 20.2,
-    "competition_rank": 401
+    "competition_rank": 399
+  },
+  {
+    "contest_id": 2332,
+    "contest_name": "2024 Denmark's Strongest Man",
+    "details": "Svendborg, Denmark, 2024-10-19",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 3.0,
+    "division": "men",
+    "total_competitors": 11,
+    "raw_difficulty": 2139.5488637049043,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Anders Aslak",
+        "country": "DEN",
+        "power": 737.9,
+        "percent": 34.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Frederik Nordberg",
+        "country": "DEN",
+        "power": 288.8,
+        "percent": 13.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Erik Mazur Thomsen",
+        "country": "DEN",
+        "power": 561.0,
+        "percent": 26.2
+      },
+      {
+        "rank": "4",
+        "person_name": "Mark Møller Madsen",
+        "country": "DEN",
+        "power": 354.1,
+        "percent": 16.6
+      },
+      {
+        "rank": "5",
+        "person_name": "Mads Schmidt",
+        "country": "DEN",
+        "power": 197.8,
+        "percent": 9.2
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Anders Aslak",
+        "country": "DEN",
+        "score": 55
+      },
+      {
+        "rank": "2",
+        "person_name": "Frederik Nordberg",
+        "country": "DEN",
+        "score": 45
+      },
+      {
+        "rank": "3",
+        "person_name": "Erik Mazur Thomsen",
+        "country": "DEN",
+        "score": 43.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Mark Møller Madsen",
+        "country": "DEN",
+        "score": 38
+      },
+      {
+        "rank": "5",
+        "person_name": "Mads Schmidt",
+        "country": "DEN",
+        "score": 30
+      },
+      {
+        "rank": "6",
+        "person_name": "Alex Thorsen",
+        "country": "DEN",
+        "score": 26
+      },
+      {
+        "rank": "7",
+        "person_name": "Vytautas Pranculevičius",
+        "country": "DEN",
+        "score": 25.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Sebastian Demant",
+        "country": "DEN",
+        "score": 19
+      },
+      {
+        "rank": "9",
+        "person_name": "Thorbjørn Eckhaus",
+        "country": "DEN",
+        "score": 15.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Philip Jensen",
+        "country": "DEN",
+        "score": 15
+      },
+      {
+        "rank": "11",
+        "person_name": "Andreas Kronborg Sørensen",
+        "country": "DEN",
+        "score": 12.5
+      }
+    ],
+    "difficulty_score": 20.2,
+    "competition_rank": 400
   },
   {
     "contest_id": 2487,
@@ -46898,7 +46792,7 @@
       }
     ],
     "difficulty_score": 20.1,
-    "competition_rank": 402
+    "competition_rank": 401
   },
   {
     "contest_id": 2815,
@@ -47016,7 +46910,7 @@
       }
     ],
     "difficulty_score": 20.0,
-    "competition_rank": 403
+    "competition_rank": 402
   },
   {
     "contest_id": 1148,
@@ -47116,7 +47010,7 @@
       }
     ],
     "difficulty_score": 19.9,
-    "competition_rank": 404
+    "competition_rank": 403
   },
   {
     "contest_id": 1780,
@@ -47252,7 +47146,7 @@
       }
     ],
     "difficulty_score": 19.7,
-    "competition_rank": 405
+    "competition_rank": 404
   },
   {
     "contest_id": 1337,
@@ -47263,7 +47157,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 2088.8608285690384,
+    "raw_difficulty": 2088.7284582627867,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -47283,7 +47177,7 @@
         "rank": "3",
         "person_name": "Karolis Aleksandravičius",
         "country": "LTU",
-        "power": 126.7,
+        "power": 126.6,
         "percent": 6.1
       },
       {
@@ -47364,7 +47258,7 @@
       }
     ],
     "difficulty_score": 19.5,
-    "competition_rank": 406
+    "competition_rank": 405
   },
   {
     "contest_id": 1590,
@@ -47452,7 +47346,7 @@
       }
     ],
     "difficulty_score": 19.5,
-    "competition_rank": 407
+    "competition_rank": 406
   },
   {
     "contest_id": 1942,
@@ -47540,7 +47434,7 @@
       }
     ],
     "difficulty_score": 19.5,
-    "competition_rank": 408
+    "competition_rank": 407
   },
   {
     "contest_id": 2613,
@@ -47670,7 +47564,7 @@
       }
     ],
     "difficulty_score": 19.0,
-    "competition_rank": 409
+    "competition_rank": 408
   },
   {
     "contest_id": 2449,
@@ -47782,7 +47676,7 @@
       }
     ],
     "difficulty_score": 18.7,
-    "competition_rank": 410
+    "competition_rank": 409
   },
   {
     "contest_id": 2001,
@@ -47906,7 +47800,7 @@
       }
     ],
     "difficulty_score": 18.5,
-    "competition_rank": 411
+    "competition_rank": 410
   },
   {
     "contest_id": 1974,
@@ -47988,7 +47882,7 @@
       }
     ],
     "difficulty_score": 18.2,
-    "competition_rank": 412
+    "competition_rank": 411
   },
   {
     "contest_id": 2048,
@@ -48082,7 +47976,7 @@
       }
     ],
     "difficulty_score": 18.1,
-    "competition_rank": 413
+    "competition_rank": 412
   },
   {
     "contest_id": 1415,
@@ -48194,7 +48088,7 @@
       }
     ],
     "difficulty_score": 17.7,
-    "competition_rank": 414
+    "competition_rank": 413
   },
   {
     "contest_id": 2744,
@@ -48312,7 +48206,7 @@
       }
     ],
     "difficulty_score": 17.7,
-    "competition_rank": 415
+    "competition_rank": 414
   },
   {
     "contest_id": 2616,
@@ -48430,7 +48324,7 @@
       }
     ],
     "difficulty_score": 17.6,
-    "competition_rank": 416
+    "competition_rank": 415
   },
   {
     "contest_id": 1156,
@@ -48542,7 +48436,7 @@
       }
     ],
     "difficulty_score": 17.4,
-    "competition_rank": 417
+    "competition_rank": 416
   },
   {
     "contest_id": 1781,
@@ -48672,7 +48566,7 @@
       }
     ],
     "difficulty_score": 17.4,
-    "competition_rank": 418
+    "competition_rank": 417
   },
   {
     "contest_id": 1957,
@@ -48796,7 +48690,7 @@
       }
     ],
     "difficulty_score": 17.1,
-    "competition_rank": 419
+    "competition_rank": 418
   },
   {
     "contest_id": 2821,
@@ -48902,7 +48796,7 @@
       }
     ],
     "difficulty_score": 16.8,
-    "competition_rank": 420
+    "competition_rank": 419
   },
   {
     "contest_id": 1958,
@@ -49056,7 +48950,7 @@
       }
     ],
     "difficulty_score": 16.4,
-    "competition_rank": 421
+    "competition_rank": 420
   },
   {
     "contest_id": 2581,
@@ -49174,7 +49068,7 @@
       }
     ],
     "difficulty_score": 16.4,
-    "competition_rank": 422
+    "competition_rank": 421
   },
   {
     "contest_id": 1447,
@@ -49286,7 +49180,7 @@
       }
     ],
     "difficulty_score": 16.1,
-    "competition_rank": 423
+    "competition_rank": 422
   },
   {
     "contest_id": 1741,
@@ -49380,7 +49274,7 @@
       }
     ],
     "difficulty_score": 16.1,
-    "competition_rank": 424
+    "competition_rank": 423
   },
   {
     "contest_id": 1944,
@@ -49468,7 +49362,7 @@
       }
     ],
     "difficulty_score": 16.1,
-    "competition_rank": 425
+    "competition_rank": 424
   },
   {
     "contest_id": 2890,
@@ -49562,7 +49456,7 @@
       }
     ],
     "difficulty_score": 16.1,
-    "competition_rank": 426
+    "competition_rank": 425
   },
   {
     "contest_id": 1609,
@@ -49680,7 +49574,7 @@
       }
     ],
     "difficulty_score": 15.9,
-    "competition_rank": 427
+    "competition_rank": 426
   },
   {
     "contest_id": 1720,
@@ -49780,7 +49674,7 @@
       }
     ],
     "difficulty_score": 15.9,
-    "competition_rank": 428
+    "competition_rank": 427
   },
   {
     "contest_id": 1348,
@@ -49791,7 +49685,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 1820.1693276162507,
+    "raw_difficulty": 1818.7113393604818,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -49805,20 +49699,20 @@
         "person_name": "Modestas Struckus",
         "country": "LTU",
         "power": 1143.5,
-        "percent": 62.8
+        "percent": 62.9
       },
       {
         "rank": "3",
         "person_name": "Dainius Repšys",
         "country": "LTU",
-        "power": 274.2,
-        "percent": 15.1
+        "power": 272.9,
+        "percent": 15.0
       },
       {
         "rank": "4",
         "person_name": "Karolis Aleksandravičius",
         "country": "LTU",
-        "power": 126.7,
+        "power": 126.6,
         "percent": 7.0
       },
       {
@@ -49892,7 +49786,7 @@
       }
     ],
     "difficulty_score": 15.8,
-    "competition_rank": 429
+    "competition_rank": 428
   },
   {
     "contest_id": 2453,
@@ -49903,20 +49797,20 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 1817.9878667978073,
+    "raw_difficulty": 1809.0734854715747,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Anders Aslak",
         "country": "DEN",
         "power": 737.9,
-        "percent": 40.6
+        "percent": 40.8
       },
       {
         "rank": "2",
         "person_name": "Frederik Nordberg",
         "country": "DEN",
-        "power": 290.1,
+        "power": 288.8,
         "percent": 16.0
       },
       {
@@ -49937,8 +49831,8 @@
         "rank": "5",
         "person_name": "Erik Mazur Thomsen",
         "country": "DEN",
-        "power": 568.6,
-        "percent": 31.3
+        "power": 561.0,
+        "percent": 31.0
       }
     ],
     "results": [
@@ -50003,8 +49897,8 @@
         "score": 14
       }
     ],
-    "difficulty_score": 15.8,
-    "competition_rank": 430
+    "difficulty_score": 15.7,
+    "competition_rank": 429
   },
   {
     "contest_id": 1396,
@@ -50122,7 +50016,7 @@
       }
     ],
     "difficulty_score": 15.6,
-    "competition_rank": 431
+    "competition_rank": 430
   },
   {
     "contest_id": 1568,
@@ -50228,7 +50122,7 @@
       }
     ],
     "difficulty_score": 15.6,
-    "competition_rank": 432
+    "competition_rank": 431
   },
   {
     "contest_id": 1736,
@@ -50334,137 +50228,7 @@
       }
     ],
     "difficulty_score": 15.6,
-    "competition_rank": 433
-  },
-  {
-    "contest_id": 1307,
-    "contest_name": "2022 SCL Bosnia",
-    "details": "Sarajevo, Bosnia and Herzegovina, 2022-09-03",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.5,
-    "division": "men",
-    "total_competitors": 13,
-    "raw_difficulty": 1773.2931997932617,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Dainis Zageris",
-        "country": "LAT",
-        "power": 89.0,
-        "percent": 5.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Rongo Keene",
-        "country": "AUS",
-        "power": 513.0,
-        "percent": 28.9
-      },
-      {
-        "rank": "3",
-        "person_name": "Roberto Rodríguez",
-        "country": "ESP",
-        "power": 104.6,
-        "percent": 5.9
-      },
-      {
-        "rank": "4",
-        "person_name": "George Sulaiman",
-        "country": "NED",
-        "power": 418.1,
-        "percent": 23.6
-      },
-      {
-        "rank": "5",
-        "person_name": "Kane Francis",
-        "country": "GBR",
-        "power": 648.5,
-        "percent": 36.6
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Dainis Zageris",
-        "country": "LAT",
-        "score": 51
-      },
-      {
-        "rank": "2",
-        "person_name": "Rongo Keene",
-        "country": "AUS",
-        "score": 50.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Roberto Rodríguez",
-        "country": "ESP",
-        "score": 50.5
-      },
-      {
-        "rank": "4",
-        "person_name": "George Sulaiman",
-        "country": "NED",
-        "score": 48
-      },
-      {
-        "rank": "5",
-        "person_name": "Kane Francis",
-        "country": "GBR",
-        "score": 43
-      },
-      {
-        "rank": "6",
-        "person_name": "Péter Juhász",
-        "country": "HUN",
-        "score": 39
-      },
-      {
-        "rank": "7",
-        "person_name": "Ervin Toots",
-        "country": "EST",
-        "score": 37.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Fatih Karaca",
-        "country": "TUR",
-        "score": 31
-      },
-      {
-        "rank": "9",
-        "person_name": "Nemanja Tasić",
-        "country": "SRB",
-        "score": 29.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Jeremy Hogg",
-        "country": "NZL",
-        "score": 26
-      },
-      {
-        "rank": "11",
-        "person_name": "Tiago Aparecido",
-        "country": "BRA",
-        "score": 21
-      },
-      {
-        "rank": "12",
-        "person_name": "Marcelo Martínez",
-        "country": "URU",
-        "score": 18
-      },
-      {
-        "rank": "13",
-        "person_name": "Damir Stroil",
-        "country": "BIH",
-        "score": 0
-      }
-    ],
-    "difficulty_score": 15.2,
-    "competition_rank": 434
+    "competition_rank": 432
   },
   {
     "contest_id": 1569,
@@ -50582,7 +50346,137 @@
       }
     ],
     "difficulty_score": 15.2,
-    "competition_rank": 435
+    "competition_rank": 433
+  },
+  {
+    "contest_id": 1307,
+    "contest_name": "2022 SCL Bosnia",
+    "details": "Sarajevo, Bosnia and Herzegovina, 2022-09-03",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 0.5,
+    "division": "men",
+    "total_competitors": 13,
+    "raw_difficulty": 1757.0507132236928,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Dainis Zageris",
+        "country": "LAT",
+        "power": 72.8,
+        "percent": 4.1
+      },
+      {
+        "rank": "2",
+        "person_name": "Rongo Keene",
+        "country": "AUS",
+        "power": 513.0,
+        "percent": 29.2
+      },
+      {
+        "rank": "3",
+        "person_name": "Roberto Rodríguez",
+        "country": "ESP",
+        "power": 104.6,
+        "percent": 6.0
+      },
+      {
+        "rank": "4",
+        "person_name": "George Sulaiman",
+        "country": "NED",
+        "power": 418.1,
+        "percent": 23.8
+      },
+      {
+        "rank": "5",
+        "person_name": "Kane Francis",
+        "country": "GBR",
+        "power": 648.5,
+        "percent": 36.9
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Dainis Zageris",
+        "country": "LAT",
+        "score": 51
+      },
+      {
+        "rank": "2",
+        "person_name": "Rongo Keene",
+        "country": "AUS",
+        "score": 50.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Roberto Rodríguez",
+        "country": "ESP",
+        "score": 50.5
+      },
+      {
+        "rank": "4",
+        "person_name": "George Sulaiman",
+        "country": "NED",
+        "score": 48
+      },
+      {
+        "rank": "5",
+        "person_name": "Kane Francis",
+        "country": "GBR",
+        "score": 43
+      },
+      {
+        "rank": "6",
+        "person_name": "Péter Juhász",
+        "country": "HUN",
+        "score": 39
+      },
+      {
+        "rank": "7",
+        "person_name": "Ervin Toots",
+        "country": "EST",
+        "score": 37.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Fatih Karaca",
+        "country": "TUR",
+        "score": 31
+      },
+      {
+        "rank": "9",
+        "person_name": "Nemanja Tasić",
+        "country": "SRB",
+        "score": 29.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Jeremy Hogg",
+        "country": "NZL",
+        "score": 26
+      },
+      {
+        "rank": "11",
+        "person_name": "Tiago Aparecido",
+        "country": "BRA",
+        "score": 21
+      },
+      {
+        "rank": "12",
+        "person_name": "Marcelo Martínez",
+        "country": "URU",
+        "score": 18
+      },
+      {
+        "rank": "13",
+        "person_name": "Damir Stroil",
+        "country": "BIH",
+        "score": 0
+      }
+    ],
+    "difficulty_score": 15.0,
+    "competition_rank": 434
   },
   {
     "contest_id": 2548,
@@ -50700,7 +50594,7 @@
       }
     ],
     "difficulty_score": 15.0,
-    "competition_rank": 436
+    "competition_rank": 435
   },
   {
     "contest_id": 2874,
@@ -50788,7 +50682,7 @@
       }
     ],
     "difficulty_score": 15.0,
-    "competition_rank": 437
+    "competition_rank": 436
   },
   {
     "contest_id": 2511,
@@ -50882,7 +50776,7 @@
       }
     ],
     "difficulty_score": 14.9,
-    "competition_rank": 438
+    "competition_rank": 437
   },
   {
     "contest_id": 2891,
@@ -51048,7 +50942,7 @@
       }
     ],
     "difficulty_score": 14.7,
-    "competition_rank": 439
+    "competition_rank": 438
   },
   {
     "contest_id": 1847,
@@ -51160,7 +51054,7 @@
       }
     ],
     "difficulty_score": 14.5,
-    "competition_rank": 440
+    "competition_rank": 439
   },
   {
     "contest_id": 1547,
@@ -51242,7 +51136,7 @@
       }
     ],
     "difficulty_score": 14.3,
-    "competition_rank": 441
+    "competition_rank": 440
   },
   {
     "contest_id": 2535,
@@ -51360,7 +51254,7 @@
       }
     ],
     "difficulty_score": 14.0,
-    "competition_rank": 442
+    "competition_rank": 441
   },
   {
     "contest_id": 1548,
@@ -51442,7 +51336,7 @@
       }
     ],
     "difficulty_score": 13.8,
-    "competition_rank": 443
+    "competition_rank": 442
   },
   {
     "contest_id": 2804,
@@ -51560,7 +51454,7 @@
       }
     ],
     "difficulty_score": 13.8,
-    "competition_rank": 444
+    "competition_rank": 443
   },
   {
     "contest_id": 1970,
@@ -51660,7 +51554,7 @@
       }
     ],
     "difficulty_score": 13.5,
-    "competition_rank": 445
+    "competition_rank": 444
   },
   {
     "contest_id": 2495,
@@ -51772,7 +51666,7 @@
       }
     ],
     "difficulty_score": 13.3,
-    "competition_rank": 446
+    "competition_rank": 445
   },
   {
     "contest_id": 2007,
@@ -51884,7 +51778,7 @@
       }
     ],
     "difficulty_score": 12.8,
-    "competition_rank": 447
+    "competition_rank": 446
   },
   {
     "contest_id": 2455,
@@ -52014,7 +51908,7 @@
       }
     ],
     "difficulty_score": 12.5,
-    "competition_rank": 448
+    "competition_rank": 447
   },
   {
     "contest_id": 1941,
@@ -52102,7 +51996,7 @@
       }
     ],
     "difficulty_score": 12.3,
-    "competition_rank": 449
+    "competition_rank": 448
   },
   {
     "contest_id": 1170,
@@ -52232,7 +52126,7 @@
       }
     ],
     "difficulty_score": 12.2,
-    "competition_rank": 450
+    "competition_rank": 449
   },
   {
     "contest_id": 2625,
@@ -52338,7 +52232,7 @@
       }
     ],
     "difficulty_score": 12.2,
-    "competition_rank": 451
+    "competition_rank": 450
   },
   {
     "contest_id": 2811,
@@ -52426,7 +52320,7 @@
       }
     ],
     "difficulty_score": 12.2,
-    "competition_rank": 452
+    "competition_rank": 451
   },
   {
     "contest_id": 1155,
@@ -52514,7 +52408,7 @@
       }
     ],
     "difficulty_score": 12.1,
-    "competition_rank": 453
+    "competition_rank": 452
   },
   {
     "contest_id": 1917,
@@ -52650,7 +52544,7 @@
       }
     ],
     "difficulty_score": 12.0,
-    "competition_rank": 454
+    "competition_rank": 453
   },
   {
     "contest_id": 2609,
@@ -52756,7 +52650,7 @@
       }
     ],
     "difficulty_score": 12.0,
-    "competition_rank": 455
+    "competition_rank": 454
   },
   {
     "contest_id": 1861,
@@ -52850,7 +52744,7 @@
       }
     ],
     "difficulty_score": 11.9,
-    "competition_rank": 456
+    "competition_rank": 455
   },
   {
     "contest_id": 2574,
@@ -52956,7 +52850,7 @@
       }
     ],
     "difficulty_score": 11.1,
-    "competition_rank": 457
+    "competition_rank": 456
   },
   {
     "contest_id": 1300,
@@ -52967,7 +52861,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 1428.8252274618828,
+    "raw_difficulty": 1428.4689238723604,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -52981,13 +52875,13 @@
         "person_name": "Ervin Toots",
         "country": "EST",
         "power": 257.9,
-        "percent": 18.0
+        "percent": 18.1
       },
       {
         "rank": "3",
         "person_name": "Sebastian Kurek",
         "country": "POL",
-        "power": 61.3,
+        "power": 61.0,
         "percent": 4.3
       },
       {
@@ -53080,7 +52974,7 @@
       }
     ],
     "difficulty_score": 11.0,
-    "competition_rank": 458
+    "competition_rank": 457
   },
   {
     "contest_id": 1329,
@@ -53091,7 +52985,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 16,
-    "raw_difficulty": 1428.225372502575,
+    "raw_difficulty": 1428.2038179462606,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -53228,7 +53122,7 @@
       }
     ],
     "difficulty_score": 11.0,
-    "competition_rank": 459
+    "competition_rank": 458
   },
   {
     "contest_id": 1696,
@@ -53346,7 +53240,7 @@
       }
     ],
     "difficulty_score": 11.0,
-    "competition_rank": 460
+    "competition_rank": 459
   },
   {
     "contest_id": 1919,
@@ -53518,7 +53412,7 @@
       }
     ],
     "difficulty_score": 10.9,
-    "competition_rank": 461
+    "competition_rank": 460
   },
   {
     "contest_id": 2799,
@@ -53624,7 +53518,7 @@
       }
     ],
     "difficulty_score": 10.8,
-    "competition_rank": 462
+    "competition_rank": 461
   },
   {
     "contest_id": 2476,
@@ -53724,7 +53618,7 @@
       }
     ],
     "difficulty_score": 10.7,
-    "competition_rank": 463
+    "competition_rank": 462
   },
   {
     "contest_id": 1123,
@@ -53735,35 +53629,35 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 1396.0220182331195,
+    "raw_difficulty": 1390.004574226718,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Marcus Yngvesson",
         "country": "SWE",
         "power": 298.8,
-        "percent": 21.4
+        "percent": 21.5
       },
       {
         "rank": "2",
         "person_name": "Johan Espenkrona",
         "country": "SWE",
-        "power": 88.5,
-        "percent": 6.3
+        "power": 82.5,
+        "percent": 5.9
       },
       {
         "rank": "3",
         "person_name": "Fredrik Svensson",
         "country": "SWE",
         "power": 252.3,
-        "percent": 18.1
+        "percent": 18.2
       },
       {
         "rank": "4",
         "person_name": "Fredrik Johansson",
         "country": "SWE",
         "power": 747.2,
-        "percent": 53.5
+        "percent": 53.8
       },
       {
         "rank": "5",
@@ -53836,7 +53730,7 @@
       }
     ],
     "difficulty_score": 10.6,
-    "competition_rank": 464
+    "competition_rank": 463
   },
   {
     "contest_id": 1918,
@@ -54008,7 +53902,7 @@
       }
     ],
     "difficulty_score": 10.5,
-    "competition_rank": 465
+    "competition_rank": 464
   },
   {
     "contest_id": 2583,
@@ -54162,7 +54056,7 @@
       }
     ],
     "difficulty_score": 10.5,
-    "competition_rank": 466
+    "competition_rank": 465
   },
   {
     "contest_id": 1739,
@@ -54268,7 +54162,7 @@
       }
     ],
     "difficulty_score": 10.3,
-    "competition_rank": 467
+    "competition_rank": 466
   },
   {
     "contest_id": 1896,
@@ -54374,7 +54268,7 @@
       }
     ],
     "difficulty_score": 10.1,
-    "competition_rank": 468
+    "competition_rank": 467
   },
   {
     "contest_id": 1504,
@@ -54456,7 +54350,7 @@
       }
     ],
     "difficulty_score": 10.0,
-    "competition_rank": 469
+    "competition_rank": 468
   },
   {
     "contest_id": 1672,
@@ -54538,7 +54432,7 @@
       }
     ],
     "difficulty_score": 9.9,
-    "competition_rank": 470
+    "competition_rank": 469
   },
   {
     "contest_id": 2711,
@@ -54626,7 +54520,7 @@
       }
     ],
     "difficulty_score": 9.8,
-    "competition_rank": 471
+    "competition_rank": 470
   },
   {
     "contest_id": 1955,
@@ -54714,7 +54608,7 @@
       }
     ],
     "difficulty_score": 9.7,
-    "competition_rank": 472
+    "competition_rank": 471
   },
   {
     "contest_id": 2634,
@@ -54922,131 +54816,7 @@
       }
     ],
     "difficulty_score": 9.7,
-    "competition_rank": 473
-  },
-  {
-    "contest_id": 1041,
-    "contest_name": "2021 SCL World Truck Pull Championships",
-    "details": "Kyiv, Ukraine, 2021-09-19",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 12,
-    "raw_difficulty": 1301.5565309013411,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Kelvin de Ruiter",
-        "country": "NED",
-        "power": 441.6,
-        "percent": 33.9
-      },
-      {
-        "rank": "2",
-        "person_name": "Sean O'Hagan",
-        "country": "IRL",
-        "power": 68.5,
-        "percent": 5.3
-      },
-      {
-        "rank": "3",
-        "person_name": "Mika Törrö",
-        "country": "FIN",
-        "power": 613.9,
-        "percent": 47.2
-      },
-      {
-        "rank": "4",
-        "person_name": "Johan Espenkrona",
-        "country": "SWE",
-        "power": 88.5,
-        "percent": 6.8
-      },
-      {
-        "rank": "5",
-        "person_name": "Dainis Zageris",
-        "country": "LAT",
-        "power": 89.0,
-        "percent": 6.8
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Kelvin de Ruiter",
-        "country": "NED",
-        "score": 33
-      },
-      {
-        "rank": "2",
-        "person_name": "Sean O'Hagan",
-        "country": "IRL",
-        "score": 29
-      },
-      {
-        "rank": "3",
-        "person_name": "Mika Törrö",
-        "country": "FIN",
-        "score": 27
-      },
-      {
-        "rank": "4",
-        "person_name": "Johan Espenkrona",
-        "country": "SWE",
-        "score": 25
-      },
-      {
-        "rank": "5",
-        "person_name": "Dainis Zageris",
-        "country": "LAT",
-        "score": 23
-      },
-      {
-        "rank": "6",
-        "person_name": "Oleg Sylka",
-        "country": "UKR",
-        "score": 22
-      },
-      {
-        "rank": "7",
-        "person_name": "Roberto Rodríguez",
-        "country": "ESP",
-        "score": 20
-      },
-      {
-        "rank": "8",
-        "person_name": "Roman Grekov",
-        "country": "UKR",
-        "score": 18
-      },
-      {
-        "rank": "9",
-        "person_name": "Sebastian Kurek",
-        "country": "POL",
-        "score": 13
-      },
-      {
-        "rank": "10",
-        "person_name": "Jonathan Cotton",
-        "country": "USA",
-        "score": 10
-      },
-      {
-        "rank": "11",
-        "person_name": "Viktor Klymuk",
-        "country": "UKR",
-        "score": 9
-      },
-      {
-        "rank": "12",
-        "person_name": "Anders Aslak",
-        "country": "DEN",
-        "score": 5
-      }
-    ],
-    "difficulty_score": 9.6,
-    "competition_rank": 474
+    "competition_rank": 472
   },
   {
     "contest_id": 2657,
@@ -55146,7 +54916,7 @@
       }
     ],
     "difficulty_score": 9.6,
-    "competition_rank": 475
+    "competition_rank": 473
   },
   {
     "contest_id": 1698,
@@ -55258,7 +55028,7 @@
       }
     ],
     "difficulty_score": 9.4,
-    "competition_rank": 476
+    "competition_rank": 474
   },
   {
     "contest_id": 1723,
@@ -55358,7 +55128,131 @@
       }
     ],
     "difficulty_score": 9.4,
-    "competition_rank": 477
+    "competition_rank": 475
+  },
+  {
+    "contest_id": 1041,
+    "contest_name": "2021 SCL World Truck Pull Championships",
+    "details": "Kyiv, Ukraine, 2021-09-19",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 0.25,
+    "division": "men",
+    "total_competitors": 12,
+    "raw_difficulty": 1279.0857081222434,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Kelvin de Ruiter",
+        "country": "NED",
+        "power": 441.6,
+        "percent": 34.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Sean O'Hagan",
+        "country": "IRL",
+        "power": 68.3,
+        "percent": 5.3
+      },
+      {
+        "rank": "3",
+        "person_name": "Mika Törrö",
+        "country": "FIN",
+        "power": 613.9,
+        "percent": 48.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Johan Espenkrona",
+        "country": "SWE",
+        "power": 82.5,
+        "percent": 6.4
+      },
+      {
+        "rank": "5",
+        "person_name": "Dainis Zageris",
+        "country": "LAT",
+        "power": 72.8,
+        "percent": 5.7
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Kelvin de Ruiter",
+        "country": "NED",
+        "score": 33
+      },
+      {
+        "rank": "2",
+        "person_name": "Sean O'Hagan",
+        "country": "IRL",
+        "score": 29
+      },
+      {
+        "rank": "3",
+        "person_name": "Mika Törrö",
+        "country": "FIN",
+        "score": 27
+      },
+      {
+        "rank": "4",
+        "person_name": "Johan Espenkrona",
+        "country": "SWE",
+        "score": 25
+      },
+      {
+        "rank": "5",
+        "person_name": "Dainis Zageris",
+        "country": "LAT",
+        "score": 23
+      },
+      {
+        "rank": "6",
+        "person_name": "Oleg Sylka",
+        "country": "UKR",
+        "score": 22
+      },
+      {
+        "rank": "7",
+        "person_name": "Roberto Rodríguez",
+        "country": "ESP",
+        "score": 20
+      },
+      {
+        "rank": "8",
+        "person_name": "Roman Grekov",
+        "country": "UKR",
+        "score": 18
+      },
+      {
+        "rank": "9",
+        "person_name": "Sebastian Kurek",
+        "country": "POL",
+        "score": 13
+      },
+      {
+        "rank": "10",
+        "person_name": "Jonathan Cotton",
+        "country": "USA",
+        "score": 10
+      },
+      {
+        "rank": "11",
+        "person_name": "Viktor Klymuk",
+        "country": "UKR",
+        "score": 9
+      },
+      {
+        "rank": "12",
+        "person_name": "Anders Aslak",
+        "country": "DEN",
+        "score": 5
+      }
+    ],
+    "difficulty_score": 9.3,
+    "competition_rank": 476
   },
   {
     "contest_id": 1544,
@@ -55518,7 +55412,7 @@
       }
     ],
     "difficulty_score": 9.3,
-    "competition_rank": 478
+    "competition_rank": 477
   },
   {
     "contest_id": 2047,
@@ -55636,7 +55530,7 @@
       }
     ],
     "difficulty_score": 9.3,
-    "competition_rank": 479
+    "competition_rank": 478
   },
   {
     "contest_id": 1336,
@@ -55724,7 +55618,7 @@
       }
     ],
     "difficulty_score": 9.2,
-    "competition_rank": 480
+    "competition_rank": 479
   },
   {
     "contest_id": 1499,
@@ -55806,7 +55700,7 @@
       }
     ],
     "difficulty_score": 9.2,
-    "competition_rank": 481
+    "competition_rank": 480
   },
   {
     "contest_id": 1413,
@@ -55924,7 +55818,7 @@
       }
     ],
     "difficulty_score": 8.8,
-    "competition_rank": 482
+    "competition_rank": 481
   },
   {
     "contest_id": 1157,
@@ -56048,7 +55942,7 @@
       }
     ],
     "difficulty_score": 8.6,
-    "competition_rank": 483
+    "competition_rank": 482
   },
   {
     "contest_id": 2181,
@@ -56142,7 +56036,7 @@
       }
     ],
     "difficulty_score": 8.5,
-    "competition_rank": 484
+    "competition_rank": 483
   },
   {
     "contest_id": 2627,
@@ -56278,7 +56172,7 @@
       }
     ],
     "difficulty_score": 8.5,
-    "competition_rank": 485
+    "competition_rank": 484
   },
   {
     "contest_id": 2595,
@@ -56396,7 +56290,7 @@
       }
     ],
     "difficulty_score": 8.4,
-    "competition_rank": 486
+    "competition_rank": 485
   },
   {
     "contest_id": 1376,
@@ -56508,7 +56402,7 @@
       }
     ],
     "difficulty_score": 8.3,
-    "competition_rank": 487
+    "competition_rank": 486
   },
   {
     "contest_id": 1728,
@@ -56620,7 +56514,7 @@
       }
     ],
     "difficulty_score": 8.3,
-    "competition_rank": 488
+    "competition_rank": 487
   },
   {
     "contest_id": 2008,
@@ -56750,7 +56644,7 @@
       }
     ],
     "difficulty_score": 8.3,
-    "competition_rank": 489
+    "competition_rank": 488
   },
   {
     "contest_id": 2537,
@@ -56838,7 +56732,7 @@
       }
     ],
     "difficulty_score": 8.2,
-    "competition_rank": 490
+    "competition_rank": 489
   },
   {
     "contest_id": 1393,
@@ -56998,7 +56892,7 @@
       }
     ],
     "difficulty_score": 8.1,
-    "competition_rank": 491
+    "competition_rank": 490
   },
   {
     "contest_id": 2603,
@@ -57110,7 +57004,7 @@
       }
     ],
     "difficulty_score": 7.7,
-    "competition_rank": 492
+    "competition_rank": 491
   },
   {
     "contest_id": 1351,
@@ -57222,7 +57116,7 @@
       }
     ],
     "difficulty_score": 7.5,
-    "competition_rank": 493
+    "competition_rank": 492
   },
   {
     "contest_id": 1897,
@@ -57334,7 +57228,7 @@
       }
     ],
     "difficulty_score": 7.5,
-    "competition_rank": 494
+    "competition_rank": 493
   },
   {
     "contest_id": 1947,
@@ -57422,7 +57316,7 @@
       }
     ],
     "difficulty_score": 7.5,
-    "competition_rank": 495
+    "competition_rank": 494
   },
   {
     "contest_id": 1853,
@@ -57546,7 +57440,7 @@
       }
     ],
     "difficulty_score": 7.3,
-    "competition_rank": 496
+    "competition_rank": 495
   },
   {
     "contest_id": 2432,
@@ -57628,7 +57522,7 @@
       }
     ],
     "difficulty_score": 7.3,
-    "competition_rank": 497
+    "competition_rank": 496
   },
   {
     "contest_id": 2452,
@@ -57639,14 +57533,14 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 1074.4509205038812,
+    "raw_difficulty": 1073.1476159280028,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Anders Aslak",
         "country": "DEN",
         "power": 737.9,
-        "percent": 68.7
+        "percent": 68.8
       },
       {
         "rank": "2",
@@ -57673,8 +57567,8 @@
         "rank": "5",
         "person_name": "Frederik Nordberg",
         "country": "DEN",
-        "power": 290.1,
-        "percent": 27.0
+        "power": 288.8,
+        "percent": 26.9
       }
     ],
     "results": [
@@ -57746,7 +57640,7 @@
       }
     ],
     "difficulty_score": 7.2,
-    "competition_rank": 498
+    "competition_rank": 497
   },
   {
     "contest_id": 2653,
@@ -57840,7 +57734,7 @@
       }
     ],
     "difficulty_score": 7.1,
-    "competition_rank": 499
+    "competition_rank": 498
   },
   {
     "contest_id": 1446,
@@ -57940,7 +57834,7 @@
       }
     ],
     "difficulty_score": 6.9,
-    "competition_rank": 500
+    "competition_rank": 499
   },
   {
     "contest_id": 1959,
@@ -58070,7 +57964,7 @@
       }
     ],
     "difficulty_score": 6.5,
-    "competition_rank": 501
+    "competition_rank": 500
   },
   {
     "contest_id": 2198,
@@ -58081,13 +57975,13 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 974.6252406385163,
+    "raw_difficulty": 974.4928703322643,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Karolis Aleksandravičius",
         "country": "LTU",
-        "power": 126.7,
+        "power": 126.6,
         "percent": 13.0
       },
       {
@@ -58095,7 +57989,7 @@
         "person_name": "Pierre Motal",
         "country": "FRA",
         "power": 475.1,
-        "percent": 48.7
+        "percent": 48.8
       },
       {
         "rank": "3",
@@ -58194,7 +58088,7 @@
       }
     ],
     "difficulty_score": 6.2,
-    "competition_rank": 502
+    "competition_rank": 501
   },
   {
     "contest_id": 1540,
@@ -58306,7 +58200,7 @@
       }
     ],
     "difficulty_score": 6.1,
-    "competition_rank": 503
+    "competition_rank": 502
   },
   {
     "contest_id": 2547,
@@ -58424,7 +58318,7 @@
       }
     ],
     "difficulty_score": 6.1,
-    "competition_rank": 504
+    "competition_rank": 503
   },
   {
     "contest_id": 2838,
@@ -58536,7 +58430,7 @@
       }
     ],
     "difficulty_score": 6.1,
-    "competition_rank": 505
+    "competition_rank": 504
   },
   {
     "contest_id": 2629,
@@ -58642,7 +58536,7 @@
       }
     ],
     "difficulty_score": 6.0,
-    "competition_rank": 506
+    "competition_rank": 505
   },
   {
     "contest_id": 2631,
@@ -58772,7 +58666,7 @@
       }
     ],
     "difficulty_score": 5.7,
-    "competition_rank": 507
+    "competition_rank": 506
   },
   {
     "contest_id": 1740,
@@ -58860,7 +58754,7 @@
       }
     ],
     "difficulty_score": 5.6,
-    "competition_rank": 508
+    "competition_rank": 507
   },
   {
     "contest_id": 2596,
@@ -58978,7 +58872,7 @@
       }
     ],
     "difficulty_score": 5.3,
-    "competition_rank": 509
+    "competition_rank": 508
   },
   {
     "contest_id": 1604,
@@ -59120,7 +59014,7 @@
       }
     ],
     "difficulty_score": 5.1,
-    "competition_rank": 510
+    "competition_rank": 509
   },
   {
     "contest_id": 2628,
@@ -59226,7 +59120,7 @@
       }
     ],
     "difficulty_score": 5.1,
-    "competition_rank": 511
+    "competition_rank": 510
   },
   {
     "contest_id": 2633,
@@ -59326,7 +59220,7 @@
       }
     ],
     "difficulty_score": 5.1,
-    "competition_rank": 512
+    "competition_rank": 511
   },
   {
     "contest_id": 1338,
@@ -59450,7 +59344,7 @@
       }
     ],
     "difficulty_score": 4.9,
-    "competition_rank": 513
+    "competition_rank": 512
   },
   {
     "contest_id": 2600,
@@ -59568,7 +59462,7 @@
       }
     ],
     "difficulty_score": 4.8,
-    "competition_rank": 514
+    "competition_rank": 513
   },
   {
     "contest_id": 2597,
@@ -59680,119 +59574,7 @@
       }
     ],
     "difficulty_score": 4.7,
-    "competition_rank": 515
-  },
-  {
-    "contest_id": 1039,
-    "contest_name": "2021 SCL World Record Breakers",
-    "details": "Kenzingen, Germany, 2021-08-28",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 790.5166491866673,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Dainis Zageris",
-        "country": "LAT",
-        "power": 89.0,
-        "percent": 11.3
-      },
-      {
-        "rank": "2",
-        "person_name": "Kelvin de Ruiter",
-        "country": "NED",
-        "power": 441.6,
-        "percent": 55.9
-      },
-      {
-        "rank": "3",
-        "person_name": "Johan Espenkrona",
-        "country": "SWE",
-        "power": 88.5,
-        "percent": 11.2
-      },
-      {
-        "rank": "4",
-        "person_name": "Johan Langhorst",
-        "country": "NED",
-        "power": 162.2,
-        "percent": 20.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Tim Wagner",
-        "country": "GER",
-        "power": 9.2,
-        "percent": 1.2
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Dainis Zageris",
-        "country": "LAT",
-        "score": 48
-      },
-      {
-        "rank": "2",
-        "person_name": "Kelvin de Ruiter",
-        "country": "NED",
-        "score": 45.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Johan Espenkrona",
-        "country": "SWE",
-        "score": 44
-      },
-      {
-        "rank": "4",
-        "person_name": "Johan Langhorst",
-        "country": "NED",
-        "score": 35
-      },
-      {
-        "rank": "5",
-        "person_name": "Tim Wagner",
-        "country": "GER",
-        "score": 35
-      },
-      {
-        "rank": "6",
-        "person_name": "Ervin Toots",
-        "country": "EST",
-        "score": 28
-      },
-      {
-        "rank": "7",
-        "person_name": "Sebastian Kurek",
-        "country": "POL",
-        "score": 24
-      },
-      {
-        "rank": "8",
-        "person_name": "Sean O'Hagan",
-        "country": "IRL",
-        "score": 22
-      },
-      {
-        "rank": "9",
-        "person_name": "Aurélien Le Jeune",
-        "country": "FRA",
-        "score": 18
-      },
-      {
-        "rank": "10",
-        "person_name": "Julian Groth",
-        "country": "GER",
-        "score": 16.5
-      }
-    ],
-    "difficulty_score": 4.5,
-    "competition_rank": 516
+    "competition_rank": 514
   },
   {
     "contest_id": 1714,
@@ -59892,7 +59674,7 @@
       }
     ],
     "difficulty_score": 4.4,
-    "competition_rank": 517
+    "competition_rank": 515
   },
   {
     "contest_id": 2006,
@@ -59986,7 +59768,7 @@
       }
     ],
     "difficulty_score": 4.4,
-    "competition_rank": 518
+    "competition_rank": 516
   },
   {
     "contest_id": 1312,
@@ -60146,7 +59928,7 @@
       }
     ],
     "difficulty_score": 4.3,
-    "competition_rank": 519
+    "competition_rank": 517
   },
   {
     "contest_id": 2419,
@@ -60258,7 +60040,7 @@
       }
     ],
     "difficulty_score": 4.0,
-    "competition_rank": 520
+    "competition_rank": 518
   },
   {
     "contest_id": 2614,
@@ -60376,7 +60158,7 @@
       }
     ],
     "difficulty_score": 3.6,
-    "competition_rank": 521
+    "competition_rank": 519
   },
   {
     "contest_id": 2418,
@@ -60500,7 +60282,7 @@
       }
     ],
     "difficulty_score": 3.5,
-    "competition_rank": 522
+    "competition_rank": 520
   },
   {
     "contest_id": 1898,
@@ -60612,113 +60394,7 @@
       }
     ],
     "difficulty_score": 3.2,
-    "competition_rank": 523
-  },
-  {
-    "contest_id": 2454,
-    "contest_name": "2021 Denmark's Strongest Man",
-    "details": "Roskilde, Denmark, 2021-08-28",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 9,
-    "raw_difficulty": 629.7770963455686,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Emil Jensen",
-        "country": "DEN",
-        "power": 25.0,
-        "percent": 4.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Erik Mazur Thomsen",
-        "country": "DEN",
-        "power": 568.6,
-        "percent": 90.3
-      },
-      {
-        "rank": "3",
-        "person_name": "Mikkel Leicht",
-        "country": "DEN",
-        "power": 15.2,
-        "percent": 2.4
-      },
-      {
-        "rank": "4",
-        "person_name": "Thomas Granhof",
-        "country": "DEN",
-        "power": 11.8,
-        "percent": 1.9
-      },
-      {
-        "rank": "5",
-        "person_name": "Chris Gjerlevsen",
-        "country": "DEN",
-        "power": 9.2,
-        "percent": 1.5
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Emil Jensen",
-        "country": "DEN",
-        "score": 42.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Erik Mazur Thomsen",
-        "country": "DEN",
-        "score": 36.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Mikkel Leicht",
-        "country": "DEN",
-        "score": 35.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Thomas Granhof",
-        "country": "DEN",
-        "score": 31
-      },
-      {
-        "rank": "5",
-        "person_name": "Chris Gjerlevsen",
-        "country": "DEN",
-        "score": 31
-      },
-      {
-        "rank": "6",
-        "person_name": "Anders Aslak",
-        "country": "DEN",
-        "score": 28.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Simon Knudsen",
-        "country": "DEN",
-        "score": 22.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Frederik Nordberg",
-        "country": "DEN",
-        "score": 11
-      },
-      {
-        "rank": "9",
-        "person_name": "Victor Rosendahl",
-        "country": "DEN",
-        "score": 9.5
-      }
-    ],
-    "difficulty_score": 3.2,
-    "competition_rank": 524
+    "competition_rank": 521
   },
   {
     "contest_id": 1881,
@@ -60836,7 +60512,7 @@
       }
     ],
     "difficulty_score": 2.8,
-    "competition_rank": 525
+    "competition_rank": 522
   },
   {
     "contest_id": 2876,
@@ -60948,7 +60624,7 @@
       }
     ],
     "difficulty_score": 2.8,
-    "competition_rank": 526
+    "competition_rank": 523
   },
   {
     "contest_id": 1882,
@@ -61066,7 +60742,7 @@
       }
     ],
     "difficulty_score": 2.7,
-    "competition_rank": 527
+    "competition_rank": 524
   },
   {
     "contest_id": 1237,
@@ -61190,7 +60866,7 @@
       }
     ],
     "difficulty_score": 2.6,
-    "competition_rank": 528
+    "competition_rank": 525
   },
   {
     "contest_id": 1390,
@@ -61201,28 +60877,28 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 14,
-    "raw_difficulty": 552.9731542899875,
+    "raw_difficulty": 546.9557102835861,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Johan Espenkrona",
         "country": "SWE",
-        "power": 88.5,
-        "percent": 16.0
+        "power": 82.5,
+        "percent": 15.1
       },
       {
         "rank": "2",
         "person_name": "Eric Dawson",
         "country": "USA",
         "power": 65.6,
-        "percent": 11.9
+        "percent": 12.0
       },
       {
         "rank": "3",
         "person_name": "Øyvind Skjævesland Gustavsen",
         "country": "NOR",
         "power": 139.9,
-        "percent": 25.3
+        "percent": 25.6
       },
       {
         "rank": "4",
@@ -61236,7 +60912,7 @@
         "person_name": "Fredrik Svensson",
         "country": "SWE",
         "power": 252.3,
-        "percent": 45.6
+        "percent": 46.1
       }
     ],
     "results": [
@@ -61326,7 +61002,7 @@
       }
     ],
     "difficulty_score": 2.6,
-    "competition_rank": 529
+    "competition_rank": 526
   },
   {
     "contest_id": 2626,
@@ -61426,7 +61102,7 @@
       }
     ],
     "difficulty_score": 2.2,
-    "competition_rank": 530
+    "competition_rank": 527
   },
   {
     "contest_id": 1272,
@@ -61550,7 +61226,7 @@
       }
     ],
     "difficulty_score": 2.0,
-    "competition_rank": 531
+    "competition_rank": 528
   },
   {
     "contest_id": 1596,
@@ -61662,7 +61338,7 @@
       }
     ],
     "difficulty_score": 1.4,
-    "competition_rank": 532
+    "competition_rank": 529
   },
   {
     "contest_id": 1674,
@@ -61762,7 +61438,7 @@
       }
     ],
     "difficulty_score": 1.3,
-    "competition_rank": 533
+    "competition_rank": 530
   },
   {
     "contest_id": 2624,
@@ -61856,7 +61532,7 @@
       }
     ],
     "difficulty_score": 1.2,
-    "competition_rank": 534
+    "competition_rank": 531
   },
   {
     "contest_id": 1673,
@@ -61944,7 +61620,7 @@
       }
     ],
     "difficulty_score": 1.1,
-    "competition_rank": 535
+    "competition_rank": 532
   },
   {
     "contest_id": 1408,
@@ -62056,7 +61732,7 @@
       }
     ],
     "difficulty_score": 0.9,
-    "competition_rank": 536
+    "competition_rank": 533
   },
   {
     "contest_id": 1125,
@@ -62198,7 +61874,7 @@
       }
     ],
     "difficulty_score": 0.7,
-    "competition_rank": 537
+    "competition_rank": 534
   },
   {
     "contest_id": 2619,
@@ -62292,7 +61968,7 @@
       }
     ],
     "difficulty_score": 0.6,
-    "competition_rank": 538
+    "competition_rank": 535
   },
   {
     "contest_id": 2618,
@@ -62392,7 +62068,7 @@
       }
     ],
     "difficulty_score": 0.5,
-    "competition_rank": 539
+    "competition_rank": 536
   },
   {
     "contest_id": 2620,
@@ -62492,7 +62168,7 @@
       }
     ],
     "difficulty_score": 0.5,
-    "competition_rank": 540
+    "competition_rank": 537
   },
   {
     "contest_id": 1369,
@@ -62598,7 +62274,7 @@
       }
     ],
     "difficulty_score": 0.4,
-    "competition_rank": 541
+    "competition_rank": 538
   },
   {
     "contest_id": 2617,
@@ -62698,7 +62374,7 @@
       }
     ],
     "difficulty_score": 0.4,
-    "competition_rank": 542
+    "competition_rank": 539
   },
   {
     "contest_id": 1238,
@@ -62798,7 +62474,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 543
+    "competition_rank": 540
   },
   {
     "contest_id": 1315,
@@ -62898,7 +62574,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 544
+    "competition_rank": 541
   },
   {
     "contest_id": 2078,
@@ -62986,7 +62662,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 545
+    "competition_rank": 542
   },
   {
     "contest_id": 2079,
@@ -63044,7 +62720,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 546
+    "competition_rank": 543
   },
   {
     "contest_id": 2336,
@@ -63120,7 +62796,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 547
+    "competition_rank": 544
   },
   {
     "contest_id": 2459,
@@ -63196,7 +62872,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 548
+    "competition_rank": 545
   },
   {
     "contest_id": 2561,
@@ -63248,7 +62924,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 549
+    "competition_rank": 546
   },
   {
     "contest_id": 2755,
@@ -63312,6 +62988,6 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 550
+    "competition_rank": 547
   }
 ]
