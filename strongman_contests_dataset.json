@@ -180322,5 +180322,266 @@
         "score": 3.5
       }
     ]
+  },
+  {
+    "contest_id": 2894,
+    "contest_name": "2026 Slavic Cup",
+    "details": "KrÃ¡sno nad Kysucou, Slovakia, 2026-08-29",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2894",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Ivan Hryhorovskyy",
+        "country": "UKR",
+        "score": 26.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Pavel Zadražil",
+        "country": "CZE",
+        "score": 25.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Michal Maruszewski",
+        "country": "POL",
+        "score": 21.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Mário Karička",
+        "country": "SVK",
+        "score": 20.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Tomasz Małysz",
+        "country": "POL",
+        "score": 18.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Szabolcs Boros",
+        "country": "SVK",
+        "score": 13.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Bogdan Vuković",
+        "country": "SRB",
+        "score": 10.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Matija Lukic",
+        "country": "SLO",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2895,
+    "contest_name": "2026 Strongman Carei",
+    "details": "Carei, Romania, 2026-08-29",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2895",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Robert Marian Topîrceanu",
+        "country": "ROU",
+        "score": 27.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Péter Juhász",
+        "country": "HUN",
+        "score": 24.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Lucian Silviu Croitor",
+        "country": "ROU",
+        "score": 24.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Marcel Manoliu",
+        "country": "ROU",
+        "score": 21.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Vladislav Shapovalov",
+        "country": "MDA",
+        "score": 21.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Sergiu Mirzenco",
+        "country": "MDA",
+        "score": 10.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Cracium Calin",
+        "country": "MDA",
+        "score": 7.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2896,
+    "contest_name": "2019 Strongman Carei",
+    "details": "Carei, Romania, 2019-08-03",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2896",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Marcel Manoliu",
+        "country": "ROU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Zoltán Kovács",
+        "country": "HUN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Robert Marian Topîrceanu",
+        "country": "ROU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2897,
+    "contest_name": "2017 Strongman Carei",
+    "details": "Carei, Romania, 2017-08-10",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2897",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Rodion Sucman",
+        "country": "MDA",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Péter Juhász",
+        "country": "HUN",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Vlad Leahu",
+        "country": "ROU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2898,
+    "contest_name": "2023 Strongman Carei",
+    "details": "Carei, Romania, 2023-08-06",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2898",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Robert Marian Topîrceanu",
+        "country": "ROU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Lucian Silviu Croitor",
+        "country": "ROU",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Gabriel Paun",
+        "country": "ROU",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2899,
+    "contest_name": "2020 Strongman Carei",
+    "details": "Carei, Romania, 2020-09-19",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2899",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Péter Juhász",
+        "country": "HUN",
+        "score": 37.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Robert Marian Topîrceanu",
+        "country": "ROU",
+        "score": 34.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Laurențiu Mincu",
+        "country": "ROU",
+        "score": 23.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2900,
+    "contest_name": "2026 Final Strongman Cup",
+    "details": "Kwidzyn, Poland, 2026-08-30",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2900",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Oskar Ziółkowski",
+        "country": "POL",
+        "score": 28.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Robert Cyrwus",
+        "country": "POL",
+        "score": 24.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Jan Lacina",
+        "country": "CZE",
+        "score": 24.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Oleh Pylypiak",
+        "country": "UKR",
+        "score": 21.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Yevhenii Nastenko",
+        "country": "UKR",
+        "score": 14.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Łukasz Kracik",
+        "country": "POL",
+        "score": 13.5
+      }
+    ]
   }
 ]
