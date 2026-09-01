@@ -180583,5 +180583,356 @@
         "score": 13.5
       }
     ]
+  },
+  {
+    "contest_id": 2901,
+    "contest_name": "2026 Harlem European Strongman Cup",
+    "details": "InowrocÅaw, Poland, 2026-08-30",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2901",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "score": 41.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Vojtěch Kučera",
+        "country": "CZE",
+        "score": 31.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Patryk Sentyrz",
+        "country": "POL",
+        "score": 23.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Benjamin Blass",
+        "country": "GER",
+        "score": 22.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Amon Grunert",
+        "country": "GER",
+        "score": 18.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Kevin Horváth",
+        "country": "HUN",
+        "score": 16.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Bartłomiej Górecki",
+        "country": "POL",
+        "score": 10.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2902,
+    "contest_name": "2026 Moldova's Strongest Man",
+    "details": "ChiÈinÄu, Moldova, 2026-08-30",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2902",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Sergiu Coadă",
+        "country": "MDA",
+        "score": 39.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Iulian Prijelevschi",
+        "country": "MDA",
+        "score": 38.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Adrian Borș",
+        "country": "MDA",
+        "score": 35.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Rădvan Nicolae",
+        "country": "MDA",
+        "score": 34.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Tudor Popa",
+        "country": "MDA",
+        "score": 33.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Christian Busuioc",
+        "country": "MDA",
+        "score": 30.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Alexandru Șatalenco",
+        "country": "MDA",
+        "score": 20.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Dmitri Cebotari",
+        "country": "MDA",
+        "score": 19.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Petru Schimbător",
+        "country": "MDA",
+        "score": 13.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Anatoly Malniev",
+        "country": "MDA",
+        "score": 11.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2903,
+    "contest_name": "2026 Finland's Strongest Man",
+    "details": "Lappeenranta, Finland, 2026-08-29 to 2026-08-30",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2903",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jesse Pynnönen",
+        "country": "FIN",
+        "score": 90.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Niko Nurmi",
+        "country": "FIN",
+        "score": 85.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Tuomas Lindroos",
+        "country": "FIN",
+        "score": 81.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Mika Törrö",
+        "country": "FIN",
+        "score": 81.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Antti Peltomäki",
+        "country": "FIN",
+        "score": 74.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Mikko Muttonen",
+        "country": "FIN",
+        "score": 72.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Valtter Kortelainen",
+        "country": "FIN",
+        "score": 71.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Ari Savolainen",
+        "country": "FIN",
+        "score": 53.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Jiri Grönman",
+        "country": "FIN",
+        "score": 50.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Riku Lähde",
+        "country": "FIN",
+        "score": 43.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Antti Hakamäki",
+        "country": "FIN",
+        "score": 39.0
+      },
+      {
+        "rank": "12",
+        "person_name": "Mikko Kananen",
+        "country": "FIN",
+        "score": 22.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2904,
+    "contest_name": "2025 Official Strongman Ireland's Strongest Man",
+    "details": "Antrim, Northern Ireland, 2025-10-11",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2904",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Ruairí O'Hagan",
+        "country": "IRL",
+        "score": 22.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Matthew McKeegan",
+        "country": "IRL",
+        "score": 17.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Sean Gillen",
+        "country": "IRL",
+        "score": 14.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Luke  Cuthbertson",
+        "country": "NIR",
+        "score": 9.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Dillon Doyle",
+        "country": "IRL",
+        "score": 6.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2905,
+    "contest_name": "2026 Official Strongman Ireland's Strongest Man",
+    "details": "Belfast, Ireland, 2026-08-29",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2905",
+    "total_competitors": 17,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Ruairí O'Hagan",
+        "country": "IRL",
+        "score": 97.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Sean Gillen",
+        "country": "IRL",
+        "score": 89.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Cilléin Groom",
+        "country": "IRL",
+        "score": 85.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Matthew McKeegan",
+        "country": "IRL",
+        "score": 82.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Gerard Buckley",
+        "country": "IRL",
+        "score": 76.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Daniel McElroy",
+        "country": "IRL",
+        "score": 71.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Gavin McNamee",
+        "country": "IRL",
+        "score": 58.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Dean Doyle",
+        "country": "IRL",
+        "score": 58.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Dillon Doyle",
+        "country": "IRL",
+        "score": 45.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Liam Shiels",
+        "country": "IRL",
+        "score": 40.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Luke  Cuthbertson",
+        "country": "NIR",
+        "score": 40.0
+      },
+      {
+        "rank": "12",
+        "person_name": "Niall Moynagh",
+        "country": "IRL",
+        "score": 37.5
+      },
+      {
+        "rank": "13",
+        "person_name": "Kyle Scott",
+        "country": "NIR",
+        "score": 36.0
+      },
+      {
+        "rank": "14",
+        "person_name": "Matt  Pollard",
+        "country": "NIR",
+        "score": 27.0
+      },
+      {
+        "rank": "15",
+        "person_name": "Dean Kennedy",
+        "country": "IRL",
+        "score": 24.5
+      },
+      {
+        "rank": "16",
+        "person_name": "William Carton",
+        "country": "IRL",
+        "score": 19.0
+      },
+      {
+        "rank": "17",
+        "person_name": "Darren McGirr",
+        "country": "IRL",
+        "score": 0.0
+      }
+    ]
   }
 ]
