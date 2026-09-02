@@ -180934,5 +180934,338 @@
         "score": 0.0
       }
     ]
+  },
+  {
+    "contest_id": 2906,
+    "contest_name": "2023 Official Strongman Ireland's Strongest Man",
+    "details": "Ballymoney, Northern Ireland, 2023-11-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2906",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Sean Gillen",
+        "country": "IRL",
+        "score": 42.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Pa O'Dwyer",
+        "country": "IRL",
+        "score": 42.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Ruairí O'Hagan",
+        "country": "IRL",
+        "score": 32.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Matthew McKeegan",
+        "country": "IRL",
+        "score": 29.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Jack Harkin",
+        "country": "IRL",
+        "score": 29.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Dean Doyle",
+        "country": "IRL",
+        "score": 23.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Cilléin Groom",
+        "country": "IRL",
+        "score": 22.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Gerard Buckley",
+        "country": "IRL",
+        "score": 21.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Dillon Doyle",
+        "country": "IRL",
+        "score": 18.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Kyle McGowan",
+        "country": "IRL",
+        "score": 12.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2907,
+    "contest_name": "2025 Strongest Woman In Canada",
+    "details": "Calgary, Canada, 2025-10-03",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2907",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Samantha Belliveau",
+        "country": "CAN",
+        "score": 35.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Jackie Osczevski",
+        "country": "CAN",
+        "score": 26.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Samantha Koski-Moffat",
+        "country": "CAN",
+        "score": 24.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Joscelyne O'Brien",
+        "country": "CAN",
+        "score": 23.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Bailey Deschene",
+        "country": "CAN",
+        "score": 22.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Taylor Woods",
+        "country": "CAN",
+        "score": 17.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Josée De Lachevrotière",
+        "country": "CAN",
+        "score": 12.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Sarah-Jeanne Voyer",
+        "country": "CAN",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2908,
+    "contest_name": "2022 Strongest Woman In Canada",
+    "details": "Thunder Bay, Canada, 2022-10-22",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2908",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Samantha Belliveau",
+        "country": "CAN",
+        "score": 43.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jackie Osczevski",
+        "country": "CAN",
+        "score": 41.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Bailey Deschene",
+        "country": "CAN",
+        "score": 25.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Stephanie Bisignano",
+        "country": "CAN",
+        "score": 24.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Josée De Lachevrotière",
+        "country": "CAN",
+        "score": 21.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Samantha Koski-Moffat",
+        "country": "CAN",
+        "score": 17.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Sarah-Jeanne Voyer",
+        "country": "CAN",
+        "score": 14.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Alisha Thompson",
+        "country": "CAN",
+        "score": 9.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Laura de Berdt Romilly",
+        "country": "CAN",
+        "score": 5.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2909,
+    "contest_name": "2023 Strongest Woman In Canada",
+    "details": "Winnipeg, Canada, 2023-10-20",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2909",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Samantha Belliveau",
+        "country": "CAN",
+        "score": 49.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Samantha Koski-Moffat",
+        "country": "CAN",
+        "score": 40.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Josée De Lachevrotière",
+        "country": "CAN",
+        "score": 30.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Stephanie Bisignano",
+        "country": "CAN",
+        "score": 28.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Sarah-Jeanne Voyer",
+        "country": "CAN",
+        "score": 23.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Tamara Nolan",
+        "country": "CAN",
+        "score": 22.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Laura de Berdt Romilly",
+        "country": "CAN",
+        "score": 21.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Taylor Woods",
+        "country": "CAN",
+        "score": 20.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Mara Rozitis",
+        "country": "CAN",
+        "score": 15.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Kelsey Guieb",
+        "country": "CAN",
+        "score": 8.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2910,
+    "contest_name": "2024 Strongest Woman In Canada",
+    "details": "Moncton, Canada, 2024-10-11",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2910",
+    "total_competitors": 11,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Samantha Belliveau",
+        "country": "CAN",
+        "score": 52.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jackie Osczevski",
+        "country": "CAN",
+        "score": 49.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Samantha Koski-Moffat",
+        "country": "CAN",
+        "score": 40.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Josée De Lachevrotière",
+        "country": "CAN",
+        "score": 36.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Joscelyne O'Brien",
+        "country": "CAN",
+        "score": 31.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Stephanie Bisignano",
+        "country": "CAN",
+        "score": 28.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Sarah-Jeanne Voyer",
+        "country": "CAN",
+        "score": 23.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Lisa Wills",
+        "country": "CAN",
+        "score": 23.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Taylor Woods",
+        "country": "CAN",
+        "score": 19.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Christine Fox",
+        "country": "CAN",
+        "score": 15.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Nicole Kenny",
+        "country": "CAN",
+        "score": 6.0
+      }
+    ]
   }
 ]
