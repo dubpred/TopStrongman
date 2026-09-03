@@ -134153,6 +134153,12 @@
       },
       {
         "rank": "-",
+        "person_name": "Matyáš Funiok",
+        "country": "CZE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
         "person_name": "Ben Glasscock",
         "country": "GBR",
         "score": 0.0
@@ -134179,12 +134185,6 @@
         "rank": "-",
         "person_name": "Trey Mitchell",
         "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Tom Stoltman",
-        "country": "GBR",
         "score": 0.0
       }
     ]
@@ -181265,6 +181265,312 @@
         "person_name": "Nicole Kenny",
         "country": "CAN",
         "score": 6.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2911,
+    "contest_name": "2025 Western Canada's Strongest Woman",
+    "details": "Okotoks, Canada, 2025-08-23",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2911",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jackie Osczevski",
+        "country": "CAN",
+        "score": 56.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Bailey Deschene",
+        "country": "CAN",
+        "score": 52.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Joscelyne O'Brien",
+        "country": "CAN",
+        "score": 39.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Amanda Wozny",
+        "country": "CAN",
+        "score": 37.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Anatasia Pfund",
+        "country": "CAN",
+        "score": 35.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Robyn Koolen",
+        "country": "CAN",
+        "score": 33.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Olivia Hoyem",
+        "country": "CAN",
+        "score": 30.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Sam Husak",
+        "country": "CAN",
+        "score": 25.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Jocelyn Grimolfson",
+        "country": "CAN",
+        "score": 24.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Eryn Penner",
+        "country": "CAN",
+        "score": 23.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Amy Detmers",
+        "country": "CAN",
+        "score": 16.0
+      },
+      {
+        "rank": "12",
+        "person_name": "Tami Newman",
+        "country": "CAN",
+        "score": 15.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2912,
+    "contest_name": "2024 Western Canada's Strongest Woman",
+    "details": "Okotoks, Canada, 2024-08-03",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2912",
+    "total_competitors": 11,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jackie Osczevski",
+        "country": "CAN",
+        "score": 50.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Joscelyne O'Brien",
+        "country": "CAN",
+        "score": 47.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Bailey Deschene",
+        "country": "CAN",
+        "score": 38.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Sam Husak",
+        "country": "CAN",
+        "score": 30.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Robyn Koolen",
+        "country": "CAN",
+        "score": 30.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Anatasia Pfund",
+        "country": "CAN",
+        "score": 28.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Therese Zoltan",
+        "country": "CAN",
+        "score": 27.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Tracey Ball",
+        "country": "CAN",
+        "score": 23.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Gen Segger",
+        "country": "CAN",
+        "score": 18.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Haley Patyna",
+        "country": "CAN",
+        "score": 17.0
+      },
+      {
+        "rank": "11",
+        "person_name": "April Ledger",
+        "country": "CAN",
+        "score": 15.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2913,
+    "contest_name": "2026 Central European Strongman Cup",
+    "details": "TrebiÅ¡ov, Slovakia, 2026-08-15",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2913",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mário Karička",
+        "country": "SVK",
+        "score": 24.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Martin Szabo",
+        "country": "CZE",
+        "score": 16.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Jan Laube",
+        "country": "CZE",
+        "score": 11.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Daniel Bouma",
+        "country": "CZE",
+        "score": 9.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Pavol Priatka",
+        "country": "SVK",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2914,
+    "contest_name": "2016 Canada's Strongest Woman",
+    "details": "Regina, Canada, 2016-09-25",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2914",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Allison Lockhart",
+        "country": "CAN",
+        "score": 20.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Shannon  Thompson",
+        "country": "CAN",
+        "score": 13.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Jackie Osczevski",
+        "country": "CAN",
+        "score": 9.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Tracey Halladay",
+        "country": "CAN",
+        "score": 6.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Brianne  Kylie",
+        "country": "CAN",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2915,
+    "contest_name": "2016 U80 Canada's Strongest Woman",
+    "details": "Regina, Canada, 2016-09-25",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2915",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Taunia Stevens",
+        "country": "CAN",
+        "score": 20.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Bailey Deschene",
+        "country": "CAN",
+        "score": 11.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Karyne  Brown",
+        "country": "CAN",
+        "score": 6.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Claudya Cartier",
+        "country": "CAN",
+        "score": 3.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2916,
+    "contest_name": "2016 U70 Canada's Strongest Woman",
+    "details": "Regina, Canada, 2016-09-25",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2916",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jessica Theaker",
+        "country": "CAN",
+        "score": 24.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Brittany Brecht",
+        "country": "CAN",
+        "score": 21.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Alyssa Anderson",
+        "country": "CAN",
+        "score": 11.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Karina Franklin",
+        "country": "CAN",
+        "score": 10.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Cyrena Champion",
+        "country": "CAN",
+        "score": 4.0
       }
     ]
   }
