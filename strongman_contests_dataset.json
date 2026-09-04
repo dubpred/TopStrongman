@@ -181573,5 +181573,329 @@
         "score": 4.0
       }
     ]
+  },
+  {
+    "contest_id": 2917,
+    "contest_name": "2021 Canada's Strongest Woman",
+    "details": "Regina, Canada, 2021-08-14",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2917",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Melissa Peacock",
+        "country": "CAN",
+        "score": 41.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Tracey Halladay",
+        "country": "CAN",
+        "score": 35.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Amanda Tafelmeyer",
+        "country": "CAN",
+        "score": 26.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Taunia Stevens",
+        "country": "CAN",
+        "score": 20.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Brittany Brecht",
+        "country": "CAN",
+        "score": 17.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Pam McQueen",
+        "country": "CAN",
+        "score": 5.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2918,
+    "contest_name": "2024 Official Strongman Ireland's Strongest Man",
+    "details": "Ballymoney, Northern Ireland, 2024-10-05",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2918",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Sean Gillen",
+        "country": "IRL",
+        "score": 32.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Ruairí O'Hagan",
+        "country": "IRL",
+        "score": 32.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Matthew McKeegan",
+        "country": "IRL",
+        "score": 31.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Cilléin Groom",
+        "country": "IRL",
+        "score": 30.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Gerard Buckley",
+        "country": "IRL",
+        "score": 19.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Dillon Doyle",
+        "country": "IRL",
+        "score": 11.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Niall Moynagh",
+        "country": "IRL",
+        "score": 10.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Shaun Mcilkenney",
+        "country": "IRL",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2919,
+    "contest_name": "2017 Canada's Strongest Woman",
+    "details": "Bathurst, Canada, 2017-09-23",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2919",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jackie Osczevski",
+        "country": "CAN",
+        "score": 45.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jennifer Ferguson",
+        "country": "CAN",
+        "score": 37.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Victoria Randles",
+        "country": "CAN",
+        "score": 35.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Samantha Belliveau",
+        "country": "CAN",
+        "score": 34.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Kristen Thomas",
+        "country": "CAN",
+        "score": 31.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Shelby Valiquette",
+        "country": "CAN",
+        "score": 20.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Claudya Cartier",
+        "country": "CAN",
+        "score": 19.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Karine  Parthenais",
+        "country": "CAN",
+        "score": 16.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Mara Rozitis",
+        "country": "CAN",
+        "score": 15.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Birgit Elssner",
+        "country": "CAN",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2920,
+    "contest_name": "2017 U80 Canada's Strongest Woman",
+    "details": "Bathurst, Canada, 2017-09-23",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2920",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Eileen Du Plooy",
+        "country": "CAN",
+        "score": 29.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Melissa Garron",
+        "country": "CAN",
+        "score": 22.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Marta Wein",
+        "country": "CAN",
+        "score": 18.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Robyn Koolen",
+        "country": "CAN",
+        "score": 16.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Bailey Deschene",
+        "country": "CAN",
+        "score": 15.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Jessica Theaker",
+        "country": "CAN",
+        "score": 14.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Brittany Brecht",
+        "country": "CAN",
+        "score": 14.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2921,
+    "contest_name": "2017 U70 Canada's Strongest Woman",
+    "details": "Bathurst, Canada, 2017-09-23",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2921",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Melissa Peacock",
+        "country": "CAN",
+        "score": 42.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Brittany Schofer",
+        "country": "CAN",
+        "score": 36.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Alyssa Anderson",
+        "country": "CAN",
+        "score": 34.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Josée De Lachevrotière",
+        "country": "CAN",
+        "score": 29.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Cathy Rockwood",
+        "country": "CAN",
+        "score": 25.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Laurie MacDougall Sookraj",
+        "country": "CAN",
+        "score": 21.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Stephanie Bisignano",
+        "country": "CAN",
+        "score": 15.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Cyrena Champion",
+        "country": "CAN",
+        "score": 9.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Tara Sales",
+        "country": "CAN",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2922,
+    "contest_name": "2017 U60 Canada's Strongest Woman",
+    "details": "Bathurst, Canada, 2017-09-23",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2922",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Edith Turcotte",
+        "country": "CAN",
+        "score": 21.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Manon  Papineau",
+        "country": "CAN",
+        "score": 17.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Holly McRae",
+        "country": "CAN",
+        "score": 11.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Valerie Gibbons",
+        "country": "CAN",
+        "score": 10.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Rebekah Wetmore",
+        "country": "CAN",
+        "score": 7.0
+      }
+    ]
   }
 ]
