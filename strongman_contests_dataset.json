@@ -181897,5 +181897,482 @@
         "score": 7.0
       }
     ]
+  },
+  {
+    "contest_id": 2923,
+    "contest_name": "2007 The Strongest Man in Spain",
+    "details": "Borriol, Spain, 2007",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2923",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Juanjo Díaz",
+        "country": "ESP",
+        "score": 50.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Juan Carlos Heredia",
+        "country": "ESP",
+        "score": 47.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Aaron Marsà",
+        "country": "ESP",
+        "score": 43.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Jack Krajewski",
+        "country": "ESP",
+        "score": 41.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Ivan Rodríguez",
+        "country": "ESP",
+        "score": 34.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Daniel Vergés",
+        "country": "ESP",
+        "score": 32.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Daniel Albaladejo",
+        "country": "ESP",
+        "score": 26.5
+      },
+      {
+        "rank": "8",
+        "person_name": "José Luís Aranda",
+        "country": "ESP",
+        "score": 21.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Jaume Geli",
+        "country": "ESP",
+        "score": 20.5
+      },
+      {
+        "rank": "10",
+        "person_name": "David Jiménez",
+        "country": "ESP",
+        "score": 13.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2924,
+    "contest_name": "2019 Sweden's Rawest",
+    "details": "Ystad, Sweden, 2019",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2924",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Andreas Ståhlberg",
+        "country": "SWE",
+        "score": 34.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Mikkel Leicht",
+        "country": "DEN",
+        "score": 34.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Kim Gerhardt Holmqvist",
+        "country": "SWE",
+        "score": 33.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Ola Nilsson",
+        "country": "SWE",
+        "score": 26.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Joachim Gustavsson",
+        "country": "SWE",
+        "score": 26.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Nedžmin Ambešković",
+        "country": "BIH",
+        "score": 24.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Ole Martin Kristiansen",
+        "country": "NOR",
+        "score": 21.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Fredrik Svensson",
+        "country": "SWE",
+        "score": 14.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Artur Patyk",
+        "country": "POL",
+        "score": 9.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2925,
+    "contest_name": "2018 Sweden's Rawest",
+    "details": "Ystad, Sweden, 2018",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2925",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Kim Gerhardt Holmqvist",
+        "country": "SWE",
+        "score": 33.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Mikkel Leicht",
+        "country": "DEN",
+        "score": 31.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Martin Forsmark",
+        "country": "SWE",
+        "score": 28.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Ole Martin Kristiansen",
+        "country": "NOR",
+        "score": 26.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Nedžmin Ambešković",
+        "country": "BIH",
+        "score": 22.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Bjarni Nielsen",
+        "country": "FRO",
+        "score": 16.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Kalle Lane",
+        "country": "SWE",
+        "score": 8.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Andreas Ståhlberg",
+        "country": "SWE",
+        "score": 2.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2926,
+    "contest_name": "2021 Sweden's Rawest",
+    "details": "Ystad, Sweden, 2021",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2926",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Joachim Kvick",
+        "country": "SWE",
+        "score": 34.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "score": 33.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Johan Liljeblad",
+        "country": "SWE",
+        "score": 29.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Fredrik Svensson",
+        "country": "SWE",
+        "score": 26.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Kim Ujarak Lorentzen",
+        "country": "GRL",
+        "score": 26.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Mehmet Kaya",
+        "country": "SWE",
+        "score": 25.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Martin Forsmark",
+        "country": "SWE",
+        "score": 18.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Mike Taulbjerg Lindtoft",
+        "country": "DEN",
+        "score": 8.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2927,
+    "contest_name": "2020 Sweden's Rawest",
+    "details": "Ystad, Sweden, 2020-07-11",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2927",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Andreas Ståhlberg",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Johan Liljeblad",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Fredrik Svensson",
+        "country": "SWE",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2928,
+    "contest_name": "1999 FitnessVolt Classic",
+    "details": "Igotcha, Maine, 1999-12-31",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2928",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Seymour Cox",
+        "country": "AUS",
+        "score": 420.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Mike Hunt",
+        "country": "USA",
+        "score": 69.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Sum Ting Wong",
+        "country": "KOR",
+        "score": 67.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Suuk Ma Deek",
+        "country": "IND",
+        "score": 4.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Ben Dover",
+        "country": "GBR",
+        "score": 2.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Dick Zucker",
+        "country": "GER",
+        "score": 0.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Wayne Kerr",
+        "country": "USA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2929,
+    "contest_name": "2000 Strength Results Classic",
+    "details": "Igotchu, Maine, 2000-12-31",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2929",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Dick Zucker",
+        "country": "GER",
+        "score": 42.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Suuk Ma Deek",
+        "country": "IND",
+        "score": 39.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Seymour Cox",
+        "country": "AUS",
+        "score": 37.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Ben Dover",
+        "country": "GBR",
+        "score": 31.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Mike Hunt",
+        "country": "USA",
+        "score": 22.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Sum Ting Wong",
+        "country": "KOR",
+        "score": 11.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Wayne Kerr",
+        "country": "USA",
+        "score": 8.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2930,
+    "contest_name": "2022 Sweden's Rawest",
+    "details": "Ystad, Sweden, 2022-07-16",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2930",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Kim Ujarak Lorentzen",
+        "country": "GRL",
+        "score": 22.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Andreas Ståhlberg",
+        "country": "SWE",
+        "score": 21.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "score": 19.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Fredrik Svensson",
+        "country": "SWE",
+        "score": 15.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Johan Liljeblad",
+        "country": "SWE",
+        "score": 12.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Henrik Norberg",
+        "country": "SWE",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2932,
+    "contest_name": "2019 Canada's Strongest Woman",
+    "details": "Plantagenet, Canada, 2019-09-14 to 2019-09-15",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2932",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Émilie Morin",
+        "country": "CAN",
+        "score": 48.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Samantha Belliveau",
+        "country": "CAN",
+        "score": 41.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Allison Lockhart",
+        "country": "CAN",
+        "score": 37.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Robyn Gardner",
+        "country": "CAN",
+        "score": 29.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Brittany Brecht",
+        "country": "CAN",
+        "score": 28.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Amanda Tafelmeyer",
+        "country": "CAN",
+        "score": 20.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Josée De Lachevrotière",
+        "country": "CAN",
+        "score": 18.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Stephanie Bisignano",
+        "country": "CAN",
+        "score": 17.5
+      }
+    ]
   }
 ]

@@ -4879,7 +4879,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Pavlo",
     "Compititor_LName": "Nakonechnyy",
-    "difficulty": 262.1,
+    "difficulty": 262.0,
     "country_code": "UKR",
     "division": "men"
   },
@@ -4891,7 +4891,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Mitchell",
     "Compititor_LName": "Hooper",
-    "difficulty": 262.1,
+    "difficulty": 262.0,
     "country_code": "CAN",
     "division": "men"
   },
@@ -4903,7 +4903,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Oleksii",
     "Compititor_LName": "Novikov",
-    "difficulty": 262.1,
+    "difficulty": 262.0,
     "country_code": "UKR",
     "division": "men"
   },
@@ -4915,7 +4915,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Graham",
     "Compititor_LName": "Hicks",
-    "difficulty": 262.1,
+    "difficulty": 262.0,
     "country_code": "GBR",
     "division": "men"
   },
@@ -4927,7 +4927,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Gavin",
     "Compititor_LName": "Bilton",
-    "difficulty": 262.1,
+    "difficulty": 262.0,
     "country_code": "GBR",
     "division": "men"
   },
@@ -4939,7 +4939,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Rauno",
     "Compititor_LName": "Heinla",
-    "difficulty": 262.1,
+    "difficulty": 262.0,
     "country_code": "EST",
     "division": "men"
   },
@@ -4951,7 +4951,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Andy",
     "Compititor_LName": "Black",
-    "difficulty": 262.1,
+    "difficulty": 262.0,
     "country_code": "GBR",
     "division": "men"
   },
@@ -4963,7 +4963,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Shane",
     "Compititor_LName": "Flowers",
-    "difficulty": 262.1,
+    "difficulty": 262.0,
     "country_code": "GBR",
     "division": "men"
   },
@@ -4975,7 +4975,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Evan",
     "Compititor_LName": "Singleton",
-    "difficulty": 262.1,
+    "difficulty": 262.0,
     "country_code": "USA",
     "division": "men"
   },
@@ -4987,7 +4987,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Ivan",
     "Compititor_LName": "Makarov",
-    "difficulty": 262.1,
+    "difficulty": 262.0,
     "country_code": "GEO",
     "division": "men"
   },
@@ -4999,7 +4999,7 @@
     "PlacementRank": 11,
     "Competitor_fName": "Pa",
     "Compititor_LName": "O'Dwyer",
-    "difficulty": 262.1,
+    "difficulty": 262.0,
     "country_code": "IRL",
     "division": "men"
   },
@@ -5215,7 +5215,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Tom",
     "Compititor_LName": "Stoltman",
-    "difficulty": 242.9,
+    "difficulty": 242.8,
     "country_code": "SCO",
     "division": "men"
   },
@@ -5227,7 +5227,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Adam",
     "Compititor_LName": "Bishop",
-    "difficulty": 242.9,
+    "difficulty": 242.8,
     "country_code": "ENG",
     "division": "men"
   },
@@ -5239,7 +5239,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Paddy",
     "Compititor_LName": "Haynes",
-    "difficulty": 242.9,
+    "difficulty": 242.8,
     "country_code": "ENG",
     "division": "men"
   },
@@ -5251,7 +5251,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Gavin",
     "Compititor_LName": "Bilton",
-    "difficulty": 242.9,
+    "difficulty": 242.8,
     "country_code": "WAL",
     "division": "men"
   },
@@ -5263,7 +5263,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Graham",
     "Compititor_LName": "Hicks",
-    "difficulty": 242.9,
+    "difficulty": 242.8,
     "country_code": "ENG",
     "division": "men"
   },
@@ -5275,7 +5275,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Luke",
     "Compititor_LName": "Stoltman",
-    "difficulty": 242.9,
+    "difficulty": 242.8,
     "country_code": "SCO",
     "division": "men"
   },
@@ -5287,7 +5287,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Ben",
     "Compititor_LName": "Glasscock",
-    "difficulty": 242.9,
+    "difficulty": 242.8,
     "country_code": "ENG",
     "division": "men"
   },
@@ -5299,7 +5299,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Andrew",
     "Compititor_LName": "Flynn",
-    "difficulty": 242.9,
+    "difficulty": 242.8,
     "country_code": "ENG",
     "division": "men"
   },
@@ -5311,7 +5311,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Ruairí",
     "Compititor_LName": "O'Hagan",
-    "difficulty": 242.9,
+    "difficulty": 242.8,
     "country_code": "IRL",
     "division": "men"
   },
@@ -5323,7 +5323,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Conor",
     "Compititor_LName": "Curran",
-    "difficulty": 242.9,
+    "difficulty": 242.8,
     "country_code": "SCO",
     "division": "men"
   },
@@ -5335,7 +5335,7 @@
     "PlacementRank": 11,
     "Competitor_fName": "Callum",
     "Compititor_LName": "Crozier",
-    "difficulty": 242.9,
+    "difficulty": 242.8,
     "country_code": "SCO",
     "division": "men"
   },
@@ -5347,7 +5347,7 @@
     "PlacementRank": 12,
     "Competitor_fName": "Matthew",
     "Compititor_LName": "McKeegan",
-    "difficulty": 242.9,
+    "difficulty": 242.8,
     "country_code": "IRL",
     "division": "men"
   },
@@ -5359,7 +5359,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Mitchell",
     "Compititor_LName": "Hooper",
-    "difficulty": 242.4,
+    "difficulty": 242.3,
     "country_code": "CAN",
     "division": "men"
   },
@@ -5371,7 +5371,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Oleksii",
     "Compititor_LName": "Novikov",
-    "difficulty": 242.4,
+    "difficulty": 242.3,
     "country_code": "UKR",
     "division": "men"
   },
@@ -5383,7 +5383,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Rauno",
     "Compititor_LName": "Heinla",
-    "difficulty": 242.4,
+    "difficulty": 242.3,
     "country_code": "EST",
     "division": "men"
   },
@@ -5395,7 +5395,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Pa",
     "Compititor_LName": "O'Dwyer",
-    "difficulty": 242.4,
+    "difficulty": 242.3,
     "country_code": "IRL",
     "division": "men"
   },
@@ -5407,7 +5407,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Gavin",
     "Compititor_LName": "Bilton",
-    "difficulty": 242.4,
+    "difficulty": 242.3,
     "country_code": "GBR",
     "division": "men"
   },
@@ -5419,7 +5419,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Paul",
     "Compititor_LName": "Smith",
-    "difficulty": 242.4,
+    "difficulty": 242.3,
     "country_code": "GBR",
     "division": "men"
   },
@@ -5431,7 +5431,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Konstantine",
     "Compititor_LName": "Janashia",
-    "difficulty": 242.4,
+    "difficulty": 242.3,
     "country_code": "GEO",
     "division": "men"
   },
@@ -5443,7 +5443,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Kim",
     "Compititor_LName": "Ujarak Lorentzen",
-    "difficulty": 242.4,
+    "difficulty": 242.3,
     "country_code": "GRL",
     "division": "men"
   },
@@ -5455,7 +5455,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Ryan",
     "Compititor_LName": "Bennett",
-    "difficulty": 242.4,
+    "difficulty": 242.3,
     "country_code": "GBR",
     "division": "men"
   },
@@ -5467,7 +5467,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Louis",
     "Compititor_LName": "Jack",
-    "difficulty": 242.4,
+    "difficulty": 242.3,
     "country_code": "GBR",
     "division": "men"
   },
@@ -5479,7 +5479,7 @@
     "PlacementRank": 11,
     "Competitor_fName": "Žydrūnas",
     "Compititor_LName": "Savickas",
-    "difficulty": 242.4,
+    "difficulty": 242.3,
     "country_code": "LTU",
     "division": "men"
   },
@@ -5491,7 +5491,7 @@
     "PlacementRank": 12,
     "Competitor_fName": "Ervin",
     "Compititor_LName": "Toots",
-    "difficulty": 242.4,
+    "difficulty": 242.3,
     "country_code": "EST",
     "division": "men"
   },
@@ -5503,7 +5503,7 @@
     "PlacementRank": 13,
     "Competitor_fName": "Ben",
     "Compititor_LName": "Williams",
-    "difficulty": 242.4,
+    "difficulty": 242.3,
     "country_code": "GBR",
     "division": "men"
   },
@@ -5515,7 +5515,7 @@
     "PlacementRank": 14,
     "Competitor_fName": "Zake",
     "Compititor_LName": "Muluzi",
-    "difficulty": 242.4,
+    "difficulty": 242.3,
     "country_code": "GBR",
     "division": "men"
   },
@@ -6655,7 +6655,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Mitchell",
     "Compititor_LName": "Hooper",
-    "difficulty": 207.8,
+    "difficulty": 207.7,
     "country_code": "CAN",
     "division": "men"
   },
@@ -6667,7 +6667,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Rauno",
     "Compititor_LName": "Heinla",
-    "difficulty": 207.8,
+    "difficulty": 207.7,
     "country_code": "EST",
     "division": "men"
   },
@@ -6679,7 +6679,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Fadi",
     "Compititor_LName": "El Masri",
-    "difficulty": 207.8,
+    "difficulty": 207.7,
     "country_code": "AUS",
     "division": "men"
   },
@@ -6691,7 +6691,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Jean-Stephen",
     "Compititor_LName": "Coraboeuf",
-    "difficulty": 207.8,
+    "difficulty": 207.7,
     "country_code": "AUS",
     "division": "men"
   },
@@ -6703,7 +6703,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Tiano",
     "Compititor_LName": "Fa'apoi",
-    "difficulty": 207.8,
+    "difficulty": 207.7,
     "country_code": "NZL",
     "division": "men"
   },
@@ -6715,7 +6715,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Tyler",
     "Compititor_LName": "Helm",
-    "difficulty": 207.8,
+    "difficulty": 207.7,
     "country_code": "AUS",
     "division": "men"
   },
@@ -6727,7 +6727,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Sean",
     "Compititor_LName": "Gillen",
-    "difficulty": 207.8,
+    "difficulty": 207.7,
     "country_code": "AUS",
     "division": "men"
   },
@@ -8455,7 +8455,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Tom",
     "Compititor_LName": "Stoltman",
-    "difficulty": 179.3,
+    "difficulty": 179.2,
     "country_code": "SCO",
     "division": "men"
   },
@@ -8467,7 +8467,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Adam",
     "Compititor_LName": "Bishop",
-    "difficulty": 179.3,
+    "difficulty": 179.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -8479,7 +8479,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Graham",
     "Compititor_LName": "Hicks",
-    "difficulty": 179.3,
+    "difficulty": 179.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -8491,7 +8491,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Luke",
     "Compititor_LName": "Stoltman",
-    "difficulty": 179.3,
+    "difficulty": 179.2,
     "country_code": "SCO",
     "division": "men"
   },
@@ -8503,7 +8503,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Pa",
     "Compititor_LName": "O'Dwyer",
-    "difficulty": 179.3,
+    "difficulty": 179.2,
     "country_code": "IRL",
     "division": "men"
   },
@@ -8515,7 +8515,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Mark",
     "Compititor_LName": "Felix",
-    "difficulty": 179.3,
+    "difficulty": 179.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -8527,7 +8527,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Shane",
     "Compititor_LName": "Flowers",
-    "difficulty": 179.3,
+    "difficulty": 179.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -8539,7 +8539,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Paul",
     "Compititor_LName": "Smith",
-    "difficulty": 179.3,
+    "difficulty": 179.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -8551,7 +8551,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Andy",
     "Compititor_LName": "Black",
-    "difficulty": 179.3,
+    "difficulty": 179.2,
     "country_code": "SCO",
     "division": "men"
   },
@@ -8563,7 +8563,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Desmond",
     "Compititor_LName": "Gahan",
-    "difficulty": 179.3,
+    "difficulty": 179.2,
     "country_code": "WAL",
     "division": "men"
   },
@@ -15729,102 +15729,6 @@
     "Compititor_LName": "Castelli",
     "difficulty": 90.3,
     "country_code": "ITA",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Slavic Cup",
-    "Show_Promotion": "Other",
-    "Date": "2021-09-04",
-    "Year": 2021,
-    "PlacementRank": 1,
-    "Competitor_fName": "Maroš",
-    "Compititor_LName": "Štefaňák",
-    "difficulty": 89.6,
-    "country_code": "SVK",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Slavic Cup",
-    "Show_Promotion": "Other",
-    "Date": "2021-09-04",
-    "Year": 2021,
-    "PlacementRank": 2,
-    "Competitor_fName": "Oleh",
-    "Compititor_LName": "Pylypiak",
-    "difficulty": 89.6,
-    "country_code": "UKR",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Slavic Cup",
-    "Show_Promotion": "Other",
-    "Date": "2021-09-04",
-    "Year": 2021,
-    "PlacementRank": 3,
-    "Competitor_fName": "Ondřej",
-    "Compititor_LName": "Fojtů",
-    "difficulty": 89.6,
-    "country_code": "CZE",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Slavic Cup",
-    "Show_Promotion": "Other",
-    "Date": "2021-09-04",
-    "Year": 2021,
-    "PlacementRank": 4,
-    "Competitor_fName": "Luboš",
-    "Compititor_LName": "Klinecký",
-    "difficulty": 89.6,
-    "country_code": "CZE",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Slavic Cup",
-    "Show_Promotion": "Other",
-    "Date": "2021-09-04",
-    "Year": 2021,
-    "PlacementRank": 5,
-    "Competitor_fName": "Tomáš",
-    "Compititor_LName": "Sikora",
-    "difficulty": 89.6,
-    "country_code": "CZE",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Slavic Cup",
-    "Show_Promotion": "Other",
-    "Date": "2021-09-04",
-    "Year": 2021,
-    "PlacementRank": 6,
-    "Competitor_fName": "Ivan",
-    "Compititor_LName": "Hryhorovskyy",
-    "difficulty": 89.6,
-    "country_code": "SVK",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Slavic Cup",
-    "Show_Promotion": "Other",
-    "Date": "2021-09-04",
-    "Year": 2021,
-    "PlacementRank": 7,
-    "Competitor_fName": "Denis",
-    "Compititor_LName": "Hanák",
-    "difficulty": 89.6,
-    "country_code": "SVK",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Slavic Cup",
-    "Show_Promotion": "Other",
-    "Date": "2021-09-04",
-    "Year": 2021,
-    "PlacementRank": 8,
-    "Competitor_fName": "Amadeusz",
-    "Compititor_LName": "Guros",
-    "difficulty": 89.6,
-    "country_code": "POL",
     "division": "men"
   },
   {
@@ -23505,126 +23409,6 @@
     "Compititor_LName": "Cristolovean",
     "difficulty": 59.2,
     "country_code": "ROU",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Europe's Strongest Man",
-    "Show_Promotion": "NASM",
-    "Date": "2021-09-04",
-    "Year": 2021,
-    "PlacementRank": 1,
-    "Competitor_fName": "Luke",
-    "Compititor_LName": "Stoltman",
-    "difficulty": 58.9,
-    "country_code": "GBR",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Europe's Strongest Man",
-    "Show_Promotion": "NASM",
-    "Date": "2021-09-04",
-    "Year": 2021,
-    "PlacementRank": 2,
-    "Competitor_fName": "Oleksii",
-    "Compititor_LName": "Novikov",
-    "difficulty": 58.9,
-    "country_code": "UKR",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Europe's Strongest Man",
-    "Show_Promotion": "NASM",
-    "Date": "2021-09-04",
-    "Year": 2021,
-    "PlacementRank": 3,
-    "Competitor_fName": "Graham",
-    "Compititor_LName": "Hicks",
-    "difficulty": 58.9,
-    "country_code": "GBR",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Europe's Strongest Man",
-    "Show_Promotion": "NASM",
-    "Date": "2021-09-04",
-    "Year": 2021,
-    "PlacementRank": 4,
-    "Competitor_fName": "Rauno",
-    "Compititor_LName": "Heinla",
-    "difficulty": 58.9,
-    "country_code": "EST",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Europe's Strongest Man",
-    "Show_Promotion": "NASM",
-    "Date": "2021-09-04",
-    "Year": 2021,
-    "PlacementRank": 5,
-    "Competitor_fName": "Marius",
-    "Compititor_LName": "Lalas",
-    "difficulty": 58.9,
-    "country_code": "LTU",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Europe's Strongest Man",
-    "Show_Promotion": "NASM",
-    "Date": "2021-09-04",
-    "Year": 2021,
-    "PlacementRank": 5,
-    "Competitor_fName": "Pa",
-    "Compititor_LName": "O'Dwyer",
-    "difficulty": 58.9,
-    "country_code": "IRL",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Europe's Strongest Man",
-    "Show_Promotion": "NASM",
-    "Date": "2021-09-04",
-    "Year": 2021,
-    "PlacementRank": 7,
-    "Competitor_fName": "Ervin",
-    "Compititor_LName": "Toots",
-    "difficulty": 58.9,
-    "country_code": "EST",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Europe's Strongest Man",
-    "Show_Promotion": "NASM",
-    "Date": "2021-09-04",
-    "Year": 2021,
-    "PlacementRank": 8,
-    "Competitor_fName": "Gavin",
-    "Compititor_LName": "Bilton",
-    "difficulty": 58.9,
-    "country_code": "GBR",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Europe's Strongest Man",
-    "Show_Promotion": "NASM",
-    "Date": "2021-09-04",
-    "Year": 2021,
-    "PlacementRank": 9,
-    "Competitor_fName": "Johnny",
-    "Compititor_LName": "Hansson",
-    "difficulty": 58.9,
-    "country_code": "SWE",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Europe's Strongest Man",
-    "Show_Promotion": "NASM",
-    "Date": "2021-09-04",
-    "Year": 2021,
-    "PlacementRank": 10,
-    "Competitor_fName": "Adam",
-    "Compititor_LName": "Bishop",
-    "difficulty": 58.9,
-    "country_code": "GBR",
     "division": "men"
   },
   {
@@ -55620,126 +55404,6 @@
     "division": "men"
   },
   {
-    "Show_Name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
-    "Show_Promotion": "Other",
-    "Date": "2023-06-03",
-    "Year": 2023,
-    "PlacementRank": 1,
-    "Competitor_fName": "Marius",
-    "Compititor_LName": "Lalas",
-    "difficulty": 16.9,
-    "country_code": "LTU",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
-    "Show_Promotion": "Other",
-    "Date": "2023-06-03",
-    "Year": 2023,
-    "PlacementRank": 2,
-    "Competitor_fName": "Audrius",
-    "Compititor_LName": "Jokūbaitis",
-    "difficulty": 16.9,
-    "country_code": "LTU",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
-    "Show_Promotion": "Other",
-    "Date": "2023-06-03",
-    "Year": 2023,
-    "PlacementRank": 3,
-    "Competitor_fName": "Tomas",
-    "Compititor_LName": "Šliupas",
-    "difficulty": 16.9,
-    "country_code": "LTU",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
-    "Show_Promotion": "Other",
-    "Date": "2023-06-03",
-    "Year": 2023,
-    "PlacementRank": 4,
-    "Competitor_fName": "Rokas",
-    "Compititor_LName": "Černiauskas",
-    "difficulty": 16.9,
-    "country_code": "LTU",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
-    "Show_Promotion": "Other",
-    "Date": "2023-06-03",
-    "Year": 2023,
-    "PlacementRank": 5,
-    "Competitor_fName": "Lukas",
-    "Compititor_LName": "Mataitis",
-    "difficulty": 16.9,
-    "country_code": "LTU",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
-    "Show_Promotion": "Other",
-    "Date": "2023-06-03",
-    "Year": 2023,
-    "PlacementRank": 6,
-    "Competitor_fName": "Vytenis",
-    "Compititor_LName": "Pauža",
-    "difficulty": 16.9,
-    "country_code": "LTU",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
-    "Show_Promotion": "Other",
-    "Date": "2023-06-03",
-    "Year": 2023,
-    "PlacementRank": 7,
-    "Competitor_fName": "Saulius",
-    "Compititor_LName": "Skikas",
-    "difficulty": 16.9,
-    "country_code": "LTU",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
-    "Show_Promotion": "Other",
-    "Date": "2023-06-03",
-    "Year": 2023,
-    "PlacementRank": 8,
-    "Competitor_fName": "Robertas",
-    "Compititor_LName": "Bartkevičius",
-    "difficulty": 16.9,
-    "country_code": "LTU",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
-    "Show_Promotion": "Other",
-    "Date": "2023-06-03",
-    "Year": 2023,
-    "PlacementRank": 9,
-    "Competitor_fName": "Gintaras",
-    "Compititor_LName": "Šaulys",
-    "difficulty": 16.9,
-    "country_code": "LTU",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
-    "Show_Promotion": "Other",
-    "Date": "2023-06-03",
-    "Year": 2023,
-    "PlacementRank": 10,
-    "Competitor_fName": "Donatas",
-    "Compititor_LName": "Maskolaitis",
-    "difficulty": 16.9,
-    "country_code": "LTU",
-    "division": "men"
-  },
-  {
     "Show_Name": "2025 Norway's Strongest Man",
     "Show_Promotion": "Other",
     "Date": "2025-08-23",
@@ -55881,6 +55545,126 @@
     "Compititor_LName": "Webasto",
     "difficulty": 16.7,
     "country_code": "NOR",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
+    "Show_Promotion": "Other",
+    "Date": "2023-06-03",
+    "Year": 2023,
+    "PlacementRank": 1,
+    "Competitor_fName": "Marius",
+    "Compititor_LName": "Lalas",
+    "difficulty": 16.7,
+    "country_code": "LTU",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
+    "Show_Promotion": "Other",
+    "Date": "2023-06-03",
+    "Year": 2023,
+    "PlacementRank": 2,
+    "Competitor_fName": "Audrius",
+    "Compititor_LName": "Jokūbaitis",
+    "difficulty": 16.7,
+    "country_code": "LTU",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
+    "Show_Promotion": "Other",
+    "Date": "2023-06-03",
+    "Year": 2023,
+    "PlacementRank": 3,
+    "Competitor_fName": "Tomas",
+    "Compititor_LName": "Šliupas",
+    "difficulty": 16.7,
+    "country_code": "LTU",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
+    "Show_Promotion": "Other",
+    "Date": "2023-06-03",
+    "Year": 2023,
+    "PlacementRank": 4,
+    "Competitor_fName": "Rokas",
+    "Compititor_LName": "Černiauskas",
+    "difficulty": 16.7,
+    "country_code": "LTU",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
+    "Show_Promotion": "Other",
+    "Date": "2023-06-03",
+    "Year": 2023,
+    "PlacementRank": 5,
+    "Competitor_fName": "Lukas",
+    "Compititor_LName": "Mataitis",
+    "difficulty": 16.7,
+    "country_code": "LTU",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
+    "Show_Promotion": "Other",
+    "Date": "2023-06-03",
+    "Year": 2023,
+    "PlacementRank": 6,
+    "Competitor_fName": "Vytenis",
+    "Compititor_LName": "Pauža",
+    "difficulty": 16.7,
+    "country_code": "LTU",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
+    "Show_Promotion": "Other",
+    "Date": "2023-06-03",
+    "Year": 2023,
+    "PlacementRank": 7,
+    "Competitor_fName": "Saulius",
+    "Compititor_LName": "Skikas",
+    "difficulty": 16.7,
+    "country_code": "LTU",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
+    "Show_Promotion": "Other",
+    "Date": "2023-06-03",
+    "Year": 2023,
+    "PlacementRank": 8,
+    "Competitor_fName": "Robertas",
+    "Compititor_LName": "Bartkevičius",
+    "difficulty": 16.7,
+    "country_code": "LTU",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
+    "Show_Promotion": "Other",
+    "Date": "2023-06-03",
+    "Year": 2023,
+    "PlacementRank": 9,
+    "Competitor_fName": "Gintaras",
+    "Compititor_LName": "Šaulys",
+    "difficulty": 16.7,
+    "country_code": "LTU",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2023 Lietuvos galiÅ«nÅ³ Äempionato",
+    "Show_Promotion": "Other",
+    "Date": "2023-06-03",
+    "Year": 2023,
+    "PlacementRank": 10,
+    "Competitor_fName": "Donatas",
+    "Compititor_LName": "Maskolaitis",
+    "difficulty": 16.7,
+    "country_code": "LTU",
     "division": "men"
   },
   {
@@ -64137,6 +63921,78 @@
     "Compititor_LName": "Jovanović",
     "difficulty": 7.8,
     "country_code": "SRB",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2022 Sweden's Rawest",
+    "Show_Promotion": "Other",
+    "Date": "2022-07-16",
+    "Year": 2022,
+    "PlacementRank": 1,
+    "Competitor_fName": "Kim",
+    "Compititor_LName": "Ujarak Lorentzen",
+    "difficulty": 7.8,
+    "country_code": "GRL",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2022 Sweden's Rawest",
+    "Show_Promotion": "Other",
+    "Date": "2022-07-16",
+    "Year": 2022,
+    "PlacementRank": 2,
+    "Competitor_fName": "Andreas",
+    "Compititor_LName": "Ståhlberg",
+    "difficulty": 7.8,
+    "country_code": "SWE",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2022 Sweden's Rawest",
+    "Show_Promotion": "Other",
+    "Date": "2022-07-16",
+    "Year": 2022,
+    "PlacementRank": 3,
+    "Competitor_fName": "Fredrik",
+    "Compititor_LName": "Johansson",
+    "difficulty": 7.8,
+    "country_code": "SWE",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2022 Sweden's Rawest",
+    "Show_Promotion": "Other",
+    "Date": "2022-07-16",
+    "Year": 2022,
+    "PlacementRank": 4,
+    "Competitor_fName": "Fredrik",
+    "Compititor_LName": "Svensson",
+    "difficulty": 7.8,
+    "country_code": "SWE",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2022 Sweden's Rawest",
+    "Show_Promotion": "Other",
+    "Date": "2022-07-16",
+    "Year": 2022,
+    "PlacementRank": 5,
+    "Competitor_fName": "Johan",
+    "Compititor_LName": "Liljeblad",
+    "difficulty": 7.8,
+    "country_code": "SWE",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2022 Sweden's Rawest",
+    "Show_Promotion": "Other",
+    "Date": "2022-07-16",
+    "Year": 2022,
+    "PlacementRank": 6,
+    "Competitor_fName": "Henrik",
+    "Compititor_LName": "Norberg",
+    "difficulty": 7.8,
+    "country_code": "SWE",
     "division": "men"
   },
   {
