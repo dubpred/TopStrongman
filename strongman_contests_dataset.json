@@ -134116,76 +134116,76 @@
     "total_competitors": 12,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Austin Andrade",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Evans Nana Aryee",
-        "country": "GHA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Gavin Bilton",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Adam Bishop",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Hafthór Júlíus Björnsson",
         "country": "ISL",
-        "score": 0.0
+        "score": 50.5
       },
       {
-        "rank": "-",
-        "person_name": "Raul Flores",
-        "country": "MEX",
-        "score": 0.0
+        "rank": "2",
+        "person_name": "Evans Nana Aryee",
+        "country": "GHA",
+        "score": 45.5
       },
       {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Matyáš Funiok",
         "country": "CZE",
-        "score": 0.0
+        "score": 44.0
       },
       {
-        "rank": "-",
+        "rank": "4",
         "person_name": "Ben Glasscock",
         "country": "GBR",
-        "score": 0.0
+        "score": 35.5
       },
       {
-        "rank": "-",
-        "person_name": "Nick Guardione",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "James Jeffers",
-        "country": "CAN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Bryce Johnson",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "5",
         "person_name": "Trey Mitchell",
         "country": "USA",
-        "score": 0.0
+        "score": 34.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Nick Guardione",
+        "country": "USA",
+        "score": 33.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Bryce Johnson",
+        "country": "USA",
+        "score": 33.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Austin Andrade",
+        "country": "MEX",
+        "score": 28.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Adam Bishop",
+        "country": "GBR",
+        "score": 26.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Gavin Bilton",
+        "country": "GBR",
+        "score": 24.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Raul Flores",
+        "country": "MEX",
+        "score": 20.0
+      },
+      {
+        "rank": "12",
+        "person_name": "James Jeffers",
+        "country": "CAN",
+        "score": 7.5
       }
     ]
   },
