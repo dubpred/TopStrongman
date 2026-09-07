@@ -182374,5 +182374,62 @@
         "score": 17.5
       }
     ]
+  },
+  {
+    "contest_id": 2933,
+    "contest_name": "2026 Lietuvos galiÅ«nÅ³ Äempionato",
+    "details": "Utena, Lithuania, 2026-08-29",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2933",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tomas Šliupas",
+        "country": "LTU",
+        "score": 42.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Robertas Bartkevičius",
+        "country": "LTU",
+        "score": 41.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Saulius Skikas",
+        "country": "LTU",
+        "score": 31.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Vytenis Pauža",
+        "country": "LTU",
+        "score": 28.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Donatas Maskolaitis",
+        "country": "LTU",
+        "score": 23.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Modestas Masian",
+        "country": "LTU",
+        "score": 20.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Matas Jarusevičius",
+        "country": "LTU",
+        "score": 10.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Gintaras Šaulys",
+        "country": "LTU",
+        "score": 8.0
+      }
+    ]
   }
 ]
