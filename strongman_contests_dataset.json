@@ -182431,5 +182431,101 @@
         "score": 8.0
       }
     ]
+  },
+  {
+    "contest_id": 2934,
+    "contest_name": "2026 Harlem European Strongman Cup",
+    "details": "AugustÃ³w, Poland, 2026-09-06",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2934",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Robert Marian Topîrceanu",
+        "country": "ROU",
+        "score": 30.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Vojtěch Kučera",
+        "country": "CZE",
+        "score": 29.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Adam Wadolowski",
+        "country": "POL",
+        "score": 25.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Bartłomiej Górecki",
+        "country": "POL",
+        "score": 17.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Donatas Maskolaitis",
+        "country": "LTU",
+        "score": 13.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Vilém Minařík",
+        "country": "CZE",
+        "score": 8.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2935,
+    "contest_name": "2026 B.F.S.A Strongman Cup",
+    "details": "Cherven Bryag, Bulgaria, 2026-09-06",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2935",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Stanimir Todorov",
+        "country": "BUL",
+        "score": 34.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Vlăduț Angheloiu",
+        "country": "ROU",
+        "score": 29.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Ivan Mryankov",
+        "country": "BUL",
+        "score": 28.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Tihomir Traykov",
+        "country": "BUL",
+        "score": 27.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Detelin Yonchev",
+        "country": "BUL",
+        "score": 27.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Hristo Hristov",
+        "country": "BUL",
+        "score": 11.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Stanimir Getov",
+        "country": "BUL",
+        "score": 11.0
+      }
+    ]
   }
 ]
