@@ -182527,5 +182527,77 @@
         "score": 11.0
       }
     ]
+  },
+  {
+    "contest_id": 2936,
+    "contest_name": "2016 Strongman Carei",
+    "details": "Carei, Romania, 2016-08-06",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2936",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Vladimir Comorovschi",
+        "country": "ROU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Vlad Leahu",
+        "country": "ROU",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Ștefan Roşca",
+        "country": "MDA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2937,
+    "contest_name": "2026 Lithuania's Strongest Man",
+    "details": "KazlÅ³ RÅ«da, Lithuania, 2026-09-05",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2937",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tomas Šliupas",
+        "country": "LTU",
+        "score": 69.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Robertas Bartkevičius",
+        "country": "LTU",
+        "score": 56.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Saulius Skikas",
+        "country": "LTU",
+        "score": 42.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Donatas Maskolaitis",
+        "country": "LTU",
+        "score": 37.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Vytenis Pauža",
+        "country": "LTU",
+        "score": 35.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Modestas Masian",
+        "country": "LTU",
+        "score": 29.0
+      }
+    ]
   }
 ]
