@@ -11044,7 +11044,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 7098.751563271304,
+    "raw_difficulty": 7098.099910983365,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -11071,7 +11071,7 @@
         "rank": "4",
         "person_name": "Juan Ferrer",
         "country": "ESP",
-        "power": 219.2,
+        "power": 218.6,
         "percent": 3.1
       },
       {
@@ -19216,13 +19216,13 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 15,
-    "raw_difficulty": 4684.359635698342,
+    "raw_difficulty": 4683.058899084982,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Roman Grekov",
         "country": "UKR",
-        "power": 202.9,
+        "power": 201.6,
         "percent": 4.3
       },
       {
@@ -21331,10 +21331,10 @@
     "details": "Panevėžys, Lithuania, 2023-09-10",
     "tier": "TIER_5",
     "tier_multiplier": 0.25,
-    "recency_multiplier": 1.0,
+    "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 4385.693248930202,
+    "raw_difficulty": 4383.678538196576,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -21354,8 +21354,8 @@
         "rank": "3",
         "person_name": "Cim Johansson",
         "country": "SWE",
-        "power": 774.1,
-        "percent": 17.7
+        "power": 772.1,
+        "percent": 17.6
       },
       {
         "rank": "4",
@@ -22766,14 +22766,14 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 6,
-    "raw_difficulty": 4190.8943310056475,
+    "raw_difficulty": 4185.367509970325,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Robert Cyrwus",
         "country": "POL",
         "power": 722.6,
-        "percent": 17.2
+        "percent": 17.3
       },
       {
         "rank": "2",
@@ -22800,8 +22800,8 @@
         "rank": "5",
         "person_name": "Benjamín Machala",
         "country": "SVK",
-        "power": 172.4,
-        "percent": 4.1
+        "power": 166.9,
+        "percent": 4.0
       }
     ],
     "results": [
@@ -22842,7 +22842,7 @@
         "score": 0
       }
     ],
-    "difficulty_score": 56.5,
+    "difficulty_score": 56.4,
     "competition_rank": 192
   },
   {
@@ -24982,13 +24982,13 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 3945.494908254279,
+    "raw_difficulty": 3942.179460907293,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Roman Grekov",
         "country": "UKR",
-        "power": 202.9,
+        "power": 201.6,
         "percent": 5.1
       },
       {
@@ -25009,7 +25009,7 @@
         "rank": "4",
         "person_name": "Cim Johansson",
         "country": "SWE",
-        "power": 774.1,
+        "power": 772.1,
         "percent": 19.6
       },
       {
@@ -31696,6 +31696,130 @@
     "competition_rank": 267
   },
   {
+    "contest_id": 1722,
+    "contest_name": "2025 Strongest Nation in the World",
+    "details": "Moscow, Russia, 2025-07-05",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 3.0,
+    "division": "men",
+    "total_competitors": 12,
+    "raw_difficulty": 3280.6147621283276,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Dmitrii Skosyrskii",
+        "country": "RUS",
+        "power": 469.7,
+        "percent": 14.3
+      },
+      {
+        "rank": "2",
+        "person_name": "Alexander Klokov",
+        "country": "RUS",
+        "power": 736.0,
+        "percent": 22.4
+      },
+      {
+        "rank": "3",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "power": 802.2,
+        "percent": 24.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "power": 735.5,
+        "percent": 22.4
+      },
+      {
+        "rank": "5",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "power": 537.2,
+        "percent": 16.4
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Dmitrii Skosyrskii",
+        "country": "RUS",
+        "score": 55
+      },
+      {
+        "rank": "2",
+        "person_name": "Alexander Klokov",
+        "country": "RUS",
+        "score": 53
+      },
+      {
+        "rank": "3",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "score": 48
+      },
+      {
+        "rank": "4",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "score": 47
+      },
+      {
+        "rank": "5",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "score": 39
+      },
+      {
+        "rank": "6",
+        "person_name": "Ruslan Bagirov",
+        "country": "BLR",
+        "score": 34
+      },
+      {
+        "rank": "7",
+        "person_name": "Roman Druzhinin",
+        "country": "RUS",
+        "score": 28
+      },
+      {
+        "rank": "8",
+        "person_name": "Jinsong Wu",
+        "country": "CHN",
+        "score": 27
+      },
+      {
+        "rank": "9",
+        "person_name": "Evgeny Gavrilenko",
+        "country": "RUS",
+        "score": 26
+      },
+      {
+        "rank": "10",
+        "person_name": "Aydin Humbatov",
+        "country": "AZE",
+        "score": 15
+      },
+      {
+        "rank": "11",
+        "person_name": "Maksim Osipov",
+        "country": "KAZ",
+        "score": 10
+      },
+      {
+        "rank": "12",
+        "person_name": "Bogdan Vuković",
+        "country": "SRB",
+        "score": 6
+      }
+    ],
+    "difficulty_score": 39.2,
+    "competition_rank": 268
+  },
+  {
     "contest_id": 1400,
     "contest_name": "2023 Germany's Strongest Man",
     "details": "Gera, Germany, 2023-08-12",
@@ -31817,7 +31941,7 @@
       }
     ],
     "difficulty_score": 39.1,
-    "competition_rank": 268
+    "competition_rank": 269
   },
   {
     "contest_id": 2764,
@@ -31941,7 +32065,7 @@
       }
     ],
     "difficulty_score": 39.0,
-    "competition_rank": 269
+    "competition_rank": 270
   },
   {
     "contest_id": 1066,
@@ -32047,7 +32171,7 @@
       }
     ],
     "difficulty_score": 38.8,
-    "competition_rank": 270
+    "competition_rank": 271
   },
   {
     "contest_id": 1697,
@@ -32165,7 +32289,7 @@
       }
     ],
     "difficulty_score": 38.8,
-    "competition_rank": 271
+    "competition_rank": 272
   },
   {
     "contest_id": 1345,
@@ -32176,7 +32300,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 3253.403104299172,
+    "raw_difficulty": 3253.3204430784845,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -32210,7 +32334,7 @@
         "rank": "5",
         "person_name": "Karolis Aleksandravičius",
         "country": "LTU",
-        "power": 126.6,
+        "power": 126.5,
         "percent": 3.9
       }
     ],
@@ -32277,7 +32401,7 @@
       }
     ],
     "difficulty_score": 38.7,
-    "competition_rank": 272
+    "competition_rank": 273
   },
   {
     "contest_id": 1953,
@@ -32365,7 +32489,7 @@
       }
     ],
     "difficulty_score": 38.7,
-    "competition_rank": 273
+    "competition_rank": 274
   },
   {
     "contest_id": 1278,
@@ -32456,130 +32580,6 @@
         "person_name": "Corey Polkinghorne",
         "country": "AUS",
         "score": 11.5
-      }
-    ],
-    "difficulty_score": 38.6,
-    "competition_rank": 274
-  },
-  {
-    "contest_id": 1722,
-    "contest_name": "2025 Strongest Nation in the World",
-    "details": "Moscow, Russia, 2025-07-05",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 3.0,
-    "division": "men",
-    "total_competitors": 12,
-    "raw_difficulty": 3252.070930666277,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Dmitrii Skosyrskii",
-        "country": "RUS",
-        "power": 469.7,
-        "percent": 14.4
-      },
-      {
-        "rank": "2",
-        "person_name": "Alexander Klokov",
-        "country": "RUS",
-        "power": 736.0,
-        "percent": 22.6
-      },
-      {
-        "rank": "3",
-        "person_name": "David Shamey",
-        "country": "RUS",
-        "power": 802.2,
-        "percent": 24.7
-      },
-      {
-        "rank": "4",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "power": 719.2,
-        "percent": 22.1
-      },
-      {
-        "rank": "5",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "power": 524.9,
-        "percent": 16.1
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Dmitrii Skosyrskii",
-        "country": "RUS",
-        "score": 55
-      },
-      {
-        "rank": "2",
-        "person_name": "Alexander Klokov",
-        "country": "RUS",
-        "score": 53
-      },
-      {
-        "rank": "3",
-        "person_name": "David Shamey",
-        "country": "RUS",
-        "score": 48
-      },
-      {
-        "rank": "4",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "score": 47
-      },
-      {
-        "rank": "5",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "score": 39
-      },
-      {
-        "rank": "6",
-        "person_name": "Ruslan Bagirov",
-        "country": "BLR",
-        "score": 34
-      },
-      {
-        "rank": "7",
-        "person_name": "Roman Druzhinin",
-        "country": "RUS",
-        "score": 28
-      },
-      {
-        "rank": "8",
-        "person_name": "Jinsong Wu",
-        "country": "CHN",
-        "score": 27
-      },
-      {
-        "rank": "9",
-        "person_name": "Evgeny Gavrilenko",
-        "country": "RUS",
-        "score": 26
-      },
-      {
-        "rank": "10",
-        "person_name": "Aydin Humbatov",
-        "country": "AZE",
-        "score": 15
-      },
-      {
-        "rank": "11",
-        "person_name": "Maksim Osipov",
-        "country": "KAZ",
-        "score": 10
-      },
-      {
-        "rank": "12",
-        "person_name": "Bogdan Vuković",
-        "country": "SRB",
-        "score": 6
       }
     ],
     "difficulty_score": 38.6,
@@ -33280,13 +33280,13 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 3216.060356535465,
+    "raw_difficulty": 3215.9776953147775,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Karolis Aleksandravičius",
         "country": "LTU",
-        "power": 126.6,
+        "power": 126.5,
         "percent": 3.9
       },
       {
@@ -34050,6 +34050,224 @@
     "competition_rank": 287
   },
   {
+    "contest_id": 1713,
+    "contest_name": "2025 Kalita Strongman Show",
+    "details": "Moscow, Russia, 2025-06-06",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 3.0,
+    "division": "men",
+    "total_competitors": 8,
+    "raw_difficulty": 3173.079458747276,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "power": 802.2,
+        "percent": 25.3
+      },
+      {
+        "rank": "2",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "power": 735.5,
+        "percent": 23.2
+      },
+      {
+        "rank": "3",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "power": 537.2,
+        "percent": 16.9
+      },
+      {
+        "rank": "4",
+        "person_name": "Alexander Klokov",
+        "country": "RUS",
+        "power": 736.0,
+        "percent": 23.2
+      },
+      {
+        "rank": "5",
+        "person_name": "Roman Druzhinin",
+        "country": "RUS",
+        "power": 362.2,
+        "percent": 11.4
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "score": 37
+      },
+      {
+        "rank": "2",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "score": 28
+      },
+      {
+        "rank": "3",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "score": 26
+      },
+      {
+        "rank": "4",
+        "person_name": "Alexander Klokov",
+        "country": "RUS",
+        "score": 23
+      },
+      {
+        "rank": "5",
+        "person_name": "Roman Druzhinin",
+        "country": "RUS",
+        "score": 20
+      },
+      {
+        "rank": "6",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "score": 19
+      },
+      {
+        "rank": "7",
+        "person_name": "Pavel Ivashkin",
+        "country": "RUS",
+        "score": 3
+      },
+      {
+        "rank": "8",
+        "person_name": "Ilya Chetvergov",
+        "country": "RUS",
+        "score": 2
+      }
+    ],
+    "difficulty_score": 37.2,
+    "competition_rank": 288
+  },
+  {
+    "contest_id": 1967,
+    "contest_name": "2025 Russia's Strongest Man",
+    "details": "Moscow, Russia, 2025-09-13",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 5.0,
+    "division": "men",
+    "total_competitors": 11,
+    "raw_difficulty": 3148.2752176379227,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "power": 802.2,
+        "percent": 25.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Alexander Klokov",
+        "country": "RUS",
+        "power": 736.0,
+        "percent": 23.4
+      },
+      {
+        "rank": "3",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "power": 735.5,
+        "percent": 23.4
+      },
+      {
+        "rank": "4",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "power": 537.2,
+        "percent": 17.1
+      },
+      {
+        "rank": "5",
+        "person_name": "Petr Martynenko",
+        "country": "RUS",
+        "power": 337.4,
+        "percent": 10.7
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "score": 51
+      },
+      {
+        "rank": "2",
+        "person_name": "Alexander Klokov",
+        "country": "RUS",
+        "score": 44
+      },
+      {
+        "rank": "3",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "score": 39.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "score": 36
+      },
+      {
+        "rank": "5",
+        "person_name": "Petr Martynenko",
+        "country": "RUS",
+        "score": 35.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Roman Druzhinin",
+        "country": "RUS",
+        "score": 33.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Ramil Ramazanov",
+        "country": "RUS",
+        "score": 25
+      },
+      {
+        "rank": "8",
+        "person_name": "Nikolay Goglov",
+        "country": "RUS",
+        "score": 23
+      },
+      {
+        "rank": "9",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "score": 19.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Egor Makarov",
+        "country": "RUS",
+        "score": 13.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Artem Yuriev",
+        "country": "RUS",
+        "score": 9
+      }
+    ],
+    "difficulty_score": 36.8,
+    "competition_rank": 289
+  },
+  {
     "contest_id": 2099,
     "contest_name": "2025 Sweden's Strongest Man",
     "details": "Malmö, Sweden, 2025-10-25",
@@ -34058,14 +34276,14 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 3152.4192446653487,
+    "raw_difficulty": 3150.4045339317227,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Cim Johansson",
         "country": "SWE",
-        "power": 774.1,
-        "percent": 24.6
+        "power": 772.1,
+        "percent": 24.5
       },
       {
         "rank": "2",
@@ -34158,8 +34376,8 @@
         "score": 17
       }
     ],
-    "difficulty_score": 36.9,
-    "competition_rank": 288
+    "difficulty_score": 36.8,
+    "competition_rank": 290
   },
   {
     "contest_id": 2588,
@@ -34253,107 +34471,7 @@
       }
     ],
     "difficulty_score": 36.7,
-    "competition_rank": 289
-  },
-  {
-    "contest_id": 1713,
-    "contest_name": "2025 Kalita Strongman Show",
-    "details": "Moscow, Russia, 2025-06-06",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 3.0,
-    "division": "men",
-    "total_competitors": 8,
-    "raw_difficulty": 3138.0202374993814,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "David Shamey",
-        "country": "RUS",
-        "power": 802.2,
-        "percent": 25.6
-      },
-      {
-        "rank": "2",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "power": 719.2,
-        "percent": 22.9
-      },
-      {
-        "rank": "3",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "power": 524.9,
-        "percent": 16.7
-      },
-      {
-        "rank": "4",
-        "person_name": "Alexander Klokov",
-        "country": "RUS",
-        "power": 736.0,
-        "percent": 23.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Roman Druzhinin",
-        "country": "RUS",
-        "power": 355.7,
-        "percent": 11.3
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "David Shamey",
-        "country": "RUS",
-        "score": 37
-      },
-      {
-        "rank": "2",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "score": 28
-      },
-      {
-        "rank": "3",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "score": 26
-      },
-      {
-        "rank": "4",
-        "person_name": "Alexander Klokov",
-        "country": "RUS",
-        "score": 23
-      },
-      {
-        "rank": "5",
-        "person_name": "Roman Druzhinin",
-        "country": "RUS",
-        "score": 20
-      },
-      {
-        "rank": "6",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "score": 19
-      },
-      {
-        "rank": "7",
-        "person_name": "Pavel Ivashkin",
-        "country": "RUS",
-        "score": 3
-      },
-      {
-        "rank": "8",
-        "person_name": "Ilya Chetvergov",
-        "country": "RUS",
-        "score": 2
-      }
-    ],
-    "difficulty_score": 36.6,
-    "competition_rank": 290
+    "competition_rank": 291
   },
   {
     "contest_id": 2756,
@@ -34441,7 +34559,7 @@
       }
     ],
     "difficulty_score": 36.6,
-    "competition_rank": 291
+    "competition_rank": 292
   },
   {
     "contest_id": 1308,
@@ -34562,124 +34680,6 @@
         "person_name": "Alex Cristolovean",
         "country": "ROU",
         "score": 11
-      }
-    ],
-    "difficulty_score": 36.3,
-    "competition_rank": 292
-  },
-  {
-    "contest_id": 1967,
-    "contest_name": "2025 Russia's Strongest Man",
-    "details": "Moscow, Russia, 2025-09-13",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 5.0,
-    "division": "men",
-    "total_competitors": 11,
-    "raw_difficulty": 3119.731386175872,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "David Shamey",
-        "country": "RUS",
-        "power": 802.2,
-        "percent": 25.7
-      },
-      {
-        "rank": "2",
-        "person_name": "Alexander Klokov",
-        "country": "RUS",
-        "power": 736.0,
-        "percent": 23.6
-      },
-      {
-        "rank": "3",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "power": 719.2,
-        "percent": 23.1
-      },
-      {
-        "rank": "4",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "power": 524.9,
-        "percent": 16.8
-      },
-      {
-        "rank": "5",
-        "person_name": "Petr Martynenko",
-        "country": "RUS",
-        "power": 337.4,
-        "percent": 10.8
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "David Shamey",
-        "country": "RUS",
-        "score": 51
-      },
-      {
-        "rank": "2",
-        "person_name": "Alexander Klokov",
-        "country": "RUS",
-        "score": 44
-      },
-      {
-        "rank": "3",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "score": 39.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "score": 36
-      },
-      {
-        "rank": "5",
-        "person_name": "Petr Martynenko",
-        "country": "RUS",
-        "score": 35.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Roman Druzhinin",
-        "country": "RUS",
-        "score": 33.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Ramil Ramazanov",
-        "country": "RUS",
-        "score": 25
-      },
-      {
-        "rank": "8",
-        "person_name": "Nikolay Goglov",
-        "country": "RUS",
-        "score": 23
-      },
-      {
-        "rank": "9",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "score": 19.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Egor Makarov",
-        "country": "RUS",
-        "score": 13.5
-      },
-      {
-        "rank": "11",
-        "person_name": "Artem Yuriev",
-        "country": "RUS",
-        "score": 9
       }
     ],
     "difficulty_score": 36.3,
@@ -39316,21 +39316,21 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 8,
-    "raw_difficulty": 2798.279827767139,
+    "raw_difficulty": 2792.753006731816,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Oleh Pylypiak",
         "country": "UKR",
         "power": 1029.8,
-        "percent": 36.8
+        "percent": 36.9
       },
       {
         "rank": "2",
         "person_name": "Jan Lacina",
         "country": "CZE",
         "power": 1080.5,
-        "percent": 38.6
+        "percent": 38.7
       },
       {
         "rank": "3",
@@ -39343,8 +39343,8 @@
         "rank": "4",
         "person_name": "Benjamín Machala",
         "country": "SVK",
-        "power": 172.4,
-        "percent": 6.2
+        "power": 166.9,
+        "percent": 6.0
       },
       {
         "rank": "5",
@@ -39864,41 +39864,41 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 6,
-    "raw_difficulty": 2727.642730309941,
+    "raw_difficulty": 2761.790807118637,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "David Shamey",
         "country": "RUS",
         "power": 802.2,
-        "percent": 29.4
+        "percent": 29.0
       },
       {
         "rank": "2",
         "person_name": "Valentin Akimov",
         "country": "RUS",
-        "power": 719.2,
-        "percent": 26.4
+        "power": 735.5,
+        "percent": 26.6
       },
       {
         "rank": "3",
         "person_name": "Dmitrii Samoilov",
         "country": "RUS",
-        "power": 524.9,
-        "percent": 19.2
+        "power": 537.2,
+        "percent": 19.5
       },
       {
         "rank": "4",
         "person_name": "Dmitry Logunov",
         "country": "RUS",
-        "power": 393.0,
-        "percent": 14.4
+        "power": 393.6,
+        "percent": 14.3
       },
       {
         "rank": "5",
         "person_name": "Ramil Ramazanov",
         "country": "RUS",
-        "power": 288.3,
+        "power": 293.3,
         "percent": 10.6
       }
     ],
@@ -39940,7 +39940,7 @@
         "score": 9.5
       }
     ],
-    "difficulty_score": 29.7,
+    "difficulty_score": 30.2,
     "competition_rank": 340
   },
   {
@@ -40492,6 +40492,106 @@
     "competition_rank": 345
   },
   {
+    "contest_id": 1570,
+    "contest_name": "2024 Eurasian Games",
+    "details": "Moscow, Russia, 2024-06-14",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 1.0,
+    "division": "men",
+    "total_competitors": 8,
+    "raw_difficulty": 2652.628335899334,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Dmitrii Skosyrskii",
+        "country": "RUS",
+        "power": 469.7,
+        "percent": 17.7
+      },
+      {
+        "rank": "2",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "power": 802.2,
+        "percent": 30.2
+      },
+      {
+        "rank": "3",
+        "person_name": "Alexander Klokov",
+        "country": "RUS",
+        "power": 736.0,
+        "percent": 27.7
+      },
+      {
+        "rank": "4",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "power": 537.2,
+        "percent": 20.3
+      },
+      {
+        "rank": "5",
+        "person_name": "Evgeny Gavrilenko",
+        "country": "RUS",
+        "power": 107.5,
+        "percent": 4.1
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Dmitrii Skosyrskii",
+        "country": "RUS",
+        "score": 38
+      },
+      {
+        "rank": "2",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "score": 34.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Alexander Klokov",
+        "country": "RUS",
+        "score": 26.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "score": 24.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Evgeny Gavrilenko",
+        "country": "RUS",
+        "score": 22
+      },
+      {
+        "rank": "6",
+        "person_name": "Konstantin Klimash",
+        "country": "RUS",
+        "score": 15.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "score": 7
+      },
+      {
+        "rank": "8",
+        "person_name": "Leontiy Miroshnik",
+        "country": "RUS",
+        "score": 0
+      }
+    ],
+    "difficulty_score": 28.5,
+    "competition_rank": 346
+  },
+  {
     "contest_id": 2185,
     "contest_name": "2023 Magnús Classic Fort McMurray",
     "details": "Fort McMurray, Canada, 2023-09-08",
@@ -40589,7 +40689,7 @@
       }
     ],
     "difficulty_score": 28.4,
-    "competition_rank": 346
+    "competition_rank": 347
   },
   {
     "contest_id": 2895,
@@ -40683,107 +40783,113 @@
       }
     ],
     "difficulty_score": 28.4,
-    "competition_rank": 347
+    "competition_rank": 348
   },
   {
-    "contest_id": 1570,
-    "contest_name": "2024 Eurasian Games",
-    "details": "Moscow, Russia, 2024-06-14",
+    "contest_id": 1711,
+    "contest_name": "2025 Moscow Sports Cup",
+    "details": "Moscow, Russia, 2025-05-31",
     "tier": "TIER_5",
     "tier_multiplier": 0.25,
-    "recency_multiplier": 1.0,
+    "recency_multiplier": 3.0,
     "division": "men",
-    "total_competitors": 8,
-    "raw_difficulty": 2640.403165300777,
+    "total_competitors": 9,
+    "raw_difficulty": 2636.263377601494,
     "top_5_finishers": [
       {
         "rank": "1",
-        "person_name": "Dmitrii Skosyrskii",
-        "country": "RUS",
-        "power": 469.7,
-        "percent": 17.8
-      },
-      {
-        "rank": "2",
-        "person_name": "David Shamey",
-        "country": "RUS",
-        "power": 802.2,
-        "percent": 30.4
-      },
-      {
-        "rank": "3",
         "person_name": "Alexander Klokov",
         "country": "RUS",
         "power": 736.0,
         "percent": 27.9
       },
       {
+        "rank": "2",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "power": 735.5,
+        "percent": 27.9
+      },
+      {
+        "rank": "3",
+        "person_name": "Roman Druzhinin",
+        "country": "RUS",
+        "power": 362.2,
+        "percent": 13.7
+      },
+      {
         "rank": "4",
         "person_name": "Dmitrii Samoilov",
         "country": "RUS",
-        "power": 524.9,
-        "percent": 19.9
+        "power": 537.2,
+        "percent": 20.4
       },
       {
         "rank": "5",
-        "person_name": "Evgeny Gavrilenko",
+        "person_name": "Evgeny Konovalov",
         "country": "RUS",
-        "power": 107.5,
-        "percent": 4.1
+        "power": 265.4,
+        "percent": 10.1
       }
     ],
     "results": [
       {
         "rank": "1",
-        "person_name": "Dmitrii Skosyrskii",
+        "person_name": "Alexander Klokov",
         "country": "RUS",
-        "score": 38
+        "score": 45.5
       },
       {
         "rank": "2",
-        "person_name": "David Shamey",
+        "person_name": "Valentin Akimov",
         "country": "RUS",
-        "score": 34.5
+        "score": 44.5
       },
       {
         "rank": "3",
-        "person_name": "Alexander Klokov",
+        "person_name": "Roman Druzhinin",
         "country": "RUS",
-        "score": 26.5
+        "score": 36
       },
       {
         "rank": "4",
         "person_name": "Dmitrii Samoilov",
         "country": "RUS",
-        "score": 24.5
+        "score": 35
       },
       {
         "rank": "5",
-        "person_name": "Evgeny Gavrilenko",
+        "person_name": "Evgeny Konovalov",
         "country": "RUS",
-        "score": 22
+        "score": 32
       },
       {
         "rank": "6",
-        "person_name": "Konstantin Klimash",
+        "person_name": "Ramil Ramazanov",
         "country": "RUS",
-        "score": 15.5
+        "score": 29
       },
       {
         "rank": "7",
-        "person_name": "Dmitry Logunov",
+        "person_name": "Artem Yuriev",
         "country": "RUS",
-        "score": 7
+        "score": 21
       },
       {
         "rank": "8",
-        "person_name": "Leontiy Miroshnik",
+        "person_name": "Alexander Kuzmin",
         "country": "RUS",
-        "score": 0
+        "score": 12
+      },
+      {
+        "rank": "9",
+        "person_name": "Egor Makarov",
+        "country": "RUS",
+        "score": 11
       }
     ],
-    "difficulty_score": 28.3,
-    "competition_rank": 348
+    "difficulty_score": 28.2,
+    "competition_rank": 349
   },
   {
     "contest_id": 2814,
@@ -40895,7 +41001,7 @@
       }
     ],
     "difficulty_score": 28.1,
-    "competition_rank": 349
+    "competition_rank": 350
   },
   {
     "contest_id": 2850,
@@ -40906,7 +41012,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 2626.452521836815,
+    "raw_difficulty": 2626.3698606161274,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -40919,7 +41025,7 @@
         "rank": "2",
         "person_name": "Karolis Aleksandravičius",
         "country": "LTU",
-        "power": 126.6,
+        "power": 126.5,
         "percent": 4.8
       },
       {
@@ -41013,7 +41119,7 @@
       }
     ],
     "difficulty_score": 28.0,
-    "competition_rank": 350
+    "competition_rank": 351
   },
   {
     "contest_id": 1346,
@@ -41137,7 +41243,7 @@
       }
     ],
     "difficulty_score": 27.8,
-    "competition_rank": 351
+    "competition_rank": 352
   },
   {
     "contest_id": 1299,
@@ -41246,112 +41352,6 @@
         "person_name": "Anders Aslak",
         "country": "DEN",
         "score": 23.5
-      }
-    ],
-    "difficulty_score": 27.6,
-    "competition_rank": 352
-  },
-  {
-    "contest_id": 1711,
-    "contest_name": "2025 Moscow Sports Cup",
-    "details": "Moscow, Russia, 2025-05-31",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 3.0,
-    "division": "men",
-    "total_competitors": 9,
-    "raw_difficulty": 2601.2041563535995,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Alexander Klokov",
-        "country": "RUS",
-        "power": 736.0,
-        "percent": 28.3
-      },
-      {
-        "rank": "2",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "power": 719.2,
-        "percent": 27.6
-      },
-      {
-        "rank": "3",
-        "person_name": "Roman Druzhinin",
-        "country": "RUS",
-        "power": 355.7,
-        "percent": 13.7
-      },
-      {
-        "rank": "4",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "power": 524.9,
-        "percent": 20.2
-      },
-      {
-        "rank": "5",
-        "person_name": "Evgeny Konovalov",
-        "country": "RUS",
-        "power": 265.4,
-        "percent": 10.2
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Alexander Klokov",
-        "country": "RUS",
-        "score": 45.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "score": 44.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Roman Druzhinin",
-        "country": "RUS",
-        "score": 36
-      },
-      {
-        "rank": "4",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "score": 35
-      },
-      {
-        "rank": "5",
-        "person_name": "Evgeny Konovalov",
-        "country": "RUS",
-        "score": 32
-      },
-      {
-        "rank": "6",
-        "person_name": "Ramil Ramazanov",
-        "country": "RUS",
-        "score": 29
-      },
-      {
-        "rank": "7",
-        "person_name": "Artem Yuriev",
-        "country": "RUS",
-        "score": 21
-      },
-      {
-        "rank": "8",
-        "person_name": "Alexander Kuzmin",
-        "country": "RUS",
-        "score": 12
-      },
-      {
-        "rank": "9",
-        "person_name": "Egor Makarov",
-        "country": "RUS",
-        "score": 11
       }
     ],
     "difficulty_score": 27.6,
@@ -42132,13 +42132,13 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 2515.166995715898,
+    "raw_difficulty": 2515.0843344952104,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Karolis Aleksandravičius",
         "country": "LTU",
-        "power": 126.6,
+        "power": 126.5,
         "percent": 5.0
       },
       {
@@ -42234,6 +42234,354 @@
     ],
     "difficulty_score": 26.3,
     "competition_rank": 361
+  },
+  {
+    "contest_id": 1545,
+    "contest_name": "2024 Strongman World Cup",
+    "details": "Moscow, Russia, 2024-07-06",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 1.0,
+    "division": "men",
+    "total_competitors": 14,
+    "raw_difficulty": 2508.724959870515,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Dmitrii Skosyrskii",
+        "country": "RUS",
+        "power": 469.7,
+        "percent": 18.7
+      },
+      {
+        "rank": "2",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "power": 802.2,
+        "percent": 32.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Petr Martynenko",
+        "country": "RUS",
+        "power": 337.4,
+        "percent": 13.4
+      },
+      {
+        "rank": "4",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "power": 537.2,
+        "percent": 21.4
+      },
+      {
+        "rank": "5",
+        "person_name": "Roman Druzhinin",
+        "country": "RUS",
+        "power": 362.2,
+        "percent": 14.4
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Dmitrii Skosyrskii",
+        "country": "RUS",
+        "score": 69
+      },
+      {
+        "rank": "2",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "score": 63
+      },
+      {
+        "rank": "3",
+        "person_name": "Petr Martynenko",
+        "country": "RUS",
+        "score": 46.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "score": 46
+      },
+      {
+        "rank": "5",
+        "person_name": "Roman Druzhinin",
+        "country": "RUS",
+        "score": 43
+      },
+      {
+        "rank": "6",
+        "person_name": "Evgeny Gavrilenko",
+        "country": "RUS",
+        "score": 42
+      },
+      {
+        "rank": "7",
+        "person_name": "Albin Hasanović",
+        "country": "SRB",
+        "score": 40
+      },
+      {
+        "rank": "8",
+        "person_name": "Muhammad Ali Tokhtamatov",
+        "country": "KYR",
+        "score": 35
+      },
+      {
+        "rank": "9",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "score": 34
+      },
+      {
+        "rank": "10",
+        "person_name": "Alexander Kurak",
+        "country": "BLR",
+        "score": 31
+      },
+      {
+        "rank": "11",
+        "person_name": "Andrey Smirnov",
+        "country": "RUS",
+        "score": 22
+      },
+      {
+        "rank": "12",
+        "person_name": "Alexander Kuzmin",
+        "country": "RUS",
+        "score": 21
+      },
+      {
+        "rank": "13",
+        "person_name": "Aydin Humbatov",
+        "country": "AZE",
+        "score": 16.5
+      },
+      {
+        "rank": "14",
+        "person_name": "Amin Manavi",
+        "country": "IRI",
+        "score": 11
+      }
+    ],
+    "difficulty_score": 26.2,
+    "competition_rank": 362
+  },
+  {
+    "contest_id": 1710,
+    "contest_name": "2025 Armory City Cup",
+    "details": "Tula, Russia, 2025-05-24",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 3.0,
+    "division": "men",
+    "total_competitors": 9,
+    "raw_difficulty": 2510.71236026861,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "power": 735.5,
+        "percent": 29.3
+      },
+      {
+        "rank": "2",
+        "person_name": "Alexander Klokov",
+        "country": "RUS",
+        "power": 736.0,
+        "percent": 29.3
+      },
+      {
+        "rank": "3",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "power": 393.6,
+        "percent": 15.7
+      },
+      {
+        "rank": "4",
+        "person_name": "Roman Druzhinin",
+        "country": "RUS",
+        "power": 362.2,
+        "percent": 14.4
+      },
+      {
+        "rank": "5",
+        "person_name": "Egor Makarov",
+        "country": "RUS",
+        "power": 283.3,
+        "percent": 11.3
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "score": 39.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Alexander Klokov",
+        "country": "RUS",
+        "score": 38
+      },
+      {
+        "rank": "3",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "score": 35.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Roman Druzhinin",
+        "country": "RUS",
+        "score": 33
+      },
+      {
+        "rank": "5",
+        "person_name": "Egor Makarov",
+        "country": "RUS",
+        "score": 27
+      },
+      {
+        "rank": "6",
+        "person_name": "Yulian Kuznetsov",
+        "country": "RUS",
+        "score": 16.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Vladlen Valyaev",
+        "country": "RUS",
+        "score": 15.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Pavel Ivashkin",
+        "country": "RUS",
+        "score": 15
+      },
+      {
+        "rank": "9",
+        "person_name": "Matvei Mohonko",
+        "country": "RUS",
+        "score": 4
+      }
+    ],
+    "difficulty_score": 26.2,
+    "competition_rank": 363
+  },
+  {
+    "contest_id": 1921,
+    "contest_name": "2025 Kuznitsa Festival",
+    "details": "Kiselyovsk, Russia, 2025-08-23",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 3.0,
+    "division": "men",
+    "total_competitors": 9,
+    "raw_difficulty": 2512.237383087395,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Alexander Klokov",
+        "country": "RUS",
+        "power": 736.0,
+        "percent": 29.3
+      },
+      {
+        "rank": "2",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "power": 735.5,
+        "percent": 29.3
+      },
+      {
+        "rank": "3",
+        "person_name": "Egor Sorokoletov",
+        "country": "RUS",
+        "power": 166.2,
+        "percent": 6.6
+      },
+      {
+        "rank": "4",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "power": 537.2,
+        "percent": 21.4
+      },
+      {
+        "rank": "5",
+        "person_name": "Petr Martynenko",
+        "country": "RUS",
+        "power": 337.4,
+        "percent": 13.4
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Alexander Klokov",
+        "country": "RUS",
+        "score": 36
+      },
+      {
+        "rank": "2",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "score": 34
+      },
+      {
+        "rank": "3",
+        "person_name": "Egor Sorokoletov",
+        "country": "RUS",
+        "score": 32.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "score": 32
+      },
+      {
+        "rank": "5",
+        "person_name": "Petr Martynenko",
+        "country": "RUS",
+        "score": 28.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Dmitrii Skosyrskii",
+        "country": "RUS",
+        "score": 26.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Vadim Makartsov",
+        "country": "KAZ",
+        "score": 20
+      },
+      {
+        "rank": "8",
+        "person_name": "Kai Chen",
+        "country": "CHN",
+        "score": 7.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Artur Ginatulin",
+        "country": "RUS",
+        "score": 7
+      }
+    ],
+    "difficulty_score": 26.2,
+    "competition_rank": 364
   },
   {
     "contest_id": 1439,
@@ -42357,249 +42705,119 @@
       }
     ],
     "difficulty_score": 26.0,
-    "competition_rank": 362
+    "competition_rank": 365
   },
   {
-    "contest_id": 1545,
-    "contest_name": "2024 Strongman World Cup",
-    "details": "Moscow, Russia, 2024-07-06",
+    "contest_id": 2710,
+    "contest_name": "2026 Strongest Nation in the World",
+    "details": "Moscow, Russia, 2026-07-04",
     "tier": "TIER_5",
     "tier_multiplier": 0.25,
-    "recency_multiplier": 1.0,
+    "recency_multiplier": 5.0,
     "division": "men",
-    "total_competitors": 14,
-    "raw_difficulty": 2489.9843994861135,
+    "total_competitors": 10,
+    "raw_difficulty": 2498.4680001336137,
     "top_5_finishers": [
       {
         "rank": "1",
-        "person_name": "Dmitrii Skosyrskii",
-        "country": "RUS",
-        "power": 469.7,
-        "percent": 18.9
-      },
-      {
-        "rank": "2",
         "person_name": "David Shamey",
         "country": "RUS",
         "power": 802.2,
-        "percent": 32.2
+        "percent": 32.1
+      },
+      {
+        "rank": "2",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "power": 537.2,
+        "percent": 21.5
       },
       {
         "rank": "3",
-        "person_name": "Petr Martynenko",
+        "person_name": "Valentin Akimov",
         "country": "RUS",
-        "power": 337.4,
-        "percent": 13.6
+        "power": 735.5,
+        "percent": 29.4
       },
       {
         "rank": "4",
-        "person_name": "Dmitrii Samoilov",
+        "person_name": "Roman Druzhinin",
         "country": "RUS",
-        "power": 524.9,
-        "percent": 21.1
+        "power": 362.2,
+        "percent": 14.5
       },
       {
         "rank": "5",
-        "person_name": "Roman Druzhinin",
-        "country": "RUS",
-        "power": 355.7,
-        "percent": 14.3
+        "person_name": "Jinsong Wu",
+        "country": "CHN",
+        "power": 61.4,
+        "percent": 2.5
       }
     ],
     "results": [
       {
         "rank": "1",
-        "person_name": "Dmitrii Skosyrskii",
+        "person_name": "David Shamey",
         "country": "RUS",
-        "score": 69
+        "score": 49
       },
       {
         "rank": "2",
-        "person_name": "David Shamey",
+        "person_name": "Dmitrii Samoilov",
         "country": "RUS",
-        "score": 63
+        "score": 41.5
       },
       {
         "rank": "3",
-        "person_name": "Petr Martynenko",
+        "person_name": "Valentin Akimov",
         "country": "RUS",
-        "score": 46.5
+        "score": 39
       },
       {
         "rank": "4",
-        "person_name": "Dmitrii Samoilov",
+        "person_name": "Roman Druzhinin",
         "country": "RUS",
-        "score": 46
+        "score": 30.5
       },
       {
         "rank": "5",
-        "person_name": "Roman Druzhinin",
-        "country": "RUS",
-        "score": 43
+        "person_name": "Jinsong Wu",
+        "country": "CHN",
+        "score": 27
       },
       {
         "rank": "6",
-        "person_name": "Evgeny Gavrilenko",
+        "person_name": "Dmitrii Skosyrskii",
         "country": "RUS",
-        "score": 42
+        "score": 23.5
       },
       {
         "rank": "7",
-        "person_name": "Albin Hasanović",
-        "country": "SRB",
-        "score": 40
+        "person_name": "Avazjon Khaydarov",
+        "country": "UZB",
+        "score": 19.5
       },
       {
         "rank": "8",
-        "person_name": "Muhammad Ali Tokhtamatov",
-        "country": "KYR",
-        "score": 35
+        "person_name": "Bogdan Vuković",
+        "country": "SRB",
+        "score": 12
       },
       {
         "rank": "9",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "score": 34
+        "person_name": "Temirlan Kenzhekhanov",
+        "country": "KAZ",
+        "score": 10
       },
       {
         "rank": "10",
-        "person_name": "Alexander Kurak",
-        "country": "BLR",
-        "score": 31
-      },
-      {
-        "rank": "11",
-        "person_name": "Andrey Smirnov",
-        "country": "RUS",
-        "score": 22
-      },
-      {
-        "rank": "12",
-        "person_name": "Alexander Kuzmin",
-        "country": "RUS",
-        "score": 21
-      },
-      {
-        "rank": "13",
-        "person_name": "Aydin Humbatov",
-        "country": "AZE",
-        "score": 16.5
-      },
-      {
-        "rank": "14",
-        "person_name": "Amin Manavi",
-        "country": "IRI",
-        "score": 11
+        "person_name": "Ahmed Almoosa",
+        "country": "BRN",
+        "score": 6
       }
     ],
-    "difficulty_score": 25.9,
-    "competition_rank": 363
-  },
-  {
-    "contest_id": 1921,
-    "contest_name": "2025 Kuznitsa Festival",
-    "details": "Kiselyovsk, Russia, 2025-08-23",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 3.0,
-    "division": "men",
-    "total_competitors": 9,
-    "raw_difficulty": 2483.693551625344,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Alexander Klokov",
-        "country": "RUS",
-        "power": 736.0,
-        "percent": 29.6
-      },
-      {
-        "rank": "2",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "power": 719.2,
-        "percent": 29.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Egor Sorokoletov",
-        "country": "RUS",
-        "power": 166.2,
-        "percent": 6.7
-      },
-      {
-        "rank": "4",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "power": 524.9,
-        "percent": 21.1
-      },
-      {
-        "rank": "5",
-        "person_name": "Petr Martynenko",
-        "country": "RUS",
-        "power": 337.4,
-        "percent": 13.6
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Alexander Klokov",
-        "country": "RUS",
-        "score": 36
-      },
-      {
-        "rank": "2",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "score": 34
-      },
-      {
-        "rank": "3",
-        "person_name": "Egor Sorokoletov",
-        "country": "RUS",
-        "score": 32.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "score": 32
-      },
-      {
-        "rank": "5",
-        "person_name": "Petr Martynenko",
-        "country": "RUS",
-        "score": 28.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Dmitrii Skosyrskii",
-        "country": "RUS",
-        "score": 26.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Vadim Makartsov",
-        "country": "KAZ",
-        "score": 20
-      },
-      {
-        "rank": "8",
-        "person_name": "Kai Chen",
-        "country": "CHN",
-        "score": 7.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Artur Ginatulin",
-        "country": "RUS",
-        "score": 7
-      }
-    ],
-    "difficulty_score": 25.8,
-    "competition_rank": 364
+    "difficulty_score": 26.0,
+    "competition_rank": 366
   },
   {
     "contest_id": 1862,
@@ -42723,119 +42941,7 @@
       }
     ],
     "difficulty_score": 25.7,
-    "competition_rank": 365
-  },
-  {
-    "contest_id": 2710,
-    "contest_name": "2026 Strongest Nation in the World",
-    "details": "Moscow, Russia, 2026-07-04",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 5.0,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 2463.408778885719,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "David Shamey",
-        "country": "RUS",
-        "power": 802.2,
-        "percent": 32.6
-      },
-      {
-        "rank": "2",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "power": 524.9,
-        "percent": 21.3
-      },
-      {
-        "rank": "3",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "power": 719.2,
-        "percent": 29.2
-      },
-      {
-        "rank": "4",
-        "person_name": "Roman Druzhinin",
-        "country": "RUS",
-        "power": 355.7,
-        "percent": 14.4
-      },
-      {
-        "rank": "5",
-        "person_name": "Jinsong Wu",
-        "country": "CHN",
-        "power": 61.4,
-        "percent": 2.5
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "David Shamey",
-        "country": "RUS",
-        "score": 49
-      },
-      {
-        "rank": "2",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "score": 41.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "score": 39
-      },
-      {
-        "rank": "4",
-        "person_name": "Roman Druzhinin",
-        "country": "RUS",
-        "score": 30.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Jinsong Wu",
-        "country": "CHN",
-        "score": 27
-      },
-      {
-        "rank": "6",
-        "person_name": "Dmitrii Skosyrskii",
-        "country": "RUS",
-        "score": 23.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Avazjon Khaydarov",
-        "country": "UZB",
-        "score": 19.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Bogdan Vuković",
-        "country": "SRB",
-        "score": 12
-      },
-      {
-        "rank": "9",
-        "person_name": "Temirlan Kenzhekhanov",
-        "country": "KAZ",
-        "score": 10
-      },
-      {
-        "rank": "10",
-        "person_name": "Ahmed Almoosa",
-        "country": "BRN",
-        "score": 6
-      }
-    ],
-    "difficulty_score": 25.5,
-    "competition_rank": 366
+    "competition_rank": 367
   },
   {
     "contest_id": 2823,
@@ -42983,112 +43089,6 @@
       }
     ],
     "difficulty_score": 25.5,
-    "competition_rank": 367
-  },
-  {
-    "contest_id": 1710,
-    "contest_name": "2025 Armory City Cup",
-    "details": "Tula, Russia, 2025-05-24",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 3.0,
-    "division": "men",
-    "total_competitors": 9,
-    "raw_difficulty": 2461.609432138783,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "power": 719.2,
-        "percent": 29.2
-      },
-      {
-        "rank": "2",
-        "person_name": "Alexander Klokov",
-        "country": "RUS",
-        "power": 736.0,
-        "percent": 29.9
-      },
-      {
-        "rank": "3",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "power": 393.0,
-        "percent": 16.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Roman Druzhinin",
-        "country": "RUS",
-        "power": 355.7,
-        "percent": 14.4
-      },
-      {
-        "rank": "5",
-        "person_name": "Egor Makarov",
-        "country": "RUS",
-        "power": 257.7,
-        "percent": 10.5
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "score": 39.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Alexander Klokov",
-        "country": "RUS",
-        "score": 38
-      },
-      {
-        "rank": "3",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "score": 35.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Roman Druzhinin",
-        "country": "RUS",
-        "score": 33
-      },
-      {
-        "rank": "5",
-        "person_name": "Egor Makarov",
-        "country": "RUS",
-        "score": 27
-      },
-      {
-        "rank": "6",
-        "person_name": "Yulian Kuznetsov",
-        "country": "RUS",
-        "score": 16.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Vladlen Valyaev",
-        "country": "RUS",
-        "score": 15.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Pavel Ivashkin",
-        "country": "RUS",
-        "score": 15
-      },
-      {
-        "rank": "9",
-        "person_name": "Matvei Mohonko",
-        "country": "RUS",
-        "score": 4
-      }
-    ],
-    "difficulty_score": 25.4,
     "competition_rank": 368
   },
   {
@@ -43322,6 +43322,124 @@
     "competition_rank": 370
   },
   {
+    "contest_id": 1607,
+    "contest_name": "2024 Russia's Strongest Man",
+    "details": "Yevpatoria, Crimea, 2024-10-26",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 3.0,
+    "division": "men",
+    "total_competitors": 11,
+    "raw_difficulty": 2444.8201000729932,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Dmitrii Skosyrskii",
+        "country": "RUS",
+        "power": 469.7,
+        "percent": 19.2
+      },
+      {
+        "rank": "2",
+        "person_name": "Alexander Klokov",
+        "country": "RUS",
+        "power": 736.0,
+        "percent": 30.1
+      },
+      {
+        "rank": "3",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "power": 735.5,
+        "percent": 30.1
+      },
+      {
+        "rank": "4",
+        "person_name": "Petr Martynenko",
+        "country": "RUS",
+        "power": 337.4,
+        "percent": 13.8
+      },
+      {
+        "rank": "5",
+        "person_name": "Egor Sorokoletov",
+        "country": "RUS",
+        "power": 166.2,
+        "percent": 6.8
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Dmitrii Skosyrskii",
+        "country": "RUS",
+        "score": 51
+      },
+      {
+        "rank": "2",
+        "person_name": "Alexander Klokov",
+        "country": "RUS",
+        "score": 45
+      },
+      {
+        "rank": "3",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "score": 37.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Petr Martynenko",
+        "country": "RUS",
+        "score": 30
+      },
+      {
+        "rank": "5",
+        "person_name": "Egor Sorokoletov",
+        "country": "RUS",
+        "score": 23
+      },
+      {
+        "rank": "6",
+        "person_name": "Roman Druzhinin",
+        "country": "RUS",
+        "score": 22.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Konstantin Koldunov",
+        "country": "RUS",
+        "score": 21
+      },
+      {
+        "rank": "8",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "score": 20.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Evgeny Gavrilenko",
+        "country": "RUS",
+        "score": 12
+      },
+      {
+        "rank": "10",
+        "person_name": "Konstantin Klimash",
+        "country": "RUS",
+        "score": 2.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Yuri Kapustin",
+        "country": "RUS",
+        "score": 1
+      }
+    ],
+    "difficulty_score": 25.2,
+    "competition_rank": 371
+  },
+  {
     "contest_id": 1725,
     "contest_name": "2025 Iceland's Strongest Viking",
     "details": "Westfjords, Iceland, 2025-07-11",
@@ -43419,7 +43537,7 @@
       }
     ],
     "difficulty_score": 25.2,
-    "competition_rank": 371
+    "competition_rank": 372
   },
   {
     "contest_id": 2828,
@@ -43519,7 +43637,7 @@
       }
     ],
     "difficulty_score": 25.2,
-    "competition_rank": 372
+    "competition_rank": 373
   },
   {
     "contest_id": 1043,
@@ -43643,125 +43761,119 @@
       }
     ],
     "difficulty_score": 25.1,
-    "competition_rank": 373
+    "competition_rank": 374
   },
   {
-    "contest_id": 1607,
-    "contest_name": "2024 Russia's Strongest Man",
-    "details": "Yevpatoria, Crimea, 2024-10-26",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
+    "contest_id": 1708,
+    "contest_name": "2025 LEON Strongman Cup",
+    "details": "Lipetsk, Russia, 2025-05-03",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
     "recency_multiplier": 3.0,
     "division": "men",
-    "total_competitors": 11,
-    "raw_difficulty": 2428.5014392095004,
+    "total_competitors": 10,
+    "raw_difficulty": 2427.4580058111237,
     "top_5_finishers": [
       {
         "rank": "1",
-        "person_name": "Dmitrii Skosyrskii",
+        "person_name": "Alexander Kuzmin",
         "country": "RUS",
-        "power": 469.7,
-        "percent": 19.3
+        "power": 125.5,
+        "percent": 5.2
       },
       {
         "rank": "2",
-        "person_name": "Alexander Klokov",
+        "person_name": "Valentin Akimov",
         "country": "RUS",
-        "power": 736.0,
+        "power": 735.5,
         "percent": 30.3
       },
       {
         "rank": "3",
-        "person_name": "Valentin Akimov",
+        "person_name": "Ramil Ramazanov",
         "country": "RUS",
-        "power": 719.2,
-        "percent": 29.6
+        "power": 293.3,
+        "percent": 12.1
       },
       {
         "rank": "4",
-        "person_name": "Petr Martynenko",
+        "person_name": "Dmitrii Samoilov",
         "country": "RUS",
-        "power": 337.4,
-        "percent": 13.9
+        "power": 537.2,
+        "percent": 22.1
       },
       {
         "rank": "5",
-        "person_name": "Egor Sorokoletov",
+        "person_name": "Alexander Klokov",
         "country": "RUS",
-        "power": 166.2,
-        "percent": 6.8
+        "power": 736.0,
+        "percent": 30.3
       }
     ],
     "results": [
       {
         "rank": "1",
-        "person_name": "Dmitrii Skosyrskii",
+        "person_name": "Alexander Kuzmin",
         "country": "RUS",
-        "score": 51
+        "score": 35
       },
       {
         "rank": "2",
-        "person_name": "Alexander Klokov",
+        "person_name": "Valentin Akimov",
         "country": "RUS",
-        "score": 45
+        "score": 32.5
       },
       {
         "rank": "3",
-        "person_name": "Valentin Akimov",
+        "person_name": "Ramil Ramazanov",
         "country": "RUS",
-        "score": 37.5
+        "score": 22
       },
       {
         "rank": "4",
-        "person_name": "Petr Martynenko",
+        "person_name": "Dmitrii Samoilov",
         "country": "RUS",
-        "score": 30
+        "score": 21.5
       },
       {
         "rank": "5",
-        "person_name": "Egor Sorokoletov",
-        "country": "RUS",
-        "score": 23
-      },
-      {
-        "rank": "6",
-        "person_name": "Roman Druzhinin",
-        "country": "RUS",
-        "score": 22.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Konstantin Koldunov",
+        "person_name": "Alexander Klokov",
         "country": "RUS",
         "score": 21
       },
       {
-        "rank": "8",
-        "person_name": "Dmitrii Samoilov",
+        "rank": "6",
+        "person_name": "Leontiy Miroshnik",
         "country": "RUS",
         "score": 20.5
       },
       {
-        "rank": "9",
-        "person_name": "Evgeny Gavrilenko",
+        "rank": "7",
+        "person_name": "Dmitry Logunov",
         "country": "RUS",
-        "score": 12
+        "score": 16.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Nikolay Goglov",
+        "country": "RUS",
+        "score": 14.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Evgeny Konovalov",
+        "country": "RUS",
+        "score": 9
       },
       {
         "rank": "10",
-        "person_name": "Konstantin Klimash",
+        "person_name": "Egor Makarov",
         "country": "RUS",
-        "score": 2.5
-      },
-      {
-        "rank": "11",
-        "person_name": "Yuri Kapustin",
-        "country": "RUS",
-        "score": 1
+        "score": 3.5
       }
     ],
     "difficulty_score": 24.9,
-    "competition_rank": 374
+    "competition_rank": 375
   },
   {
     "contest_id": 1917,
@@ -43897,7 +44009,7 @@
       }
     ],
     "difficulty_score": 24.9,
-    "competition_rank": 375
+    "competition_rank": 376
   },
   {
     "contest_id": 2497,
@@ -43997,7 +44109,7 @@
       }
     ],
     "difficulty_score": 24.9,
-    "competition_rank": 376
+    "competition_rank": 377
   },
   {
     "contest_id": 1309,
@@ -44103,7 +44215,7 @@
       }
     ],
     "difficulty_score": 24.8,
-    "competition_rank": 377
+    "competition_rank": 378
   },
   {
     "contest_id": 1335,
@@ -44227,7 +44339,7 @@
       }
     ],
     "difficulty_score": 24.7,
-    "competition_rank": 378
+    "competition_rank": 379
   },
   {
     "contest_id": 1148,
@@ -44327,118 +44439,6 @@
       }
     ],
     "difficulty_score": 24.6,
-    "competition_rank": 379
-  },
-  {
-    "contest_id": 1708,
-    "contest_name": "2025 LEON Strongman Cup",
-    "details": "Lipetsk, Russia, 2025-05-03",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 3.0,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 2393.9120705371674,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Alexander Kuzmin",
-        "country": "RUS",
-        "power": 125.5,
-        "percent": 5.2
-      },
-      {
-        "rank": "2",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "power": 719.2,
-        "percent": 30.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Ramil Ramazanov",
-        "country": "RUS",
-        "power": 288.3,
-        "percent": 12.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "power": 524.9,
-        "percent": 21.9
-      },
-      {
-        "rank": "5",
-        "person_name": "Alexander Klokov",
-        "country": "RUS",
-        "power": 736.0,
-        "percent": 30.7
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Alexander Kuzmin",
-        "country": "RUS",
-        "score": 35
-      },
-      {
-        "rank": "2",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "score": 32.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Ramil Ramazanov",
-        "country": "RUS",
-        "score": 22
-      },
-      {
-        "rank": "4",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "score": 21.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Alexander Klokov",
-        "country": "RUS",
-        "score": 21
-      },
-      {
-        "rank": "6",
-        "person_name": "Leontiy Miroshnik",
-        "country": "RUS",
-        "score": 20.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "score": 16.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Nikolay Goglov",
-        "country": "RUS",
-        "score": 14.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Evgeny Konovalov",
-        "country": "RUS",
-        "score": 9
-      },
-      {
-        "rank": "10",
-        "person_name": "Egor Makarov",
-        "country": "RUS",
-        "score": 3.5
-      }
-    ],
-    "difficulty_score": 24.4,
     "competition_rank": 380
   },
   {
@@ -44654,6 +44654,294 @@
     "competition_rank": 382
   },
   {
+    "contest_id": 1912,
+    "contest_name": "2025 Moscow Sports Night",
+    "details": "Moscow, Russia, 2025-08-16",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 3.0,
+    "division": "men",
+    "total_competitors": 7,
+    "raw_difficulty": 2317.950611656681,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "power": 735.5,
+        "percent": 31.7
+      },
+      {
+        "rank": "2",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "power": 802.2,
+        "percent": 34.6
+      },
+      {
+        "rank": "3",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "power": 393.6,
+        "percent": 17.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Egor Makarov",
+        "country": "RUS",
+        "power": 283.3,
+        "percent": 12.2
+      },
+      {
+        "rank": "5",
+        "person_name": "Yulian Kuznetsov",
+        "country": "RUS",
+        "power": 103.3,
+        "percent": 4.5
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "score": 31
+      },
+      {
+        "rank": "2",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "score": 27.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "score": 21
+      },
+      {
+        "rank": "4",
+        "person_name": "Egor Makarov",
+        "country": "RUS",
+        "score": 18.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Yulian Kuznetsov",
+        "country": "RUS",
+        "score": 18
+      },
+      {
+        "rank": "6",
+        "person_name": "Vladlen Valyaev",
+        "country": "RUS",
+        "score": 14.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Gela Lursmanashvili",
+        "country": "RUS",
+        "score": 7.5
+      }
+    ],
+    "difficulty_score": 23.3,
+    "competition_rank": 383
+  },
+  {
+    "contest_id": 1571,
+    "contest_name": "2024 Armory City Cup",
+    "details": "Tula, Russia, 2024-06-22",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 1.0,
+    "division": "men",
+    "total_competitors": 9,
+    "raw_difficulty": 2311.5202802542804,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "power": 802.2,
+        "percent": 34.7
+      },
+      {
+        "rank": "2",
+        "person_name": "Alexander Kuzmin",
+        "country": "RUS",
+        "power": 125.5,
+        "percent": 5.4
+      },
+      {
+        "rank": "3",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "power": 735.5,
+        "percent": 31.8
+      },
+      {
+        "rank": "4",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "power": 537.2,
+        "percent": 23.2
+      },
+      {
+        "rank": "5",
+        "person_name": "Nikolay Goglov",
+        "country": "RUS",
+        "power": 111.2,
+        "percent": 4.8
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "score": 39
+      },
+      {
+        "rank": "2",
+        "person_name": "Alexander Kuzmin",
+        "country": "RUS",
+        "score": 37
+      },
+      {
+        "rank": "3",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "score": 36
+      },
+      {
+        "rank": "4",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "score": 33
+      },
+      {
+        "rank": "5",
+        "person_name": "Nikolay Goglov",
+        "country": "RUS",
+        "score": 22.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Andrey Smirnov",
+        "country": "RUS",
+        "score": 20
+      },
+      {
+        "rank": "7",
+        "person_name": "Alexei Kosterin",
+        "country": "RUS",
+        "score": 20
+      },
+      {
+        "rank": "8",
+        "person_name": "Viktor Kurenkov",
+        "country": "RUS",
+        "score": 11
+      },
+      {
+        "rank": "9",
+        "person_name": "Bogdan Matiko",
+        "country": "RUS",
+        "score": 4.5
+      }
+    ],
+    "difficulty_score": 23.2,
+    "competition_rank": 384
+  },
+  {
+    "contest_id": 2938,
+    "contest_name": "2026 Moscow Sports Night",
+    "details": "Moscow, Russia, 2026-09-05",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 5.0,
+    "division": "men",
+    "total_competitors": 6,
+    "raw_difficulty": 2311.8458164685167,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "power": 735.5,
+        "percent": 31.8
+      },
+      {
+        "rank": "2",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "power": 537.2,
+        "percent": 23.2
+      },
+      {
+        "rank": "3",
+        "person_name": "Egor Makarov",
+        "country": "RUS",
+        "power": 283.3,
+        "percent": 12.3
+      },
+      {
+        "rank": "4",
+        "person_name": "Roman Druzhinin",
+        "country": "RUS",
+        "power": 362.2,
+        "percent": 15.7
+      },
+      {
+        "rank": "5",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "power": 393.6,
+        "percent": 17.0
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "score": 25.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "score": 20.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Egor Makarov",
+        "country": "RUS",
+        "score": 19.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Roman Druzhinin",
+        "country": "RUS",
+        "score": 19.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "score": 15.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Ramil Ramazanov",
+        "country": "RUS",
+        "score": 4.5
+      }
+    ],
+    "difficulty_score": 23.2,
+    "competition_rank": 385
+  },
+  {
     "contest_id": 2634,
     "contest_name": "2025 Natural World's Strongest Man",
     "details": "Galway, Ireland, 2025-08-23",
@@ -44859,7 +45147,7 @@
       }
     ],
     "difficulty_score": 23.1,
-    "competition_rank": 383
+    "competition_rank": 386
   },
   {
     "contest_id": 1918,
@@ -45031,7 +45319,7 @@
       }
     ],
     "difficulty_score": 23.0,
-    "competition_rank": 384
+    "competition_rank": 387
   },
   {
     "contest_id": 2009,
@@ -45233,113 +45521,7 @@
       }
     ],
     "difficulty_score": 22.8,
-    "competition_rank": 385
-  },
-  {
-    "contest_id": 1571,
-    "contest_name": "2024 Armory City Cup",
-    "details": "Tula, Russia, 2024-06-22",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 1.0,
-    "division": "men",
-    "total_competitors": 9,
-    "raw_difficulty": 2282.9764487922293,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "David Shamey",
-        "country": "RUS",
-        "power": 802.2,
-        "percent": 35.1
-      },
-      {
-        "rank": "2",
-        "person_name": "Alexander Kuzmin",
-        "country": "RUS",
-        "power": 125.5,
-        "percent": 5.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "power": 719.2,
-        "percent": 31.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "power": 524.9,
-        "percent": 23.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Nikolay Goglov",
-        "country": "RUS",
-        "power": 111.2,
-        "percent": 4.9
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "David Shamey",
-        "country": "RUS",
-        "score": 39
-      },
-      {
-        "rank": "2",
-        "person_name": "Alexander Kuzmin",
-        "country": "RUS",
-        "score": 37
-      },
-      {
-        "rank": "3",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "score": 36
-      },
-      {
-        "rank": "4",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "score": 33
-      },
-      {
-        "rank": "5",
-        "person_name": "Nikolay Goglov",
-        "country": "RUS",
-        "score": 22.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Andrey Smirnov",
-        "country": "RUS",
-        "score": 20
-      },
-      {
-        "rank": "7",
-        "person_name": "Alexei Kosterin",
-        "country": "RUS",
-        "score": 20
-      },
-      {
-        "rank": "8",
-        "person_name": "Viktor Kurenkov",
-        "country": "RUS",
-        "score": 11
-      },
-      {
-        "rank": "9",
-        "person_name": "Bogdan Matiko",
-        "country": "RUS",
-        "score": 4.5
-      }
-    ],
-    "difficulty_score": 22.7,
-    "competition_rank": 386
+    "competition_rank": 388
   },
   {
     "contest_id": 1782,
@@ -45469,7 +45651,7 @@
       }
     ],
     "difficulty_score": 22.7,
-    "competition_rank": 387
+    "competition_rank": 389
   },
   {
     "contest_id": 1306,
@@ -45593,101 +45775,107 @@
       }
     ],
     "difficulty_score": 22.6,
-    "competition_rank": 388
+    "competition_rank": 390
   },
   {
-    "contest_id": 1912,
-    "contest_name": "2025 Moscow Sports Night",
-    "details": "Moscow, Russia, 2025-08-16",
+    "contest_id": 2662,
+    "contest_name": "2026 Kalita Strongman Show",
+    "details": "Moscow, Russia, 2026-06-27",
     "tier": "TIER_5",
     "tier_multiplier": 0.25,
-    "recency_multiplier": 3.0,
+    "recency_multiplier": 5.0,
     "division": "men",
-    "total_competitors": 7,
-    "raw_difficulty": 2275.3630733126975,
+    "total_competitors": 8,
+    "raw_difficulty": 2272.471900890939,
     "top_5_finishers": [
       {
         "rank": "1",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "power": 719.2,
-        "percent": 31.6
-      },
-      {
-        "rank": "2",
-        "person_name": "David Shamey",
-        "country": "RUS",
-        "power": 802.2,
-        "percent": 35.3
-      },
-      {
-        "rank": "3",
         "person_name": "Dmitry Logunov",
         "country": "RUS",
-        "power": 393.0,
+        "power": 393.6,
         "percent": 17.3
       },
       {
-        "rank": "4",
-        "person_name": "Egor Makarov",
+        "rank": "2",
+        "person_name": "Valentin Akimov",
         "country": "RUS",
-        "power": 257.7,
-        "percent": 11.3
+        "power": 735.5,
+        "percent": 32.4
+      },
+      {
+        "rank": "3",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "power": 537.2,
+        "percent": 23.6
+      },
+      {
+        "rank": "4",
+        "person_name": "Dmitrii Skosyrskii",
+        "country": "RUS",
+        "power": 469.7,
+        "percent": 20.7
       },
       {
         "rank": "5",
-        "person_name": "Yulian Kuznetsov",
+        "person_name": "Alexei Savin",
         "country": "RUS",
-        "power": 103.3,
-        "percent": 4.5
+        "power": 136.4,
+        "percent": 6.0
       }
     ],
     "results": [
       {
         "rank": "1",
-        "person_name": "Valentin Akimov",
+        "person_name": "Dmitry Logunov",
         "country": "RUS",
-        "score": 31
+        "score": 30
       },
       {
         "rank": "2",
-        "person_name": "David Shamey",
+        "person_name": "Valentin Akimov",
         "country": "RUS",
-        "score": 27.5
+        "score": 29
       },
       {
         "rank": "3",
-        "person_name": "Dmitry Logunov",
+        "person_name": "Dmitrii Samoilov",
         "country": "RUS",
-        "score": 21
+        "score": 29
       },
       {
         "rank": "4",
-        "person_name": "Egor Makarov",
+        "person_name": "Dmitrii Skosyrskii",
+        "country": "RUS",
+        "score": 29
+      },
+      {
+        "rank": "5",
+        "person_name": "Alexei Savin",
+        "country": "RUS",
+        "score": 24.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Roman Druzhinin",
         "country": "RUS",
         "score": 18.5
       },
       {
-        "rank": "5",
-        "person_name": "Yulian Kuznetsov",
-        "country": "RUS",
-        "score": 18
-      },
-      {
-        "rank": "6",
-        "person_name": "Vladlen Valyaev",
-        "country": "RUS",
-        "score": 14.5
-      },
-      {
         "rank": "7",
-        "person_name": "Gela Lursmanashvili",
+        "person_name": "Boris Kharlamov",
+        "country": "RUS",
+        "score": 8.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Yulian Kuznetsov",
         "country": "RUS",
         "score": 7.5
       }
     ],
     "difficulty_score": 22.6,
-    "competition_rank": 389
+    "competition_rank": 391
   },
   {
     "contest_id": 1966,
@@ -45787,7 +45975,7 @@
       }
     ],
     "difficulty_score": 22.4,
-    "competition_rank": 390
+    "competition_rank": 392
   },
   {
     "contest_id": 1671,
@@ -45869,7 +46057,7 @@
       }
     ],
     "difficulty_score": 22.3,
-    "competition_rank": 391
+    "competition_rank": 393
   },
   {
     "contest_id": 2584,
@@ -45981,119 +46169,7 @@
       }
     ],
     "difficulty_score": 22.3,
-    "competition_rank": 392
-  },
-  {
-    "contest_id": 1487,
-    "contest_name": "2023 Sweden's Strongest Man",
-    "details": "Västerås, Sweden, 2023-10-14",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 1.0,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 2244.8869517648636,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "power": 747.2,
-        "percent": 33.3
-      },
-      {
-        "rank": "2",
-        "person_name": "Marcus Yngvesson",
-        "country": "SWE",
-        "power": 298.8,
-        "percent": 13.3
-      },
-      {
-        "rank": "3",
-        "person_name": "Cim Johansson",
-        "country": "SWE",
-        "power": 774.1,
-        "percent": 34.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Johan Espenkrona",
-        "country": "SWE",
-        "power": 82.5,
-        "percent": 3.7
-      },
-      {
-        "rank": "5",
-        "person_name": "Harley Andersson",
-        "country": "SWE",
-        "power": 342.3,
-        "percent": 15.2
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "score": 54
-      },
-      {
-        "rank": "2",
-        "person_name": "Marcus Yngvesson",
-        "country": "SWE",
-        "score": 51.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Cim Johansson",
-        "country": "SWE",
-        "score": 50.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Johan Espenkrona",
-        "country": "SWE",
-        "score": 47
-      },
-      {
-        "rank": "5",
-        "person_name": "Harley Andersson",
-        "country": "SWE",
-        "score": 45
-      },
-      {
-        "rank": "6",
-        "person_name": "Fredrik Svensson",
-        "country": "SWE",
-        "score": 37.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Joel Söderberg",
-        "country": "SWE",
-        "score": 29.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Jacob Larsson",
-        "country": "SWE",
-        "score": 28.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Jesper Hansson",
-        "country": "SWE",
-        "score": 12.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Joachim Kvick",
-        "country": "SWE",
-        "score": 11
-      }
-    ],
-    "difficulty_score": 22.2,
-    "competition_rank": 393
+    "competition_rank": 394
   },
   {
     "contest_id": 1590,
@@ -46181,107 +46257,395 @@
       }
     ],
     "difficulty_score": 22.2,
-    "competition_rank": 394
+    "competition_rank": 395
   },
   {
-    "contest_id": 2662,
-    "contest_name": "2026 Kalita Strongman Show",
-    "details": "Moscow, Russia, 2026-06-27",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 5.0,
+    "contest_id": 1487,
+    "contest_name": "2023 Sweden's Strongest Man",
+    "details": "Västerås, Sweden, 2023-10-14",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 1.0,
     "division": "men",
-    "total_competitors": 8,
-    "raw_difficulty": 2243.325927894148,
+    "total_competitors": 10,
+    "raw_difficulty": 2242.8722410312375,
     "top_5_finishers": [
       {
         "rank": "1",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "power": 393.0,
-        "percent": 17.5
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "power": 747.2,
+        "percent": 33.3
       },
       {
         "rank": "2",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "power": 719.2,
-        "percent": 32.1
+        "person_name": "Marcus Yngvesson",
+        "country": "SWE",
+        "power": 298.8,
+        "percent": 13.3
       },
       {
         "rank": "3",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "power": 524.9,
-        "percent": 23.4
+        "person_name": "Cim Johansson",
+        "country": "SWE",
+        "power": 772.1,
+        "percent": 34.4
       },
       {
         "rank": "4",
-        "person_name": "Dmitrii Skosyrskii",
-        "country": "RUS",
-        "power": 469.7,
-        "percent": 20.9
+        "person_name": "Johan Espenkrona",
+        "country": "SWE",
+        "power": 82.5,
+        "percent": 3.7
       },
       {
         "rank": "5",
-        "person_name": "Alexei Savin",
-        "country": "RUS",
-        "power": 136.4,
-        "percent": 6.1
+        "person_name": "Harley Andersson",
+        "country": "SWE",
+        "power": 342.3,
+        "percent": 15.3
       }
     ],
     "results": [
       {
         "rank": "1",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "score": 30
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "score": 54
       },
       {
         "rank": "2",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "score": 29
+        "person_name": "Marcus Yngvesson",
+        "country": "SWE",
+        "score": 51.5
       },
       {
         "rank": "3",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "score": 29
+        "person_name": "Cim Johansson",
+        "country": "SWE",
+        "score": 50.5
       },
       {
         "rank": "4",
-        "person_name": "Dmitrii Skosyrskii",
-        "country": "RUS",
-        "score": 29
+        "person_name": "Johan Espenkrona",
+        "country": "SWE",
+        "score": 47
       },
       {
         "rank": "5",
-        "person_name": "Alexei Savin",
-        "country": "RUS",
-        "score": 24.5
+        "person_name": "Harley Andersson",
+        "country": "SWE",
+        "score": 45
       },
       {
         "rank": "6",
-        "person_name": "Roman Druzhinin",
+        "person_name": "Fredrik Svensson",
+        "country": "SWE",
+        "score": 37.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Joel Söderberg",
+        "country": "SWE",
+        "score": 29.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Jacob Larsson",
+        "country": "SWE",
+        "score": 28.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Jesper Hansson",
+        "country": "SWE",
+        "score": 12.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Joachim Kvick",
+        "country": "SWE",
+        "score": 11
+      }
+    ],
+    "difficulty_score": 22.1,
+    "competition_rank": 396
+  },
+  {
+    "contest_id": 1591,
+    "contest_name": "2024 Moscow Cup",
+    "details": "Moscow, Russia, 2024-08-10",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 1.0,
+    "division": "men",
+    "total_competitors": 8,
+    "raw_difficulty": 2238.9337971462855,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "power": 802.2,
+        "percent": 35.8
+      },
+      {
+        "rank": "2",
+        "person_name": "Vladimir Bulgakov",
+        "country": "RUS",
+        "power": 42.2,
+        "percent": 1.9
+      },
+      {
+        "rank": "3",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "power": 393.6,
+        "percent": 17.6
+      },
+      {
+        "rank": "4",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "power": 735.5,
+        "percent": 32.9
+      },
+      {
+        "rank": "5",
+        "person_name": "Evgeny Konovalov",
+        "country": "RUS",
+        "power": 265.4,
+        "percent": 11.9
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "score": 39
+      },
+      {
+        "rank": "2",
+        "person_name": "Vladimir Bulgakov",
+        "country": "RUS",
+        "score": 37.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "score": 32
+      },
+      {
+        "rank": "4",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "score": 28.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Evgeny Konovalov",
+        "country": "RUS",
+        "score": 26
+      },
+      {
+        "rank": "6",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "score": 21
+      },
+      {
+        "rank": "7",
+        "person_name": "Leontiy Miroshnik",
         "country": "RUS",
         "score": 18.5
       },
       {
-        "rank": "7",
-        "person_name": "Boris Kharlamov",
-        "country": "RUS",
-        "score": 8.5
-      },
-      {
         "rank": "8",
-        "person_name": "Yulian Kuznetsov",
+        "person_name": "Dmitrii Keushkov",
         "country": "RUS",
-        "score": 7.5
+        "score": 6.5
       }
     ],
     "difficulty_score": 22.1,
-    "competition_rank": 395
+    "competition_rank": 397
+  },
+  {
+    "contest_id": 1986,
+    "contest_name": "2025 Moscow Sports Night",
+    "details": "Moscow, Russia, 2025-09-20",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 5.0,
+    "division": "men",
+    "total_competitors": 6,
+    "raw_difficulty": 2242.9428671490946,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "power": 735.5,
+        "percent": 32.8
+      },
+      {
+        "rank": "2",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "power": 537.2,
+        "percent": 24.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "power": 393.6,
+        "percent": 17.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Ramil Ramazanov",
+        "country": "RUS",
+        "power": 293.3,
+        "percent": 13.1
+      },
+      {
+        "rank": "5",
+        "person_name": "Egor Makarov",
+        "country": "RUS",
+        "power": 283.3,
+        "percent": 12.6
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "score": 25.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "score": 25
+      },
+      {
+        "rank": "3",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "score": 17.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Ramil Ramazanov",
+        "country": "RUS",
+        "score": 17
+      },
+      {
+        "rank": "5",
+        "person_name": "Egor Makarov",
+        "country": "RUS",
+        "score": 14
+      },
+      {
+        "rank": "6",
+        "person_name": "Vladlen Valyaev",
+        "country": "RUS",
+        "score": 6
+      }
+    ],
+    "difficulty_score": 22.1,
+    "competition_rank": 398
+  },
+  {
+    "contest_id": 2601,
+    "contest_name": "2026 Moscow Sports Night",
+    "details": "Moscow, Russia, 2026-05-30",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 5.0,
+    "division": "men",
+    "total_competitors": 6,
+    "raw_difficulty": 2242.9428671490946,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "power": 735.5,
+        "percent": 32.8
+      },
+      {
+        "rank": "2",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "power": 537.2,
+        "percent": 24.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "power": 393.6,
+        "percent": 17.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Ramil Ramazanov",
+        "country": "RUS",
+        "power": 293.3,
+        "percent": 13.1
+      },
+      {
+        "rank": "5",
+        "person_name": "Egor Makarov",
+        "country": "RUS",
+        "power": 283.3,
+        "percent": 12.6
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "score": 27.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "score": 21
+      },
+      {
+        "rank": "3",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "score": 18.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Ramil Ramazanov",
+        "country": "RUS",
+        "score": 17.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Egor Makarov",
+        "country": "RUS",
+        "score": 11.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Vladlen Valyaev",
+        "country": "RUS",
+        "score": 4
+      }
+    ],
+    "difficulty_score": 22.1,
+    "competition_rank": 399
   },
   {
     "contest_id": 2010,
@@ -46381,107 +46745,7 @@
       }
     ],
     "difficulty_score": 21.9,
-    "competition_rank": 396
-  },
-  {
-    "contest_id": 1591,
-    "contest_name": "2024 Moscow Cup",
-    "details": "Moscow, Russia, 2024-08-10",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 1.0,
-    "division": "men",
-    "total_competitors": 8,
-    "raw_difficulty": 2222.0129947480523,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "David Shamey",
-        "country": "RUS",
-        "power": 802.2,
-        "percent": 36.1
-      },
-      {
-        "rank": "2",
-        "person_name": "Vladimir Bulgakov",
-        "country": "RUS",
-        "power": 42.2,
-        "percent": 1.9
-      },
-      {
-        "rank": "3",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "power": 393.0,
-        "percent": 17.7
-      },
-      {
-        "rank": "4",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "power": 719.2,
-        "percent": 32.4
-      },
-      {
-        "rank": "5",
-        "person_name": "Evgeny Konovalov",
-        "country": "RUS",
-        "power": 265.4,
-        "percent": 11.9
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "David Shamey",
-        "country": "RUS",
-        "score": 39
-      },
-      {
-        "rank": "2",
-        "person_name": "Vladimir Bulgakov",
-        "country": "RUS",
-        "score": 37.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "score": 32
-      },
-      {
-        "rank": "4",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "score": 28.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Evgeny Konovalov",
-        "country": "RUS",
-        "score": 26
-      },
-      {
-        "rank": "6",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "score": 21
-      },
-      {
-        "rank": "7",
-        "person_name": "Leontiy Miroshnik",
-        "country": "RUS",
-        "score": 18.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Dmitrii Keushkov",
-        "country": "RUS",
-        "score": 6.5
-      }
-    ],
-    "difficulty_score": 21.8,
-    "competition_rank": 397
+    "competition_rank": 400
   },
   {
     "contest_id": 1126,
@@ -46492,13 +46756,13 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 8,
-    "raw_difficulty": 2205.8678967802753,
+    "raw_difficulty": 2205.785235559588,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Karolis Aleksandravičius",
         "country": "LTU",
-        "power": 126.6,
+        "power": 126.5,
         "percent": 5.7
       },
       {
@@ -46581,7 +46845,7 @@
       }
     ],
     "difficulty_score": 21.6,
-    "competition_rank": 398
+    "competition_rank": 401
   },
   {
     "contest_id": 1779,
@@ -46717,7 +46981,7 @@
       }
     ],
     "difficulty_score": 21.5,
-    "competition_rank": 399
+    "competition_rank": 402
   },
   {
     "contest_id": 2849,
@@ -46829,7 +47093,7 @@
       }
     ],
     "difficulty_score": 21.5,
-    "competition_rank": 400
+    "competition_rank": 403
   },
   {
     "contest_id": 1699,
@@ -46953,7 +47217,7 @@
       }
     ],
     "difficulty_score": 21.4,
-    "competition_rank": 401
+    "competition_rank": 404
   },
   {
     "contest_id": 1880,
@@ -47041,95 +47305,7 @@
       }
     ],
     "difficulty_score": 21.3,
-    "competition_rank": 402
-  },
-  {
-    "contest_id": 1986,
-    "contest_name": "2025 Moscow Sports Night",
-    "details": "Moscow, Russia, 2025-09-20",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 5.0,
-    "division": "men",
-    "total_competitors": 6,
-    "raw_difficulty": 2183.128054394648,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "power": 719.2,
-        "percent": 32.9
-      },
-      {
-        "rank": "2",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "power": 524.9,
-        "percent": 24.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "power": 393.0,
-        "percent": 18.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Ramil Ramazanov",
-        "country": "RUS",
-        "power": 288.3,
-        "percent": 13.2
-      },
-      {
-        "rank": "5",
-        "person_name": "Egor Makarov",
-        "country": "RUS",
-        "power": 257.7,
-        "percent": 11.8
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "score": 25.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "score": 25
-      },
-      {
-        "rank": "3",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "score": 17.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Ramil Ramazanov",
-        "country": "RUS",
-        "score": 17
-      },
-      {
-        "rank": "5",
-        "person_name": "Egor Makarov",
-        "country": "RUS",
-        "score": 14
-      },
-      {
-        "rank": "6",
-        "person_name": "Vladlen Valyaev",
-        "country": "RUS",
-        "score": 6
-      }
-    ],
-    "difficulty_score": 21.3,
-    "competition_rank": 403
+    "competition_rank": 405
   },
   {
     "contest_id": 2551,
@@ -47241,95 +47417,7 @@
       }
     ],
     "difficulty_score": 21.3,
-    "competition_rank": 404
-  },
-  {
-    "contest_id": 2601,
-    "contest_name": "2026 Moscow Sports Night",
-    "details": "Moscow, Russia, 2026-05-30",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 5.0,
-    "division": "men",
-    "total_competitors": 6,
-    "raw_difficulty": 2183.128054394648,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "power": 719.2,
-        "percent": 32.9
-      },
-      {
-        "rank": "2",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "power": 524.9,
-        "percent": 24.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "power": 393.0,
-        "percent": 18.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Ramil Ramazanov",
-        "country": "RUS",
-        "power": 288.3,
-        "percent": 13.2
-      },
-      {
-        "rank": "5",
-        "person_name": "Egor Makarov",
-        "country": "RUS",
-        "power": 257.7,
-        "percent": 11.8
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "score": 27.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "score": 21
-      },
-      {
-        "rank": "3",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "score": 18.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Ramil Ramazanov",
-        "country": "RUS",
-        "score": 17.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Egor Makarov",
-        "country": "RUS",
-        "score": 11.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Vladlen Valyaev",
-        "country": "RUS",
-        "score": 4
-      }
-    ],
-    "difficulty_score": 21.3,
-    "competition_rank": 405
+    "competition_rank": 406
   },
   {
     "contest_id": 1606,
@@ -47340,7 +47428,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 2171.663969454292,
+    "raw_difficulty": 2169.649258720666,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -47353,7 +47441,7 @@
         "rank": "2",
         "person_name": "Cim Johansson",
         "country": "SWE",
-        "power": 774.1,
+        "power": 772.1,
         "percent": 35.6
       },
       {
@@ -47441,7 +47529,7 @@
       }
     ],
     "difficulty_score": 21.1,
-    "competition_rank": 406
+    "competition_rank": 407
   },
   {
     "contest_id": 1669,
@@ -47541,7 +47629,7 @@
       }
     ],
     "difficulty_score": 21.1,
-    "competition_rank": 407
+    "competition_rank": 408
   },
   {
     "contest_id": 2901,
@@ -47635,7 +47723,7 @@
       }
     ],
     "difficulty_score": 20.9,
-    "competition_rank": 408
+    "competition_rank": 409
   },
   {
     "contest_id": 2048,
@@ -47729,7 +47817,7 @@
       }
     ],
     "difficulty_score": 20.8,
-    "competition_rank": 409
+    "competition_rank": 410
   },
   {
     "contest_id": 1952,
@@ -47817,7 +47905,7 @@
       }
     ],
     "difficulty_score": 20.6,
-    "competition_rank": 410
+    "competition_rank": 411
   },
   {
     "contest_id": 2332,
@@ -47935,7 +48023,7 @@
       }
     ],
     "difficulty_score": 20.6,
-    "competition_rank": 411
+    "competition_rank": 412
   },
   {
     "contest_id": 2487,
@@ -48059,7 +48147,7 @@
       }
     ],
     "difficulty_score": 20.6,
-    "competition_rank": 412
+    "competition_rank": 413
   },
   {
     "contest_id": 2815,
@@ -48177,7 +48265,7 @@
       }
     ],
     "difficulty_score": 20.5,
-    "competition_rank": 413
+    "competition_rank": 414
   },
   {
     "contest_id": 1128,
@@ -48313,7 +48401,7 @@
       }
     ],
     "difficulty_score": 20.3,
-    "competition_rank": 414
+    "competition_rank": 415
   },
   {
     "contest_id": 1780,
@@ -48449,7 +48537,7 @@
       }
     ],
     "difficulty_score": 20.1,
-    "competition_rank": 415
+    "competition_rank": 416
   },
   {
     "contest_id": 1942,
@@ -48537,7 +48625,7 @@
       }
     ],
     "difficulty_score": 20.0,
-    "competition_rank": 416
+    "competition_rank": 417
   },
   {
     "contest_id": 1443,
@@ -48667,7 +48755,7 @@
       }
     ],
     "difficulty_score": 19.5,
-    "competition_rank": 417
+    "competition_rank": 418
   },
   {
     "contest_id": 2598,
@@ -48761,7 +48849,7 @@
       }
     ],
     "difficulty_score": 19.3,
-    "competition_rank": 418
+    "competition_rank": 419
   },
   {
     "contest_id": 2449,
@@ -48873,7 +48961,7 @@
       }
     ],
     "difficulty_score": 19.2,
-    "competition_rank": 419
+    "competition_rank": 420
   },
   {
     "contest_id": 2001,
@@ -48997,7 +49085,7 @@
       }
     ],
     "difficulty_score": 19.1,
-    "competition_rank": 420
+    "competition_rank": 421
   },
   {
     "contest_id": 1305,
@@ -49121,7 +49209,7 @@
       }
     ],
     "difficulty_score": 18.6,
-    "competition_rank": 421
+    "competition_rank": 422
   },
   {
     "contest_id": 1974,
@@ -49203,7 +49291,7 @@
       }
     ],
     "difficulty_score": 18.6,
-    "competition_rank": 422
+    "competition_rank": 423
   },
   {
     "contest_id": 1919,
@@ -49375,7 +49463,7 @@
       }
     ],
     "difficulty_score": 18.3,
-    "competition_rank": 423
+    "competition_rank": 424
   },
   {
     "contest_id": 2744,
@@ -49493,7 +49581,7 @@
       }
     ],
     "difficulty_score": 18.1,
-    "competition_rank": 424
+    "competition_rank": 425
   },
   {
     "contest_id": 2890,
@@ -49587,7 +49675,7 @@
       }
     ],
     "difficulty_score": 18.1,
-    "competition_rank": 425
+    "competition_rank": 426
   },
   {
     "contest_id": 1337,
@@ -49598,7 +49686,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 1956.3323251406478,
+    "raw_difficulty": 1956.2496639199603,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -49618,7 +49706,7 @@
         "rank": "3",
         "person_name": "Karolis Aleksandravičius",
         "country": "LTU",
-        "power": 126.6,
+        "power": 126.5,
         "percent": 6.5
       },
       {
@@ -49699,7 +49787,119 @@
       }
     ],
     "difficulty_score": 18.0,
-    "competition_rank": 426
+    "competition_rank": 427
+  },
+  {
+    "contest_id": 1156,
+    "contest_name": "2022 Siberian Power Show",
+    "details": "Krasnoyarsk, Russia, 2022-04-02 to 2022-04-03",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 0.25,
+    "division": "men",
+    "total_competitors": 10,
+    "raw_difficulty": 1944.8954009102383,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Dmitrii Skosyrskii",
+        "country": "RUS",
+        "power": 469.7,
+        "percent": 24.2
+      },
+      {
+        "rank": "2",
+        "person_name": "Ramil Ramazanov",
+        "country": "RUS",
+        "power": 293.3,
+        "percent": 15.1
+      },
+      {
+        "rank": "3",
+        "person_name": "Vladimir Bulgakov",
+        "country": "RUS",
+        "power": 42.2,
+        "percent": 2.2
+      },
+      {
+        "rank": "4",
+        "person_name": "Petr Martynenko",
+        "country": "RUS",
+        "power": 337.4,
+        "percent": 17.3
+      },
+      {
+        "rank": "5",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "power": 802.2,
+        "percent": 41.2
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Dmitrii Skosyrskii",
+        "country": "RUS",
+        "score": 58
+      },
+      {
+        "rank": "2",
+        "person_name": "Ramil Ramazanov",
+        "country": "RUS",
+        "score": 35.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Vladimir Bulgakov",
+        "country": "RUS",
+        "score": 35.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Petr Martynenko",
+        "country": "RUS",
+        "score": 32
+      },
+      {
+        "rank": "5",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "score": 29
+      },
+      {
+        "rank": "6",
+        "person_name": "Valery Savin",
+        "country": "RUS",
+        "score": 26
+      },
+      {
+        "rank": "7",
+        "person_name": "Alexander Kuzmin",
+        "country": "RUS",
+        "score": 25.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "score": 17
+      },
+      {
+        "rank": "9",
+        "person_name": "Maxim Dvoretsky",
+        "country": "RUS",
+        "score": 12.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Ivan Makarov",
+        "country": "RUS",
+        "score": 10
+      }
+    ],
+    "difficulty_score": 17.9,
+    "competition_rank": 428
   },
   {
     "contest_id": 1415,
@@ -49811,248 +50011,6 @@
       }
     ],
     "difficulty_score": 17.9,
-    "competition_rank": 427
-  },
-  {
-    "contest_id": 2008,
-    "contest_name": "2022 Bánovský Silák",
-    "details": "Bánovce nad Bebravou, Slovakia, 2022-09-25",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 0.5,
-    "division": "men",
-    "total_competitors": 13,
-    "raw_difficulty": 1946.532603498446,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Benjamín Machala",
-        "country": "SVK",
-        "power": 172.4,
-        "percent": 8.9
-      },
-      {
-        "rank": "2",
-        "person_name": "Matyáš Funiok",
-        "country": "CZE",
-        "power": 1582.3,
-        "percent": 81.3
-      },
-      {
-        "rank": "3",
-        "person_name": "Patrik Zelezka",
-        "country": "SVK",
-        "power": 173.0,
-        "percent": 8.9
-      },
-      {
-        "rank": "4",
-        "person_name": "Péter Supák",
-        "country": "SVK",
-        "power": 14.2,
-        "percent": 0.7
-      },
-      {
-        "rank": "5",
-        "person_name": "Lukáš Škríb",
-        "country": "SVK",
-        "power": 4.6,
-        "percent": 0.2
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Benjamín Machala",
-        "country": "SVK",
-        "score": 61.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Matyáš Funiok",
-        "country": "CZE",
-        "score": 54
-      },
-      {
-        "rank": "3",
-        "person_name": "Patrik Zelezka",
-        "country": "SVK",
-        "score": 53
-      },
-      {
-        "rank": "4",
-        "person_name": "Péter Supák",
-        "country": "SVK",
-        "score": 40
-      },
-      {
-        "rank": "5",
-        "person_name": "Lukáš Škríb",
-        "country": "SVK",
-        "score": 34.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Viktor Ďuriš",
-        "country": "SVK",
-        "score": 34.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Szabolcs Boros",
-        "country": "SVK",
-        "score": 34
-      },
-      {
-        "rank": "8",
-        "person_name": "Jaroslav Mockovčiak",
-        "country": "SVK",
-        "score": 32.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Mário Karička",
-        "country": "SVK",
-        "score": 30
-      },
-      {
-        "rank": "10",
-        "person_name": "Alexander Gilbert",
-        "country": "FRA",
-        "score": 25
-      },
-      {
-        "rank": "11",
-        "person_name": "Jayson Woods",
-        "country": "NZL",
-        "score": 16.5
-      },
-      {
-        "rank": "12",
-        "person_name": "Martin Lovíšek",
-        "country": "SVK",
-        "score": 14.5
-      },
-      {
-        "rank": "13",
-        "person_name": "Petr Lněnička",
-        "country": "CZE",
-        "score": 13
-      }
-    ],
-    "difficulty_score": 17.9,
-    "competition_rank": 428
-  },
-  {
-    "contest_id": 1156,
-    "contest_name": "2022 Siberian Power Show",
-    "details": "Krasnoyarsk, Russia, 2022-04-02 to 2022-04-03",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 1939.8932970983328,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Dmitrii Skosyrskii",
-        "country": "RUS",
-        "power": 469.7,
-        "percent": 24.2
-      },
-      {
-        "rank": "2",
-        "person_name": "Ramil Ramazanov",
-        "country": "RUS",
-        "power": 288.3,
-        "percent": 14.9
-      },
-      {
-        "rank": "3",
-        "person_name": "Vladimir Bulgakov",
-        "country": "RUS",
-        "power": 42.2,
-        "percent": 2.2
-      },
-      {
-        "rank": "4",
-        "person_name": "Petr Martynenko",
-        "country": "RUS",
-        "power": 337.4,
-        "percent": 17.4
-      },
-      {
-        "rank": "5",
-        "person_name": "David Shamey",
-        "country": "RUS",
-        "power": 802.2,
-        "percent": 41.4
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Dmitrii Skosyrskii",
-        "country": "RUS",
-        "score": 58
-      },
-      {
-        "rank": "2",
-        "person_name": "Ramil Ramazanov",
-        "country": "RUS",
-        "score": 35.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Vladimir Bulgakov",
-        "country": "RUS",
-        "score": 35.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Petr Martynenko",
-        "country": "RUS",
-        "score": 32
-      },
-      {
-        "rank": "5",
-        "person_name": "David Shamey",
-        "country": "RUS",
-        "score": 29
-      },
-      {
-        "rank": "6",
-        "person_name": "Valery Savin",
-        "country": "RUS",
-        "score": 26
-      },
-      {
-        "rank": "7",
-        "person_name": "Alexander Kuzmin",
-        "country": "RUS",
-        "score": 25.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "score": 17
-      },
-      {
-        "rank": "9",
-        "person_name": "Maxim Dvoretsky",
-        "country": "RUS",
-        "score": 12.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Ivan Makarov",
-        "country": "RUS",
-        "score": 10
-      }
-    ],
-    "difficulty_score": 17.8,
     "competition_rank": 429
   },
   {
@@ -50186,6 +50144,136 @@
     "competition_rank": 430
   },
   {
+    "contest_id": 2008,
+    "contest_name": "2022 Bánovský Silák",
+    "details": "Bánovce nad Bebravou, Slovakia, 2022-09-25",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 0.5,
+    "division": "men",
+    "total_competitors": 13,
+    "raw_difficulty": 1939.8215987348028,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Benjamín Machala",
+        "country": "SVK",
+        "power": 166.9,
+        "percent": 8.6
+      },
+      {
+        "rank": "2",
+        "person_name": "Matyáš Funiok",
+        "country": "CZE",
+        "power": 1582.3,
+        "percent": 81.6
+      },
+      {
+        "rank": "3",
+        "person_name": "Patrik Zelezka",
+        "country": "SVK",
+        "power": 173.0,
+        "percent": 8.9
+      },
+      {
+        "rank": "4",
+        "person_name": "Péter Supák",
+        "country": "SVK",
+        "power": 13.0,
+        "percent": 0.7
+      },
+      {
+        "rank": "5",
+        "person_name": "Lukáš Škríb",
+        "country": "SVK",
+        "power": 4.6,
+        "percent": 0.2
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Benjamín Machala",
+        "country": "SVK",
+        "score": 61.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Matyáš Funiok",
+        "country": "CZE",
+        "score": 54
+      },
+      {
+        "rank": "3",
+        "person_name": "Patrik Zelezka",
+        "country": "SVK",
+        "score": 53
+      },
+      {
+        "rank": "4",
+        "person_name": "Péter Supák",
+        "country": "SVK",
+        "score": 40
+      },
+      {
+        "rank": "5",
+        "person_name": "Lukáš Škríb",
+        "country": "SVK",
+        "score": 34.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Viktor Ďuriš",
+        "country": "SVK",
+        "score": 34.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Szabolcs Boros",
+        "country": "SVK",
+        "score": 34
+      },
+      {
+        "rank": "8",
+        "person_name": "Jaroslav Mockovčiak",
+        "country": "SVK",
+        "score": 32.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Mário Karička",
+        "country": "SVK",
+        "score": 30
+      },
+      {
+        "rank": "10",
+        "person_name": "Alexander Gilbert",
+        "country": "FRA",
+        "score": 25
+      },
+      {
+        "rank": "11",
+        "person_name": "Jayson Woods",
+        "country": "NZL",
+        "score": 16.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Martin Lovíšek",
+        "country": "SVK",
+        "score": 14.5
+      },
+      {
+        "rank": "13",
+        "person_name": "Petr Lněnička",
+        "country": "CZE",
+        "score": 13
+      }
+    ],
+    "difficulty_score": 17.8,
+    "competition_rank": 431
+  },
+  {
     "contest_id": 2894,
     "contest_name": "2026 Slavic Cup",
     "details": "KrÃ¡sno nad Kysucou, Slovakia, 2026-08-29",
@@ -50283,7 +50371,7 @@
       }
     ],
     "difficulty_score": 17.8,
-    "competition_rank": 431
+    "competition_rank": 432
   },
   {
     "contest_id": 2613,
@@ -50413,7 +50501,7 @@
       }
     ],
     "difficulty_score": 16.8,
-    "competition_rank": 432
+    "competition_rank": 433
   },
   {
     "contest_id": 2581,
@@ -50531,7 +50619,7 @@
       }
     ],
     "difficulty_score": 16.7,
-    "competition_rank": 433
+    "competition_rank": 434
   },
   {
     "contest_id": 1447,
@@ -50643,7 +50731,7 @@
       }
     ],
     "difficulty_score": 16.5,
-    "competition_rank": 434
+    "competition_rank": 435
   },
   {
     "contest_id": 1547,
@@ -50725,7 +50813,213 @@
       }
     ],
     "difficulty_score": 16.5,
-    "competition_rank": 435
+    "competition_rank": 436
+  },
+  {
+    "contest_id": 1720,
+    "contest_name": "2025 Eurasian Games",
+    "details": "Sevastopol, Crimea, 2025-06-14",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 3.0,
+    "division": "men",
+    "total_competitors": 8,
+    "raw_difficulty": 1841.300833690137,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "power": 802.2,
+        "percent": 43.6
+      },
+      {
+        "rank": "2",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "power": 537.2,
+        "percent": 29.2
+      },
+      {
+        "rank": "3",
+        "person_name": "Vladislav Duka",
+        "country": "RUS",
+        "power": 47.7,
+        "percent": 2.6
+      },
+      {
+        "rank": "4",
+        "person_name": "Roman Druzhinin",
+        "country": "RUS",
+        "power": 362.2,
+        "percent": 19.7
+      },
+      {
+        "rank": "5",
+        "person_name": "Konstantin Koldunov",
+        "country": "RUS",
+        "power": 92.0,
+        "percent": 5.0
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "score": 37
+      },
+      {
+        "rank": "2",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "score": 31.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Vladislav Duka",
+        "country": "RUS",
+        "score": 24.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Roman Druzhinin",
+        "country": "RUS",
+        "score": 23.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Konstantin Koldunov",
+        "country": "RUS",
+        "score": 19.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Egor Sorokoletov",
+        "country": "RUS",
+        "score": 18.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Gela Lursmanashvili",
+        "country": "RUS",
+        "score": 13.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Yulian Kuznetsov",
+        "country": "RUS",
+        "score": 8
+      }
+    ],
+    "difficulty_score": 16.5,
+    "competition_rank": 437
+  },
+  {
+    "contest_id": 1568,
+    "contest_name": "2024 Moscow Open",
+    "details": "Moscow, Russia, 2024-05-31",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 1.0,
+    "division": "men",
+    "total_competitors": 9,
+    "raw_difficulty": 1832.9438288015072,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Andrey Smirnov",
+        "country": "RUS",
+        "power": 41.2,
+        "percent": 2.2
+      },
+      {
+        "rank": "2",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "power": 537.2,
+        "percent": 29.3
+      },
+      {
+        "rank": "3",
+        "person_name": "Alexander Kuzmin",
+        "country": "RUS",
+        "power": 125.5,
+        "percent": 6.8
+      },
+      {
+        "rank": "4",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "power": 735.5,
+        "percent": 40.1
+      },
+      {
+        "rank": "5",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "power": 393.6,
+        "percent": 21.5
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Andrey Smirnov",
+        "country": "RUS",
+        "score": 33.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "score": 33
+      },
+      {
+        "rank": "3",
+        "person_name": "Alexander Kuzmin",
+        "country": "RUS",
+        "score": 33
+      },
+      {
+        "rank": "4",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "score": 30
+      },
+      {
+        "rank": "5",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "score": 27.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Nikolay Goglov",
+        "country": "RUS",
+        "score": 24
+      },
+      {
+        "rank": "7",
+        "person_name": "Ilya Chetvergov",
+        "country": "RUS",
+        "score": 21
+      },
+      {
+        "rank": "8",
+        "person_name": "Dmitrii Melchanov",
+        "country": "RUS",
+        "score": 12.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Viktor Kurenkov",
+        "country": "RUS",
+        "score": 10.5
+      }
+    ],
+    "difficulty_score": 16.4,
+    "competition_rank": 438
   },
   {
     "contest_id": 1944,
@@ -50813,7 +51107,7 @@
       }
     ],
     "difficulty_score": 16.4,
-    "competition_rank": 436
+    "competition_rank": 439
   },
   {
     "contest_id": 1609,
@@ -50931,107 +51225,7 @@
       }
     ],
     "difficulty_score": 16.2,
-    "competition_rank": 437
-  },
-  {
-    "contest_id": 1720,
-    "contest_name": "2025 Eurasian Games",
-    "details": "Sevastopol, Crimea, 2025-06-14",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 3.0,
-    "division": "men",
-    "total_competitors": 8,
-    "raw_difficulty": 1822.5602733057356,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "David Shamey",
-        "country": "RUS",
-        "power": 802.2,
-        "percent": 44.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "power": 524.9,
-        "percent": 28.8
-      },
-      {
-        "rank": "3",
-        "person_name": "Vladislav Duka",
-        "country": "RUS",
-        "power": 47.7,
-        "percent": 2.6
-      },
-      {
-        "rank": "4",
-        "person_name": "Roman Druzhinin",
-        "country": "RUS",
-        "power": 355.7,
-        "percent": 19.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Konstantin Koldunov",
-        "country": "RUS",
-        "power": 92.0,
-        "percent": 5.0
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "David Shamey",
-        "country": "RUS",
-        "score": 37
-      },
-      {
-        "rank": "2",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "score": 31.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Vladislav Duka",
-        "country": "RUS",
-        "score": 24.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Roman Druzhinin",
-        "country": "RUS",
-        "score": 23.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Konstantin Koldunov",
-        "country": "RUS",
-        "score": 19.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Egor Sorokoletov",
-        "country": "RUS",
-        "score": 18.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Gela Lursmanashvili",
-        "country": "RUS",
-        "score": 13.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Yulian Kuznetsov",
-        "country": "RUS",
-        "score": 8
-      }
-    ],
-    "difficulty_score": 16.2,
-    "competition_rank": 438
+    "competition_rank": 440
   },
   {
     "contest_id": 1736,
@@ -51137,7 +51331,7 @@
       }
     ],
     "difficulty_score": 16.1,
-    "competition_rank": 439
+    "competition_rank": 441
   },
   {
     "contest_id": 1396,
@@ -51255,113 +51449,7 @@
       }
     ],
     "difficulty_score": 16.0,
-    "competition_rank": 440
-  },
-  {
-    "contest_id": 1568,
-    "contest_name": "2024 Moscow Open",
-    "details": "Moscow, Russia, 2024-05-31",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 1.0,
-    "division": "men",
-    "total_competitors": 9,
-    "raw_difficulty": 1803.7978558047162,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Andrey Smirnov",
-        "country": "RUS",
-        "power": 41.2,
-        "percent": 2.3
-      },
-      {
-        "rank": "2",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "power": 524.9,
-        "percent": 29.1
-      },
-      {
-        "rank": "3",
-        "person_name": "Alexander Kuzmin",
-        "country": "RUS",
-        "power": 125.5,
-        "percent": 7.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "power": 719.2,
-        "percent": 39.9
-      },
-      {
-        "rank": "5",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "power": 393.0,
-        "percent": 21.8
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Andrey Smirnov",
-        "country": "RUS",
-        "score": 33.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "score": 33
-      },
-      {
-        "rank": "3",
-        "person_name": "Alexander Kuzmin",
-        "country": "RUS",
-        "score": 33
-      },
-      {
-        "rank": "4",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "score": 30
-      },
-      {
-        "rank": "5",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "score": 27.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Nikolay Goglov",
-        "country": "RUS",
-        "score": 24
-      },
-      {
-        "rank": "7",
-        "person_name": "Ilya Chetvergov",
-        "country": "RUS",
-        "score": 21
-      },
-      {
-        "rank": "8",
-        "person_name": "Dmitrii Melchanov",
-        "country": "RUS",
-        "score": 12.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Viktor Kurenkov",
-        "country": "RUS",
-        "score": 10.5
-      }
-    ],
-    "difficulty_score": 16.0,
-    "competition_rank": 441
+    "competition_rank": 442
   },
   {
     "contest_id": 2453,
@@ -51473,7 +51561,7 @@
       }
     ],
     "difficulty_score": 16.0,
-    "competition_rank": 442
+    "competition_rank": 443
   },
   {
     "contest_id": 2874,
@@ -51561,7 +51649,125 @@
       }
     ],
     "difficulty_score": 16.0,
-    "competition_rank": 443
+    "competition_rank": 444
+  },
+  {
+    "contest_id": 1569,
+    "contest_name": "2024 Russian Strongman Cup",
+    "details": "Lipetsk, Russia, 2024-06-08",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 1.0,
+    "division": "men",
+    "total_competitors": 11,
+    "raw_difficulty": 1788.2961248038582,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Alexander Kuzmin",
+        "country": "RUS",
+        "power": 125.5,
+        "percent": 7.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "power": 735.5,
+        "percent": 41.1
+      },
+      {
+        "rank": "3",
+        "person_name": "Leontiy Miroshnik",
+        "country": "RUS",
+        "power": 492.5,
+        "percent": 27.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Andrey Smirnov",
+        "country": "RUS",
+        "power": 41.2,
+        "percent": 2.3
+      },
+      {
+        "rank": "5",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "power": 393.6,
+        "percent": 22.0
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Alexander Kuzmin",
+        "country": "RUS",
+        "score": 45
+      },
+      {
+        "rank": "2",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "score": 44.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Leontiy Miroshnik",
+        "country": "RUS",
+        "score": 39
+      },
+      {
+        "rank": "4",
+        "person_name": "Andrey Smirnov",
+        "country": "RUS",
+        "score": 39
+      },
+      {
+        "rank": "5",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "score": 35.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Nikolay Goglov",
+        "country": "RUS",
+        "score": 27.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Alexei Kosterin",
+        "country": "RUS",
+        "score": 25.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Evgeny Konovalov",
+        "country": "RUS",
+        "score": 23
+      },
+      {
+        "rank": "9",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "score": 23
+      },
+      {
+        "rank": "10",
+        "person_name": "Vladislav Duka",
+        "country": "RUS",
+        "score": 17.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Alexei Chervyakov",
+        "country": "RUS",
+        "score": 8.5
+      }
+    ],
+    "difficulty_score": 15.8,
+    "competition_rank": 445
   },
   {
     "contest_id": 1741,
@@ -51655,7 +51861,7 @@
       }
     ],
     "difficulty_score": 15.7,
-    "competition_rank": 444
+    "competition_rank": 446
   },
   {
     "contest_id": 2804,
@@ -51773,125 +51979,7 @@
       }
     ],
     "difficulty_score": 15.6,
-    "competition_rank": 445
-  },
-  {
-    "contest_id": 1569,
-    "contest_name": "2024 Russian Strongman Cup",
-    "details": "Lipetsk, Russia, 2024-06-08",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 1.0,
-    "division": "men",
-    "total_competitors": 11,
-    "raw_difficulty": 1771.375322405625,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Alexander Kuzmin",
-        "country": "RUS",
-        "power": 125.5,
-        "percent": 7.1
-      },
-      {
-        "rank": "2",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "power": 719.2,
-        "percent": 40.6
-      },
-      {
-        "rank": "3",
-        "person_name": "Leontiy Miroshnik",
-        "country": "RUS",
-        "power": 492.5,
-        "percent": 27.8
-      },
-      {
-        "rank": "4",
-        "person_name": "Andrey Smirnov",
-        "country": "RUS",
-        "power": 41.2,
-        "percent": 2.3
-      },
-      {
-        "rank": "5",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "power": 393.0,
-        "percent": 22.2
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Alexander Kuzmin",
-        "country": "RUS",
-        "score": 45
-      },
-      {
-        "rank": "2",
-        "person_name": "Valentin Akimov",
-        "country": "RUS",
-        "score": 44.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Leontiy Miroshnik",
-        "country": "RUS",
-        "score": 39
-      },
-      {
-        "rank": "4",
-        "person_name": "Andrey Smirnov",
-        "country": "RUS",
-        "score": 39
-      },
-      {
-        "rank": "5",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "score": 35.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Nikolay Goglov",
-        "country": "RUS",
-        "score": 27.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Alexei Kosterin",
-        "country": "RUS",
-        "score": 25.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Evgeny Konovalov",
-        "country": "RUS",
-        "score": 23
-      },
-      {
-        "rank": "9",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "score": 23
-      },
-      {
-        "rank": "10",
-        "person_name": "Vladislav Duka",
-        "country": "RUS",
-        "score": 17.5
-      },
-      {
-        "rank": "11",
-        "person_name": "Alexei Chervyakov",
-        "country": "RUS",
-        "score": 8.5
-      }
-    ],
-    "difficulty_score": 15.5,
-    "competition_rank": 446
+    "competition_rank": 447
   },
   {
     "contest_id": 2616,
@@ -52009,7 +52097,7 @@
       }
     ],
     "difficulty_score": 15.3,
-    "competition_rank": 447
+    "competition_rank": 448
   },
   {
     "contest_id": 2891,
@@ -52175,7 +52263,7 @@
       }
     ],
     "difficulty_score": 15.1,
-    "competition_rank": 448
+    "competition_rank": 449
   },
   {
     "contest_id": 2548,
@@ -52293,7 +52381,7 @@
       }
     ],
     "difficulty_score": 15.0,
-    "competition_rank": 449
+    "competition_rank": 450
   },
   {
     "contest_id": 1548,
@@ -52375,7 +52463,7 @@
       }
     ],
     "difficulty_score": 14.8,
-    "competition_rank": 450
+    "competition_rank": 451
   },
   {
     "contest_id": 1847,
@@ -52487,7 +52575,7 @@
       }
     ],
     "difficulty_score": 14.8,
-    "competition_rank": 451
+    "competition_rank": 452
   },
   {
     "contest_id": 2821,
@@ -52593,7 +52681,7 @@
       }
     ],
     "difficulty_score": 14.7,
-    "competition_rank": 452
+    "competition_rank": 453
   },
   {
     "contest_id": 2934,
@@ -52681,7 +52769,7 @@
       }
     ],
     "difficulty_score": 14.7,
-    "competition_rank": 453
+    "competition_rank": 454
   },
   {
     "contest_id": 2535,
@@ -52799,7 +52887,7 @@
       }
     ],
     "difficulty_score": 14.5,
-    "competition_rank": 454
+    "competition_rank": 455
   },
   {
     "contest_id": 1970,
@@ -52899,7 +52987,7 @@
       }
     ],
     "difficulty_score": 13.8,
-    "competition_rank": 455
+    "competition_rank": 456
   },
   {
     "contest_id": 2476,
@@ -52999,7 +53087,7 @@
       }
     ],
     "difficulty_score": 13.6,
-    "competition_rank": 456
+    "competition_rank": 457
   },
   {
     "contest_id": 1307,
@@ -53129,7 +53217,7 @@
       }
     ],
     "difficulty_score": 13.3,
-    "competition_rank": 457
+    "competition_rank": 458
   },
   {
     "contest_id": 1957,
@@ -53253,7 +53341,7 @@
       }
     ],
     "difficulty_score": 13.3,
-    "competition_rank": 458
+    "competition_rank": 459
   },
   {
     "contest_id": 1348,
@@ -53264,7 +53352,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 1591.84189569014,
+    "raw_difficulty": 1591.7592344694528,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -53291,8 +53379,8 @@
         "rank": "4",
         "person_name": "Karolis Aleksandravičius",
         "country": "LTU",
-        "power": 126.6,
-        "percent": 8.0
+        "power": 126.5,
+        "percent": 7.9
       },
       {
         "rank": "5",
@@ -53365,118 +53453,6 @@
       }
     ],
     "difficulty_score": 13.2,
-    "competition_rank": 459
-  },
-  {
-    "contest_id": 2007,
-    "contest_name": "2023 Bánovský Silák",
-    "details": "Bánovce nad Bebravou, Slovakia, 2023-09-10",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 1.0,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 1580.1648072710327,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Benjamín Machala",
-        "country": "SVK",
-        "power": 172.4,
-        "percent": 10.9
-      },
-      {
-        "rank": "2",
-        "person_name": "Lukáš Ferjanc",
-        "country": "SVK",
-        "power": 29.5,
-        "percent": 1.9
-      },
-      {
-        "rank": "3",
-        "person_name": "Jan Lacina",
-        "country": "CZE",
-        "power": 1080.5,
-        "percent": 68.4
-      },
-      {
-        "rank": "4",
-        "person_name": "Tomáš Sikora",
-        "country": "CZE",
-        "power": 22.2,
-        "percent": 1.4
-      },
-      {
-        "rank": "5",
-        "person_name": "Jaroslav Mockovčiak",
-        "country": "SVK",
-        "power": 275.5,
-        "percent": 17.4
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Benjamín Machala",
-        "country": "SVK",
-        "score": 46
-      },
-      {
-        "rank": "2",
-        "person_name": "Lukáš Ferjanc",
-        "country": "SVK",
-        "score": 41
-      },
-      {
-        "rank": "3",
-        "person_name": "Jan Lacina",
-        "country": "CZE",
-        "score": 37
-      },
-      {
-        "rank": "4",
-        "person_name": "Tomáš Sikora",
-        "country": "CZE",
-        "score": 37
-      },
-      {
-        "rank": "5",
-        "person_name": "Jaroslav Mockovčiak",
-        "country": "SVK",
-        "score": 27
-      },
-      {
-        "rank": "6",
-        "person_name": "Vojtěch Halma",
-        "country": "CZE",
-        "score": 22.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Ivan Hryhorovskyy",
-        "country": "UKR",
-        "score": 21.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Viktor Ďuriš",
-        "country": "SVK",
-        "score": 15
-      },
-      {
-        "rank": "9",
-        "person_name": "Péter Supák",
-        "country": "SVK",
-        "score": 12
-      },
-      {
-        "rank": "10",
-        "person_name": "Radoslav Ferjanc",
-        "country": "SVK",
-        "score": 9
-      }
-    ],
-    "difficulty_score": 13.1,
     "competition_rank": 460
   },
   {
@@ -53674,6 +53650,118 @@
     "competition_rank": 462
   },
   {
+    "contest_id": 2007,
+    "contest_name": "2023 Bánovský Silák",
+    "details": "Bánovce nad Bebravou, Slovakia, 2023-09-10",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 0.5,
+    "division": "men",
+    "total_competitors": 10,
+    "raw_difficulty": 1559.7271349320636,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Benjamín Machala",
+        "country": "SVK",
+        "power": 166.9,
+        "percent": 10.7
+      },
+      {
+        "rank": "2",
+        "person_name": "Lukáš Ferjanc",
+        "country": "SVK",
+        "power": 20.1,
+        "percent": 1.3
+      },
+      {
+        "rank": "3",
+        "person_name": "Jan Lacina",
+        "country": "CZE",
+        "power": 1080.5,
+        "percent": 69.3
+      },
+      {
+        "rank": "4",
+        "person_name": "Tomáš Sikora",
+        "country": "CZE",
+        "power": 16.7,
+        "percent": 1.1
+      },
+      {
+        "rank": "5",
+        "person_name": "Jaroslav Mockovčiak",
+        "country": "SVK",
+        "power": 275.5,
+        "percent": 17.7
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Benjamín Machala",
+        "country": "SVK",
+        "score": 46
+      },
+      {
+        "rank": "2",
+        "person_name": "Lukáš Ferjanc",
+        "country": "SVK",
+        "score": 41
+      },
+      {
+        "rank": "3",
+        "person_name": "Jan Lacina",
+        "country": "CZE",
+        "score": 37
+      },
+      {
+        "rank": "4",
+        "person_name": "Tomáš Sikora",
+        "country": "CZE",
+        "score": 37
+      },
+      {
+        "rank": "5",
+        "person_name": "Jaroslav Mockovčiak",
+        "country": "SVK",
+        "score": 27
+      },
+      {
+        "rank": "6",
+        "person_name": "Vojtěch Halma",
+        "country": "CZE",
+        "score": 22.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Ivan Hryhorovskyy",
+        "country": "UKR",
+        "score": 21.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Viktor Ďuriš",
+        "country": "SVK",
+        "score": 15
+      },
+      {
+        "rank": "9",
+        "person_name": "Péter Supák",
+        "country": "SVK",
+        "score": 12
+      },
+      {
+        "rank": "10",
+        "person_name": "Radoslav Ferjanc",
+        "country": "SVK",
+        "score": 9
+      }
+    ],
+    "difficulty_score": 12.8,
+    "competition_rank": 463
+  },
+  {
     "contest_id": 2455,
     "contest_name": "2025 Denmark's Strongest Man",
     "details": "Svendborg, Denmark, 2025-08-16",
@@ -53801,7 +53889,7 @@
       }
     ],
     "difficulty_score": 12.7,
-    "competition_rank": 463
+    "competition_rank": 464
   },
   {
     "contest_id": 1170,
@@ -53931,7 +54019,7 @@
       }
     ],
     "difficulty_score": 12.5,
-    "competition_rank": 464
+    "competition_rank": 465
   },
   {
     "contest_id": 1941,
@@ -54019,7 +54107,7 @@
       }
     ],
     "difficulty_score": 12.5,
-    "competition_rank": 465
+    "competition_rank": 466
   },
   {
     "contest_id": 2609,
@@ -54125,7 +54213,7 @@
       }
     ],
     "difficulty_score": 12.5,
-    "competition_rank": 466
+    "competition_rank": 467
   },
   {
     "contest_id": 1155,
@@ -54213,7 +54301,101 @@
       }
     ],
     "difficulty_score": 12.4,
-    "competition_rank": 467
+    "competition_rank": 468
+  },
+  {
+    "contest_id": 1861,
+    "contest_name": "2025 Moscow Sports Night",
+    "details": "Moscow, Russia, 2025-08-02",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 3.0,
+    "division": "men",
+    "total_competitors": 7,
+    "raw_difficulty": 1525.2233955177499,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "power": 537.2,
+        "percent": 35.2
+      },
+      {
+        "rank": "2",
+        "person_name": "Roman Druzhinin",
+        "country": "RUS",
+        "power": 362.2,
+        "percent": 23.7
+      },
+      {
+        "rank": "3",
+        "person_name": "Evgeny Gavrilenko",
+        "country": "RUS",
+        "power": 107.5,
+        "percent": 7.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "power": 393.6,
+        "percent": 25.8
+      },
+      {
+        "rank": "5",
+        "person_name": "Vladlen Valyaev",
+        "country": "RUS",
+        "power": 124.7,
+        "percent": 8.2
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "score": 32
+      },
+      {
+        "rank": "2",
+        "person_name": "Roman Druzhinin",
+        "country": "RUS",
+        "score": 30
+      },
+      {
+        "rank": "3",
+        "person_name": "Evgeny Gavrilenko",
+        "country": "RUS",
+        "score": 21
+      },
+      {
+        "rank": "4",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "score": 19.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Vladlen Valyaev",
+        "country": "RUS",
+        "score": 14.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Egor Makarov",
+        "country": "RUS",
+        "score": 13
+      },
+      {
+        "rank": "7",
+        "person_name": "Artem Yuriev",
+        "country": "RUS",
+        "score": 10
+      }
+    ],
+    "difficulty_score": 12.4,
+    "competition_rank": 469
   },
   {
     "contest_id": 2495,
@@ -54325,101 +54507,7 @@
       }
     ],
     "difficulty_score": 12.3,
-    "competition_rank": 468
-  },
-  {
-    "contest_id": 1861,
-    "contest_name": "2025 Moscow Sports Night",
-    "details": "Moscow, Russia, 2025-08-02",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 3.0,
-    "division": "men",
-    "total_competitors": 7,
-    "raw_difficulty": 1505.8806935986083,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "power": 524.9,
-        "percent": 34.9
-      },
-      {
-        "rank": "2",
-        "person_name": "Roman Druzhinin",
-        "country": "RUS",
-        "power": 355.7,
-        "percent": 23.6
-      },
-      {
-        "rank": "3",
-        "person_name": "Evgeny Gavrilenko",
-        "country": "RUS",
-        "power": 107.5,
-        "percent": 7.1
-      },
-      {
-        "rank": "4",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "power": 393.0,
-        "percent": 26.1
-      },
-      {
-        "rank": "5",
-        "person_name": "Vladlen Valyaev",
-        "country": "RUS",
-        "power": 124.7,
-        "percent": 8.3
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Dmitrii Samoilov",
-        "country": "RUS",
-        "score": 32
-      },
-      {
-        "rank": "2",
-        "person_name": "Roman Druzhinin",
-        "country": "RUS",
-        "score": 30
-      },
-      {
-        "rank": "3",
-        "person_name": "Evgeny Gavrilenko",
-        "country": "RUS",
-        "score": 21
-      },
-      {
-        "rank": "4",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "score": 19.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Vladlen Valyaev",
-        "country": "RUS",
-        "score": 14.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Egor Makarov",
-        "country": "RUS",
-        "score": 13
-      },
-      {
-        "rank": "7",
-        "person_name": "Artem Yuriev",
-        "country": "RUS",
-        "score": 10
-      }
-    ],
-    "difficulty_score": 12.2,
-    "competition_rank": 469
+    "competition_rank": 470
   },
   {
     "contest_id": 2799,
@@ -54525,7 +54613,7 @@
       }
     ],
     "difficulty_score": 11.8,
-    "competition_rank": 470
+    "competition_rank": 471
   },
   {
     "contest_id": 2574,
@@ -54631,7 +54719,7 @@
       }
     ],
     "difficulty_score": 11.4,
-    "competition_rank": 471
+    "competition_rank": 472
   },
   {
     "contest_id": 1329,
@@ -54779,7 +54867,7 @@
       }
     ],
     "difficulty_score": 11.1,
-    "competition_rank": 472
+    "competition_rank": 473
   },
   {
     "contest_id": 1696,
@@ -54790,7 +54878,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 1418.7515269756648,
+    "raw_difficulty": 1416.7368162420387,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -54817,8 +54905,8 @@
         "rank": "4",
         "person_name": "Cim Johansson",
         "country": "SWE",
-        "power": 774.1,
-        "percent": 54.6
+        "power": 772.1,
+        "percent": 54.5
       },
       {
         "rank": "5",
@@ -54897,7 +54985,7 @@
       }
     ],
     "difficulty_score": 11.1,
-    "competition_rank": 473
+    "competition_rank": 474
   },
   {
     "contest_id": 1123,
@@ -55009,7 +55097,7 @@
       }
     ],
     "difficulty_score": 10.8,
-    "competition_rank": 474
+    "competition_rank": 475
   },
   {
     "contest_id": 2583,
@@ -55163,7 +55251,7 @@
       }
     ],
     "difficulty_score": 10.8,
-    "competition_rank": 475
+    "competition_rank": 476
   },
   {
     "contest_id": 1041,
@@ -55287,7 +55375,7 @@
       }
     ],
     "difficulty_score": 10.5,
-    "competition_rank": 476
+    "competition_rank": 477
   },
   {
     "contest_id": 1672,
@@ -55369,7 +55457,7 @@
       }
     ],
     "difficulty_score": 10.5,
-    "competition_rank": 477
+    "competition_rank": 478
   },
   {
     "contest_id": 1739,
@@ -55380,14 +55468,14 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 9,
-    "raw_difficulty": 1365.402039855319,
+    "raw_difficulty": 1359.875218819996,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Robert Cyrwus",
         "country": "POL",
         "power": 722.6,
-        "percent": 52.9
+        "percent": 53.1
       },
       {
         "rank": "2",
@@ -55400,15 +55488,15 @@
         "rank": "3",
         "person_name": "Benjamín Machala",
         "country": "SVK",
-        "power": 172.4,
-        "percent": 12.6
+        "power": 166.9,
+        "percent": 12.3
       },
       {
         "rank": "4",
         "person_name": "Johannes Eichinger",
         "country": "GER",
         "power": 161.2,
-        "percent": 11.8
+        "percent": 11.9
       },
       {
         "rank": "5",
@@ -55474,8 +55562,96 @@
         "score": 0
       }
     ],
-    "difficulty_score": 10.5,
-    "competition_rank": 478
+    "difficulty_score": 10.4,
+    "competition_rank": 479
+  },
+  {
+    "contest_id": 2711,
+    "contest_name": "2026 Moscow Sports Night",
+    "details": "Moscow, Russia, 2026-07-04",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 5.0,
+    "division": "men",
+    "total_competitors": 6,
+    "raw_difficulty": 1351.8416575775832,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "power": 393.6,
+        "percent": 29.1
+      },
+      {
+        "rank": "2",
+        "person_name": "Egor Makarov",
+        "country": "RUS",
+        "power": 283.3,
+        "percent": 21.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Evgeny Konovalov",
+        "country": "RUS",
+        "power": 265.4,
+        "percent": 19.6
+      },
+      {
+        "rank": "4",
+        "person_name": "Boris Kharlamov",
+        "country": "RUS",
+        "power": 215.5,
+        "percent": 15.9
+      },
+      {
+        "rank": "5",
+        "person_name": "Sergei Grechenyuk",
+        "country": "RUS",
+        "power": 194.0,
+        "percent": 14.4
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "score": 25
+      },
+      {
+        "rank": "2",
+        "person_name": "Egor Makarov",
+        "country": "RUS",
+        "score": 24
+      },
+      {
+        "rank": "3",
+        "person_name": "Evgeny Konovalov",
+        "country": "RUS",
+        "score": 22
+      },
+      {
+        "rank": "4",
+        "person_name": "Boris Kharlamov",
+        "country": "RUS",
+        "score": 14
+      },
+      {
+        "rank": "5",
+        "person_name": "Sergei Grechenyuk",
+        "country": "RUS",
+        "score": 12
+      },
+      {
+        "rank": "6",
+        "person_name": "Mikhail Rudavin",
+        "country": "RUS",
+        "score": 7
+      }
+    ],
+    "difficulty_score": 10.4,
+    "competition_rank": 480
   },
   {
     "contest_id": 1896,
@@ -55581,7 +55757,7 @@
       }
     ],
     "difficulty_score": 10.3,
-    "competition_rank": 479
+    "competition_rank": 481
   },
   {
     "contest_id": 2047,
@@ -55699,95 +55875,107 @@
       }
     ],
     "difficulty_score": 10.3,
-    "competition_rank": 480
+    "competition_rank": 482
   },
   {
-    "contest_id": 2711,
-    "contest_name": "2026 Moscow Sports Night",
-    "details": "Moscow, Russia, 2026-07-04",
+    "contest_id": 1723,
+    "contest_name": "2025 Moscow Sports Night",
+    "details": "Moscow, Russia, 2025-07-05",
     "tier": "TIER_5",
     "tier_multiplier": 0.25,
-    "recency_multiplier": 5.0,
+    "recency_multiplier": 3.0,
     "division": "men",
-    "total_competitors": 6,
-    "raw_difficulty": 1325.5727800970933,
+    "total_competitors": 8,
+    "raw_difficulty": 1314.2965040457748,
     "top_5_finishers": [
       {
         "rank": "1",
-        "person_name": "Dmitry Logunov",
+        "person_name": "Ramil Ramazanov",
         "country": "RUS",
-        "power": 393.0,
-        "percent": 29.6
+        "power": 293.3,
+        "percent": 22.3
       },
       {
         "rank": "2",
         "person_name": "Egor Makarov",
         "country": "RUS",
-        "power": 257.7,
-        "percent": 19.4
+        "power": 283.3,
+        "percent": 21.6
       },
       {
         "rank": "3",
-        "person_name": "Evgeny Konovalov",
+        "person_name": "Dmitry Logunov",
         "country": "RUS",
-        "power": 265.4,
-        "percent": 20.0
+        "power": 393.6,
+        "percent": 29.9
       },
       {
         "rank": "4",
         "person_name": "Boris Kharlamov",
         "country": "RUS",
         "power": 215.5,
-        "percent": 16.3
+        "percent": 16.4
       },
       {
         "rank": "5",
-        "person_name": "Sergei Grechenyuk",
+        "person_name": "Artem Yuriev",
         "country": "RUS",
-        "power": 194.0,
-        "percent": 14.6
+        "power": 128.5,
+        "percent": 9.8
       }
     ],
     "results": [
       {
         "rank": "1",
-        "person_name": "Dmitry Logunov",
+        "person_name": "Ramil Ramazanov",
         "country": "RUS",
-        "score": 25
+        "score": 36
       },
       {
         "rank": "2",
         "person_name": "Egor Makarov",
         "country": "RUS",
-        "score": 24
+        "score": 26.5
       },
       {
         "rank": "3",
-        "person_name": "Evgeny Konovalov",
+        "person_name": "Dmitry Logunov",
         "country": "RUS",
-        "score": 22
+        "score": 26
       },
       {
         "rank": "4",
         "person_name": "Boris Kharlamov",
         "country": "RUS",
-        "score": 14
+        "score": 22.5
       },
       {
         "rank": "5",
-        "person_name": "Sergei Grechenyuk",
+        "person_name": "Artem Yuriev",
         "country": "RUS",
-        "score": 12
+        "score": 21
       },
       {
         "rank": "6",
-        "person_name": "Mikhail Rudavin",
+        "person_name": "Roman Druzhinin",
         "country": "RUS",
-        "score": 7
+        "score": 21
+      },
+      {
+        "rank": "7",
+        "person_name": "Evgeny Gavrilenko",
+        "country": "RUS",
+        "score": 14.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Evgeny Klimenko",
+        "country": "RUS",
+        "score": 11.5
       }
     ],
-    "difficulty_score": 10.1,
-    "competition_rank": 481
+    "difficulty_score": 9.9,
+    "competition_rank": 483
   },
   {
     "contest_id": 1955,
@@ -55875,7 +56063,7 @@
       }
     ],
     "difficulty_score": 9.9,
-    "competition_rank": 482
+    "competition_rank": 484
   },
   {
     "contest_id": 2657,
@@ -55975,7 +56163,7 @@
       }
     ],
     "difficulty_score": 9.9,
-    "competition_rank": 483
+    "competition_rank": 485
   },
   {
     "contest_id": 1698,
@@ -56087,107 +56275,7 @@
       }
     ],
     "difficulty_score": 9.6,
-    "competition_rank": 484
-  },
-  {
-    "contest_id": 1723,
-    "contest_name": "2025 Moscow Sports Night",
-    "details": "Moscow, Russia, 2025-07-05",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 3.0,
-    "division": "men",
-    "total_competitors": 8,
-    "raw_difficulty": 1283.0255227533792,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Ramil Ramazanov",
-        "country": "RUS",
-        "power": 288.3,
-        "percent": 22.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Egor Makarov",
-        "country": "RUS",
-        "power": 257.7,
-        "percent": 20.1
-      },
-      {
-        "rank": "3",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "power": 393.0,
-        "percent": 30.6
-      },
-      {
-        "rank": "4",
-        "person_name": "Boris Kharlamov",
-        "country": "RUS",
-        "power": 215.5,
-        "percent": 16.8
-      },
-      {
-        "rank": "5",
-        "person_name": "Artem Yuriev",
-        "country": "RUS",
-        "power": 128.5,
-        "percent": 10.0
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Ramil Ramazanov",
-        "country": "RUS",
-        "score": 36
-      },
-      {
-        "rank": "2",
-        "person_name": "Egor Makarov",
-        "country": "RUS",
-        "score": 26.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Dmitry Logunov",
-        "country": "RUS",
-        "score": 26
-      },
-      {
-        "rank": "4",
-        "person_name": "Boris Kharlamov",
-        "country": "RUS",
-        "score": 22.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Artem Yuriev",
-        "country": "RUS",
-        "score": 21
-      },
-      {
-        "rank": "6",
-        "person_name": "Roman Druzhinin",
-        "country": "RUS",
-        "score": 21
-      },
-      {
-        "rank": "7",
-        "person_name": "Evgeny Gavrilenko",
-        "country": "RUS",
-        "score": 14.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Evgeny Klimenko",
-        "country": "RUS",
-        "score": 11.5
-      }
-    ],
-    "difficulty_score": 9.6,
-    "competition_rank": 485
+    "competition_rank": 486
   },
   {
     "contest_id": 1300,
@@ -56311,7 +56399,7 @@
       }
     ],
     "difficulty_score": 9.5,
-    "competition_rank": 486
+    "competition_rank": 487
   },
   {
     "contest_id": 1544,
@@ -56471,7 +56559,7 @@
       }
     ],
     "difficulty_score": 9.5,
-    "competition_rank": 487
+    "competition_rank": 488
   },
   {
     "contest_id": 1958,
@@ -56625,7 +56713,7 @@
       }
     ],
     "difficulty_score": 9.5,
-    "competition_rank": 488
+    "competition_rank": 489
   },
   {
     "contest_id": 1336,
@@ -56713,7 +56801,7 @@
       }
     ],
     "difficulty_score": 9.4,
-    "competition_rank": 489
+    "competition_rank": 490
   },
   {
     "contest_id": 1499,
@@ -56795,7 +56883,7 @@
       }
     ],
     "difficulty_score": 9.4,
-    "competition_rank": 490
+    "competition_rank": 491
   },
   {
     "contest_id": 2595,
@@ -56913,7 +57001,7 @@
       }
     ],
     "difficulty_score": 9.0,
-    "competition_rank": 491
+    "competition_rank": 492
   },
   {
     "contest_id": 2627,
@@ -57049,7 +57137,7 @@
       }
     ],
     "difficulty_score": 9.0,
-    "competition_rank": 492
+    "competition_rank": 493
   },
   {
     "contest_id": 1157,
@@ -57060,14 +57148,14 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 1211.6113518313734,
+    "raw_difficulty": 1216.613455643279,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Evgeny Markov",
         "country": "RUS",
         "power": 132.0,
-        "percent": 10.9
+        "percent": 10.8
       },
       {
         "rank": "2",
@@ -57080,8 +57168,8 @@
         "rank": "3",
         "person_name": "Ramil Ramazanov",
         "country": "RUS",
-        "power": 288.3,
-        "percent": 23.8
+        "power": 293.3,
+        "percent": 24.1
       },
       {
         "rank": "4",
@@ -57095,7 +57183,7 @@
         "person_name": "Alexander Klokov",
         "country": "RUS",
         "power": 736.0,
-        "percent": 60.7
+        "percent": 60.5
       }
     ],
     "results": [
@@ -57173,7 +57261,7 @@
       }
     ],
     "difficulty_score": 8.8,
-    "competition_rank": 493
+    "competition_rank": 494
   },
   {
     "contest_id": 1237,
@@ -57297,7 +57385,7 @@
       }
     ],
     "difficulty_score": 8.8,
-    "competition_rank": 494
+    "competition_rank": 495
   },
   {
     "contest_id": 2181,
@@ -57391,7 +57479,7 @@
       }
     ],
     "difficulty_score": 8.6,
-    "competition_rank": 495
+    "competition_rank": 496
   },
   {
     "contest_id": 2631,
@@ -57521,7 +57609,7 @@
       }
     ],
     "difficulty_score": 8.6,
-    "competition_rank": 496
+    "competition_rank": 497
   },
   {
     "contest_id": 1376,
@@ -57633,7 +57721,7 @@
       }
     ],
     "difficulty_score": 8.5,
-    "competition_rank": 497
+    "competition_rank": 498
   },
   {
     "contest_id": 1728,
@@ -57745,7 +57833,7 @@
       }
     ],
     "difficulty_score": 8.4,
-    "competition_rank": 498
+    "competition_rank": 499
   },
   {
     "contest_id": 2537,
@@ -57833,7 +57921,7 @@
       }
     ],
     "difficulty_score": 8.4,
-    "competition_rank": 499
+    "competition_rank": 500
   },
   {
     "contest_id": 1393,
@@ -57993,7 +58081,7 @@
       }
     ],
     "difficulty_score": 8.3,
-    "competition_rank": 500
+    "competition_rank": 501
   },
   {
     "contest_id": 2653,
@@ -58087,7 +58175,7 @@
       }
     ],
     "difficulty_score": 8.0,
-    "competition_rank": 501
+    "competition_rank": 502
   },
   {
     "contest_id": 2930,
@@ -58175,7 +58263,7 @@
       }
     ],
     "difficulty_score": 8.0,
-    "competition_rank": 502
+    "competition_rank": 503
   },
   {
     "contest_id": 1504,
@@ -58257,7 +58345,7 @@
       }
     ],
     "difficulty_score": 7.8,
-    "competition_rank": 503
+    "competition_rank": 504
   },
   {
     "contest_id": 1897,
@@ -58369,7 +58457,7 @@
       }
     ],
     "difficulty_score": 7.7,
-    "competition_rank": 504
+    "competition_rank": 505
   },
   {
     "contest_id": 2603,
@@ -58481,7 +58569,7 @@
       }
     ],
     "difficulty_score": 7.7,
-    "competition_rank": 505
+    "competition_rank": 506
   },
   {
     "contest_id": 1351,
@@ -58593,7 +58681,7 @@
       }
     ],
     "difficulty_score": 7.6,
-    "competition_rank": 506
+    "competition_rank": 507
   },
   {
     "contest_id": 1947,
@@ -58681,7 +58769,7 @@
       }
     ],
     "difficulty_score": 7.6,
-    "competition_rank": 507
+    "competition_rank": 508
   },
   {
     "contest_id": 2432,
@@ -58763,7 +58851,7 @@
       }
     ],
     "difficulty_score": 7.5,
-    "competition_rank": 508
+    "competition_rank": 509
   },
   {
     "contest_id": 1853,
@@ -58887,7 +58975,7 @@
       }
     ],
     "difficulty_score": 7.4,
-    "competition_rank": 509
+    "competition_rank": 510
   },
   {
     "contest_id": 2511,
@@ -58981,7 +59069,7 @@
       }
     ],
     "difficulty_score": 7.4,
-    "competition_rank": 510
+    "competition_rank": 511
   },
   {
     "contest_id": 2452,
@@ -59099,7 +59187,7 @@
       }
     ],
     "difficulty_score": 7.3,
-    "competition_rank": 511
+    "competition_rank": 512
   },
   {
     "contest_id": 1413,
@@ -59217,7 +59305,7 @@
       }
     ],
     "difficulty_score": 7.0,
-    "competition_rank": 512
+    "competition_rank": 513
   },
   {
     "contest_id": 1446,
@@ -59317,7 +59405,7 @@
       }
     ],
     "difficulty_score": 6.5,
-    "competition_rank": 513
+    "competition_rank": 514
   },
   {
     "contest_id": 2198,
@@ -59328,13 +59416,13 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 974.4928703322643,
+    "raw_difficulty": 974.4102091115768,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Karolis Aleksandravičius",
         "country": "LTU",
-        "power": 126.6,
+        "power": 126.5,
         "percent": 13.0
       },
       {
@@ -59441,7 +59529,7 @@
       }
     ],
     "difficulty_score": 6.3,
-    "competition_rank": 514
+    "competition_rank": 515
   },
   {
     "contest_id": 2596,
@@ -59559,7 +59647,7 @@
       }
     ],
     "difficulty_score": 6.3,
-    "competition_rank": 515
+    "competition_rank": 516
   },
   {
     "contest_id": 2629,
@@ -59665,7 +59753,7 @@
       }
     ],
     "difficulty_score": 6.3,
-    "competition_rank": 516
+    "competition_rank": 517
   },
   {
     "contest_id": 2838,
@@ -59777,7 +59865,7 @@
       }
     ],
     "difficulty_score": 6.3,
-    "competition_rank": 517
+    "competition_rank": 518
   },
   {
     "contest_id": 1338,
@@ -59901,7 +59989,7 @@
       }
     ],
     "difficulty_score": 6.2,
-    "competition_rank": 518
+    "competition_rank": 519
   },
   {
     "contest_id": 1540,
@@ -60013,7 +60101,7 @@
       }
     ],
     "difficulty_score": 6.2,
-    "competition_rank": 519
+    "competition_rank": 520
   },
   {
     "contest_id": 1740,
@@ -60101,7 +60189,7 @@
       }
     ],
     "difficulty_score": 6.2,
-    "competition_rank": 520
+    "competition_rank": 521
   },
   {
     "contest_id": 2547,
@@ -60219,7 +60307,7 @@
       }
     ],
     "difficulty_score": 6.2,
-    "competition_rank": 521
+    "competition_rank": 522
   },
   {
     "contest_id": 2633,
@@ -60230,42 +60318,42 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 8,
-    "raw_difficulty": 859.9832622693175,
+    "raw_difficulty": 885.6499982150674,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Boris Kharlamov",
         "country": "RUS",
         "power": 215.5,
-        "percent": 25.1
+        "percent": 24.3
       },
       {
         "rank": "2",
         "person_name": "Sergei Grechenyuk",
         "country": "RUS",
         "power": 194.0,
-        "percent": 22.6
+        "percent": 21.9
       },
       {
         "rank": "3",
         "person_name": "Alexander Yuzhakov",
         "country": "RUS",
         "power": 75.8,
-        "percent": 8.8
+        "percent": 8.6
       },
       {
         "rank": "4",
         "person_name": "Pavel Ivashkin",
         "country": "RUS",
         "power": 117.0,
-        "percent": 13.6
+        "percent": 13.2
       },
       {
         "rank": "5",
         "person_name": "Egor Makarov",
         "country": "RUS",
-        "power": 257.7,
-        "percent": 30.0
+        "power": 283.3,
+        "percent": 32.0
       }
     ],
     "results": [
@@ -60318,8 +60406,8 @@
         "score": 11.5
       }
     ],
-    "difficulty_score": 5.3,
-    "competition_rank": 522
+    "difficulty_score": 5.5,
+    "competition_rank": 523
   },
   {
     "contest_id": 1604,
@@ -60330,7 +60418,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 15,
-    "raw_difficulty": 851.5274440391356,
+    "raw_difficulty": 850.8757917511964,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -60344,7 +60432,7 @@
         "person_name": "Reza Gheitasi",
         "country": "IRI",
         "power": 481.4,
-        "percent": 56.5
+        "percent": 56.6
       },
       {
         "rank": "3",
@@ -60357,7 +60445,7 @@
         "rank": "4",
         "person_name": "Juan Ferrer",
         "country": "ESP",
-        "power": 219.2,
+        "power": 218.6,
         "percent": 25.7
       },
       {
@@ -60461,7 +60549,7 @@
       }
     ],
     "difficulty_score": 5.2,
-    "competition_rank": 523
+    "competition_rank": 524
   },
   {
     "contest_id": 2628,
@@ -60567,7 +60655,7 @@
       }
     ],
     "difficulty_score": 5.2,
-    "competition_rank": 524
+    "competition_rank": 525
   },
   {
     "contest_id": 2600,
@@ -60685,7 +60773,7 @@
       }
     ],
     "difficulty_score": 4.9,
-    "competition_rank": 525
+    "competition_rank": 526
   },
   {
     "contest_id": 2597,
@@ -60797,7 +60885,7 @@
       }
     ],
     "difficulty_score": 4.8,
-    "competition_rank": 526
+    "competition_rank": 527
   },
   {
     "contest_id": 2935,
@@ -60891,7 +60979,7 @@
       }
     ],
     "difficulty_score": 4.8,
-    "competition_rank": 527
+    "competition_rank": 528
   },
   {
     "contest_id": 1714,
@@ -60902,42 +60990,42 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 8,
-    "raw_difficulty": 774.2832294126284,
+    "raw_difficulty": 780.7986191984721,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Roman Druzhinin",
         "country": "RUS",
-        "power": 355.7,
-        "percent": 45.9
+        "power": 362.2,
+        "percent": 46.4
       },
       {
         "rank": "2",
         "person_name": "Artem Yuriev",
         "country": "RUS",
         "power": 128.5,
-        "percent": 16.6
+        "percent": 16.5
       },
       {
         "rank": "3",
         "person_name": "Evgeny Klimenko",
         "country": "RUS",
         "power": 56.6,
-        "percent": 7.3
+        "percent": 7.2
       },
       {
         "rank": "4",
         "person_name": "Vladlen Valyaev",
         "country": "RUS",
         "power": 124.7,
-        "percent": 16.1
+        "percent": 16.0
       },
       {
         "rank": "5",
         "person_name": "Mikhail Rudavin",
         "country": "RUS",
         "power": 108.8,
-        "percent": 14.1
+        "percent": 13.9
       }
     ],
     "results": [
@@ -60988,100 +61076,6 @@
         "person_name": "Ilya Lisitskiy",
         "country": "RUS",
         "score": 10
-      }
-    ],
-    "difficulty_score": 4.5,
-    "competition_rank": 528
-  },
-  {
-    "contest_id": 2006,
-    "contest_name": "2024 Bánovský Silák",
-    "details": "Bánovce nad Bebravou, Slovakia, 2024-09-22",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 3.0,
-    "division": "men",
-    "total_competitors": 7,
-    "raw_difficulty": 771.1871015458933,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Benjamín Machala",
-        "country": "SVK",
-        "power": 172.4,
-        "percent": 22.4
-      },
-      {
-        "rank": "2",
-        "person_name": "Patrik Zelezka",
-        "country": "SVK",
-        "power": 173.0,
-        "percent": 22.4
-      },
-      {
-        "rank": "3",
-        "person_name": "Jaroslav Mockovčiak",
-        "country": "SVK",
-        "power": 275.5,
-        "percent": 35.7
-      },
-      {
-        "rank": "4",
-        "person_name": "Jakub Sandtner",
-        "country": "SVK",
-        "power": 122.6,
-        "percent": 15.9
-      },
-      {
-        "rank": "5",
-        "person_name": "Tomáš Osička",
-        "country": "CZE",
-        "power": 27.6,
-        "percent": 3.6
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Benjamín Machala",
-        "country": "SVK",
-        "score": 28
-      },
-      {
-        "rank": "2",
-        "person_name": "Patrik Zelezka",
-        "country": "SVK",
-        "score": 26.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Jaroslav Mockovčiak",
-        "country": "SVK",
-        "score": 26.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Jakub Sandtner",
-        "country": "SVK",
-        "score": 24.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Tomáš Osička",
-        "country": "CZE",
-        "score": 13
-      },
-      {
-        "rank": "6",
-        "person_name": "Adrián Mikel",
-        "country": "SVK",
-        "score": 9
-      },
-      {
-        "rank": "7",
-        "person_name": "Tomasz Małysz",
-        "country": "POL",
-        "score": 5.5
       }
     ],
     "difficulty_score": 4.5,
@@ -61378,6 +61372,100 @@
     "competition_rank": 531
   },
   {
+    "contest_id": 2006,
+    "contest_name": "2024 Bánovský Silák",
+    "details": "Bánovce nad Bebravou, Slovakia, 2024-09-22",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 3.0,
+    "division": "men",
+    "total_competitors": 7,
+    "raw_difficulty": 765.6602805105704,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Benjamín Machala",
+        "country": "SVK",
+        "power": 166.9,
+        "percent": 21.8
+      },
+      {
+        "rank": "2",
+        "person_name": "Patrik Zelezka",
+        "country": "SVK",
+        "power": 173.0,
+        "percent": 22.6
+      },
+      {
+        "rank": "3",
+        "person_name": "Jaroslav Mockovčiak",
+        "country": "SVK",
+        "power": 275.5,
+        "percent": 36.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Jakub Sandtner",
+        "country": "SVK",
+        "power": 122.6,
+        "percent": 16.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Tomáš Osička",
+        "country": "CZE",
+        "power": 27.6,
+        "percent": 3.6
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Benjamín Machala",
+        "country": "SVK",
+        "score": 28
+      },
+      {
+        "rank": "2",
+        "person_name": "Patrik Zelezka",
+        "country": "SVK",
+        "score": 26.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Jaroslav Mockovčiak",
+        "country": "SVK",
+        "score": 26.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Jakub Sandtner",
+        "country": "SVK",
+        "score": 24.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Tomáš Osička",
+        "country": "CZE",
+        "score": 13
+      },
+      {
+        "rank": "6",
+        "person_name": "Adrián Mikel",
+        "country": "SVK",
+        "score": 9
+      },
+      {
+        "rank": "7",
+        "person_name": "Tomasz Małysz",
+        "country": "POL",
+        "score": 5.5
+      }
+    ],
+    "difficulty_score": 4.4,
+    "competition_rank": 532
+  },
+  {
     "contest_id": 2913,
     "contest_name": "2026 Central European Strongman Cup",
     "details": "TrebiÅ¡ov, Slovakia, 2026-08-15",
@@ -61457,7 +61545,7 @@
       }
     ],
     "difficulty_score": 4.3,
-    "competition_rank": 532
+    "competition_rank": 533
   },
   {
     "contest_id": 2419,
@@ -61569,7 +61657,7 @@
       }
     ],
     "difficulty_score": 4.1,
-    "competition_rank": 533
+    "competition_rank": 534
   },
   {
     "contest_id": 2418,
@@ -61693,7 +61781,7 @@
       }
     ],
     "difficulty_score": 3.6,
-    "competition_rank": 534
+    "competition_rank": 535
   },
   {
     "contest_id": 2614,
@@ -61811,7 +61899,7 @@
       }
     ],
     "difficulty_score": 3.5,
-    "competition_rank": 535
+    "competition_rank": 536
   },
   {
     "contest_id": 1898,
@@ -61923,7 +62011,7 @@
       }
     ],
     "difficulty_score": 3.3,
-    "competition_rank": 536
+    "competition_rank": 537
   },
   {
     "contest_id": 2624,
@@ -62017,7 +62105,7 @@
       }
     ],
     "difficulty_score": 3.1,
-    "competition_rank": 537
+    "competition_rank": 538
   },
   {
     "contest_id": 2876,
@@ -62129,7 +62217,7 @@
       }
     ],
     "difficulty_score": 2.9,
-    "competition_rank": 538
+    "competition_rank": 539
   },
   {
     "contest_id": 1881,
@@ -62247,7 +62335,7 @@
       }
     ],
     "difficulty_score": 2.8,
-    "competition_rank": 539
+    "competition_rank": 540
   },
   {
     "contest_id": 1882,
@@ -62258,35 +62346,35 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 561.2936932459332,
+    "raw_difficulty": 551.8698065620606,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Maroš Štefaňák",
         "country": "SVK",
         "power": 32.2,
-        "percent": 5.7
+        "percent": 5.8
       },
       {
         "rank": "2",
         "person_name": "Zsolt Zlatner",
         "country": "SVK",
         "power": 469.8,
-        "percent": 83.7
+        "percent": 85.1
       },
       {
         "rank": "3",
         "person_name": "Tomáš Mašlonka",
         "country": "SVK",
         "power": 17.1,
-        "percent": 3.0
+        "percent": 3.1
       },
       {
         "rank": "4",
         "person_name": "Lukáš Ferjanc",
         "country": "SVK",
-        "power": 29.5,
-        "percent": 5.3
+        "power": 20.1,
+        "percent": 3.6
       },
       {
         "rank": "5",
@@ -62364,8 +62452,8 @@
         "score": 8.5
       }
     ],
-    "difficulty_score": 2.8,
-    "competition_rank": 540
+    "difficulty_score": 2.7,
+    "competition_rank": 541
   },
   {
     "contest_id": 2626,
@@ -62465,7 +62553,7 @@
       }
     ],
     "difficulty_score": 2.3,
-    "competition_rank": 541
+    "competition_rank": 542
   },
   {
     "contest_id": 1390,
@@ -62601,7 +62689,7 @@
       }
     ],
     "difficulty_score": 2.1,
-    "competition_rank": 542
+    "competition_rank": 543
   },
   {
     "contest_id": 1272,
@@ -62725,7 +62813,7 @@
       }
     ],
     "difficulty_score": 2.0,
-    "competition_rank": 543
+    "competition_rank": 544
   },
   {
     "contest_id": 1596,
@@ -62837,7 +62925,7 @@
       }
     ],
     "difficulty_score": 1.5,
-    "competition_rank": 544
+    "competition_rank": 545
   },
   {
     "contest_id": 1674,
@@ -62937,7 +63025,7 @@
       }
     ],
     "difficulty_score": 1.2,
-    "competition_rank": 545
+    "competition_rank": 546
   },
   {
     "contest_id": 1673,
@@ -63025,7 +63113,7 @@
       }
     ],
     "difficulty_score": 1.1,
-    "competition_rank": 546
+    "competition_rank": 547
   },
   {
     "contest_id": 1408,
@@ -63137,7 +63225,7 @@
       }
     ],
     "difficulty_score": 0.9,
-    "competition_rank": 547
+    "competition_rank": 548
   },
   {
     "contest_id": 2619,
@@ -63231,7 +63319,7 @@
       }
     ],
     "difficulty_score": 0.6,
-    "competition_rank": 548
+    "competition_rank": 549
   },
   {
     "contest_id": 2618,
@@ -63331,7 +63419,7 @@
       }
     ],
     "difficulty_score": 0.5,
-    "competition_rank": 549
+    "competition_rank": 550
   },
   {
     "contest_id": 2620,
@@ -63431,7 +63519,7 @@
       }
     ],
     "difficulty_score": 0.5,
-    "competition_rank": 550
+    "competition_rank": 551
   },
   {
     "contest_id": 1125,
@@ -63573,7 +63661,7 @@
       }
     ],
     "difficulty_score": 0.4,
-    "competition_rank": 551
+    "competition_rank": 552
   },
   {
     "contest_id": 1369,
@@ -63679,7 +63767,7 @@
       }
     ],
     "difficulty_score": 0.4,
-    "competition_rank": 552
+    "competition_rank": 553
   },
   {
     "contest_id": 2617,
@@ -63779,7 +63867,7 @@
       }
     ],
     "difficulty_score": 0.4,
-    "competition_rank": 553
+    "competition_rank": 554
   },
   {
     "contest_id": 1238,
@@ -63879,7 +63967,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 554
+    "competition_rank": 555
   },
   {
     "contest_id": 1315,
@@ -63979,7 +64067,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 555
+    "competition_rank": 556
   },
   {
     "contest_id": 2079,
@@ -64037,7 +64125,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 556
+    "competition_rank": 557
   },
   {
     "contest_id": 2336,
@@ -64113,7 +64201,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 557
+    "competition_rank": 558
   },
   {
     "contest_id": 2459,
@@ -64189,7 +64277,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 558
+    "competition_rank": 559
   },
   {
     "contest_id": 2561,
@@ -64241,7 +64329,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 559
+    "competition_rank": 560
   },
   {
     "contest_id": 2755,
@@ -64305,6 +64393,6 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 560
+    "competition_rank": 561
   }
 ]

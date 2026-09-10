@@ -182599,5 +182599,50 @@
         "score": 29.0
       }
     ]
+  },
+  {
+    "contest_id": 2938,
+    "contest_name": "2026 Moscow Sports Night",
+    "details": "Moscow, Russia, 2026-09-05",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2938",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "score": 25.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "score": 20.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Egor Makarov",
+        "country": "RUS",
+        "score": 19.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Roman Druzhinin",
+        "country": "RUS",
+        "score": 19.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "score": 15.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Ramil Ramazanov",
+        "country": "RUS",
+        "score": 4.5
+      }
+    ]
   }
 ]
