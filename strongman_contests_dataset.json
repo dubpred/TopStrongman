@@ -134194,7 +134194,7 @@
     "contest_name": "2026 Giants Live World Tour Finals",
     "details": "Glasgow, Scotland, 2026-10-17",
     "url": "https://strongmanarchives.com/viewContest.php?id=2079",
-    "total_competitors": 7,
+    "total_competitors": 11,
     "results": [
       {
         "rank": "-",
@@ -134212,6 +134212,30 @@
         "rank": "-",
         "person_name": "Ondřej Fojtů",
         "country": "CZE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Matyáš Funiok",
+        "country": "CZE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Pavlo Kordiyaka",
+        "country": "UKR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jack Osborn",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Luke Richardson",
+        "country": "GBR",
         "score": 0.0
       },
       {
