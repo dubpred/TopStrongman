@@ -4944,7 +4944,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 11087.931299900345,
+    "raw_difficulty": 11084.801749673381,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -4978,7 +4978,7 @@
         "rank": "5",
         "person_name": "Ilya Khazov",
         "country": "CYP",
-        "power": 257.0,
+        "power": 253.8,
         "percent": 2.3
       },
       {
@@ -5063,7 +5063,7 @@
         "score": 10
       }
     ],
-    "difficulty_score": 243.3,
+    "difficulty_score": 243.2,
     "competition_rank": 42
   },
   {
@@ -11044,7 +11044,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 7098.099910983365,
+    "raw_difficulty": 7084.84082375497,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -11071,8 +11071,8 @@
         "rank": "4",
         "person_name": "Juan Ferrer",
         "country": "ESP",
-        "power": 218.6,
-        "percent": 3.1
+        "power": 205.3,
+        "percent": 2.9
       },
       {
         "rank": "5",
@@ -11156,7 +11156,7 @@
         "score": 11
       }
     ],
-    "difficulty_score": 124.6,
+    "difficulty_score": 124.3,
     "competition_rank": 92
   },
   {
@@ -13250,7 +13250,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 6067.702421124741,
+    "raw_difficulty": 6054.626405463313,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -13270,15 +13270,15 @@
         "rank": "3",
         "person_name": "Reza Gheitasi",
         "country": "IRI",
-        "power": 481.4,
-        "percent": 7.9
+        "power": 468.3,
+        "percent": 7.7
       },
       {
         "rank": "4",
         "person_name": "Rayno Nel",
         "country": "RSA",
         "power": 4585.2,
-        "percent": 75.6
+        "percent": 75.7
       },
       {
         "rank": "5",
@@ -13356,7 +13356,7 @@
         "score": 6
       }
     ],
-    "difficulty_score": 98.5,
+    "difficulty_score": 98.2,
     "competition_rank": 111
   },
   {
@@ -19674,166 +19674,6 @@
     "competition_rank": 164
   },
   {
-    "contest_id": 1716,
-    "contest_name": "2025 Pahlavon Mahmud Strongman Grand Prix",
-    "details": "Khiva, Uzbekistan, 2025-06-12 to 2025-06-13",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 3.0,
-    "division": "men",
-    "total_competitors": 18,
-    "raw_difficulty": 4652.182080832984,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Reza Gheitasi",
-        "country": "IRI",
-        "power": 481.4,
-        "percent": 10.3
-      },
-      {
-        "rank": "2",
-        "person_name": "Muhammad Ali Tokhtamatov",
-        "country": "UZB",
-        "power": 1145.8,
-        "percent": 24.6
-      },
-      {
-        "rank": "3",
-        "person_name": "Audrius Jokūbaitis",
-        "country": "LTU",
-        "power": 802.6,
-        "percent": 17.3
-      },
-      {
-        "rank": "4",
-        "person_name": "Nikoloz Lekaidze",
-        "country": "GEO",
-        "power": 2169.0,
-        "percent": 46.6
-      },
-      {
-        "rank": "5",
-        "person_name": "Bikram Singh",
-        "country": "IND",
-        "power": 53.4,
-        "percent": 1.1
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Reza Gheitasi",
-        "country": "IRI",
-        "score": 0
-      },
-      {
-        "rank": "2",
-        "person_name": "Muhammad Ali Tokhtamatov",
-        "country": "UZB",
-        "score": 0
-      },
-      {
-        "rank": "3",
-        "person_name": "Audrius Jokūbaitis",
-        "country": "LTU",
-        "score": 0
-      },
-      {
-        "rank": "4",
-        "person_name": "Nikoloz Lekaidze",
-        "country": "GEO",
-        "score": 0
-      },
-      {
-        "rank": "5",
-        "person_name": "Bikram Singh",
-        "country": "IND",
-        "score": 0
-      },
-      {
-        "rank": "6",
-        "person_name": "Aydin Humbatov",
-        "country": "AZE",
-        "score": 0
-      },
-      {
-        "rank": "7",
-        "person_name": "Bradman Houston",
-        "country": "AUS",
-        "score": 0
-      },
-      {
-        "rank": "8",
-        "person_name": "Kári Kristófer Elíasson",
-        "country": "ISL",
-        "score": 0
-      },
-      {
-        "rank": "9",
-        "person_name": "Nooh Dastgir Butt",
-        "country": "PAK",
-        "score": 0
-      },
-      {
-        "rank": "10",
-        "person_name": "Lukáš Svoboda",
-        "country": "CZE",
-        "score": 0
-      },
-      {
-        "rank": "11",
-        "person_name": "Hamed Khallaf",
-        "country": "EGY",
-        "score": 0
-      },
-      {
-        "rank": "12",
-        "person_name": "Kai Chen",
-        "country": "CHN",
-        "score": 0
-      },
-      {
-        "rank": "13",
-        "person_name": "Giannis Papakalas",
-        "country": "GRE",
-        "score": 0
-      },
-      {
-        "rank": "14",
-        "person_name": "Abror Fozilov",
-        "country": "UZB",
-        "score": 0
-      },
-      {
-        "rank": "15",
-        "person_name": "Iskhokzhon Shamuratov",
-        "country": "KYR",
-        "score": 0
-      },
-      {
-        "rank": "17",
-        "person_name": "Arif Khalil",
-        "country": "MAS",
-        "score": 0
-      },
-      {
-        "rank": "17",
-        "person_name": "Sadrettin Özbahçeci",
-        "country": "TUR",
-        "score": 0
-      },
-      {
-        "rank": "18",
-        "person_name": "Navruz Arabov",
-        "country": "TJK",
-        "score": 0
-      }
-    ],
-    "difficulty_score": 66.1,
-    "competition_rank": 165
-  },
-  {
     "contest_id": 1822,
     "contest_name": "2025 Irish Strength Cup",
     "details": "Claregalway, Ireland, 2025-07-19",
@@ -19949,7 +19789,7 @@
       }
     ],
     "difficulty_score": 66.1,
-    "competition_rank": 166
+    "competition_rank": 165
   },
   {
     "contest_id": 1951,
@@ -20067,6 +19907,166 @@
       }
     ],
     "difficulty_score": 65.9,
+    "competition_rank": 166
+  },
+  {
+    "contest_id": 1716,
+    "contest_name": "2025 Pahlavon Mahmud Strongman Grand Prix",
+    "details": "Khiva, Uzbekistan, 2025-06-12 to 2025-06-13",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 3.0,
+    "division": "men",
+    "total_competitors": 18,
+    "raw_difficulty": 4639.106065171556,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Reza Gheitasi",
+        "country": "IRI",
+        "power": 468.3,
+        "percent": 10.1
+      },
+      {
+        "rank": "2",
+        "person_name": "Muhammad Ali Tokhtamatov",
+        "country": "UZB",
+        "power": 1145.8,
+        "percent": 24.7
+      },
+      {
+        "rank": "3",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "power": 802.6,
+        "percent": 17.3
+      },
+      {
+        "rank": "4",
+        "person_name": "Nikoloz Lekaidze",
+        "country": "GEO",
+        "power": 2169.0,
+        "percent": 46.8
+      },
+      {
+        "rank": "5",
+        "person_name": "Bikram Singh",
+        "country": "IND",
+        "power": 53.4,
+        "percent": 1.2
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Reza Gheitasi",
+        "country": "IRI",
+        "score": 0
+      },
+      {
+        "rank": "2",
+        "person_name": "Muhammad Ali Tokhtamatov",
+        "country": "UZB",
+        "score": 0
+      },
+      {
+        "rank": "3",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "score": 0
+      },
+      {
+        "rank": "4",
+        "person_name": "Nikoloz Lekaidze",
+        "country": "GEO",
+        "score": 0
+      },
+      {
+        "rank": "5",
+        "person_name": "Bikram Singh",
+        "country": "IND",
+        "score": 0
+      },
+      {
+        "rank": "6",
+        "person_name": "Aydin Humbatov",
+        "country": "AZE",
+        "score": 0
+      },
+      {
+        "rank": "7",
+        "person_name": "Bradman Houston",
+        "country": "AUS",
+        "score": 0
+      },
+      {
+        "rank": "8",
+        "person_name": "Kári Kristófer Elíasson",
+        "country": "ISL",
+        "score": 0
+      },
+      {
+        "rank": "9",
+        "person_name": "Nooh Dastgir Butt",
+        "country": "PAK",
+        "score": 0
+      },
+      {
+        "rank": "10",
+        "person_name": "Lukáš Svoboda",
+        "country": "CZE",
+        "score": 0
+      },
+      {
+        "rank": "11",
+        "person_name": "Hamed Khallaf",
+        "country": "EGY",
+        "score": 0
+      },
+      {
+        "rank": "12",
+        "person_name": "Kai Chen",
+        "country": "CHN",
+        "score": 0
+      },
+      {
+        "rank": "13",
+        "person_name": "Giannis Papakalas",
+        "country": "GRE",
+        "score": 0
+      },
+      {
+        "rank": "14",
+        "person_name": "Abror Fozilov",
+        "country": "UZB",
+        "score": 0
+      },
+      {
+        "rank": "15",
+        "person_name": "Iskhokzhon Shamuratov",
+        "country": "KYR",
+        "score": 0
+      },
+      {
+        "rank": "17",
+        "person_name": "Arif Khalil",
+        "country": "MAS",
+        "score": 0
+      },
+      {
+        "rank": "17",
+        "person_name": "Sadrettin Özbahçeci",
+        "country": "TUR",
+        "score": 0
+      },
+      {
+        "rank": "18",
+        "person_name": "Navruz Arabov",
+        "country": "TJK",
+        "score": 0
+      }
+    ],
+    "difficulty_score": 65.8,
     "competition_rank": 167
   },
   {
@@ -24808,6 +24808,118 @@
     "competition_rank": 207
   },
   {
+    "contest_id": 1605,
+    "contest_name": "2024 European Strongman Cup",
+    "details": "Panevėžys, Lithuania, 2024-09-08",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 1.0,
+    "division": "men",
+    "total_competitors": 10,
+    "raw_difficulty": 3942.179460907293,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Roman Grekov",
+        "country": "UKR",
+        "power": 201.6,
+        "percent": 5.1
+      },
+      {
+        "rank": "2",
+        "person_name": "Modestas Struckus",
+        "country": "LTU",
+        "power": 1011.1,
+        "percent": 25.6
+      },
+      {
+        "rank": "3",
+        "person_name": "Tomas Šliupas",
+        "country": "LTU",
+        "power": 1223.2,
+        "percent": 31.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Cim Johansson",
+        "country": "SWE",
+        "power": 772.1,
+        "percent": 19.6
+      },
+      {
+        "rank": "5",
+        "person_name": "Anders Aslak",
+        "country": "DEN",
+        "power": 734.2,
+        "percent": 18.6
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Roman Grekov",
+        "country": "UKR",
+        "score": 51.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Modestas Struckus",
+        "country": "LTU",
+        "score": 50.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Tomas Šliupas",
+        "country": "LTU",
+        "score": 41
+      },
+      {
+        "rank": "4",
+        "person_name": "Cim Johansson",
+        "country": "SWE",
+        "score": 36
+      },
+      {
+        "rank": "5",
+        "person_name": "Anders Aslak",
+        "country": "DEN",
+        "score": 30
+      },
+      {
+        "rank": "6",
+        "person_name": "Saulius Skikas",
+        "country": "LTU",
+        "score": 29
+      },
+      {
+        "rank": "7",
+        "person_name": "Niko Voutilainen",
+        "country": "FIN",
+        "score": 28
+      },
+      {
+        "rank": "8",
+        "person_name": "Lukas Mataitis",
+        "country": "LTU",
+        "score": 25
+      },
+      {
+        "rank": "9",
+        "person_name": "Maximilian Eckhardt",
+        "country": "SWE",
+        "score": 21
+      },
+      {
+        "rank": "10",
+        "person_name": "Vytenis Pauža",
+        "country": "LTU",
+        "score": 17
+      }
+    ],
+    "difficulty_score": 51.6,
+    "competition_rank": 208
+  },
+  {
     "contest_id": 2358,
     "contest_name": "2026 Pahlavon Mahmud Strongman Grand Prix",
     "details": "Khiva, Uzbekistan, 2026-06-12 to 2026-06-14",
@@ -24816,14 +24928,14 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 19,
-    "raw_difficulty": 3948.684391840176,
+    "raw_difficulty": 3935.6083761787477,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Muhammad Ali Tokhtamatov",
         "country": "UZB",
         "power": 1145.8,
-        "percent": 29.0
+        "percent": 29.1
       },
       {
         "rank": "2",
@@ -24837,14 +24949,14 @@
         "person_name": "Vilius Jokužys",
         "country": "LTU",
         "power": 1504.4,
-        "percent": 38.1
+        "percent": 38.2
       },
       {
         "rank": "4",
         "person_name": "Reza Gheitasi",
         "country": "IRI",
-        "power": 481.4,
-        "percent": 12.2
+        "power": 468.3,
+        "percent": 11.9
       },
       {
         "rank": "5",
@@ -24970,119 +25082,7 @@
         "score": 11
       }
     ],
-    "difficulty_score": 51.7,
-    "competition_rank": 208
-  },
-  {
-    "contest_id": 1605,
-    "contest_name": "2024 European Strongman Cup",
-    "details": "Panevėžys, Lithuania, 2024-09-08",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 1.0,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 3942.179460907293,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Roman Grekov",
-        "country": "UKR",
-        "power": 201.6,
-        "percent": 5.1
-      },
-      {
-        "rank": "2",
-        "person_name": "Modestas Struckus",
-        "country": "LTU",
-        "power": 1011.1,
-        "percent": 25.6
-      },
-      {
-        "rank": "3",
-        "person_name": "Tomas Šliupas",
-        "country": "LTU",
-        "power": 1223.2,
-        "percent": 31.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Cim Johansson",
-        "country": "SWE",
-        "power": 772.1,
-        "percent": 19.6
-      },
-      {
-        "rank": "5",
-        "person_name": "Anders Aslak",
-        "country": "DEN",
-        "power": 734.2,
-        "percent": 18.6
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Roman Grekov",
-        "country": "UKR",
-        "score": 51.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Modestas Struckus",
-        "country": "LTU",
-        "score": 50.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Tomas Šliupas",
-        "country": "LTU",
-        "score": 41
-      },
-      {
-        "rank": "4",
-        "person_name": "Cim Johansson",
-        "country": "SWE",
-        "score": 36
-      },
-      {
-        "rank": "5",
-        "person_name": "Anders Aslak",
-        "country": "DEN",
-        "score": 30
-      },
-      {
-        "rank": "6",
-        "person_name": "Saulius Skikas",
-        "country": "LTU",
-        "score": 29
-      },
-      {
-        "rank": "7",
-        "person_name": "Niko Voutilainen",
-        "country": "FIN",
-        "score": 28
-      },
-      {
-        "rank": "8",
-        "person_name": "Lukas Mataitis",
-        "country": "LTU",
-        "score": 25
-      },
-      {
-        "rank": "9",
-        "person_name": "Maximilian Eckhardt",
-        "country": "SWE",
-        "score": 21
-      },
-      {
-        "rank": "10",
-        "person_name": "Vytenis Pauža",
-        "country": "LTU",
-        "score": 17
-      }
-    ],
-    "difficulty_score": 51.6,
+    "difficulty_score": 51.4,
     "competition_rank": 209
   },
   {
@@ -26348,160 +26348,6 @@
     "competition_rank": 220
   },
   {
-    "contest_id": 1120,
-    "contest_name": "2021 Middle East's Strongest Man",
-    "details": "Dubai, United Arab Emirates, 2021-10-02",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 17,
-    "raw_difficulty": 3822.293460864075,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Evgeny Markov",
-        "country": "RUS",
-        "power": 132.0,
-        "percent": 3.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Pavlo Kordiyaka",
-        "country": "UKR",
-        "power": 2872.5,
-        "percent": 75.2
-      },
-      {
-        "rank": "3",
-        "person_name": "Mohammad Reza Tazehroo",
-        "country": "IRI",
-        "power": 180.4,
-        "percent": 4.7
-      },
-      {
-        "rank": "4",
-        "person_name": "Reza Gheitasi",
-        "country": "IRI",
-        "power": 481.4,
-        "percent": 12.6
-      },
-      {
-        "rank": "5",
-        "person_name": "Hossein Hosseinzadeh",
-        "country": "IRI",
-        "power": 156.0,
-        "percent": 4.1
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Evgeny Markov",
-        "country": "RUS",
-        "score": 79
-      },
-      {
-        "rank": "2",
-        "person_name": "Pavlo Kordiyaka",
-        "country": "UKR",
-        "score": 70
-      },
-      {
-        "rank": "3",
-        "person_name": "Mohammad Reza Tazehroo",
-        "country": "IRI",
-        "score": 67
-      },
-      {
-        "rank": "4",
-        "person_name": "Reza Gheitasi",
-        "country": "IRI",
-        "score": 63.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Hossein Hosseinzadeh",
-        "country": "IRI",
-        "score": 61
-      },
-      {
-        "rank": "6",
-        "person_name": "Pavlo Nakonechnyy",
-        "country": "UKR",
-        "score": 56
-      },
-      {
-        "rank": "7",
-        "person_name": "Mohsen Masnabadi",
-        "country": "IRI",
-        "score": 53
-      },
-      {
-        "rank": "8",
-        "person_name": "Ebrahim Hassani",
-        "country": "IRI",
-        "score": 45
-      },
-      {
-        "rank": "9",
-        "person_name": "Ilya Khazov",
-        "country": "CYP",
-        "score": 43
-      },
-      {
-        "rank": "10",
-        "person_name": "Ben Williams",
-        "country": "GBR",
-        "score": 42.5
-      },
-      {
-        "rank": "11",
-        "person_name": "Salem Herzallah",
-        "country": "PLE",
-        "score": 38
-      },
-      {
-        "rank": "12",
-        "person_name": "Aref Ahmadi",
-        "country": "IRI",
-        "score": 36
-      },
-      {
-        "rank": "13",
-        "person_name": "Salman Salem",
-        "country": "BRN",
-        "score": 34.5
-      },
-      {
-        "rank": "14",
-        "person_name": "Dale MacPherson",
-        "country": "GBR",
-        "score": 24.5
-      },
-      {
-        "rank": "15",
-        "person_name": "Jerome Pever",
-        "country": "NGR",
-        "score": 21
-      },
-      {
-        "rank": "16",
-        "person_name": "Mahdi Khayati",
-        "country": "UAE",
-        "score": 10
-      },
-      {
-        "rank": "17",
-        "person_name": "Alireza Babasheykhali",
-        "country": "IRI",
-        "score": 8
-      }
-    ],
-    "difficulty_score": 49.2,
-    "competition_rank": 221
-  },
-  {
     "contest_id": 2606,
     "contest_name": "2024 Lietuvos galiūnų čempionato",
     "details": "Anykščiai, Lithuania, 2024-05-18",
@@ -26617,6 +26463,160 @@
       }
     ],
     "difficulty_score": 49.1,
+    "competition_rank": 221
+  },
+  {
+    "contest_id": 1120,
+    "contest_name": "2021 Middle East's Strongest Man",
+    "details": "Dubai, United Arab Emirates, 2021-10-02",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 0.25,
+    "division": "men",
+    "total_competitors": 17,
+    "raw_difficulty": 3809.217445202647,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Evgeny Markov",
+        "country": "RUS",
+        "power": 132.0,
+        "percent": 3.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Pavlo Kordiyaka",
+        "country": "UKR",
+        "power": 2872.5,
+        "percent": 75.4
+      },
+      {
+        "rank": "3",
+        "person_name": "Mohammad Reza Tazehroo",
+        "country": "IRI",
+        "power": 180.4,
+        "percent": 4.7
+      },
+      {
+        "rank": "4",
+        "person_name": "Reza Gheitasi",
+        "country": "IRI",
+        "power": 468.3,
+        "percent": 12.3
+      },
+      {
+        "rank": "5",
+        "person_name": "Hossein Hosseinzadeh",
+        "country": "IRI",
+        "power": 156.0,
+        "percent": 4.1
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Evgeny Markov",
+        "country": "RUS",
+        "score": 79
+      },
+      {
+        "rank": "2",
+        "person_name": "Pavlo Kordiyaka",
+        "country": "UKR",
+        "score": 70
+      },
+      {
+        "rank": "3",
+        "person_name": "Mohammad Reza Tazehroo",
+        "country": "IRI",
+        "score": 67
+      },
+      {
+        "rank": "4",
+        "person_name": "Reza Gheitasi",
+        "country": "IRI",
+        "score": 63.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Hossein Hosseinzadeh",
+        "country": "IRI",
+        "score": 61
+      },
+      {
+        "rank": "6",
+        "person_name": "Pavlo Nakonechnyy",
+        "country": "UKR",
+        "score": 56
+      },
+      {
+        "rank": "7",
+        "person_name": "Mohsen Masnabadi",
+        "country": "IRI",
+        "score": 53
+      },
+      {
+        "rank": "8",
+        "person_name": "Ebrahim Hassani",
+        "country": "IRI",
+        "score": 45
+      },
+      {
+        "rank": "9",
+        "person_name": "Ilya Khazov",
+        "country": "CYP",
+        "score": 43
+      },
+      {
+        "rank": "10",
+        "person_name": "Ben Williams",
+        "country": "GBR",
+        "score": 42.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Salem Herzallah",
+        "country": "PLE",
+        "score": 38
+      },
+      {
+        "rank": "12",
+        "person_name": "Aref Ahmadi",
+        "country": "IRI",
+        "score": 36
+      },
+      {
+        "rank": "13",
+        "person_name": "Salman Salem",
+        "country": "BRN",
+        "score": 34.5
+      },
+      {
+        "rank": "14",
+        "person_name": "Dale MacPherson",
+        "country": "GBR",
+        "score": 24.5
+      },
+      {
+        "rank": "15",
+        "person_name": "Jerome Pever",
+        "country": "NGR",
+        "score": 21
+      },
+      {
+        "rank": "16",
+        "person_name": "Mahdi Khayati",
+        "country": "UAE",
+        "score": 10
+      },
+      {
+        "rank": "17",
+        "person_name": "Alireza Babasheykhali",
+        "country": "IRI",
+        "score": 8
+      }
+    ],
+    "difficulty_score": 49.0,
     "competition_rank": 222
   },
   {
@@ -28702,21 +28702,21 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 17,
-    "raw_difficulty": 3634.6982935936226,
+    "raw_difficulty": 3621.6222779321947,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Reza Gheitasi",
         "country": "IRI",
-        "power": 481.4,
-        "percent": 13.2
+        "power": 468.3,
+        "percent": 12.9
       },
       {
         "rank": "2",
         "person_name": "Audrius Jokūbaitis",
         "country": "LTU",
         "power": 802.6,
-        "percent": 22.1
+        "percent": 22.2
       },
       {
         "rank": "3",
@@ -28730,14 +28730,14 @@
         "person_name": "Vilius Jokužys",
         "country": "ISL",
         "power": 1504.4,
-        "percent": 41.4
+        "percent": 41.5
       },
       {
         "rank": "5",
         "person_name": "Didzis Zariņš",
         "country": "LAT",
         "power": 574.8,
-        "percent": 15.8
+        "percent": 15.9
       }
     ],
     "results": [
@@ -28844,7 +28844,7 @@
         "score": 0
       }
     ],
-    "difficulty_score": 45.7,
+    "difficulty_score": 45.4,
     "competition_rank": 242
   },
   {
@@ -32174,124 +32174,6 @@
     "competition_rank": 271
   },
   {
-    "contest_id": 1697,
-    "contest_name": "2025 Persian Gulf Iron Man",
-    "details": "Kish Island, Iran, 2025-03-01 to 2025-03-02",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 3.0,
-    "division": "men",
-    "total_competitors": 11,
-    "raw_difficulty": 3262.030966040773,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Ramin Farajnejad",
-        "country": "IRI",
-        "power": 429.5,
-        "percent": 13.2
-      },
-      {
-        "rank": "2",
-        "person_name": "Reza Gheitasi",
-        "country": "IRI",
-        "power": 481.4,
-        "percent": 14.8
-      },
-      {
-        "rank": "3",
-        "person_name": "Mohammad Reza Tazehroo",
-        "country": "IRI",
-        "power": 180.4,
-        "percent": 5.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Malek Jafari",
-        "country": "IRI",
-        "power": 218.5,
-        "percent": 6.7
-      },
-      {
-        "rank": "5",
-        "person_name": "Tristain Hoath",
-        "country": "CAN",
-        "power": 1952.2,
-        "percent": 59.8
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Ramin Farajnejad",
-        "country": "IRI",
-        "score": 69
-      },
-      {
-        "rank": "2",
-        "person_name": "Reza Gheitasi",
-        "country": "IRI",
-        "score": 67
-      },
-      {
-        "rank": "3",
-        "person_name": "Mohammad Reza Tazehroo",
-        "country": "IRI",
-        "score": 58
-      },
-      {
-        "rank": "4",
-        "person_name": "Malek Jafari",
-        "country": "IRI",
-        "score": 53
-      },
-      {
-        "rank": "5",
-        "person_name": "Tristain Hoath",
-        "country": "CAN",
-        "score": 50
-      },
-      {
-        "rank": "6",
-        "person_name": "Ali Fazeli",
-        "country": "IRI",
-        "score": 43
-      },
-      {
-        "rank": "7",
-        "person_name": "Valery Savin",
-        "country": "RUS",
-        "score": 40
-      },
-      {
-        "rank": "8",
-        "person_name": "Alexander Kurak",
-        "country": "BLR",
-        "score": 28
-      },
-      {
-        "rank": "9",
-        "person_name": "Alexander Shpanov",
-        "country": "RUS",
-        "score": 20
-      },
-      {
-        "rank": "10",
-        "person_name": "Matthew Riddall",
-        "country": "ESP",
-        "score": 12
-      },
-      {
-        "rank": "11",
-        "person_name": "Behruz Iranshahi",
-        "country": "IRI",
-        "score": 10
-      }
-    ],
-    "difficulty_score": 38.8,
-    "competition_rank": 272
-  },
-  {
     "contest_id": 1345,
     "contest_name": "2022 Marijampolė International",
     "details": "Marijampolė, Lithuania, 2022-08-20",
@@ -32401,7 +32283,7 @@
       }
     ],
     "difficulty_score": 38.7,
-    "competition_rank": 273
+    "competition_rank": 272
   },
   {
     "contest_id": 1278,
@@ -32492,6 +32374,124 @@
         "person_name": "Corey Polkinghorne",
         "country": "AUS",
         "score": 11.5
+      }
+    ],
+    "difficulty_score": 38.6,
+    "competition_rank": 273
+  },
+  {
+    "contest_id": 1697,
+    "contest_name": "2025 Persian Gulf Iron Man",
+    "details": "Kish Island, Iran, 2025-03-01 to 2025-03-02",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 3.0,
+    "division": "men",
+    "total_competitors": 11,
+    "raw_difficulty": 3248.9549503793446,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Ramin Farajnejad",
+        "country": "IRI",
+        "power": 429.5,
+        "percent": 13.2
+      },
+      {
+        "rank": "2",
+        "person_name": "Reza Gheitasi",
+        "country": "IRI",
+        "power": 468.3,
+        "percent": 14.4
+      },
+      {
+        "rank": "3",
+        "person_name": "Mohammad Reza Tazehroo",
+        "country": "IRI",
+        "power": 180.4,
+        "percent": 5.6
+      },
+      {
+        "rank": "4",
+        "person_name": "Malek Jafari",
+        "country": "IRI",
+        "power": 218.5,
+        "percent": 6.7
+      },
+      {
+        "rank": "5",
+        "person_name": "Tristain Hoath",
+        "country": "CAN",
+        "power": 1952.2,
+        "percent": 60.1
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Ramin Farajnejad",
+        "country": "IRI",
+        "score": 69
+      },
+      {
+        "rank": "2",
+        "person_name": "Reza Gheitasi",
+        "country": "IRI",
+        "score": 67
+      },
+      {
+        "rank": "3",
+        "person_name": "Mohammad Reza Tazehroo",
+        "country": "IRI",
+        "score": 58
+      },
+      {
+        "rank": "4",
+        "person_name": "Malek Jafari",
+        "country": "IRI",
+        "score": 53
+      },
+      {
+        "rank": "5",
+        "person_name": "Tristain Hoath",
+        "country": "CAN",
+        "score": 50
+      },
+      {
+        "rank": "6",
+        "person_name": "Ali Fazeli",
+        "country": "IRI",
+        "score": 43
+      },
+      {
+        "rank": "7",
+        "person_name": "Valery Savin",
+        "country": "RUS",
+        "score": 40
+      },
+      {
+        "rank": "8",
+        "person_name": "Alexander Kurak",
+        "country": "BLR",
+        "score": 28
+      },
+      {
+        "rank": "9",
+        "person_name": "Alexander Shpanov",
+        "country": "RUS",
+        "score": 20
+      },
+      {
+        "rank": "10",
+        "person_name": "Matthew Riddall",
+        "country": "ESP",
+        "score": 12
+      },
+      {
+        "rank": "11",
+        "person_name": "Behruz Iranshahi",
+        "country": "IRI",
+        "score": 10
       }
     ],
     "difficulty_score": 38.6,
@@ -37066,148 +37066,6 @@
     "competition_rank": 315
   },
   {
-    "contest_id": 1539,
-    "contest_name": "2024 Pahlavon Mahmud Strongman Grand Prix",
-    "details": "Khiva, Uzbekistan, 2024-06-01 to 2024-06-02",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 1.0,
-    "division": "men",
-    "total_competitors": 15,
-    "raw_difficulty": 2910.4949073347766,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Reza Gheitasi",
-        "country": "IRI",
-        "power": 481.4,
-        "percent": 16.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Muhammad Ali Tokhtamatov",
-        "country": "KYR",
-        "power": 1145.8,
-        "percent": 39.4
-      },
-      {
-        "rank": "3",
-        "person_name": "Modestas Struckus",
-        "country": "LTU",
-        "power": 1011.1,
-        "percent": 34.7
-      },
-      {
-        "rank": "4",
-        "person_name": "Andy Black",
-        "country": "GBR",
-        "power": 106.0,
-        "percent": 3.6
-      },
-      {
-        "rank": "5",
-        "person_name": "Macauley Tinker",
-        "country": "AUS",
-        "power": 166.2,
-        "percent": 5.7
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Reza Gheitasi",
-        "country": "IRI",
-        "score": 0
-      },
-      {
-        "rank": "2",
-        "person_name": "Muhammad Ali Tokhtamatov",
-        "country": "KYR",
-        "score": 0
-      },
-      {
-        "rank": "3",
-        "person_name": "Modestas Struckus",
-        "country": "LTU",
-        "score": 0
-      },
-      {
-        "rank": "4",
-        "person_name": "Andy Black",
-        "country": "GBR",
-        "score": 0
-      },
-      {
-        "rank": "5",
-        "person_name": "Macauley Tinker",
-        "country": "AUS",
-        "score": 0
-      },
-      {
-        "rank": "6",
-        "person_name": "Rongo Keene",
-        "country": "AUS",
-        "score": 0
-      },
-      {
-        "rank": "7",
-        "person_name": "Māris Krievelis",
-        "country": "LAT",
-        "score": 0
-      },
-      {
-        "rank": "8",
-        "person_name": "Lukáš Svoboda",
-        "country": "CZE",
-        "score": 0
-      },
-      {
-        "rank": "9",
-        "person_name": "Sherzodbek Gaynazarov",
-        "country": "UZB",
-        "score": 0
-      },
-      {
-        "rank": "10",
-        "person_name": "Sadrettin Özbahçeci",
-        "country": "TUR",
-        "score": 0
-      },
-      {
-        "rank": "11",
-        "person_name": "Nooh Dastgir Butt",
-        "country": "PAK",
-        "score": 0
-      },
-      {
-        "rank": "12",
-        "person_name": "Yateesh Katoch",
-        "country": "IND",
-        "score": 0
-      },
-      {
-        "rank": "13",
-        "person_name": "Emad Ali",
-        "country": "BRN",
-        "score": 0
-      },
-      {
-        "rank": "14",
-        "person_name": "Arsen Ulfanov",
-        "country": "KAZ",
-        "score": 0
-      },
-      {
-        "rank": "15",
-        "person_name": "Navruz Arabov",
-        "country": "TJK",
-        "score": 0
-      }
-    ],
-    "difficulty_score": 32.7,
-    "competition_rank": 316
-  },
-  {
     "contest_id": 2655,
     "contest_name": "2026 Strongest Man in the Netherlands",
     "details": "Bolsward, Netherlands, 2026-07-12",
@@ -37329,7 +37187,7 @@
       }
     ],
     "difficulty_score": 32.7,
-    "competition_rank": 317
+    "competition_rank": 316
   },
   {
     "contest_id": 2492,
@@ -37441,7 +37299,7 @@
       }
     ],
     "difficulty_score": 32.6,
-    "competition_rank": 318
+    "competition_rank": 317
   },
   {
     "contest_id": 1311,
@@ -37562,6 +37420,148 @@
         "person_name": "Bora Güner",
         "country": "TUR",
         "score": 12
+      }
+    ],
+    "difficulty_score": 32.5,
+    "competition_rank": 318
+  },
+  {
+    "contest_id": 1539,
+    "contest_name": "2024 Pahlavon Mahmud Strongman Grand Prix",
+    "details": "Khiva, Uzbekistan, 2024-06-01 to 2024-06-02",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 1.0,
+    "division": "men",
+    "total_competitors": 15,
+    "raw_difficulty": 2897.4188916733488,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Reza Gheitasi",
+        "country": "IRI",
+        "power": 468.3,
+        "percent": 16.2
+      },
+      {
+        "rank": "2",
+        "person_name": "Muhammad Ali Tokhtamatov",
+        "country": "KYR",
+        "power": 1145.8,
+        "percent": 39.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Modestas Struckus",
+        "country": "LTU",
+        "power": 1011.1,
+        "percent": 34.9
+      },
+      {
+        "rank": "4",
+        "person_name": "Andy Black",
+        "country": "GBR",
+        "power": 106.0,
+        "percent": 3.7
+      },
+      {
+        "rank": "5",
+        "person_name": "Macauley Tinker",
+        "country": "AUS",
+        "power": 166.2,
+        "percent": 5.7
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Reza Gheitasi",
+        "country": "IRI",
+        "score": 0
+      },
+      {
+        "rank": "2",
+        "person_name": "Muhammad Ali Tokhtamatov",
+        "country": "KYR",
+        "score": 0
+      },
+      {
+        "rank": "3",
+        "person_name": "Modestas Struckus",
+        "country": "LTU",
+        "score": 0
+      },
+      {
+        "rank": "4",
+        "person_name": "Andy Black",
+        "country": "GBR",
+        "score": 0
+      },
+      {
+        "rank": "5",
+        "person_name": "Macauley Tinker",
+        "country": "AUS",
+        "score": 0
+      },
+      {
+        "rank": "6",
+        "person_name": "Rongo Keene",
+        "country": "AUS",
+        "score": 0
+      },
+      {
+        "rank": "7",
+        "person_name": "Māris Krievelis",
+        "country": "LAT",
+        "score": 0
+      },
+      {
+        "rank": "8",
+        "person_name": "Lukáš Svoboda",
+        "country": "CZE",
+        "score": 0
+      },
+      {
+        "rank": "9",
+        "person_name": "Sherzodbek Gaynazarov",
+        "country": "UZB",
+        "score": 0
+      },
+      {
+        "rank": "10",
+        "person_name": "Sadrettin Özbahçeci",
+        "country": "TUR",
+        "score": 0
+      },
+      {
+        "rank": "11",
+        "person_name": "Nooh Dastgir Butt",
+        "country": "PAK",
+        "score": 0
+      },
+      {
+        "rank": "12",
+        "person_name": "Yateesh Katoch",
+        "country": "IND",
+        "score": 0
+      },
+      {
+        "rank": "13",
+        "person_name": "Emad Ali",
+        "country": "BRN",
+        "score": 0
+      },
+      {
+        "rank": "14",
+        "person_name": "Arsen Ulfanov",
+        "country": "KAZ",
+        "score": 0
+      },
+      {
+        "rank": "15",
+        "person_name": "Navruz Arabov",
+        "country": "TJK",
+        "score": 0
       }
     ],
     "difficulty_score": 32.5,
@@ -40388,21 +40388,21 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 2659.416220270464,
+    "raw_difficulty": 2656.286670043499,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Dennis Kohlruss",
         "country": "GER",
         "power": 856.9,
-        "percent": 32.2
+        "percent": 32.3
       },
       {
         "rank": "2",
         "person_name": "Ilya Khazov",
         "country": "CYP",
-        "power": 257.0,
-        "percent": 9.7
+        "power": 253.8,
+        "percent": 9.6
       },
       {
         "rank": "3",
@@ -40488,7 +40488,7 @@
         "score": 52
       }
     ],
-    "difficulty_score": 28.6,
+    "difficulty_score": 28.5,
     "competition_rank": 345
   },
   {
@@ -51334,124 +51334,6 @@
     "competition_rank": 441
   },
   {
-    "contest_id": 1396,
-    "contest_name": "2023 Siberian Power Show",
-    "details": "Krasnoyarsk, Russia, 2023-04-01 to 2023-04-02",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 0.5,
-    "division": "men",
-    "total_competitors": 11,
-    "raw_difficulty": 1803.1293817716175,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Dmitrii Skosyrskii",
-        "country": "RUS",
-        "power": 469.7,
-        "percent": 26.0
-      },
-      {
-        "rank": "2",
-        "person_name": "David Shamey",
-        "country": "RUS",
-        "power": 802.2,
-        "percent": 44.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Peiman Maheripourehir",
-        "country": "IRI",
-        "power": 7.6,
-        "percent": 0.4
-      },
-      {
-        "rank": "4",
-        "person_name": "Vladimir Bulgakov",
-        "country": "RUS",
-        "power": 42.2,
-        "percent": 2.3
-      },
-      {
-        "rank": "5",
-        "person_name": "Reza Gheitasi",
-        "country": "IRI",
-        "power": 481.4,
-        "percent": 26.7
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Dmitrii Skosyrskii",
-        "country": "RUS",
-        "score": 58
-      },
-      {
-        "rank": "2",
-        "person_name": "David Shamey",
-        "country": "RUS",
-        "score": 48.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Peiman Maheripourehir",
-        "country": "IRI",
-        "score": 46
-      },
-      {
-        "rank": "4",
-        "person_name": "Vladimir Bulgakov",
-        "country": "RUS",
-        "score": 38
-      },
-      {
-        "rank": "5",
-        "person_name": "Reza Gheitasi",
-        "country": "IRI",
-        "score": 36.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Wesley Claborn",
-        "country": "USA",
-        "score": 31
-      },
-      {
-        "rank": "7",
-        "person_name": "Aurélien Le Jeune",
-        "country": "FRA",
-        "score": 29.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Petr Bukhonov",
-        "country": "RUS",
-        "score": 28.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Ramil Ramazanov",
-        "country": "RUS",
-        "score": 26
-      },
-      {
-        "rank": "10",
-        "person_name": "Valery Savin",
-        "country": "RUS",
-        "score": 25.5
-      },
-      {
-        "rank": "11",
-        "person_name": "Alexander Kuzmin",
-        "country": "RUS",
-        "score": 12.5
-      }
-    ],
-    "difficulty_score": 16.0,
-    "competition_rank": 442
-  },
-  {
     "contest_id": 2453,
     "contest_name": "2023 Denmark's Strongest Man",
     "details": "Silkeborg, Denmark, 2023-08-26",
@@ -51561,7 +51443,7 @@
       }
     ],
     "difficulty_score": 16.0,
-    "competition_rank": 443
+    "competition_rank": 442
   },
   {
     "contest_id": 2874,
@@ -51649,6 +51531,124 @@
       }
     ],
     "difficulty_score": 16.0,
+    "competition_rank": 443
+  },
+  {
+    "contest_id": 1396,
+    "contest_name": "2023 Siberian Power Show",
+    "details": "Krasnoyarsk, Russia, 2023-04-01 to 2023-04-02",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 0.5,
+    "division": "men",
+    "total_competitors": 11,
+    "raw_difficulty": 1790.0533661101895,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Dmitrii Skosyrskii",
+        "country": "RUS",
+        "power": 469.7,
+        "percent": 26.2
+      },
+      {
+        "rank": "2",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "power": 802.2,
+        "percent": 44.8
+      },
+      {
+        "rank": "3",
+        "person_name": "Peiman Maheripourehir",
+        "country": "IRI",
+        "power": 7.6,
+        "percent": 0.4
+      },
+      {
+        "rank": "4",
+        "person_name": "Vladimir Bulgakov",
+        "country": "RUS",
+        "power": 42.2,
+        "percent": 2.4
+      },
+      {
+        "rank": "5",
+        "person_name": "Reza Gheitasi",
+        "country": "IRI",
+        "power": 468.3,
+        "percent": 26.2
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Dmitrii Skosyrskii",
+        "country": "RUS",
+        "score": 58
+      },
+      {
+        "rank": "2",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "score": 48.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Peiman Maheripourehir",
+        "country": "IRI",
+        "score": 46
+      },
+      {
+        "rank": "4",
+        "person_name": "Vladimir Bulgakov",
+        "country": "RUS",
+        "score": 38
+      },
+      {
+        "rank": "5",
+        "person_name": "Reza Gheitasi",
+        "country": "IRI",
+        "score": 36.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Wesley Claborn",
+        "country": "USA",
+        "score": 31
+      },
+      {
+        "rank": "7",
+        "person_name": "Aurélien Le Jeune",
+        "country": "FRA",
+        "score": 29.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Petr Bukhonov",
+        "country": "RUS",
+        "score": 28.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Ramil Ramazanov",
+        "country": "RUS",
+        "score": 26
+      },
+      {
+        "rank": "10",
+        "person_name": "Valery Savin",
+        "country": "RUS",
+        "score": 25.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Alexander Kuzmin",
+        "country": "RUS",
+        "score": 12.5
+      }
+    ],
+    "difficulty_score": 15.8,
     "competition_rank": 444
   },
   {
@@ -52274,28 +52274,28 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 1728.3088287248454,
+    "raw_difficulty": 1725.1792784978802,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Ilya Khazov",
         "country": "CYP",
-        "power": 257.0,
-        "percent": 14.9
+        "power": 253.8,
+        "percent": 14.7
       },
       {
         "rank": "2",
         "person_name": "Albin Hasanović",
         "country": "GER",
         "power": 678.1,
-        "percent": 39.2
+        "percent": 39.3
       },
       {
         "rank": "3",
         "person_name": "Robert Marian Topîrceanu",
         "country": "ROU",
         "power": 520.4,
-        "percent": 30.1
+        "percent": 30.2
       },
       {
         "rank": "4",
@@ -52380,7 +52380,7 @@
         "score": 0
       }
     ],
-    "difficulty_score": 15.0,
+    "difficulty_score": 14.9,
     "competition_rank": 450
   },
   {
@@ -54722,154 +54722,6 @@
     "competition_rank": 472
   },
   {
-    "contest_id": 1329,
-    "contest_name": "2022 Pahlavon Mahmud Strongman Grand Prix",
-    "details": "Khiva, Uzbekistan, 2022-06-04 to 2022-06-05",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 16,
-    "raw_difficulty": 1416.7144699142907,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Reza Gheitasi",
-        "country": "IRI",
-        "power": 481.4,
-        "percent": 34.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Rongo Keene",
-        "country": "AUS",
-        "power": 501.5,
-        "percent": 35.4
-      },
-      {
-        "rank": "3",
-        "person_name": "Petr Martynenko",
-        "country": "RUS",
-        "power": 337.4,
-        "percent": 23.8
-      },
-      {
-        "rank": "4",
-        "person_name": "Bikram Singh",
-        "country": "IND",
-        "power": 53.4,
-        "percent": 3.8
-      },
-      {
-        "rank": "5",
-        "person_name": "Aurélien Le Jeune",
-        "country": "FRA",
-        "power": 43.0,
-        "percent": 3.0
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Reza Gheitasi",
-        "country": "IRI",
-        "score": 92
-      },
-      {
-        "rank": "2",
-        "person_name": "Rongo Keene",
-        "country": "AUS",
-        "score": 82
-      },
-      {
-        "rank": "3",
-        "person_name": "Petr Martynenko",
-        "country": "RUS",
-        "score": 74
-      },
-      {
-        "rank": "4",
-        "person_name": "Bikram Singh",
-        "country": "IND",
-        "score": 71
-      },
-      {
-        "rank": "5",
-        "person_name": "Aurélien Le Jeune",
-        "country": "FRA",
-        "score": 68
-      },
-      {
-        "rank": "6",
-        "person_name": "Aydin Humbatov",
-        "country": "AZE",
-        "score": 59
-      },
-      {
-        "rank": "7",
-        "person_name": "Rafał Kobylarz",
-        "country": "POL",
-        "score": 56
-      },
-      {
-        "rank": "8",
-        "person_name": "Leonardo Herminio",
-        "country": "BRA",
-        "score": 53
-      },
-      {
-        "rank": "9",
-        "person_name": "Alessandro Castelli",
-        "country": "ITA",
-        "score": 50
-      },
-      {
-        "rank": "10",
-        "person_name": "Avazjon Khaydarov",
-        "country": "UZB",
-        "score": 49
-      },
-      {
-        "rank": "11",
-        "person_name": "Siridjon Kilichev",
-        "country": "UZB",
-        "score": 49
-      },
-      {
-        "rank": "12",
-        "person_name": "Miguel Ángel Caldentey Lopez",
-        "country": "ESP",
-        "score": 47
-      },
-      {
-        "rank": "13",
-        "person_name": "Dilmurod Qurbonov",
-        "country": "UZB",
-        "score": 16
-      },
-      {
-        "rank": "14",
-        "person_name": "Navruz Arabov",
-        "country": "TJK",
-        "score": 10
-      },
-      {
-        "rank": "15",
-        "person_name": "Aleksey Pisarevsky",
-        "country": "KAZ",
-        "score": 9
-      },
-      {
-        "rank": "16",
-        "person_name": "Mizuki Toyota",
-        "country": "JPN",
-        "score": 4
-      }
-    ],
-    "difficulty_score": 11.1,
-    "competition_rank": 473
-  },
-  {
     "contest_id": 1696,
     "contest_name": "2025 Santa Monica Classic",
     "details": "Santa Monica, California, 2025-06-28 to 2025-06-29",
@@ -54985,6 +54837,154 @@
       }
     ],
     "difficulty_score": 11.1,
+    "competition_rank": 473
+  },
+  {
+    "contest_id": 1329,
+    "contest_name": "2022 Pahlavon Mahmud Strongman Grand Prix",
+    "details": "Khiva, Uzbekistan, 2022-06-04 to 2022-06-05",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 0.25,
+    "division": "men",
+    "total_competitors": 16,
+    "raw_difficulty": 1403.6384542528626,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Reza Gheitasi",
+        "country": "IRI",
+        "power": 468.3,
+        "percent": 33.4
+      },
+      {
+        "rank": "2",
+        "person_name": "Rongo Keene",
+        "country": "AUS",
+        "power": 501.5,
+        "percent": 35.7
+      },
+      {
+        "rank": "3",
+        "person_name": "Petr Martynenko",
+        "country": "RUS",
+        "power": 337.4,
+        "percent": 24.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Bikram Singh",
+        "country": "IND",
+        "power": 53.4,
+        "percent": 3.8
+      },
+      {
+        "rank": "5",
+        "person_name": "Aurélien Le Jeune",
+        "country": "FRA",
+        "power": 43.0,
+        "percent": 3.1
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Reza Gheitasi",
+        "country": "IRI",
+        "score": 92
+      },
+      {
+        "rank": "2",
+        "person_name": "Rongo Keene",
+        "country": "AUS",
+        "score": 82
+      },
+      {
+        "rank": "3",
+        "person_name": "Petr Martynenko",
+        "country": "RUS",
+        "score": 74
+      },
+      {
+        "rank": "4",
+        "person_name": "Bikram Singh",
+        "country": "IND",
+        "score": 71
+      },
+      {
+        "rank": "5",
+        "person_name": "Aurélien Le Jeune",
+        "country": "FRA",
+        "score": 68
+      },
+      {
+        "rank": "6",
+        "person_name": "Aydin Humbatov",
+        "country": "AZE",
+        "score": 59
+      },
+      {
+        "rank": "7",
+        "person_name": "Rafał Kobylarz",
+        "country": "POL",
+        "score": 56
+      },
+      {
+        "rank": "8",
+        "person_name": "Leonardo Herminio",
+        "country": "BRA",
+        "score": 53
+      },
+      {
+        "rank": "9",
+        "person_name": "Alessandro Castelli",
+        "country": "ITA",
+        "score": 50
+      },
+      {
+        "rank": "10",
+        "person_name": "Avazjon Khaydarov",
+        "country": "UZB",
+        "score": 49
+      },
+      {
+        "rank": "11",
+        "person_name": "Siridjon Kilichev",
+        "country": "UZB",
+        "score": 49
+      },
+      {
+        "rank": "12",
+        "person_name": "Miguel Ángel Caldentey Lopez",
+        "country": "ESP",
+        "score": 47
+      },
+      {
+        "rank": "13",
+        "person_name": "Dilmurod Qurbonov",
+        "country": "UZB",
+        "score": 16
+      },
+      {
+        "rank": "14",
+        "person_name": "Navruz Arabov",
+        "country": "TJK",
+        "score": 10
+      },
+      {
+        "rank": "15",
+        "person_name": "Aleksey Pisarevsky",
+        "country": "KAZ",
+        "score": 9
+      },
+      {
+        "rank": "16",
+        "person_name": "Mizuki Toyota",
+        "country": "JPN",
+        "score": 4
+      }
+    ],
+    "difficulty_score": 11.0,
     "competition_rank": 474
   },
   {
@@ -56166,118 +56166,6 @@
     "competition_rank": 485
   },
   {
-    "contest_id": 1698,
-    "contest_name": "2025 Iran's Strongest Man",
-    "details": "Iran, 2025-02-01",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 3.0,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 1288.1470827553687,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Reza Gheitasi",
-        "country": "IRI",
-        "power": 481.4,
-        "percent": 37.4
-      },
-      {
-        "rank": "2",
-        "person_name": "Ali Fazeli",
-        "country": "IRI",
-        "power": 251.9,
-        "percent": 19.6
-      },
-      {
-        "rank": "3",
-        "person_name": "Malek Jafari",
-        "country": "IRI",
-        "power": 218.5,
-        "percent": 17.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Hossein Hosseinzadeh",
-        "country": "IRI",
-        "power": 156.0,
-        "percent": 12.1
-      },
-      {
-        "rank": "5",
-        "person_name": "Mohammad Reza Tazehroo",
-        "country": "IRI",
-        "power": 180.4,
-        "percent": 14.0
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Reza Gheitasi",
-        "country": "IRI",
-        "score": 43
-      },
-      {
-        "rank": "2",
-        "person_name": "Ali Fazeli",
-        "country": "IRI",
-        "score": 37
-      },
-      {
-        "rank": "3",
-        "person_name": "Malek Jafari",
-        "country": "IRI",
-        "score": 36
-      },
-      {
-        "rank": "4",
-        "person_name": "Hossein Hosseinzadeh",
-        "country": "IRI",
-        "score": 33
-      },
-      {
-        "rank": "5",
-        "person_name": "Mohammad Reza Tazehroo",
-        "country": "IRI",
-        "score": 33
-      },
-      {
-        "rank": "6",
-        "person_name": "Behruz Iranshahi",
-        "country": "IRI",
-        "score": 22
-      },
-      {
-        "rank": "7",
-        "person_name": "Hossein Vakili",
-        "country": "IRI",
-        "score": 20
-      },
-      {
-        "rank": "8",
-        "person_name": "Sajjad Soltani",
-        "country": "IRI",
-        "score": 19
-      },
-      {
-        "rank": "9",
-        "person_name": "Ramin Farajnejad",
-        "country": "IRI",
-        "score": 8
-      },
-      {
-        "rank": "10",
-        "person_name": "Aref Ahmadi",
-        "country": "IRI",
-        "score": 2
-      }
-    ],
-    "difficulty_score": 9.6,
-    "competition_rank": 486
-  },
-  {
     "contest_id": 1300,
     "contest_name": "2022 SCL Portugal",
     "details": "Esposende, Portugal, 2022-08-06",
@@ -56399,7 +56287,7 @@
       }
     ],
     "difficulty_score": 9.5,
-    "competition_rank": 487
+    "competition_rank": 486
   },
   {
     "contest_id": 1544,
@@ -56556,6 +56444,118 @@
         "person_name": "Ian Love",
         "country": "USA",
         "score": 0
+      }
+    ],
+    "difficulty_score": 9.5,
+    "competition_rank": 487
+  },
+  {
+    "contest_id": 1698,
+    "contest_name": "2025 Iran's Strongest Man",
+    "details": "Iran, 2025-02-01",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 3.0,
+    "division": "men",
+    "total_competitors": 10,
+    "raw_difficulty": 1275.0710670939407,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Reza Gheitasi",
+        "country": "IRI",
+        "power": 468.3,
+        "percent": 36.7
+      },
+      {
+        "rank": "2",
+        "person_name": "Ali Fazeli",
+        "country": "IRI",
+        "power": 251.9,
+        "percent": 19.8
+      },
+      {
+        "rank": "3",
+        "person_name": "Malek Jafari",
+        "country": "IRI",
+        "power": 218.5,
+        "percent": 17.1
+      },
+      {
+        "rank": "4",
+        "person_name": "Hossein Hosseinzadeh",
+        "country": "IRI",
+        "power": 156.0,
+        "percent": 12.2
+      },
+      {
+        "rank": "5",
+        "person_name": "Mohammad Reza Tazehroo",
+        "country": "IRI",
+        "power": 180.4,
+        "percent": 14.1
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Reza Gheitasi",
+        "country": "IRI",
+        "score": 43
+      },
+      {
+        "rank": "2",
+        "person_name": "Ali Fazeli",
+        "country": "IRI",
+        "score": 37
+      },
+      {
+        "rank": "3",
+        "person_name": "Malek Jafari",
+        "country": "IRI",
+        "score": 36
+      },
+      {
+        "rank": "4",
+        "person_name": "Hossein Hosseinzadeh",
+        "country": "IRI",
+        "score": 33
+      },
+      {
+        "rank": "5",
+        "person_name": "Mohammad Reza Tazehroo",
+        "country": "IRI",
+        "score": 33
+      },
+      {
+        "rank": "6",
+        "person_name": "Behruz Iranshahi",
+        "country": "IRI",
+        "score": 22
+      },
+      {
+        "rank": "7",
+        "person_name": "Hossein Vakili",
+        "country": "IRI",
+        "score": 20
+      },
+      {
+        "rank": "8",
+        "person_name": "Sajjad Soltani",
+        "country": "IRI",
+        "score": 19
+      },
+      {
+        "rank": "9",
+        "person_name": "Ramin Farajnejad",
+        "country": "IRI",
+        "score": 8
+      },
+      {
+        "rank": "10",
+        "person_name": "Aref Ahmadi",
+        "country": "IRI",
+        "score": 2
       }
     ],
     "difficulty_score": 9.5,
@@ -57612,118 +57612,6 @@
     "competition_rank": 497
   },
   {
-    "contest_id": 1376,
-    "contest_name": "2023 Iran's Strongest Man",
-    "details": "Safadasht, Iran, 2023-01-26 to 2023-01-27",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.5,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 1182.5818918831958,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Ramin Farajnejad",
-        "country": "IRI",
-        "power": 429.5,
-        "percent": 36.3
-      },
-      {
-        "rank": "2",
-        "person_name": "Reza Gheitasi",
-        "country": "IRI",
-        "power": 481.4,
-        "percent": 40.7
-      },
-      {
-        "rank": "3",
-        "person_name": "Mohsen Masnabadi",
-        "country": "IRI",
-        "power": 57.5,
-        "percent": 4.9
-      },
-      {
-        "rank": "4",
-        "person_name": "Mohammad Reza Tazehroo",
-        "country": "IRI",
-        "power": 180.4,
-        "percent": 15.3
-      },
-      {
-        "rank": "5",
-        "person_name": "Ali Akbar Jafari",
-        "country": "IRI",
-        "power": 33.8,
-        "percent": 2.9
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Ramin Farajnejad",
-        "country": "IRI",
-        "score": 49
-      },
-      {
-        "rank": "2",
-        "person_name": "Reza Gheitasi",
-        "country": "IRI",
-        "score": 44
-      },
-      {
-        "rank": "3",
-        "person_name": "Mohsen Masnabadi",
-        "country": "IRI",
-        "score": 33.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Mohammad Reza Tazehroo",
-        "country": "IRI",
-        "score": 30.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Ali Akbar Jafari",
-        "country": "IRI",
-        "score": 28.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Masoud Barzam",
-        "country": "IRI",
-        "score": 27
-      },
-      {
-        "rank": "7",
-        "person_name": "Matin Ali Mohammadi",
-        "country": "IRI",
-        "score": 26
-      },
-      {
-        "rank": "8",
-        "person_name": "Nemat Jalali",
-        "country": "IRI",
-        "score": 24
-      },
-      {
-        "rank": "9",
-        "person_name": "Majid Yacoubi",
-        "country": "IRI",
-        "score": 17.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Amir Farzan Mehzoun",
-        "country": "IRI",
-        "score": 12
-      }
-    ],
-    "difficulty_score": 8.5,
-    "competition_rank": 498
-  },
-  {
     "contest_id": 1728,
     "contest_name": "2024 Central European Strongman Cup",
     "details": "Maladinovo, Slovakia, 2024-06-29",
@@ -57833,7 +57721,7 @@
       }
     ],
     "difficulty_score": 8.4,
-    "competition_rank": 499
+    "competition_rank": 498
   },
   {
     "contest_id": 2537,
@@ -57921,6 +57809,118 @@
       }
     ],
     "difficulty_score": 8.4,
+    "competition_rank": 499
+  },
+  {
+    "contest_id": 1376,
+    "contest_name": "2023 Iran's Strongest Man",
+    "details": "Safadasht, Iran, 2023-01-26 to 2023-01-27",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 0.5,
+    "division": "men",
+    "total_competitors": 10,
+    "raw_difficulty": 1169.5058762217675,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Ramin Farajnejad",
+        "country": "IRI",
+        "power": 429.5,
+        "percent": 36.7
+      },
+      {
+        "rank": "2",
+        "person_name": "Reza Gheitasi",
+        "country": "IRI",
+        "power": 468.3,
+        "percent": 40.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Mohsen Masnabadi",
+        "country": "IRI",
+        "power": 57.5,
+        "percent": 4.9
+      },
+      {
+        "rank": "4",
+        "person_name": "Mohammad Reza Tazehroo",
+        "country": "IRI",
+        "power": 180.4,
+        "percent": 15.4
+      },
+      {
+        "rank": "5",
+        "person_name": "Ali Akbar Jafari",
+        "country": "IRI",
+        "power": 33.8,
+        "percent": 2.9
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Ramin Farajnejad",
+        "country": "IRI",
+        "score": 49
+      },
+      {
+        "rank": "2",
+        "person_name": "Reza Gheitasi",
+        "country": "IRI",
+        "score": 44
+      },
+      {
+        "rank": "3",
+        "person_name": "Mohsen Masnabadi",
+        "country": "IRI",
+        "score": 33.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Mohammad Reza Tazehroo",
+        "country": "IRI",
+        "score": 30.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Ali Akbar Jafari",
+        "country": "IRI",
+        "score": 28.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Masoud Barzam",
+        "country": "IRI",
+        "score": 27
+      },
+      {
+        "rank": "7",
+        "person_name": "Matin Ali Mohammadi",
+        "country": "IRI",
+        "score": 26
+      },
+      {
+        "rank": "8",
+        "person_name": "Nemat Jalali",
+        "country": "IRI",
+        "score": 24
+      },
+      {
+        "rank": "9",
+        "person_name": "Majid Yacoubi",
+        "country": "IRI",
+        "score": 17.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Amir Farzan Mehzoun",
+        "country": "IRI",
+        "score": 12
+      }
+    ],
+    "difficulty_score": 8.3,
     "competition_rank": 500
   },
   {
@@ -57932,28 +57932,28 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 18,
-    "raw_difficulty": 1162.499818128599,
+    "raw_difficulty": 1149.4238024671708,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Ramin Farajnejad",
         "country": "IRI",
         "power": 429.5,
-        "percent": 36.9
+        "percent": 37.4
       },
       {
         "rank": "2",
         "person_name": "Reza Gheitasi",
         "country": "IRI",
-        "power": 481.4,
-        "percent": 41.4
+        "power": 468.3,
+        "percent": 40.7
       },
       {
         "rank": "3",
         "person_name": "Mohsen Masnabadi",
         "country": "IRI",
         "power": 57.5,
-        "percent": 4.9
+        "percent": 5.0
       },
       {
         "rank": "4",
@@ -57967,7 +57967,7 @@
         "person_name": "Mohammad Reza Tazehroo",
         "country": "IRI",
         "power": 180.4,
-        "percent": 15.5
+        "percent": 15.7
       }
     ],
     "results": [
@@ -58080,7 +58080,7 @@
         "score": 0
       }
     ],
-    "difficulty_score": 8.3,
+    "difficulty_score": 8.1,
     "competition_rank": 501
   },
   {
@@ -60200,28 +60200,28 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 960.3798216427238,
+    "raw_difficulty": 957.2502714157586,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Vladan Živkovič",
         "country": "SRB",
         "power": 207.5,
-        "percent": 21.6
+        "percent": 21.7
       },
       {
         "rank": "2",
         "person_name": "Zdeněk Vávra",
         "country": "CZE",
         "power": 320.7,
-        "percent": 33.4
+        "percent": 33.5
       },
       {
         "rank": "3",
         "person_name": "Fatih Karaca",
         "country": "TUR",
         "power": 144.2,
-        "percent": 15.0
+        "percent": 15.1
       },
       {
         "rank": "4",
@@ -60234,8 +60234,8 @@
         "rank": "5",
         "person_name": "Ilya Khazov",
         "country": "CYP",
-        "power": 257.0,
-        "percent": 26.8
+        "power": 253.8,
+        "percent": 26.5
       }
     ],
     "results": [
@@ -60410,148 +60410,6 @@
     "competition_rank": 523
   },
   {
-    "contest_id": 1604,
-    "contest_name": "2024 World Nomad Games",
-    "details": "Astana, Kazakhstan, 2024-09-11",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 3.0,
-    "division": "men",
-    "total_competitors": 15,
-    "raw_difficulty": 850.8757917511964,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Azamat Makulbekov",
-        "country": "KAZ",
-        "power": 75.0,
-        "percent": 8.8
-      },
-      {
-        "rank": "2",
-        "person_name": "Reza Gheitasi",
-        "country": "IRI",
-        "power": 481.4,
-        "percent": 56.6
-      },
-      {
-        "rank": "3",
-        "person_name": "Denis Vagapov",
-        "country": "RUS",
-        "power": 48.4,
-        "percent": 5.7
-      },
-      {
-        "rank": "4",
-        "person_name": "Juan Ferrer",
-        "country": "ESP",
-        "power": 218.6,
-        "percent": 25.7
-      },
-      {
-        "rank": "5",
-        "person_name": "Laber Grigoryan",
-        "country": "ARM",
-        "power": 27.6,
-        "percent": 3.2
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Azamat Makulbekov",
-        "country": "KAZ",
-        "score": 136
-      },
-      {
-        "rank": "2",
-        "person_name": "Reza Gheitasi",
-        "country": "IRI",
-        "score": 134
-      },
-      {
-        "rank": "3",
-        "person_name": "Denis Vagapov",
-        "country": "RUS",
-        "score": 118
-      },
-      {
-        "rank": "4",
-        "person_name": "Juan Ferrer",
-        "country": "ESP",
-        "score": 102
-      },
-      {
-        "rank": "5",
-        "person_name": "Laber Grigoryan",
-        "country": "ARM",
-        "score": 96
-      },
-      {
-        "rank": "6",
-        "person_name": "Ilya Khazov",
-        "country": "CYP",
-        "score": 84
-      },
-      {
-        "rank": "7",
-        "person_name": "Salah Khaled Shuaib",
-        "country": "KUW",
-        "score": 78
-      },
-      {
-        "rank": "8",
-        "person_name": "Ularbek Kuruchbekov",
-        "country": "KYR",
-        "score": 70
-      },
-      {
-        "rank": "9",
-        "person_name": "Dilmurod Qurbonov",
-        "country": "UZB",
-        "score": 68
-      },
-      {
-        "rank": "10",
-        "person_name": "Peter Ejinkeonye",
-        "country": "NGR",
-        "score": 66
-      },
-      {
-        "rank": "11",
-        "person_name": "Sedevizo Keretsu",
-        "country": "IND",
-        "score": 58
-      },
-      {
-        "rank": "12",
-        "person_name": "Ahmed Basit",
-        "country": "OMA",
-        "score": 54
-      },
-      {
-        "rank": "13",
-        "person_name": "Deng Jie",
-        "country": "CHN",
-        "score": 52
-      },
-      {
-        "rank": "14",
-        "person_name": "Navruz Arabov",
-        "country": "TJK",
-        "score": 48
-      },
-      {
-        "rank": "15",
-        "person_name": "Andrei Zhukau",
-        "country": "BLR",
-        "score": 36
-      }
-    ],
-    "difficulty_score": 5.2,
-    "competition_rank": 524
-  },
-  {
     "contest_id": 2628,
     "contest_name": "2025 Open Cup Svilajnac",
     "details": "Svilajnac, Serbia, 2025-05-25",
@@ -60655,7 +60513,7 @@
       }
     ],
     "difficulty_score": 5.2,
-    "competition_rank": 525
+    "competition_rank": 524
   },
   {
     "contest_id": 2600,
@@ -60773,7 +60631,7 @@
       }
     ],
     "difficulty_score": 4.9,
-    "competition_rank": 526
+    "competition_rank": 525
   },
   {
     "contest_id": 2597,
@@ -60885,7 +60743,7 @@
       }
     ],
     "difficulty_score": 4.8,
-    "competition_rank": 527
+    "competition_rank": 526
   },
   {
     "contest_id": 2935,
@@ -60979,7 +60837,7 @@
       }
     ],
     "difficulty_score": 4.8,
-    "competition_rank": 528
+    "competition_rank": 527
   },
   {
     "contest_id": 1714,
@@ -61079,7 +60937,7 @@
       }
     ],
     "difficulty_score": 4.5,
-    "competition_rank": 529
+    "competition_rank": 528
   },
   {
     "contest_id": 1312,
@@ -61239,7 +61097,7 @@
       }
     ],
     "difficulty_score": 4.4,
-    "competition_rank": 530
+    "competition_rank": 529
   },
   {
     "contest_id": 2006,
@@ -61333,7 +61191,7 @@
       }
     ],
     "difficulty_score": 4.4,
-    "competition_rank": 531
+    "competition_rank": 530
   },
   {
     "contest_id": 1959,
@@ -61463,7 +61321,7 @@
       }
     ],
     "difficulty_score": 4.3,
-    "competition_rank": 532
+    "competition_rank": 531
   },
   {
     "contest_id": 2913,
@@ -61545,6 +61403,148 @@
       }
     ],
     "difficulty_score": 4.3,
+    "competition_rank": 532
+  },
+  {
+    "contest_id": 1604,
+    "contest_name": "2024 World Nomad Games",
+    "details": "Astana, Kazakhstan, 2024-09-11",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 1.0,
+    "division": "men",
+    "total_competitors": 15,
+    "raw_difficulty": 725.8201838171698,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Azamat Makulbekov",
+        "country": "KAZ",
+        "power": 25.0,
+        "percent": 3.4
+      },
+      {
+        "rank": "2",
+        "person_name": "Reza Gheitasi",
+        "country": "IRI",
+        "power": 468.3,
+        "percent": 64.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Denis Vagapov",
+        "country": "RUS",
+        "power": 18.0,
+        "percent": 2.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Juan Ferrer",
+        "country": "ESP",
+        "power": 205.3,
+        "percent": 28.3
+      },
+      {
+        "rank": "5",
+        "person_name": "Laber Grigoryan",
+        "country": "ARM",
+        "power": 9.2,
+        "percent": 1.3
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Azamat Makulbekov",
+        "country": "KAZ",
+        "score": 136
+      },
+      {
+        "rank": "2",
+        "person_name": "Reza Gheitasi",
+        "country": "IRI",
+        "score": 134
+      },
+      {
+        "rank": "3",
+        "person_name": "Denis Vagapov",
+        "country": "RUS",
+        "score": 118
+      },
+      {
+        "rank": "4",
+        "person_name": "Juan Ferrer",
+        "country": "ESP",
+        "score": 102
+      },
+      {
+        "rank": "5",
+        "person_name": "Laber Grigoryan",
+        "country": "ARM",
+        "score": 96
+      },
+      {
+        "rank": "6",
+        "person_name": "Ilya Khazov",
+        "country": "CYP",
+        "score": 84
+      },
+      {
+        "rank": "7",
+        "person_name": "Salah Khaled Shuaib",
+        "country": "KUW",
+        "score": 78
+      },
+      {
+        "rank": "8",
+        "person_name": "Ularbek Kuruchbekov",
+        "country": "KYR",
+        "score": 70
+      },
+      {
+        "rank": "9",
+        "person_name": "Dilmurod Qurbonov",
+        "country": "UZB",
+        "score": 68
+      },
+      {
+        "rank": "10",
+        "person_name": "Peter Ejinkeonye",
+        "country": "NGR",
+        "score": 66
+      },
+      {
+        "rank": "11",
+        "person_name": "Sedevizo Keretsu",
+        "country": "IND",
+        "score": 58
+      },
+      {
+        "rank": "12",
+        "person_name": "Ahmed Basit",
+        "country": "OMA",
+        "score": 54
+      },
+      {
+        "rank": "13",
+        "person_name": "Deng Jie",
+        "country": "CHN",
+        "score": 52
+      },
+      {
+        "rank": "14",
+        "person_name": "Navruz Arabov",
+        "country": "TJK",
+        "score": 48
+      },
+      {
+        "rank": "15",
+        "person_name": "Andrei Zhukau",
+        "country": "BLR",
+        "score": 36
+      }
+    ],
+    "difficulty_score": 4.1,
     "competition_rank": 533
   },
   {
