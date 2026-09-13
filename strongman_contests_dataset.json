@@ -182668,5 +182668,137 @@
         "score": 4.5
       }
     ]
+  },
+  {
+    "contest_id": 2939,
+    "contest_name": "2026 Strongest Woman In Canada",
+    "details": "Quebec City, Canada, 2026-09-27",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2939",
+    "total_competitors": 11,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Samantha Belliveau",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Stephanie Bisignano",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Rey Blais",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Bailey Deschene",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Samantha Koski-Moffat",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Marie-Fée Leroux",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Mick MacAdoo",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jackie Osczevski",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jo-Annie Paquet",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ashley Telford",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Sarah-Jeanne Voyer",
+        "country": "CAN",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2940,
+    "contest_name": "2026 St. Olaf's Strongman Championship",
+    "details": "Savonlinna, Finaland, 2026-09-04 to 2026-09-05",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2940",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "score": 59.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Oleh Pylypiak",
+        "country": "UKR",
+        "score": 46.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Chabuka Chigladze",
+        "country": "GEO",
+        "score": 41.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Antti Peltomäki",
+        "country": "FIN",
+        "score": 31.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Fredric Andersson",
+        "country": "SWE",
+        "score": 30.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Tomi Pitkäkangas",
+        "country": "FIN",
+        "score": 25.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Kristján Páll Árnason",
+        "country": "ISL",
+        "score": 19.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Karolis Aleksandravičius",
+        "country": "LTU",
+        "score": 9.0
+      }
+    ]
   }
 ]
