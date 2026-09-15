@@ -134228,7 +134228,7 @@
       },
       {
         "rank": "-",
-        "person_name": "Jack Osborn",
+        "person_name": "Jack Forgacs",
         "country": "GBR",
         "score": 0.0
       },
@@ -182798,6 +182798,294 @@
         "person_name": "Karolis Aleksandravičius",
         "country": "LTU",
         "score": 9.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2941,
+    "contest_name": "2019 U82 Strongest Woman in the World",
+    "details": "Palmer, Alaska, 2019-08-25",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2941",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Danielle Vaji",
+        "country": "USA",
+        "score": 10.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Bailey Deschene",
+        "country": "CAN",
+        "score": 4.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2942,
+    "contest_name": "2019 U64 Strongest Woman in the World",
+    "details": "Palmer, Alaska, 2019-08-25",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2942",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jessica Theaker",
+        "country": "CAN",
+        "score": 23.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Christina Bangma",
+        "country": "USA",
+        "score": 21.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Jessica Puricelli",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Laura Anderson",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Joelle Pecci",
+        "country": "USA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2943,
+    "contest_name": "2018 U82 Strongest Woman in the World",
+    "details": "Vinstra, Norway, 2018-07-26 to 2018-07-27",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2943",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Liefia Ingalls",
+        "country": "USA",
+        "score": 46.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Ashley Crawford",
+        "country": "USA",
+        "score": 40.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Brittany Diamond",
+        "country": "USA",
+        "score": 37.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Sumer Johnson",
+        "country": "USA",
+        "score": 32.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Allison Lockhart",
+        "country": "CAN",
+        "score": 30.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Sarah Cogswell",
+        "country": "USA",
+        "score": 28.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Rebecca Roberts",
+        "country": "GBR",
+        "score": 24.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Bailey Deschene",
+        "country": "CAN",
+        "score": 18.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Kimberly Lawrance",
+        "country": "USA",
+        "score": 13.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2944,
+    "contest_name": "2018 U64 Strongest Woman in the World",
+    "details": "Vinstra, Norway, 2018-07-26 to 2018-07-27",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2944",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Farah Fonseca",
+        "country": "GBR",
+        "score": 29.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Jessica Theaker",
+        "country": "CAN",
+        "score": 27.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Laura Anderson",
+        "country": "USA",
+        "score": 25.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Jessica Puricelli",
+        "country": "USA",
+        "score": 24.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Christina Bangma",
+        "country": "USA",
+        "score": 23.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Leslie Hofheins",
+        "country": "USA",
+        "score": 22.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Rachel Pyron",
+        "country": "USA",
+        "score": 16.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2945,
+    "contest_name": "2026 Open Cup ZajeÄar",
+    "details": "ZajeÄar, Serbia, 2026-09-13",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2945",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "David Tomić",
+        "country": "SRB",
+        "score": 38.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Vlad Voinea",
+        "country": "ROU",
+        "score": 36.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Raul Albu",
+        "country": "ROU",
+        "score": 32.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Tihomir Traykov",
+        "country": "BUL",
+        "score": 30.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Aleksandar Savić",
+        "country": "SRB",
+        "score": 27.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Dušan Jovanović",
+        "country": "SRB",
+        "score": 26.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Vasil Nakov",
+        "country": "BUL",
+        "score": 17.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Anees Elzinati",
+        "country": "ROU",
+        "score": 8.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Srđan Berar",
+        "country": "SRB",
+        "score": 6.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2946,
+    "contest_name": "2026 Russia's Strongest Man",
+    "details": "Podolsk, Russia, 2026-09-12",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2946",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "David Shamey",
+        "country": "RUS",
+        "score": 26.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Valentin Akimov",
+        "country": "RUS",
+        "score": 22.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Dmitrii Samoilov",
+        "country": "RUS",
+        "score": 20.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Roman Druzhinin",
+        "country": "RUS",
+        "score": 14.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Dmitry Logunov",
+        "country": "RUS",
+        "score": 9.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Egor Makarov",
+        "country": "RUS",
+        "score": 9.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Mikhail Rudavin",
+        "country": "RUS",
+        "score": 8.5
       }
     ]
   }
