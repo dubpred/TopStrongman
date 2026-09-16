@@ -25496,7 +25496,7 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 8,
-    "raw_difficulty": 3893.4288078499376,
+    "raw_difficulty": 3891.315853154303,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -25509,7 +25509,7 @@
         "rank": "2",
         "person_name": "Tomasz Bator",
         "country": "POL",
-        "power": 455.7,
+        "power": 453.5,
         "percent": 11.7
       },
       {
@@ -31486,14 +31486,14 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 8,
-    "raw_difficulty": 3354.281216225807,
+    "raw_difficulty": 3352.1682615301725,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Robert Cyrwus",
         "country": "POL",
         "power": 722.6,
-        "percent": 21.5
+        "percent": 21.6
       },
       {
         "rank": "2",
@@ -31520,8 +31520,8 @@
         "rank": "5",
         "person_name": "Tomasz Bator",
         "country": "POL",
-        "power": 455.7,
-        "percent": 13.6
+        "power": 453.5,
+        "percent": 13.5
       }
     ],
     "results": [
@@ -31574,7 +31574,7 @@
         "score": 5
       }
     ],
-    "difficulty_score": 40.5,
+    "difficulty_score": 40.4,
     "competition_rank": 266
   },
   {
@@ -47462,106 +47462,6 @@
     "competition_rank": 406
   },
   {
-    "contest_id": 1669,
-    "contest_name": "2024 Central European Strongman Cup",
-    "details": "Kołobrzeg, Poland, 2024-08-16",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 1.0,
-    "division": "men",
-    "total_competitors": 8,
-    "raw_difficulty": 2169.365510846698,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Robert Cyrwus",
-        "country": "POL",
-        "power": 722.6,
-        "percent": 33.3
-      },
-      {
-        "rank": "2",
-        "person_name": "Audrius Jokūbaitis",
-        "country": "LTU",
-        "power": 802.6,
-        "percent": 37.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Tomasz Bator",
-        "country": "POL",
-        "power": 455.7,
-        "percent": 21.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Vladimir Bulatović",
-        "country": "SRB",
-        "power": 127.4,
-        "percent": 5.9
-      },
-      {
-        "rank": "5",
-        "person_name": "Dominik Ponocný",
-        "country": "CZE",
-        "power": 61.1,
-        "percent": 2.8
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Robert Cyrwus",
-        "country": "POL",
-        "score": 44
-      },
-      {
-        "rank": "2",
-        "person_name": "Audrius Jokūbaitis",
-        "country": "LTU",
-        "score": 41
-      },
-      {
-        "rank": "3",
-        "person_name": "Tomasz Bator",
-        "country": "POL",
-        "score": 29
-      },
-      {
-        "rank": "4",
-        "person_name": "Vladimir Bulatović",
-        "country": "SRB",
-        "score": 24
-      },
-      {
-        "rank": "5",
-        "person_name": "Dominik Ponocný",
-        "country": "CZE",
-        "score": 24
-      },
-      {
-        "rank": "6",
-        "person_name": "Janusz Kułaga",
-        "country": "POL",
-        "score": 19
-      },
-      {
-        "rank": "7",
-        "person_name": "Niko Voutilainen",
-        "country": "FIN",
-        "score": 19
-      },
-      {
-        "rank": "8",
-        "person_name": "Márius Babkovič",
-        "country": "SVK",
-        "score": 9
-      }
-    ],
-    "difficulty_score": 21.1,
-    "competition_rank": 407
-  },
-  {
     "contest_id": 2551,
     "contest_name": "2025 PSL Fitparade",
     "details": "Budapest, Hungary, 2025-10-19",
@@ -47671,6 +47571,106 @@
       }
     ],
     "difficulty_score": 21.1,
+    "competition_rank": 407
+  },
+  {
+    "contest_id": 1669,
+    "contest_name": "2024 Central European Strongman Cup",
+    "details": "Kołobrzeg, Poland, 2024-08-16",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 1.0,
+    "division": "men",
+    "total_competitors": 8,
+    "raw_difficulty": 2167.2525561510633,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Robert Cyrwus",
+        "country": "POL",
+        "power": 722.6,
+        "percent": 33.3
+      },
+      {
+        "rank": "2",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "power": 802.6,
+        "percent": 37.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Tomasz Bator",
+        "country": "POL",
+        "power": 453.5,
+        "percent": 20.9
+      },
+      {
+        "rank": "4",
+        "person_name": "Vladimir Bulatović",
+        "country": "SRB",
+        "power": 127.4,
+        "percent": 5.9
+      },
+      {
+        "rank": "5",
+        "person_name": "Dominik Ponocný",
+        "country": "CZE",
+        "power": 61.1,
+        "percent": 2.8
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Robert Cyrwus",
+        "country": "POL",
+        "score": 44
+      },
+      {
+        "rank": "2",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "score": 41
+      },
+      {
+        "rank": "3",
+        "person_name": "Tomasz Bator",
+        "country": "POL",
+        "score": 29
+      },
+      {
+        "rank": "4",
+        "person_name": "Vladimir Bulatović",
+        "country": "SRB",
+        "score": 24
+      },
+      {
+        "rank": "5",
+        "person_name": "Dominik Ponocný",
+        "country": "CZE",
+        "score": 24
+      },
+      {
+        "rank": "6",
+        "person_name": "Janusz Kułaga",
+        "country": "POL",
+        "score": 19
+      },
+      {
+        "rank": "7",
+        "person_name": "Niko Voutilainen",
+        "country": "FIN",
+        "score": 19
+      },
+      {
+        "rank": "8",
+        "person_name": "Márius Babkovič",
+        "country": "SVK",
+        "score": 9
+      }
+    ],
+    "difficulty_score": 21.0,
     "competition_rank": 408
   },
   {
@@ -51675,10 +51675,10 @@
     "details": "Maladinovo, Slovakia, 2023-09-16",
     "tier": "TIER_5",
     "tier_multiplier": 0.25,
-    "recency_multiplier": 1.0,
+    "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 9,
-    "raw_difficulty": 1798.8205764634654,
+    "raw_difficulty": 1796.7076217678307,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -51698,8 +51698,8 @@
         "rank": "3",
         "person_name": "Tomasz Bator",
         "country": "POL",
-        "power": 455.7,
-        "percent": 25.3
+        "power": 453.5,
+        "percent": 25.2
       },
       {
         "rank": "4",
@@ -57808,7 +57808,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 1174.2689639447706,
+    "raw_difficulty": 1172.156009249136,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -57822,21 +57822,21 @@
         "person_name": "Zdeněk Vávra",
         "country": "CZE",
         "power": 320.7,
-        "percent": 27.3
+        "percent": 27.4
       },
       {
         "rank": "3",
         "person_name": "Tomasz Bator",
         "country": "POL",
-        "power": 455.7,
-        "percent": 38.8
+        "power": 453.5,
+        "percent": 38.7
       },
       {
         "rank": "4",
         "person_name": "Johannes Eichinger",
         "country": "GER",
         "power": 160.1,
-        "percent": 13.6
+        "percent": 13.7
       },
       {
         "rank": "5",
@@ -59846,21 +59846,21 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 8,
-    "raw_difficulty": 973.8796229424929,
+    "raw_difficulty": 971.7666682468583,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Marek Czajkowski",
         "country": "POL",
         "power": 339.9,
-        "percent": 34.9
+        "percent": 35.0
       },
       {
         "rank": "2",
         "person_name": "Dariusz Błaszczyk",
         "country": "POL",
         "power": 47.2,
-        "percent": 4.8
+        "percent": 4.9
       },
       {
         "rank": "3",
@@ -59880,8 +59880,8 @@
         "rank": "5",
         "person_name": "Tomasz Bator",
         "country": "POL",
-        "power": 455.7,
-        "percent": 46.8
+        "power": 453.5,
+        "percent": 46.7
       }
     ],
     "results": [
@@ -64418,25 +64418,13 @@
       {
         "rank": "-",
         "person_name": "Alex Feri",
-        "country": "GBR",
+        "country": "ENG",
         "score": 0.0
       },
       {
         "rank": "-",
-        "person_name": "Kane Francis",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Ben Glasscock",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Paddy Haynes",
-        "country": "GBR",
+        "person_name": "Zack Hill",
+        "country": "ENG",
         "score": 0.0
       },
       {
@@ -64447,14 +64435,26 @@
       },
       {
         "rank": "-",
+        "person_name": "Dean Mason",
+        "country": "ENG",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
         "person_name": "Jamie Nelson",
         "country": "WAL",
         "score": 0.0
       },
       {
         "rank": "-",
+        "person_name": "Tom Place",
+        "country": "ENG",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
         "person_name": "Paul Smith",
-        "country": "GBR",
+        "country": "ENG",
         "score": 0.0
       }
     ],
@@ -64469,7 +64469,7 @@
     "tier_multiplier": 0.25,
     "recency_multiplier": 5.0,
     "division": "men",
-    "total_competitors": 6,
+    "total_competitors": 8,
     "raw_difficulty": 0,
     "top_5_finishers": [],
     "results": [
@@ -64481,14 +64481,14 @@
       },
       {
         "rank": "-",
-        "person_name": "Adam Bishop",
+        "person_name": "Ben Glasscock",
         "country": "GBR",
         "score": 0.0
       },
       {
         "rank": "-",
-        "person_name": "Ben Glasscock",
-        "country": "GBR",
+        "person_name": "Tristain Hoath",
+        "country": "CAN",
         "score": 0.0
       },
       {
@@ -64507,6 +64507,18 @@
         "rank": "-",
         "person_name": "Pavlo Kordiyaka",
         "country": "UKR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jonathan Partanen",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Oskar Ziółkowski",
+        "country": "POL",
         "score": 0.0
       }
     ],
@@ -64576,5 +64588,271 @@
     ],
     "difficulty_score": 0.0,
     "competition_rank": 563
+  },
+  {
+    "contest_id": 2947,
+    "contest_name": "2026 Official Strongman Wales' Strongest Man",
+    "details": "Cardiff, Wales, 2026-10-11",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 5.0,
+    "division": "men",
+    "total_competitors": 13,
+    "raw_difficulty": 0,
+    "top_5_finishers": [],
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Gavin Bilton",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jamie Butler",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Matt Dimond",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "James Francis",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Simon Hammett",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Callum Hunt-Price",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Stefan Jones",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jamie Nelson",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ben Pascoe",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "David Ramplee",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Liam Rodgers",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Luke Sperduti",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "John Thompson",
+        "country": "WAL",
+        "score": 0.0
+      }
+    ],
+    "difficulty_score": 0.0,
+    "competition_rank": 564
+  },
+  {
+    "contest_id": 2948,
+    "contest_name": "2026 Official Strongman Scotland's Strongest Man",
+    "details": "Glasgow, Scotland, 2026-09-19",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 5.0,
+    "division": "men",
+    "total_competitors": 26,
+    "raw_difficulty": 0,
+    "top_5_finishers": [],
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Peteris Balodis",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "George Beamish",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Chris Beetham",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Dougie Black",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Gavin Bruce",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Shane Buchan",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Nick Cox",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Conor Curran",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Will Drysdale",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Scott Fraser",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Bret Gillies",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Andrew Goodlad",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Fraser Gullan",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Chris Harper",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ben King",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jamie Kleiman",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Scott Loosemore",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Matthew Mabon",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ross Mackintosh",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Daniel Maslen",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Taz McLaughlin",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Robert McMillan",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Steven Murray",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Leon Paterson",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Lee Walker",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ronald Young",
+        "country": "SCO",
+        "score": 0.0
+      }
+    ],
+    "difficulty_score": 0.0,
+    "competition_rank": 565
   }
 ]

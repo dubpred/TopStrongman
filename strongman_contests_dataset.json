@@ -154731,25 +154731,13 @@
       {
         "rank": "-",
         "person_name": "Alex Feri",
-        "country": "GBR",
+        "country": "ENG",
         "score": 0.0
       },
       {
         "rank": "-",
-        "person_name": "Kane Francis",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Ben Glasscock",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Paddy Haynes",
-        "country": "GBR",
+        "person_name": "Zack Hill",
+        "country": "ENG",
         "score": 0.0
       },
       {
@@ -154760,14 +154748,26 @@
       },
       {
         "rank": "-",
+        "person_name": "Dean Mason",
+        "country": "ENG",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
         "person_name": "Jamie Nelson",
         "country": "WAL",
         "score": 0.0
       },
       {
         "rank": "-",
+        "person_name": "Tom Place",
+        "country": "ENG",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
         "person_name": "Paul Smith",
-        "country": "GBR",
+        "country": "ENG",
         "score": 0.0
       }
     ]
@@ -154777,8 +154777,14 @@
     "contest_name": "2026 Summit of Strength (Women)",
     "details": "Rotherham, England, 2026-09-26",
     "url": "https://strongmanarchives.com/viewContest.php?id=2460",
-    "total_competitors": 9,
+    "total_competitors": 10,
     "results": [
+      {
+        "rank": "-",
+        "person_name": "Allyson Abbs",
+        "country": "USA",
+        "score": 0.0
+      },
       {
         "rank": "-",
         "person_name": "Cassandra Annergren",
@@ -160594,7 +160600,7 @@
     "contest_name": "2026 Strongman Mania",
     "details": "NorrkÃ¶ping, Sweden, 2026-11-07 to 2026-11-08",
     "url": "https://strongmanarchives.com/viewContest.php?id=2561",
-    "total_competitors": 6,
+    "total_competitors": 8,
     "results": [
       {
         "rank": "-",
@@ -160604,14 +160610,14 @@
       },
       {
         "rank": "-",
-        "person_name": "Adam Bishop",
+        "person_name": "Ben Glasscock",
         "country": "GBR",
         "score": 0.0
       },
       {
         "rank": "-",
-        "person_name": "Ben Glasscock",
-        "country": "GBR",
+        "person_name": "Tristain Hoath",
+        "country": "CAN",
         "score": 0.0
       },
       {
@@ -160630,6 +160636,18 @@
         "rank": "-",
         "person_name": "Pavlo Kordiyaka",
         "country": "UKR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jonathan Partanen",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Oskar Ziółkowski",
+        "country": "POL",
         "score": 0.0
       }
     ]
@@ -183086,6 +183104,258 @@
         "person_name": "Mikhail Rudavin",
         "country": "RUS",
         "score": 8.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2947,
+    "contest_name": "2026 Official Strongman Wales' Strongest Man",
+    "details": "Cardiff, Wales, 2026-10-11",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2947",
+    "total_competitors": 13,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Gavin Bilton",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jamie Butler",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Matt Dimond",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "James Francis",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Simon Hammett",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Callum Hunt-Price",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Stefan Jones",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jamie Nelson",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ben Pascoe",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "David Ramplee",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Liam Rodgers",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Luke Sperduti",
+        "country": "WAL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "John Thompson",
+        "country": "WAL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2948,
+    "contest_name": "2026 Official Strongman Scotland's Strongest Man",
+    "details": "Glasgow, Scotland, 2026-09-19",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2948",
+    "total_competitors": 26,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Peteris Balodis",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "George Beamish",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Chris Beetham",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Dougie Black",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Gavin Bruce",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Shane Buchan",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Nick Cox",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Conor Curran",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Will Drysdale",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Scott Fraser",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Bret Gillies",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Andrew Goodlad",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Fraser Gullan",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Chris Harper",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ben King",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jamie Kleiman",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Scott Loosemore",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Matthew Mabon",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ross Mackintosh",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Daniel Maslen",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Taz McLaughlin",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Robert McMillan",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Steven Murray",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Leon Paterson",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Lee Walker",
+        "country": "SCO",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ronald Young",
+        "country": "SCO",
+        "score": 0.0
       }
     ]
   }
