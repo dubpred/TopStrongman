@@ -183358,5 +183358,62 @@
         "score": 0.0
       }
     ]
+  },
+  {
+    "contest_id": 2949,
+    "contest_name": "2026 European Strongman Cup",
+    "details": "PanevÄÅ¾ys, Lithuania, 2026-09-13",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2949",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tomas Šliupas",
+        "country": "LTU",
+        "score": 46.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Robert Marian Topîrceanu",
+        "country": "ROU",
+        "score": 37.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Sean Gillen",
+        "country": "IRL",
+        "score": 35.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Robertas Bartkevičius",
+        "country": "LTU",
+        "score": 32.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Donatas Maskolaitis",
+        "country": "LTU",
+        "score": 25.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Edijs Rihards Krieviņš",
+        "country": "LAT",
+        "score": 20.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Adam Wadolowski",
+        "country": "POL",
+        "score": 10.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Petyo Hristov",
+        "country": "BUL",
+        "score": 7.0
+      }
+    ]
   }
 ]
