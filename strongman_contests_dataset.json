@@ -183202,160 +183202,160 @@
     "total_competitors": 26,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Peteris Balodis",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "George Beamish",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Chris Beetham",
         "country": "SCO",
-        "score": 0.0
+        "score": 144.5
       },
       {
-        "rank": "-",
-        "person_name": "Dougie Black",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Gavin Bruce",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Shane Buchan",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Nick Cox",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Conor Curran",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Will Drysdale",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Scott Fraser",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Bret Gillies",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Andrew Goodlad",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Fraser Gullan",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Chris Harper",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Ben King",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jamie Kleiman",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Scott Loosemore",
         "country": "SCO",
-        "score": 0.0
+        "score": 129.0
       },
       {
-        "rank": "-",
+        "rank": "3",
+        "person_name": "Conor Curran",
+        "country": "SCO",
+        "score": 125.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Andrew Goodlad",
+        "country": "SCO",
+        "score": 119.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Fraser Gullan",
+        "country": "SCO",
+        "score": 117.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Gavin Bruce",
+        "country": "SCO",
+        "score": 107.5
+      },
+      {
+        "rank": "7",
+        "person_name": "George Beamish",
+        "country": "SCO",
+        "score": 99.0
+      },
+      {
+        "rank": "8",
         "person_name": "Matthew Mabon",
         "country": "SCO",
-        "score": 0.0
+        "score": 93.5
       },
       {
-        "rank": "-",
-        "person_name": "Ross Mackintosh",
+        "rank": "9",
+        "person_name": "Jamie Kleiman",
         "country": "SCO",
-        "score": 0.0
+        "score": 92.5
       },
       {
-        "rank": "-",
-        "person_name": "Daniel Maslen",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Taz McLaughlin",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Robert McMillan",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Steven Murray",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Leon Paterson",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "10",
         "person_name": "Lee Walker",
         "country": "SCO",
-        "score": 0.0
+        "score": 88.5
       },
       {
-        "rank": "-",
+        "rank": "11",
+        "person_name": "Peteris Balodis",
+        "country": "SCO",
+        "score": 86.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Scott Fraser",
+        "country": "SCO",
+        "score": 84.5
+      },
+      {
+        "rank": "13",
+        "person_name": "Steven Murray",
+        "country": "SCO",
+        "score": 78.0
+      },
+      {
+        "rank": "14",
         "person_name": "Ronald Young",
         "country": "SCO",
-        "score": 0.0
+        "score": 74.5
+      },
+      {
+        "rank": "15",
+        "person_name": "Ben King",
+        "country": "SCO",
+        "score": 73.5
+      },
+      {
+        "rank": "16",
+        "person_name": "Robert McMillan",
+        "country": "SCO",
+        "score": 65.5
+      },
+      {
+        "rank": "17",
+        "person_name": "Taz McLaughlin",
+        "country": "SCO",
+        "score": 63.5
+      },
+      {
+        "rank": "18",
+        "person_name": "Chris Harper",
+        "country": "SCO",
+        "score": 62.5
+      },
+      {
+        "rank": "19",
+        "person_name": "Will Drysdale",
+        "country": "SCO",
+        "score": 61.5
+      },
+      {
+        "rank": "20",
+        "person_name": "Nick Cox",
+        "country": "SCO",
+        "score": 59.5
+      },
+      {
+        "rank": "21",
+        "person_name": "Daniel Maslen",
+        "country": "SCO",
+        "score": 58.5
+      },
+      {
+        "rank": "22",
+        "person_name": "Leon Paterson",
+        "country": "SCO",
+        "score": 57.5
+      },
+      {
+        "rank": "23",
+        "person_name": "Ross Mackintosh",
+        "country": "SCO",
+        "score": 55.5
+      },
+      {
+        "rank": "24",
+        "person_name": "Dougie Black",
+        "country": "SCO",
+        "score": 49.0
+      },
+      {
+        "rank": "25",
+        "person_name": "Shane Buchan",
+        "country": "SCO",
+        "score": 29.0
+      },
+      {
+        "rank": "26",
+        "person_name": "Bret Gillies",
+        "country": "SCO",
+        "score": 25.0
       }
     ]
   },
@@ -183419,207 +183419,207 @@
   {
     "contest_id": 2950,
     "contest_name": "2026 M50+ New Zealand's Strongest Woman",
-    "details": "Christchurch, New Zealand, 2026-09-18 to 2026-09-19",
+    "details": "Christchurch, New Zealand, 2026-09-19",
     "url": "https://strongmanarchives.com/viewContest.php?id=2950",
     "total_competitors": 1,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Salu Vimahi",
         "country": "NZL",
-        "score": 4.0
+        "score": 5.0
       }
     ]
   },
   {
     "contest_id": 2951,
     "contest_name": "2026 Masters New Zealand's Strongest Woman",
-    "details": "Christchurch, New Zealand, 2026-09-18 to 2026-09-19",
+    "details": "Christchurch, New Zealand, 2026-09-19",
     "url": "https://strongmanarchives.com/viewContest.php?id=2951",
     "total_competitors": 3,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
         "person_name": "A’emalemaloitiafau Wilson",
         "country": "NZL",
-        "score": 12.0
+        "score": 15.0
       },
       {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Maria Tali",
         "country": "NZL",
-        "score": 8.0
+        "score": 9.0
       },
       {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Kim Mariu",
         "country": "NZL",
-        "score": 3.0
+        "score": 5.0
       }
     ]
   },
   {
     "contest_id": 2952,
     "contest_name": "2026 U64 New Zealand's Strongest Woman",
-    "details": "Christchurch, New Zealand, 2026-09-18 to 2026-09-19",
+    "details": "Christchurch, New Zealand, 2026-09-19",
     "url": "https://strongmanarchives.com/viewContest.php?id=2952",
     "total_competitors": 2,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Bobbie Campbell",
         "country": "NZL",
-        "score": 7.5
+        "score": 8.5
       },
       {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Olivia Rule",
         "country": "NZL",
-        "score": 3.5
+        "score": 5.5
       }
     ]
   },
   {
     "contest_id": 2953,
     "contest_name": "2026 U73 New Zealand's Strongest Woman",
-    "details": "Christchurch, New Zealand, 2026-09-18 to 2026-09-19",
+    "details": "Christchurch, New Zealand, 2026-09-19",
     "url": "https://strongmanarchives.com/viewContest.php?id=2953",
     "total_competitors": 3,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Shannyn Boyd",
-        "country": "NZL",
-        "score": 9.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Hennessey McNamara",
         "country": "NZL",
-        "score": 9.0
+        "score": 12.0
       },
       {
-        "rank": "-",
-        "person_name": "Nai Iosefa",
+        "rank": "2",
+        "person_name": "Shannyn Boyd",
         "country": "NZL",
-        "score": 3.0
-      }
-    ]
-  },
-  {
-    "contest_id": 2954,
-    "contest_name": "2026 U82 New Zealand's Strongest Woman",
-    "details": "Christchurch, New Zealand, 2026-09-18 to 2026-09-19",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2954",
-    "total_competitors": 1,
-    "results": [
+        "score": 11.0
+      },
       {
-        "rank": "-",
-        "person_name": "Jackie Keenan",
+        "rank": "3",
+        "person_name": "Nai Iosefa",
         "country": "NZL",
         "score": 4.0
       }
     ]
   },
   {
+    "contest_id": 2954,
+    "contest_name": "2026 U82 New Zealand's Strongest Woman",
+    "details": "Christchurch, New Zealand, 2026-09-19",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2954",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jackie Keenan",
+        "country": "NZL",
+        "score": 5.0
+      }
+    ]
+  },
+  {
     "contest_id": 2955,
     "contest_name": "2026 New Zealand's Strongest Woman",
-    "details": "Christchurch, New Zealand, 2026-09-18 to 2026-09-19",
+    "details": "Christchurch, New Zealand, 2026-09-19",
     "url": "https://strongmanarchives.com/viewContest.php?id=2955",
     "total_competitors": 6,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Kesa Fifita",
+        "country": "NZL",
+        "score": 25.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Nerisa Utailesolo",
+        "country": "NZL",
+        "score": 24.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Nime Tupuola",
         "country": "NZL",
         "score": 19.5
       },
       {
-        "rank": "-",
-        "person_name": "Nerisa Utailesolo",
-        "country": "NZL",
-        "score": 19.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Nime Tupuola",
-        "country": "NZL",
-        "score": 16.5
-      },
-      {
-        "rank": "-",
-        "person_name": "Nicole Lindsay",
-        "country": "NZL",
-        "score": 9.0
-      },
-      {
-        "rank": "-",
+        "rank": "4",
         "person_name": "Shiree Walkinshaw",
         "country": "NZL",
-        "score": 9.0
+        "score": 13.0
       },
       {
-        "rank": "-",
+        "rank": "5",
         "person_name": "Shalom Lima",
         "country": "NZL",
-        "score": 8.0
+        "score": 10.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Nicole Lindsay",
+        "country": "NZL",
+        "score": 10.0
       }
     ]
   },
   {
     "contest_id": 2956,
     "contest_name": "2026 M50+ New Zealand's Strongest Man",
-    "details": "Christchurch, New Zealand, 2026-09-18 to 2026-09-19",
+    "details": "Christchurch, New Zealand, 2026-09-19",
     "url": "https://strongmanarchives.com/viewContest.php?id=2956",
     "total_competitors": 2,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Glen Millen",
         "country": "NZL",
-        "score": 6.0
+        "score": 8.0
       },
       {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Les Woof",
         "country": "NZL",
-        "score": 3.0
+        "score": 4.0
       }
     ]
   },
   {
     "contest_id": 2957,
     "contest_name": "2026 Masters New Zealand's Strongest Man",
-    "details": "Christchurch, New Zealand, 2026-09-18 to 2026-09-19",
+    "details": "Christchurch, New Zealand, 2026-09-19",
     "url": "https://strongmanarchives.com/viewContest.php?id=2957",
     "total_competitors": 5,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Josh Eady",
-        "country": "NZL",
-        "score": 14.5
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Tohi Tali",
         "country": "NZL",
-        "score": 14.5
+        "score": 19.5
       },
       {
-        "rank": "-",
-        "person_name": "Wiremu Edmonds",
+        "rank": "2",
+        "person_name": "Josh Eady",
         "country": "NZL",
-        "score": 13.5
+        "score": 18.5
       },
       {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Callum McConachy",
         "country": "NZL",
-        "score": 13.5
+        "score": 16.5
       },
       {
-        "rank": "-",
+        "rank": "4",
+        "person_name": "Wiremu Edmonds",
+        "country": "NZL",
+        "score": 15.5
+      },
+      {
+        "rank": "5",
         "person_name": "Robin-John Hood",
         "country": "NZL",
         "score": 1.0
@@ -183629,240 +183629,240 @@
   {
     "contest_id": 2958,
     "contest_name": "2026 U80 New Zealand's Strongest Man",
-    "details": "Christchurch, New Zealand, 2026-09-18 to 2026-09-19",
+    "details": "Christchurch, New Zealand, 2026-09-19",
     "url": "https://strongmanarchives.com/viewContest.php?id=2958",
     "total_competitors": 9,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Matt Bridge",
-        "country": "NZL",
-        "score": 33.5
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Cameron Smith",
         "country": "NZL",
-        "score": 32.5
+        "score": 41.5
       },
       {
-        "rank": "-",
+        "rank": "2",
+        "person_name": "Matt Bridge",
+        "country": "NZL",
+        "score": 39.5
+      },
+      {
+        "rank": "3",
         "person_name": "Malcolm Dixon-Searle",
         "country": "NZL",
-        "score": 28.0
+        "score": 36.0
       },
       {
-        "rank": "-",
+        "rank": "4",
         "person_name": "Nathan Hammond",
         "country": "NZL",
-        "score": 23.5
+        "score": 30.5
       },
       {
-        "rank": "-",
+        "rank": "5",
+        "person_name": "Jack Greetham",
+        "country": "NZL",
+        "score": 20.5
+      },
+      {
+        "rank": "6",
         "person_name": "Shaun Wassell",
+        "country": "NZL",
+        "score": 20.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Chris Hardie",
         "country": "NZL",
         "score": 17.5
       },
       {
-        "rank": "-",
-        "person_name": "Jack Greetham",
-        "country": "NZL",
-        "score": 16.5
-      },
-      {
-        "rank": "-",
-        "person_name": "Chris Hardie",
-        "country": "NZL",
-        "score": 12.5
-      },
-      {
-        "rank": "-",
+        "rank": "8",
         "person_name": "Fahim Uddin",
         "country": "NZL",
-        "score": 8.0
+        "score": 9.0
       },
       {
-        "rank": "-",
+        "rank": "9",
         "person_name": "Jayden Wang",
         "country": "NZL",
-        "score": 6.0
+        "score": 8.0
       }
     ]
   },
   {
     "contest_id": 2959,
     "contest_name": "2026 U90 New Zealand's Strongest Man",
-    "details": "Christchurch, New Zealand, 2026-09-18 to 2026-09-19",
+    "details": "Christchurch, New Zealand, 2026-09-19",
     "url": "https://strongmanarchives.com/viewContest.php?id=2959",
     "total_competitors": 5,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Chris Reddiford",
         "country": "NZL",
-        "score": 18.5
+        "score": 23.5
       },
       {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Wade Blackburn",
         "country": "NZL",
-        "score": 17.0
+        "score": 21.0
       },
       {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Fred Woodthorpe",
+        "country": "NZL",
+        "score": 11.5
+      },
+      {
+        "rank": "4",
+        "person_name": "TK Tukukino",
         "country": "NZL",
         "score": 10.5
       },
       {
-        "rank": "-",
-        "person_name": "TK Tukukino",
-        "country": "NZL",
-        "score": 8.5
-      },
-      {
-        "rank": "-",
+        "rank": "5",
         "person_name": "Toby Lincoln",
         "country": "NZL",
-        "score": 5.5
+        "score": 8.5
       }
     ]
   },
   {
     "contest_id": 2960,
     "contest_name": "2026 U105 New Zealand's Strongest Man",
-    "details": "Christchurch, New Zealand, 2026-09-18 to 2026-09-19",
+    "details": "Christchurch, New Zealand, 2026-09-19",
     "url": "https://strongmanarchives.com/viewContest.php?id=2960",
     "total_competitors": 7,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Conor O'Neill",
         "country": "NZL",
-        "score": 24.0
+        "score": 29.0
       },
       {
-        "rank": "-",
-        "person_name": "Liam Gordon",
-        "country": "NZL",
-        "score": 19.5
-      },
-      {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Mike Hardgrave",
         "country": "NZL",
-        "score": 19.5
+        "score": 25.5
       },
       {
-        "rank": "-",
+        "rank": "3",
+        "person_name": "Liam Gordon",
+        "country": "NZL",
+        "score": 22.5
+      },
+      {
+        "rank": "4",
         "person_name": "Richard Howlett",
         "country": "NZL",
-        "score": 14.5
+        "score": 21.5
       },
       {
-        "rank": "-",
+        "rank": "5",
         "person_name": "Matt Gardner",
         "country": "NZL",
-        "score": 11.5
+        "score": 13.5
       },
       {
-        "rank": "-",
+        "rank": "6",
+        "person_name": "Angus Fulford",
+        "country": "NZL",
+        "score": 12.0
+      },
+      {
+        "rank": "7",
         "person_name": "Troy Savage",
         "country": "NZL",
         "score": 9.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Angus Fulford",
-        "country": "NZL",
-        "score": 8.0
       }
     ]
   },
   {
     "contest_id": 2961,
     "contest_name": "2026 U120 New Zealand's Strongest Man",
-    "details": "Christchurch, New Zealand, 2026-09-18 to 2026-09-19",
+    "details": "Christchurch, New Zealand, 2026-09-19",
     "url": "https://strongmanarchives.com/viewContest.php?id=2961",
     "total_competitors": 4,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Liam Bourke",
         "country": "NZL",
-        "score": 16.0
+        "score": 20.0
       },
       {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Henrik Prutz",
         "country": "NZL",
-        "score": 10.5
+        "score": 12.5
       },
       {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Josh Graham",
         "country": "NZL",
-        "score": 7.0
+        "score": 10.0
       },
       {
-        "rank": "-",
+        "rank": "4",
         "person_name": "Nathan Brown",
         "country": "NZL",
-        "score": 4.5
+        "score": 5.5
       }
     ]
   },
   {
     "contest_id": 2962,
     "contest_name": "2026 New Zealand's Strongest Man",
-    "details": "Christchurch, New Zealand, 2026-09-18 to 2026-09-19",
+    "details": "Christchurch, New Zealand, 2026-09-19",
     "url": "https://strongmanarchives.com/viewContest.php?id=2962",
     "total_competitors": 8,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Mathew Ragg",
         "country": "NZL",
-        "score": 32.0
+        "score": 40.0
       },
       {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Tiano Fa'apoi",
         "country": "NZL",
-        "score": 27.0
+        "score": 34.0
       },
       {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Sean Logan",
         "country": "NZL",
-        "score": 23.0
+        "score": 28.0
       },
       {
-        "rank": "-",
+        "rank": "4",
         "person_name": "James Bishop",
         "country": "NZL",
-        "score": 16.0
+        "score": 20.0
       },
       {
-        "rank": "-",
-        "person_name": "Darian O'Sullivan",
-        "country": "NZL",
-        "score": 15.0
-      },
-      {
-        "rank": "-",
+        "rank": "5",
         "person_name": "Kane Paterson",
         "country": "NZL",
-        "score": 13.0
+        "score": 19.0
       },
       {
-        "rank": "-",
+        "rank": "6",
+        "person_name": "Darian O'Sullivan",
+        "country": "NZL",
+        "score": 17.0
+      },
+      {
+        "rank": "7",
         "person_name": "Craig Cooper",
         "country": "NZL",
-        "score": 9.0
+        "score": 12.0
       },
       {
-        "rank": "-",
+        "rank": "8",
         "person_name": "Raymond Siliko",
         "country": "NZL",
         "score": 7.0
