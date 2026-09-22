@@ -160600,7 +160600,7 @@
     "contest_name": "2026 Strongman Mania",
     "details": "NorrkÃ¶ping, Sweden, 2026-11-07 to 2026-11-08",
     "url": "https://strongmanarchives.com/viewContest.php?id=2561",
-    "total_competitors": 8,
+    "total_competitors": 9,
     "results": [
       {
         "rank": "-",
@@ -160636,6 +160636,12 @@
         "rank": "-",
         "person_name": "Pavlo Kordiyaka",
         "country": "UKR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Joe Oliver",
+        "country": "GBR",
         "score": 0.0
       },
       {
