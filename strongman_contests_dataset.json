@@ -183856,5 +183856,98 @@
         "score": 7.0
       }
     ]
+  },
+  {
+    "contest_id": 2963,
+    "contest_name": "2025 U105 America's Strongest Man",
+    "details": "Las Vegas, Nevada, 2025-10-10 to 2025-10-11",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2963",
+    "total_competitors": 14,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Zack McCarley",
+        "country": "USA",
+        "score": 63.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Matthew McQuiston",
+        "country": "USA",
+        "score": 61.5
+      },
+      {
+        "rank": "3",
+        "person_name": "D.J. Doggett",
+        "country": "USA",
+        "score": 55.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Aidan Howell",
+        "country": "USA",
+        "score": 50.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Chase  Bradley",
+        "country": "USA",
+        "score": 45.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Justin Loy",
+        "country": "USA",
+        "score": 45.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Gabe Deal",
+        "country": "USA",
+        "score": 44.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Jordan Wychulis",
+        "country": "USA",
+        "score": 39.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Jonathan Parker",
+        "country": "USA",
+        "score": 38.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Matt Powell",
+        "country": "USA",
+        "score": 38.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Kevin Candito",
+        "country": "USA",
+        "score": 37.0
+      },
+      {
+        "rank": "12",
+        "person_name": "Nick Stock",
+        "country": "USA",
+        "score": 33.0
+      },
+      {
+        "rank": "13",
+        "person_name": "Mike O'Connor",
+        "country": "USA",
+        "score": 28.0
+      },
+      {
+        "rank": "14",
+        "person_name": "Nick  Saccente",
+        "country": "USA",
+        "score": 23.0
+      }
+    ]
   }
 ]
