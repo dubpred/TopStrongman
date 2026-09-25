@@ -3138,7 +3138,7 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 15211.713147380286,
+    "raw_difficulty": 15210.983021646156,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -3158,7 +3158,7 @@
         "rank": "3",
         "person_name": "Matyáš Funiok",
         "country": "CZE",
-        "power": 1582.3,
+        "power": 1581.6,
         "percent": 10.4
       },
       {
@@ -3894,7 +3894,7 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 12974.173659312795,
+    "raw_difficulty": 12973.443533578666,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -3928,7 +3928,7 @@
         "rank": "5",
         "person_name": "Matyáš Funiok",
         "country": "CZE",
-        "power": 1582.3,
+        "power": 1581.6,
         "percent": 12.2
       }
     ],
@@ -12448,7 +12448,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 6447.742153408262,
+    "raw_difficulty": 6447.012027674133,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -12475,7 +12475,7 @@
         "rank": "4",
         "person_name": "Matyáš Funiok",
         "country": "CZE",
-        "power": 1582.3,
+        "power": 1581.6,
         "percent": 24.5
       },
       {
@@ -15204,7 +15204,7 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 5398.353465224858,
+    "raw_difficulty": 5397.6233394907285,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -15224,7 +15224,7 @@
         "rank": "3",
         "person_name": "Matyáš Funiok",
         "country": "CZE",
-        "power": 1582.3,
+        "power": 1581.6,
         "percent": 29.3
       },
       {
@@ -22772,7 +22772,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 6,
-    "raw_difficulty": 4105.145699429654,
+    "raw_difficulty": 4103.270699429654,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -22793,7 +22793,7 @@
         "person_name": "Nikoloz Lekaidze",
         "country": "GEO",
         "power": 2169.0,
-        "percent": 52.8
+        "percent": 52.9
       },
       {
         "rank": "4",
@@ -22806,8 +22806,8 @@
         "rank": "5",
         "person_name": "Benjamín Machala",
         "country": "SVK",
-        "power": 98.0,
-        "percent": 2.4
+        "power": 96.1,
+        "percent": 2.3
       }
     ],
     "results": [
@@ -24886,7 +24886,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 14,
-    "raw_difficulty": 3915.7590490688312,
+    "raw_difficulty": 3915.0289233347016,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -24899,7 +24899,7 @@
         "rank": "2",
         "person_name": "Matyáš Funiok",
         "country": "CZE",
-        "power": 1582.3,
+        "power": 1581.6,
         "percent": 40.4
       },
       {
@@ -25010,7 +25010,7 @@
         "score": 11.5
       }
     ],
-    "difficulty_score": 51.1,
+    "difficulty_score": 51.0,
     "competition_rank": 209
   },
   {
@@ -33360,13 +33360,13 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 3177.238355878796,
+    "raw_difficulty": 3176.508230144667,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Matyáš Funiok",
         "country": "CZE",
-        "power": 1582.3,
+        "power": 1581.6,
         "percent": 49.8
       },
       {
@@ -36860,7 +36860,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 2904.5697844650285,
+    "raw_difficulty": 2902.4848353222665,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -36894,8 +36894,8 @@
         "rank": "5",
         "person_name": "Patrik Zelezka",
         "country": "SVK",
-        "power": 138.7,
-        "percent": 4.8
+        "power": 136.6,
+        "percent": 4.7
       }
     ],
     "results": [
@@ -40846,7 +40846,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 8,
-    "raw_difficulty": 2672.908651042631,
+    "raw_difficulty": 2671.033651042631,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -40860,7 +40860,7 @@
         "person_name": "Jan Lacina",
         "country": "CZE",
         "power": 1080.5,
-        "percent": 40.4
+        "percent": 40.5
       },
       {
         "rank": "3",
@@ -40873,8 +40873,8 @@
         "rank": "4",
         "person_name": "Benjamín Machala",
         "country": "SVK",
-        "power": 98.0,
-        "percent": 3.7
+        "power": 96.1,
+        "percent": 3.6
       },
       {
         "rank": "5",
@@ -51088,136 +51088,6 @@
     "competition_rank": 438
   },
   {
-    "contest_id": 2008,
-    "contest_name": "2022 Bánovský Silák",
-    "details": "Bánovce nad Bebravou, Slovakia, 2022-09-25",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 0.5,
-    "division": "men",
-    "total_competitors": 13,
-    "raw_difficulty": 1836.2524875383674,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Benjamín Machala",
-        "country": "SVK",
-        "power": 98.0,
-        "percent": 5.3
-      },
-      {
-        "rank": "2",
-        "person_name": "Matyáš Funiok",
-        "country": "CZE",
-        "power": 1582.3,
-        "percent": 86.2
-      },
-      {
-        "rank": "3",
-        "person_name": "Patrik Zelezka",
-        "country": "SVK",
-        "power": 138.7,
-        "percent": 7.6
-      },
-      {
-        "rank": "4",
-        "person_name": "Péter Supák",
-        "country": "SVK",
-        "power": 12.6,
-        "percent": 0.7
-      },
-      {
-        "rank": "5",
-        "person_name": "Lukáš Škríb",
-        "country": "SVK",
-        "power": 4.6,
-        "percent": 0.3
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Benjamín Machala",
-        "country": "SVK",
-        "score": 61.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Matyáš Funiok",
-        "country": "CZE",
-        "score": 54
-      },
-      {
-        "rank": "3",
-        "person_name": "Patrik Zelezka",
-        "country": "SVK",
-        "score": 53
-      },
-      {
-        "rank": "4",
-        "person_name": "Péter Supák",
-        "country": "SVK",
-        "score": 40
-      },
-      {
-        "rank": "5",
-        "person_name": "Lukáš Škríb",
-        "country": "SVK",
-        "score": 34.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Viktor Ďuriš",
-        "country": "SVK",
-        "score": 34.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Szabolcs Boros",
-        "country": "SVK",
-        "score": 34
-      },
-      {
-        "rank": "8",
-        "person_name": "Jaroslav Mockovčiak",
-        "country": "SVK",
-        "score": 32.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Mário Karička",
-        "country": "SVK",
-        "score": 30
-      },
-      {
-        "rank": "10",
-        "person_name": "Alexander Gilbert",
-        "country": "FRA",
-        "score": 25
-      },
-      {
-        "rank": "11",
-        "person_name": "Jayson Woods",
-        "country": "NZL",
-        "score": 16.5
-      },
-      {
-        "rank": "12",
-        "person_name": "Martin Lovíšek",
-        "country": "SVK",
-        "score": 14.5
-      },
-      {
-        "rank": "13",
-        "person_name": "Petr Lněnička",
-        "country": "CZE",
-        "score": 13
-      }
-    ],
-    "difficulty_score": 16.4,
-    "competition_rank": 439
-  },
-  {
     "contest_id": 1880,
     "contest_name": "2024 Slovakia's Strongest Man",
     "details": "Šahy, Slovakia, 2024-06-23",
@@ -51300,6 +51170,136 @@
         "person_name": "Pavol Priatka",
         "country": "SVK",
         "score": 0
+      }
+    ],
+    "difficulty_score": 16.3,
+    "competition_rank": 439
+  },
+  {
+    "contest_id": 2008,
+    "contest_name": "2022 Bánovský Silák",
+    "details": "Bánovce nad Bebravou, Slovakia, 2022-09-25",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 0.25,
+    "division": "men",
+    "total_competitors": 13,
+    "raw_difficulty": 1826.6585257405422,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Benjamín Machala",
+        "country": "SVK",
+        "power": 96.1,
+        "percent": 5.3
+      },
+      {
+        "rank": "2",
+        "person_name": "Matyáš Funiok",
+        "country": "CZE",
+        "power": 1581.6,
+        "percent": 86.6
+      },
+      {
+        "rank": "3",
+        "person_name": "Patrik Zelezka",
+        "country": "SVK",
+        "power": 136.6,
+        "percent": 7.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Péter Supák",
+        "country": "SVK",
+        "power": 10.0,
+        "percent": 0.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Lukáš Škríb",
+        "country": "SVK",
+        "power": 2.3,
+        "percent": 0.1
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Benjamín Machala",
+        "country": "SVK",
+        "score": 61.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Matyáš Funiok",
+        "country": "CZE",
+        "score": 54
+      },
+      {
+        "rank": "3",
+        "person_name": "Patrik Zelezka",
+        "country": "SVK",
+        "score": 53
+      },
+      {
+        "rank": "4",
+        "person_name": "Péter Supák",
+        "country": "SVK",
+        "score": 40
+      },
+      {
+        "rank": "5",
+        "person_name": "Lukáš Škríb",
+        "country": "SVK",
+        "score": 34.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Viktor Ďuriš",
+        "country": "SVK",
+        "score": 34.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Szabolcs Boros",
+        "country": "SVK",
+        "score": 34
+      },
+      {
+        "rank": "8",
+        "person_name": "Jaroslav Mockovčiak",
+        "country": "SVK",
+        "score": 32.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Mário Karička",
+        "country": "SVK",
+        "score": 30
+      },
+      {
+        "rank": "10",
+        "person_name": "Alexander Gilbert",
+        "country": "FRA",
+        "score": 25
+      },
+      {
+        "rank": "11",
+        "person_name": "Jayson Woods",
+        "country": "NZL",
+        "score": 16.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Martin Lovíšek",
+        "country": "SVK",
+        "score": 14.5
+      },
+      {
+        "rank": "13",
+        "person_name": "Petr Lněnička",
+        "country": "CZE",
+        "score": 13
       }
     ],
     "difficulty_score": 16.3,
@@ -51626,7 +51626,7 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 1779.0357164573447,
+    "raw_difficulty": 1778.4778910569735,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -51653,7 +51653,7 @@
         "rank": "4",
         "person_name": "Szabolcs Boros",
         "country": "SVK",
-        "power": 112.4,
+        "power": 111.8,
         "percent": 6.3
       },
       {
@@ -54748,14 +54748,14 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 1483.813183963226,
+    "raw_difficulty": 1481.938183963226,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Benjamín Machala",
         "country": "SVK",
-        "power": 98.0,
-        "percent": 6.6
+        "power": 96.1,
+        "percent": 6.5
       },
       {
         "rank": "2",
@@ -54769,7 +54769,7 @@
         "person_name": "Jan Lacina",
         "country": "CZE",
         "power": 1080.5,
-        "percent": 72.8
+        "percent": 72.9
       },
       {
         "rank": "4",
@@ -58098,14 +58098,14 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 9,
-    "raw_difficulty": 1132.1961748975673,
+    "raw_difficulty": 1130.3211748975673,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Robert Cyrwus",
         "country": "POL",
         "power": 722.6,
-        "percent": 63.8
+        "percent": 63.9
       },
       {
         "rank": "2",
@@ -58118,8 +58118,8 @@
         "rank": "3",
         "person_name": "Benjamín Machala",
         "country": "SVK",
-        "power": 98.0,
-        "percent": 8.7
+        "power": 96.1,
+        "percent": 8.5
       },
       {
         "rank": "4",
@@ -62270,35 +62270,35 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 7,
-    "raw_difficulty": 619.7744347043464,
+    "raw_difficulty": 615.8144855615842,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Benjamín Machala",
         "country": "SVK",
-        "power": 98.0,
-        "percent": 15.8
+        "power": 96.1,
+        "percent": 15.6
       },
       {
         "rank": "2",
         "person_name": "Patrik Zelezka",
         "country": "SVK",
-        "power": 138.7,
-        "percent": 22.4
+        "power": 136.6,
+        "percent": 22.2
       },
       {
         "rank": "3",
         "person_name": "Jaroslav Mockovčiak",
         "country": "SVK",
         "power": 268.5,
-        "percent": 43.3
+        "percent": 43.6
       },
       {
         "rank": "4",
         "person_name": "Jakub Sandtner",
         "country": "SVK",
         "power": 105.3,
-        "percent": 17.0
+        "percent": 17.1
       },
       {
         "rank": "5",
@@ -64177,7 +64177,7 @@
     "tier_multiplier": 3.0,
     "recency_multiplier": 5.0,
     "division": "men",
-    "total_competitors": 11,
+    "total_competitors": 12,
     "raw_difficulty": 0,
     "top_5_finishers": [],
     "results": [
@@ -64203,6 +64203,12 @@
         "rank": "-",
         "person_name": "Matyáš Funiok",
         "country": "CZE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ben Glasscock",
+        "country": "GBR",
         "score": 0.0
       },
       {
@@ -64566,5 +64572,93 @@
     ],
     "difficulty_score": 0.0,
     "competition_rank": 562
+  },
+  {
+    "contest_id": 2964,
+    "contest_name": "2026 America's Strongest Man",
+    "details": "Las Vegas, Nevada, 2026-09-25 to 2026-09-26",
+    "tier": "TIER_3",
+    "tier_multiplier": 2.0,
+    "recency_multiplier": 5.0,
+    "division": "men",
+    "total_competitors": 12,
+    "raw_difficulty": 0,
+    "top_5_finishers": [],
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Trotter Barringer",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Beau Bathery",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tim Buck",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tyler Collins",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Christian Davis",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Joshua Ficklin",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jeremy  Herron",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Martel Johnson",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jonathan Kilen",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Roy Orrantia",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Benjamin Ripa",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Evan Singleton",
+        "country": "USA",
+        "score": 0.0
+      }
+    ],
+    "difficulty_score": 0.0,
+    "competition_rank": 563
   }
 ]
