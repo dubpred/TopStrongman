@@ -182672,7 +182672,7 @@
   {
     "contest_id": 2939,
     "contest_name": "2026 Strongest Woman In Canada",
-    "details": "Quebec City, Canada, 2026-09-27",
+    "details": "Quebec City, Canada, 2026-09-26 to 2026-09-27",
     "url": "https://strongmanarchives.com/viewContest.php?id=2939",
     "total_competitors": 11,
     "results": [
@@ -183953,75 +183953,75 @@
     "results": [
       {
         "rank": "-",
-        "person_name": "Trotter Barringer",
+        "person_name": "Roy Orrantia",
         "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Beau Bathery",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Tim Buck",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Tyler Collins",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Christian Davis",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Joshua Ficklin",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jeremy  Herron",
-        "country": "USA",
-        "score": 0.0
+        "score": 32.5
       },
       {
         "rank": "-",
         "person_name": "Martel Johnson",
         "country": "USA",
-        "score": 0.0
+        "score": 29.0
       },
       {
         "rank": "-",
-        "person_name": "Jonathan Kilen",
+        "person_name": "Tim Buck",
         "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Roy Orrantia",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Benjamin Ripa",
-        "country": "USA",
-        "score": 0.0
+        "score": 23.5
       },
       {
         "rank": "-",
         "person_name": "Evan Singleton",
         "country": "USA",
-        "score": 0.0
+        "score": 23.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Joshua Ficklin",
+        "country": "USA",
+        "score": 21.5
+      },
+      {
+        "rank": "-",
+        "person_name": "Beau Bathery",
+        "country": "USA",
+        "score": 21.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Benjamin Ripa",
+        "country": "USA",
+        "score": 20.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tyler Collins",
+        "country": "USA",
+        "score": 19.5
+      },
+      {
+        "rank": "-",
+        "person_name": "Jonathan Kilen",
+        "country": "USA",
+        "score": 19.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Trotter Barringer",
+        "country": "USA",
+        "score": 14.5
+      },
+      {
+        "rank": "-",
+        "person_name": "Christian Davis",
+        "country": "USA",
+        "score": 7.5
+      },
+      {
+        "rank": "-",
+        "person_name": "Jeremy  Herron",
+        "country": "USA",
+        "score": 2.0
       }
     ]
   },
@@ -184030,55 +184030,49 @@
     "contest_name": "2026 America's Strongest Woman",
     "details": "Las Vegas, Nevada, 2026-09-25 to 2026-09-26",
     "url": "https://strongmanarchives.com/viewContest.php?id=2965",
-    "total_competitors": 8,
+    "total_competitors": 7,
     "results": [
       {
         "rank": "-",
-        "person_name": "Destiney Bass",
+        "person_name": "Morgan Irons",
         "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Breon  Broussard",
-        "country": "USA",
-        "score": 0.0
+        "score": 19.0
       },
       {
         "rank": "-",
         "person_name": "Inez Carrasquillo",
         "country": "PUR",
-        "score": 0.0
+        "score": 16.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Destiney Bass",
+        "country": "USA",
+        "score": 13.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Breon  Broussard",
+        "country": "USA",
+        "score": 12.0
       },
       {
         "rank": "-",
         "person_name": "Taylor Doxey",
         "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Rebecca Houston",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Morgan Irons",
-        "country": "USA",
-        "score": 0.0
+        "score": 11.0
       },
       {
         "rank": "-",
         "person_name": "Jasmine McNeer",
         "country": "USA",
-        "score": 0.0
+        "score": 9.0
       },
       {
         "rank": "-",
         "person_name": "Francesca  Nicoletti",
         "country": "USA",
-        "score": 0.0
+        "score": 3.0
       }
     ]
   },
@@ -184087,49 +184081,43 @@
     "contest_name": "2026 U105 America's Strongest Man",
     "details": "Las Vegas, Nevada, 2026-09-25 to 2026-09-26",
     "url": "https://strongmanarchives.com/viewContest.php?id=2966",
-    "total_competitors": 7,
+    "total_competitors": 6,
     "results": [
       {
         "rank": "-",
-        "person_name": "Damon Curtis",
+        "person_name": "Alec Soukup",
         "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "John Doyle",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jacob Fery",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Tyler Keating",
-        "country": "USA",
-        "score": 0.0
+        "score": 16.0
       },
       {
         "rank": "-",
         "person_name": "Geoff Laney",
         "country": "USA",
-        "score": 0.0
+        "score": 15.0
       },
       {
         "rank": "-",
         "person_name": "Matt Powell",
         "country": "USA",
-        "score": 0.0
+        "score": 13.0
       },
       {
         "rank": "-",
-        "person_name": "Alec Soukup",
+        "person_name": "Jacob Fery",
         "country": "USA",
-        "score": 0.0
+        "score": 10.0
+      },
+      {
+        "rank": "-",
+        "person_name": "John Doyle",
+        "country": "USA",
+        "score": 6.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Damon Curtis",
+        "country": "USA",
+        "score": 2.0
       }
     ]
   },
@@ -184142,39 +184130,39 @@
     "results": [
       {
         "rank": "-",
-        "person_name": "Mary Clark-Kuebler",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
         "person_name": "Hanna Coldiron",
         "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Meg Davis",
-        "country": "USA",
-        "score": 0.0
+        "score": 15.5
       },
       {
         "rank": "-",
         "person_name": "Krystal Krause",
         "country": "USA",
-        "score": 0.0
+        "score": 14.0
       },
       {
         "rank": "-",
-        "person_name": "Emma Longley",
+        "person_name": "Meg Davis",
         "country": "USA",
-        "score": 0.0
+        "score": 11.5
+      },
+      {
+        "rank": "-",
+        "person_name": "Mary Clark-Kuebler",
+        "country": "USA",
+        "score": 11.0
       },
       {
         "rank": "-",
         "person_name": "Kelsie Sherman",
         "country": "USA",
-        "score": 0.0
+        "score": 7.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Emma Longley",
+        "country": "USA",
+        "score": 3.0
       }
     ]
   },
@@ -184183,31 +184171,25 @@
     "contest_name": "2026 U82 America's Strongest Woman",
     "details": "Las Vegas, Nevada, 2026-09-25 to 2026-09-26",
     "url": "https://strongmanarchives.com/viewContest.php?id=2968",
-    "total_competitors": 4,
+    "total_competitors": 3,
     "results": [
       {
         "rank": "-",
         "person_name": "Sue Eger",
         "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Sara Hanson",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Ashleigh Morris",
-        "country": "USA",
-        "score": 0.0
+        "score": 8.5
       },
       {
         "rank": "-",
         "person_name": "Kim Scott",
         "country": "USA",
-        "score": 0.0
+        "score": 5.5
+      },
+      {
+        "rank": "-",
+        "person_name": "Sara Hanson",
+        "country": "USA",
+        "score": 4.0
       }
     ]
   },
@@ -184220,44 +184202,83 @@
     "results": [
       {
         "rank": "-",
-        "person_name": "Robert Babitz",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Kyle Clossick",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
         "person_name": "Tyler Davis",
         "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Christopher Krause",
-        "country": "USA",
-        "score": 0.0
+        "score": 19.0
       },
       {
         "rank": "-",
         "person_name": "Dillon Thompson",
         "country": "USA",
-        "score": 0.0
+        "score": 18.0
       },
       {
         "rank": "-",
-        "person_name": "Derek Waters",
+        "person_name": "Robert Babitz",
         "country": "USA",
-        "score": 0.0
+        "score": 15.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Christopher Krause",
+        "country": "USA",
+        "score": 13.0
       },
       {
         "rank": "-",
         "person_name": "Ryan  Weiner",
         "country": "USA",
+        "score": 10.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kyle Clossick",
+        "country": "USA",
+        "score": 4.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Derek Waters",
+        "country": "USA",
+        "score": 4.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2970,
+    "contest_name": "2026 European Strongman Championship",
+    "details": "Semmering, Austria, 2026-09-26",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2970",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Szilárd Barta",
+        "country": "HUN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Håkon Heitmann Kollerød",
+        "country": "NOR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Łukasz Kieliszkowski",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Paweł Piskorz",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Muhammad Ali Tokhtamatov",
+        "country": "UZB",
         "score": 0.0
       }
     ]
