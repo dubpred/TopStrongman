@@ -154717,64 +154717,64 @@
     "total_competitors": 10,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Anders Aslak",
-        "country": "DEN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Chris Beetham",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jamie Butler",
-        "country": "WAL",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Alex Feri",
-        "country": "ENG",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Zack Hill",
-        "country": "ENG",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Pavlo Kordiyaka",
         "country": "UKR",
-        "score": 0.0
+        "score": 37.5
       },
       {
-        "rank": "-",
-        "person_name": "Dean Mason",
+        "rank": "2",
+        "person_name": "Zack Hill",
         "country": "ENG",
-        "score": 0.0
+        "score": 34.5
       },
       {
-        "rank": "-",
-        "person_name": "Jamie Nelson",
-        "country": "WAL",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Tom Place",
         "country": "ENG",
-        "score": 0.0
+        "score": 33.5
       },
       {
-        "rank": "-",
+        "rank": "4",
         "person_name": "Paul Smith",
         "country": "ENG",
-        "score": 0.0
+        "score": 32.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Anders Aslak",
+        "country": "DEN",
+        "score": 28.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Jamie Butler",
+        "country": "WAL",
+        "score": 27.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Dean Mason",
+        "country": "ENG",
+        "score": 25.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Jamie Nelson",
+        "country": "WAL",
+        "score": 23.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Alex Feri",
+        "country": "ENG",
+        "score": 17.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Chris Beetham",
+        "country": "SCO",
+        "score": 15.0
       }
     ]
   },
@@ -154783,55 +154783,49 @@
     "contest_name": "2026 Summit of Strength (Women)",
     "details": "Rotherham, England, 2026-09-26",
     "url": "https://strongmanarchives.com/viewContest.php?id=2460",
-    "total_competitors": 8,
+    "total_competitors": 7,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Allyson Abbs",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Cassandra Annergren",
-        "country": "SWE",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Angéline Berva",
         "country": "FRA",
-        "score": 0.0
+        "score": 29.5
       },
       {
-        "rank": "-",
-        "person_name": "Chloe Brennan",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Rachel Greener",
-        "country": "SCO",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Gemma Moore",
-        "country": "IRL",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Erin Murray",
         "country": "USA",
-        "score": 0.0
+        "score": 28.5
       },
       {
-        "rank": "-",
+        "rank": "3",
+        "person_name": "Rachel Greener",
+        "country": "SCO",
+        "score": 24.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Cassandra Annergren",
+        "country": "SWE",
+        "score": 20.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Allyson Abbs",
+        "country": "USA",
+        "score": 12.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Chloe Brennan",
+        "country": "GBR",
+        "score": 12.0
+      },
+      {
+        "rank": "7",
         "person_name": "Sam Taylor",
         "country": "WAL",
-        "score": 0.0
+        "score": 11.0
       }
     ]
   },
@@ -182674,73 +182668,55 @@
     "contest_name": "2026 Strongest Woman In Canada",
     "details": "Quebec City, Canada, 2026-09-26 to 2026-09-27",
     "url": "https://strongmanarchives.com/viewContest.php?id=2939",
-    "total_competitors": 11,
+    "total_competitors": 8,
     "results": [
       {
         "rank": "-",
         "person_name": "Samantha Belliveau",
         "country": "CAN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Stephanie Bisignano",
-        "country": "CAN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Rey Blais",
-        "country": "CAN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Bailey Deschene",
-        "country": "CAN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Samantha Koski-Moffat",
-        "country": "CAN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Marie-Fée Leroux",
-        "country": "CAN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Mick MacAdoo",
-        "country": "CAN",
-        "score": 0.0
+        "score": 22.0
       },
       {
         "rank": "-",
         "person_name": "Jackie Osczevski",
         "country": "CAN",
-        "score": 0.0
+        "score": 22.0
       },
       {
         "rank": "-",
-        "person_name": "Jo-Annie Paquet",
+        "person_name": "Bailey Deschene",
         "country": "CAN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Ashley Telford",
-        "country": "CAN",
-        "score": 0.0
+        "score": 18.0
       },
       {
         "rank": "-",
         "person_name": "Sarah-Jeanne Voyer",
         "country": "CAN",
-        "score": 0.0
+        "score": 11.5
+      },
+      {
+        "rank": "-",
+        "person_name": "Marie-Fée Leroux",
+        "country": "CAN",
+        "score": 11.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ashley Telford",
+        "country": "CAN",
+        "score": 10.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Mick MacAdoo",
+        "country": "CAN",
+        "score": 6.5
+      },
+      {
+        "rank": "-",
+        "person_name": "Jo-Annie Paquet",
+        "country": "CAN",
+        "score": 4.0
       }
     ]
   },
@@ -183952,76 +183928,76 @@
     "total_competitors": 12,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Roy Orrantia",
+        "rank": "1",
+        "person_name": "Martel Johnson",
         "country": "USA",
-        "score": 32.5
+        "score": 60.0
       },
       {
-        "rank": "-",
-        "person_name": "Martel Johnson",
+        "rank": "2",
+        "person_name": "Evan Singleton",
+        "country": "USA",
+        "score": 56.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Roy Orrantia",
+        "country": "USA",
+        "score": 55.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Tim Buck",
+        "country": "USA",
+        "score": 52.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Beau Bathery",
+        "country": "USA",
+        "score": 46.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Jonathan Kilen",
+        "country": "USA",
+        "score": 38.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Joshua Ficklin",
+        "country": "USA",
+        "score": 34.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Tyler Collins",
+        "country": "USA",
+        "score": 33.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Benjamin Ripa",
         "country": "USA",
         "score": 29.0
       },
       {
-        "rank": "-",
-        "person_name": "Tim Buck",
-        "country": "USA",
-        "score": 23.5
-      },
-      {
-        "rank": "-",
-        "person_name": "Evan Singleton",
-        "country": "USA",
-        "score": 23.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Joshua Ficklin",
-        "country": "USA",
-        "score": 21.5
-      },
-      {
-        "rank": "-",
-        "person_name": "Beau Bathery",
-        "country": "USA",
-        "score": 21.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Benjamin Ripa",
-        "country": "USA",
-        "score": 20.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Tyler Collins",
-        "country": "USA",
-        "score": 19.5
-      },
-      {
-        "rank": "-",
-        "person_name": "Jonathan Kilen",
-        "country": "USA",
-        "score": 19.0
-      },
-      {
-        "rank": "-",
+        "rank": "10",
         "person_name": "Trotter Barringer",
         "country": "USA",
-        "score": 14.5
+        "score": 27.5
       },
       {
-        "rank": "-",
+        "rank": "11",
         "person_name": "Christian Davis",
         "country": "USA",
-        "score": 7.5
+        "score": 27.5
       },
       {
-        "rank": "-",
+        "rank": "12",
         "person_name": "Jeremy  Herron",
         "country": "USA",
-        "score": 2.0
+        "score": 6.0
       }
     ]
   },
@@ -184033,46 +184009,46 @@
     "total_competitors": 7,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Morgan Irons",
-        "country": "USA",
-        "score": 19.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Inez Carrasquillo",
         "country": "PUR",
-        "score": 16.0
+        "score": 37.0
       },
       {
-        "rank": "-",
-        "person_name": "Destiney Bass",
+        "rank": "2",
+        "person_name": "Morgan Irons",
         "country": "USA",
-        "score": 13.0
+        "score": 35.0
       },
       {
-        "rank": "-",
-        "person_name": "Breon  Broussard",
-        "country": "USA",
-        "score": 12.0
-      },
-      {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Taylor Doxey",
         "country": "USA",
-        "score": 11.0
+        "score": 26.0
       },
       {
-        "rank": "-",
+        "rank": "4",
+        "person_name": "Destiney Bass",
+        "country": "USA",
+        "score": 24.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Breon  Broussard",
+        "country": "USA",
+        "score": 24.0
+      },
+      {
+        "rank": "6",
         "person_name": "Jasmine McNeer",
         "country": "USA",
-        "score": 9.0
+        "score": 10.0
       },
       {
-        "rank": "-",
+        "rank": "7",
         "person_name": "Francesca  Nicoletti",
         "country": "USA",
-        "score": 3.0
+        "score": 9.0
       }
     ]
   },
@@ -184084,37 +184060,37 @@
     "total_competitors": 6,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Alec Soukup",
+        "country": "USA",
+        "score": 30.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jacob Fery",
+        "country": "USA",
+        "score": 26.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Matt Powell",
+        "country": "USA",
+        "score": 24.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Geoff Laney",
+        "country": "USA",
+        "score": 24.0
+      },
+      {
+        "rank": "5",
+        "person_name": "John Doyle",
         "country": "USA",
         "score": 16.0
       },
       {
-        "rank": "-",
-        "person_name": "Geoff Laney",
-        "country": "USA",
-        "score": 15.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Matt Powell",
-        "country": "USA",
-        "score": 13.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jacob Fery",
-        "country": "USA",
-        "score": 10.0
-      },
-      {
-        "rank": "-",
-        "person_name": "John Doyle",
-        "country": "USA",
-        "score": 6.0
-      },
-      {
-        "rank": "-",
+        "rank": "6",
         "person_name": "Damon Curtis",
         "country": "USA",
         "score": 2.0
@@ -184129,40 +184105,40 @@
     "total_competitors": 6,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Hanna Coldiron",
         "country": "USA",
-        "score": 15.5
+        "score": 31.5
       },
       {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Krystal Krause",
         "country": "USA",
-        "score": 14.0
+        "score": 27.0
       },
       {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Meg Davis",
         "country": "USA",
-        "score": 11.5
+        "score": 26.5
       },
       {
-        "rank": "-",
+        "rank": "4",
         "person_name": "Mary Clark-Kuebler",
         "country": "USA",
-        "score": 11.0
+        "score": 19.0
       },
       {
-        "rank": "-",
+        "rank": "5",
         "person_name": "Kelsie Sherman",
         "country": "USA",
-        "score": 7.0
+        "score": 13.0
       },
       {
-        "rank": "-",
+        "rank": "6",
         "person_name": "Emma Longley",
         "country": "USA",
-        "score": 3.0
+        "score": 8.0
       }
     ]
   },
@@ -184174,22 +184150,22 @@
     "total_competitors": 3,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Sue Eger",
         "country": "USA",
-        "score": 8.5
+        "score": 14.5
       },
       {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Kim Scott",
         "country": "USA",
-        "score": 5.5
+        "score": 12.5
       },
       {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Sara Hanson",
         "country": "USA",
-        "score": 4.0
+        "score": 9.0
       }
     ]
   },
@@ -184201,46 +184177,46 @@
     "total_competitors": 7,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Tyler Davis",
         "country": "USA",
-        "score": 19.0
+        "score": 39.0
       },
       {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Dillon Thompson",
         "country": "USA",
-        "score": 18.0
+        "score": 37.0
       },
       {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Robert Babitz",
         "country": "USA",
-        "score": 15.0
+        "score": 23.0
       },
       {
-        "rank": "-",
+        "rank": "4",
         "person_name": "Christopher Krause",
         "country": "USA",
-        "score": 13.0
+        "score": 22.0
       },
       {
-        "rank": "-",
+        "rank": "5",
         "person_name": "Ryan  Weiner",
         "country": "USA",
-        "score": 10.0
+        "score": 22.0
       },
       {
-        "rank": "-",
+        "rank": "6",
         "person_name": "Kyle Clossick",
         "country": "USA",
-        "score": 4.0
+        "score": 12.0
       },
       {
-        "rank": "-",
+        "rank": "7",
         "person_name": "Derek Waters",
         "country": "USA",
-        "score": 4.0
+        "score": 10.0
       }
     ]
   },
@@ -184249,37 +184225,88 @@
     "contest_name": "2026 European Strongman Championship",
     "details": "Semmering, Austria, 2026-09-26",
     "url": "https://strongmanarchives.com/viewContest.php?id=2970",
-    "total_competitors": 5,
+    "total_competitors": 4,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Szilárd Barta",
-        "country": "HUN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Håkon Heitmann Kollerød",
-        "country": "NOR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Łukasz Kieliszkowski",
-        "country": "POL",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Paweł Piskorz",
         "country": "POL",
-        "score": 0.0
+        "score": 17.0
       },
       {
-        "rank": "-",
-        "person_name": "Muhammad Ali Tokhtamatov",
-        "country": "UZB",
-        "score": 0.0
+        "rank": "2",
+        "person_name": "Håkon Heitmann Kollerød",
+        "country": "NOR",
+        "score": 11.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Łukasz Kieliszkowski",
+        "country": "POL",
+        "score": 10.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Szilárd Barta",
+        "country": "HUN",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2971,
+    "contest_name": "2026 PSL U73kg Championship",
+    "details": "Salt Lake City, Utah, 2026-09-26",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2971",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Sarah Johnson",
+        "country": "USA",
+        "score": 44.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Grace Ingebritson",
+        "country": "USA",
+        "score": 36.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Jenny Draper",
+        "country": "USA",
+        "score": 34.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Taylor Peck",
+        "country": "CAN",
+        "score": 28.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Taylor Woods",
+        "country": "CAN",
+        "score": 28.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Janessa  Milbrodt",
+        "country": "USA",
+        "score": 15.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Jamie Strong",
+        "country": "USA",
+        "score": 15.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Rachel Cornish",
+        "country": "USA",
+        "score": 11.0
       }
     ]
   }
