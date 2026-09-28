@@ -182671,52 +182671,52 @@
     "total_competitors": 8,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Samantha Belliveau",
-        "country": "CAN",
-        "score": 22.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Jackie Osczevski",
         "country": "CAN",
-        "score": 22.0
+        "score": 38.0
       },
       {
-        "rank": "-",
+        "rank": "2",
+        "person_name": "Samantha Belliveau",
+        "country": "CAN",
+        "score": 35.5
+      },
+      {
+        "rank": "3",
         "person_name": "Bailey Deschene",
         "country": "CAN",
-        "score": 18.0
+        "score": 30.5
       },
       {
-        "rank": "-",
+        "rank": "4",
         "person_name": "Sarah-Jeanne Voyer",
         "country": "CAN",
-        "score": 11.5
+        "score": 19.5
       },
       {
-        "rank": "-",
-        "person_name": "Marie-Fée Leroux",
-        "country": "CAN",
-        "score": 11.0
-      },
-      {
-        "rank": "-",
+        "rank": "5",
         "person_name": "Ashley Telford",
         "country": "CAN",
-        "score": 10.0
+        "score": 17.0
       },
       {
-        "rank": "-",
+        "rank": "6",
+        "person_name": "Marie-Fée Leroux",
+        "country": "CAN",
+        "score": 15.0
+      },
+      {
+        "rank": "7",
         "person_name": "Mick MacAdoo",
         "country": "CAN",
-        "score": 6.5
+        "score": 14.5
       },
       {
-        "rank": "-",
+        "rank": "8",
         "person_name": "Jo-Annie Paquet",
         "country": "CAN",
-        "score": 4.0
+        "score": 6.0
       }
     ]
   },
@@ -184307,6 +184307,111 @@
         "person_name": "Rachel Cornish",
         "country": "USA",
         "score": 11.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2972,
+    "contest_name": "2026 U64 America's Strongest Woman",
+    "details": "Pittsburgh, Pennsylvania , 2026-05-17",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2972",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Carlee Olivera",
+        "country": "USA",
+        "score": 18.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Megan Mooskian",
+        "country": "USA",
+        "score": 10.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Tiffany Martino",
+        "country": "USA",
+        "score": 7.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2973,
+    "contest_name": "2026 U80 America's Strongest Man",
+    "details": "Pittsburgh, Pennsylvania, 2026-05-17",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2973",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mason Cupp",
+        "country": "USA",
+        "score": 40.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jake Reece",
+        "country": "USA",
+        "score": 31.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Steve Coyne",
+        "country": "USA",
+        "score": 29.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Cody Abell",
+        "country": "USA",
+        "score": 24.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Aaron  Talavera",
+        "country": "USA",
+        "score": 16.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Bobby Stanley",
+        "country": "USA",
+        "score": 14.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Alexander Moy",
+        "country": "USA",
+        "score": 9.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2974,
+    "contest_name": "2025 U82 America's Strongest Woman",
+    "details": "Beaver Falls, Pennsylvania, 2025-07-19",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2974",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jessica Mitchell",
+        "country": "USA",
+        "score": 11.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Bailey Deschene",
+        "country": "USA",
+        "score": 11.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Meg Davis",
+        "country": "USA",
+        "score": 8.0
       }
     ]
   }
