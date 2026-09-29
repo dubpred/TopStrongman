@@ -184414,5 +184414,503 @@
         "score": 8.0
       }
     ]
+  },
+  {
+    "contest_id": 2975,
+    "contest_name": "2026 Sword of MatÃºÅ¡ ÄÃ¡k",
+    "details": "TrenÄÃ­n, Slovakia, 2026-09-26",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2975",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Pierre Motal",
+        "country": "FRA",
+        "score": 24.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Ľubomír Stromko",
+        "country": "SVK",
+        "score": 15.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Ivan Hryhorovskyy",
+        "country": "UKR",
+        "score": 10.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Dušan Jovanović",
+        "country": "SRB",
+        "score": 10.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Bogdan Vuković",
+        "country": "SRB",
+        "score": 8.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2976,
+    "contest_name": "2026 PSL Trophy",
+    "details": "DunajskÃ¡ Streda, Slovakia, 2026-09-25",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2976",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jan Lacina",
+        "country": "CZE",
+        "score": 150.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "score": 150.0
+      },
+      {
+        "rank": "3",
+        "person_name": "František Nový",
+        "country": "CZE",
+        "score": 140.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Jaroslav Mockovčiak",
+        "country": "SVK",
+        "score": 135.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Oskar Ziółkowski",
+        "country": "POL",
+        "score": 130.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Donatas Maskolaitis",
+        "country": "LTU",
+        "score": 90.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Ferenc Kovács",
+        "country": "HUN",
+        "score": 60.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Ákos Labát",
+        "country": "SVK",
+        "score": 60.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Jakub Szczechowski",
+        "country": "POL",
+        "score": 10.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2977,
+    "contest_name": "2023 Masters 50+ OSG European Championships",
+    "details": "London, England, 2023-08-11 to 2023-08-13",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2977",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mark Felix",
+        "country": "GBR",
+        "score": 22.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Richard Birchmore",
+        "country": "GBR",
+        "score": 17.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Andy Clarke",
+        "country": "GBR",
+        "score": 13.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Ivan Murphy",
+        "country": "GBR",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2978,
+    "contest_name": "2024 Masters 50+ OSG European Championships",
+    "details": "York, England, 2024-08-17 to 2024-08-18",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2978",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mark Felix",
+        "country": "GBR",
+        "score": 44.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Richard Birchmore",
+        "country": "GBR",
+        "score": 41.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Artur Patyk",
+        "country": "POL",
+        "score": 27.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Ivan Murphy",
+        "country": "GBR",
+        "score": 21.5
+      },
+      {
+        "rank": "5",
+        "person_name": "John Else",
+        "country": "GBR",
+        "score": 19.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Alar Lõhmus",
+        "country": "EST",
+        "score": 18.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Andrew Burns",
+        "country": "GBR",
+        "score": 17.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Scott Lansdowne",
+        "country": "GBR",
+        "score": 16.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Nick  Miles",
+        "country": "GBR",
+        "score": 10.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2979,
+    "contest_name": "2024 Masters OSG European Championships (Women)",
+    "details": "York, England, 2024-08-17 to 2024-08-18",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2979",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Naomi Hadley",
+        "country": "ENG",
+        "score": 45.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Michaela Pearson",
+        "country": "ENG",
+        "score": 40.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Claire Myler",
+        "country": "WAL",
+        "score": 40.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Andrea Seed",
+        "country": "ENG",
+        "score": 39.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Meg Robson-Austin",
+        "country": "ENG",
+        "score": 24.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Kikki Berli-Johnsen",
+        "country": "NOR",
+        "score": 21.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Sally Brierley",
+        "country": "ENG",
+        "score": 14.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Emma Calder-Crone",
+        "country": "ENG",
+        "score": 14.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Jo Warburton",
+        "country": "ENG",
+        "score": 13.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Nikki Ellerington",
+        "country": "ENG",
+        "score": 7.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2980,
+    "contest_name": "2024 Masters OSG European Championships (Men)",
+    "details": "York, England, 2024-08-17 to 2024-08-18",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2980",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Romek Velt",
+        "country": "EST",
+        "score": 48.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Anton Larsson",
+        "country": "SWE",
+        "score": 46.0
+      },
+      {
+        "rank": "3",
+        "person_name": "James Stuart",
+        "country": "GBR",
+        "score": 44.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Glen Cutler",
+        "country": "ENG",
+        "score": 38.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Dainius Repšys",
+        "country": "LTU",
+        "score": 34.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Matthew Riddall",
+        "country": "ESP",
+        "score": 32.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Mike Arkwright",
+        "country": "ENG",
+        "score": 27.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Ryan Gray",
+        "country": "ENG",
+        "score": 27.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Keoghan Litchfield",
+        "country": "ENG",
+        "score": 20.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Jonathan Kelly",
+        "country": "IRL",
+        "score": 17.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Kiel Dewar",
+        "country": "ENG",
+        "score": 12.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Sigfús Þorgeir Fossdal",
+        "country": "ISL",
+        "score": 11.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2981,
+    "contest_name": "2023 Masters OSG European Championships (Women)",
+    "details": "London, England, 2023-08-11 to 2023-08-13",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2981",
+    "total_competitors": 11,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Naomi Hadley",
+        "country": "ENG",
+        "score": 61.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Claire Myler",
+        "country": "WAL",
+        "score": 55.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Anna Harjapää",
+        "country": "SWE",
+        "score": 55.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Ayshea Ullah",
+        "country": "IRL",
+        "score": 42.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Meg Robson-Austin",
+        "country": "ENG",
+        "score": 37.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Annika Karhu",
+        "country": "FIN",
+        "score": 37.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Gail McComiskey",
+        "country": "NIR",
+        "score": 27.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Kikki Berli-Johnsen",
+        "country": "NOR",
+        "score": 26.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Carly Mear",
+        "country": "ENG",
+        "score": 19.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Reni Hein",
+        "country": "GER",
+        "score": 8.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Lynsey King",
+        "country": "SCO",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2982,
+    "contest_name": "2023 Masters OSG European Championships (Men)",
+    "details": "London, England, 2023-08-11 to 2023-08-13",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2982",
+    "total_competitors": 11,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Johan Espenkrona",
+        "country": "SWE",
+        "score": 60.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Fredrik Svensson",
+        "country": "SWE",
+        "score": 54.5
+      },
+      {
+        "rank": "3",
+        "person_name": "James Stuart",
+        "country": "GBR",
+        "score": 47.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Sigfús Þorgeir Fossdal",
+        "country": "ISL",
+        "score": 45.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Dainius Repšys",
+        "country": "LTU",
+        "score": 40.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Matthew Riddall",
+        "country": "ESP",
+        "score": 38.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Jonathan Kelly",
+        "country": "IRL",
+        "score": 36.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Jarkko Malinen",
+        "country": "FIN",
+        "score": 26.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Jonathan Hines",
+        "country": "GBR",
+        "score": 24.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Romek Velt",
+        "country": "EST",
+        "score": 6.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Veli-Pekka Kauhanen",
+        "country": "FIN",
+        "score": 0.0
+      }
+    ]
   }
 ]
