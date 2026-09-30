@@ -184912,5 +184912,965 @@
         "score": 0.0
       }
     ]
+  },
+  {
+    "contest_id": 2983,
+    "contest_name": "2023 U73 OSG European Championships",
+    "details": "London, England, 2023-08-11 to 2023-08-13",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2983",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Chloe Brennan",
+        "country": "GBR",
+        "score": 31.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jenny Todd",
+        "country": "USA",
+        "score": 31.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Rachael Greathead",
+        "country": "GBR",
+        "score": 27.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Sarah Reynolds",
+        "country": "IRL",
+        "score": 20.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Jatta Sipola",
+        "country": "FIN",
+        "score": 18.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Sina Schramme",
+        "country": "GER",
+        "score": 13.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Becky  Noon",
+        "country": "GBR",
+        "score": 13.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2984,
+    "contest_name": "2023 U82 OSG European Championships",
+    "details": "London, England, 2023-08-11 to 2023-08-13",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2984",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Sandra Bradley",
+        "country": "GER",
+        "score": 58.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Donna Moore",
+        "country": "GBR",
+        "score": 54.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Aneta Brzakova",
+        "country": "GBR",
+        "score": 44.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Rebecca Worgan",
+        "country": "GBR",
+        "score": 32.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Gemma Ferguson",
+        "country": "GBR",
+        "score": 28.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Alexandra Alexa",
+        "country": "GBR",
+        "score": 27.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Emma Grunnill",
+        "country": "GBR",
+        "score": 26.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Hope Christie",
+        "country": "GBR",
+        "score": 15.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Jess Tait",
+        "country": "GBR",
+        "score": 13.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Jade  Hoare",
+        "country": "IRL",
+        "score": 11.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2985,
+    "contest_name": "2023 U64 OSG European Championships",
+    "details": "London, England, 2023-08-11 to 2023-08-13",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2985",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Rhianon Lovelace",
+        "country": "GBR",
+        "score": 72.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Kate Connolly",
+        "country": "GBR",
+        "score": 61.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Alessandra Menaglio",
+        "country": "ITA",
+        "score": 47.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Shannon Peters",
+        "country": "GBR",
+        "score": 41.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Charlotte Hayden",
+        "country": "GBR",
+        "score": 41.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Andrine Helgesen",
+        "country": "NOR",
+        "score": 39.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Tatiana Cousins",
+        "country": "SVK",
+        "score": 37.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Molly Wagstaff",
+        "country": "GBR",
+        "score": 37.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Eilidh Greig",
+        "country": "GBR",
+        "score": 21.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Charlee Robinson",
+        "country": "GBR",
+        "score": 20.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Emma  Wilson",
+        "country": "GBR",
+        "score": 17.0
+      },
+      {
+        "rank": "12",
+        "person_name": "Louise Dalgren",
+        "country": "GER",
+        "score": 11.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2986,
+    "contest_name": "2023 U80 OSG European Championships",
+    "details": "London, England, 2023-08-11 to 2023-08-13",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2986",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Dean McVie",
+        "country": "GBR",
+        "score": 52.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Chris Harper",
+        "country": "GBR",
+        "score": 47.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Kyle Scott",
+        "country": "GBR",
+        "score": 39.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Sonny Nash",
+        "country": "GBR",
+        "score": 36.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Maximilian Wunderlich",
+        "country": "GER",
+        "score": 34.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Danny Ashcroft",
+        "country": "GBR",
+        "score": 34.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Richard Molnar",
+        "country": "GBR",
+        "score": 33.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Finlay Mercer",
+        "country": "GBR",
+        "score": 27.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Remco Sanders",
+        "country": "NED",
+        "score": 17.0
+      },
+      {
+        "rank": "10",
+        "person_name": "George Latham",
+        "country": "GBR",
+        "score": 6.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2987,
+    "contest_name": "2023 U90 OSG European Championships",
+    "details": "London, England, 2023-08-11 to 2023-08-13",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2987",
+    "total_competitors": 16,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Dan Benson",
+        "country": "GBR",
+        "score": 73.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Ollie Clarke",
+        "country": "GBR",
+        "score": 73.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Gavin McNamee",
+        "country": "IRL",
+        "score": 72.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Benjamin Donin",
+        "country": "FRA",
+        "score": 66.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Joni Rautiainen",
+        "country": "FIN",
+        "score": 60.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Viktor Lingman",
+        "country": "SWE",
+        "score": 58.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Siebe Janssen",
+        "country": "NED",
+        "score": 52.0
+      },
+      {
+        "rank": "8",
+        "person_name": "David Kent",
+        "country": "GBR",
+        "score": 49.5
+      },
+      {
+        "rank": "9",
+        "person_name": "David Zemlicka",
+        "country": "CZE",
+        "score": 48.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Craig Smith",
+        "country": "GBR",
+        "score": 45.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Josh Lancaster",
+        "country": "GBR",
+        "score": 45.0
+      },
+      {
+        "rank": "12",
+        "person_name": "Giovanni Luciano",
+        "country": "ITA",
+        "score": 37.0
+      },
+      {
+        "rank": "13",
+        "person_name": "Steven Wylie",
+        "country": "GBR",
+        "score": 35.0
+      },
+      {
+        "rank": "14",
+        "person_name": "Mark Burke",
+        "country": "IRL",
+        "score": 34.0
+      },
+      {
+        "rank": "15",
+        "person_name": "Stefan Schuessler",
+        "country": "GER",
+        "score": 28.0
+      },
+      {
+        "rank": "16",
+        "person_name": "Harry Rogers",
+        "country": "GBR",
+        "score": 24.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2988,
+    "contest_name": "2023 U105 OSG European Championships",
+    "details": "London, England, 2023-08-11 to 2023-08-13",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2988",
+    "total_competitors": 13,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Emanuel Pescari",
+        "country": "AUT",
+        "score": 65.5
+      },
+      {
+        "rank": "2",
+        "person_name": "William Relf",
+        "country": "GBR",
+        "score": 59.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Matthew McKeegan",
+        "country": "IRL",
+        "score": 58.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Jaroslav Štastný",
+        "country": "CZE",
+        "score": 56.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Shaun Diver",
+        "country": "IRL",
+        "score": 47.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Christopher Harrison",
+        "country": "GBR",
+        "score": 44.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Radek Srb",
+        "country": "CZE",
+        "score": 43.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Yoell Blom",
+        "country": "NED",
+        "score": 36.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Tom Owens",
+        "country": "GBR",
+        "score": 35.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Dean Maden",
+        "country": "GBR",
+        "score": 31.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Glenn Helge Kvilhaugsvik",
+        "country": "NOR",
+        "score": 28.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Patrik Kohout",
+        "country": "CZE",
+        "score": 25.5
+      },
+      {
+        "rank": "13",
+        "person_name": "Stuart Basford",
+        "country": "GBR",
+        "score": 12.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2989,
+    "contest_name": "2024 U64 OSG European Championships",
+    "details": "York, England, 2024-08-17 to 2024-08-18",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2989",
+    "total_competitors": 13,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Kate Connolly",
+        "country": "GBR",
+        "score": 61.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Shannon Smith",
+        "country": "GBR",
+        "score": 54.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Andrine Helgesen",
+        "country": "NOR",
+        "score": 47.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Alessandra Menaglio",
+        "country": "ITA",
+        "score": 43.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Scarlett Harvey",
+        "country": "GBR",
+        "score": 40.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Bronwen Price",
+        "country": "GBR",
+        "score": 33.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Tatiana Cousins",
+        "country": "SVK",
+        "score": 31.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Tiffany Peters",
+        "country": "GBR",
+        "score": 27.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Elizabeth Guild",
+        "country": "GBR",
+        "score": 23.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Nicole Aston",
+        "country": "GBR",
+        "score": 19.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Emma  Wilson",
+        "country": "GBR",
+        "score": 17.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Charlotte Hayden",
+        "country": "GBR",
+        "score": 15.0
+      },
+      {
+        "rank": "13",
+        "person_name": "Melanie  Cuff",
+        "country": "GBR",
+        "score": 11.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2990,
+    "contest_name": "2024 U73 OSG European Championships",
+    "details": "York, England, 2024-08-17 to 2024-08-18",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2990",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Nicola Bennett",
+        "country": "GBR",
+        "score": 56.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Rosie Abercrombie",
+        "country": "GBR",
+        "score": 51.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Rachael Greathead",
+        "country": "GBR",
+        "score": 41.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Angéline Berva",
+        "country": "FRA",
+        "score": 35.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Jatta Sipola",
+        "country": "FIN",
+        "score": 32.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Molly Wagstaff",
+        "country": "GBR",
+        "score": 31.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Emily Norley",
+        "country": "GBR",
+        "score": 27.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Heather Holden",
+        "country": "GBR",
+        "score": 22.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Jess Tait",
+        "country": "GBR",
+        "score": 19.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Diane Gaughan",
+        "country": "GBR",
+        "score": 15.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Eliza Bull",
+        "country": "GBR",
+        "score": 9.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Assunta Petrosino",
+        "country": "ITA",
+        "score": 3.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2991,
+    "contest_name": "2024 U82 OSG European Championships",
+    "details": "York, England, 2024-08-17 to 2024-08-18",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2991",
+    "total_competitors": 11,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Sabrina Retzer",
+        "country": "GER",
+        "score": 52.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Rebecca Worgan",
+        "country": "GBR",
+        "score": 40.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Emma Grunnill",
+        "country": "GBR",
+        "score": 37.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Nadine Guy",
+        "country": "GBR",
+        "score": 33.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Jade Crouch",
+        "country": "GBR",
+        "score": 26.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Gemma Ferguson",
+        "country": "GBR",
+        "score": 22.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Hanne Gausland",
+        "country": "NOR",
+        "score": 21.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Pandora Holladay",
+        "country": "GBR",
+        "score": 11.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Jamie Lee Boudri",
+        "country": "NED",
+        "score": 10.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Rachel Greener",
+        "country": "GBR",
+        "score": 9.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Anna Árnadóttir",
+        "country": "ISL",
+        "score": 8.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2992,
+    "contest_name": "2024 U80 OSG European Championships",
+    "details": "York, England, 2024-08-17 to 2024-08-18",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2992",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Chris Harper",
+        "country": "GBR",
+        "score": 55.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Joe Kennedy",
+        "country": "GBR",
+        "score": 45.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Richard Molnar",
+        "country": "GBR",
+        "score": 41.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Finlay Mercer",
+        "country": "GBR",
+        "score": 36.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Lee Kelly",
+        "country": "GBR",
+        "score": 33.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Maximilian Wunderlich",
+        "country": "GER",
+        "score": 32.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Jonas Bertschinger",
+        "country": "SUI",
+        "score": 31.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Kyle Scott",
+        "country": "GBR",
+        "score": 28.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Mads Even Bjorheim",
+        "country": "NOR",
+        "score": 27.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Patrick Harris",
+        "country": "GBR",
+        "score": 25.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Sonny Nash",
+        "country": "GBR",
+        "score": 23.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Petr Merglesky",
+        "country": "CZE",
+        "score": 10.5
+      }
+    ]
+  },
+  {
+    "contest_id": 2993,
+    "contest_name": "2024 U90 OSG European Championships",
+    "details": "York, England, 2024-08-17 to 2024-08-18",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2993",
+    "total_competitors": 14,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jake Allen",
+        "country": "GBR",
+        "score": 54.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Dan Benson",
+        "country": "GBR",
+        "score": 49.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Volker Bauer",
+        "country": "GER",
+        "score": 48.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Filip Zajíček",
+        "country": "CZE",
+        "score": 46.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Harry Rogers",
+        "country": "GBR",
+        "score": 44.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Will  Clarke",
+        "country": "GBR",
+        "score": 43.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Joni Rautiainen",
+        "country": "FIN",
+        "score": 41.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Viktor Lingman",
+        "country": "SWE",
+        "score": 36.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Josh Lancaster",
+        "country": "GBR",
+        "score": 35.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Szymon Peplinski",
+        "country": "POL",
+        "score": 30.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Gardar Ólafsson",
+        "country": "ISL",
+        "score": 26.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Thomas Steinacker",
+        "country": "AUT",
+        "score": 23.5
+      },
+      {
+        "rank": "13",
+        "person_name": "Rodolphe Vanherpen",
+        "country": "FRA",
+        "score": 22.0
+      },
+      {
+        "rank": "14",
+        "person_name": "Stefan Schuessler",
+        "country": "GER",
+        "score": 22.0
+      }
+    ]
+  },
+  {
+    "contest_id": 2994,
+    "contest_name": "2024 U105 OSG European Championships",
+    "details": "York, England, 2024-08-17 to 2024-08-18",
+    "url": "https://strongmanarchives.com/viewContest.php?id=2994",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Matthew McKeegan",
+        "country": "IRL",
+        "score": 53.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Yevhenii Nastenko",
+        "country": "UKR",
+        "score": 51.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Tom Owens",
+        "country": "GBR",
+        "score": 43.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Luke Williams",
+        "country": "GBR",
+        "score": 38.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Boyd Francis",
+        "country": "GBR",
+        "score": 34.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Norbert Svarc",
+        "country": "CZE",
+        "score": 33.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Gavin Bruce",
+        "country": "GBR",
+        "score": 30.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Jordon Rea",
+        "country": "GBR",
+        "score": 29.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Craig Hughes",
+        "country": "GBR",
+        "score": 27.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Ollie Clarke",
+        "country": "GBR",
+        "score": 22.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Guido Taglioretti",
+        "country": "ITA",
+        "score": 8.0
+      },
+      {
+        "rank": "12",
+        "person_name": "Aaron McLaughlin",
+        "country": "IRL",
+        "score": 7.0
+      }
+    ]
   }
 ]
