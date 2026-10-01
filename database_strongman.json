@@ -1459,7 +1459,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Mitchell",
     "Compititor_LName": "Hooper",
-    "difficulty": 641.3,
+    "difficulty": 641.0,
     "country_code": "CAN",
     "division": "men"
   },
@@ -1471,7 +1471,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Trey",
     "Compititor_LName": "Mitchell",
-    "difficulty": 641.3,
+    "difficulty": 641.0,
     "country_code": "USA",
     "division": "men"
   },
@@ -1483,7 +1483,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Luke",
     "Compititor_LName": "Richardson",
-    "difficulty": 641.3,
+    "difficulty": 641.0,
     "country_code": "GBR",
     "division": "men"
   },
@@ -1495,7 +1495,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Luke",
     "Compititor_LName": "Stoltman",
-    "difficulty": 641.3,
+    "difficulty": 641.0,
     "country_code": "GBR",
     "division": "men"
   },
@@ -1507,7 +1507,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Evans",
     "Compititor_LName": "Nana Aryee",
-    "difficulty": 641.3,
+    "difficulty": 641.0,
     "country_code": "GHA",
     "division": "men"
   },
@@ -1519,7 +1519,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Wesley",
     "Compititor_LName": "Derwinsky",
-    "difficulty": 641.3,
+    "difficulty": 641.0,
     "country_code": "CAN",
     "division": "men"
   },
@@ -1531,7 +1531,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Spenser",
     "Compititor_LName": "Remick",
-    "difficulty": 641.3,
+    "difficulty": 641.0,
     "country_code": "USA",
     "division": "men"
   },
@@ -1543,7 +1543,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Kane",
     "Compititor_LName": "Francis",
-    "difficulty": 641.3,
+    "difficulty": 641.0,
     "country_code": "GBR",
     "division": "men"
   },
@@ -1555,7 +1555,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Pavlo",
     "Compititor_LName": "Kordiyaka",
-    "difficulty": 641.3,
+    "difficulty": 641.0,
     "country_code": "UKR",
     "division": "men"
   },
@@ -1567,7 +1567,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Roman",
     "Compititor_LName": "Grekov",
-    "difficulty": 641.3,
+    "difficulty": 641.0,
     "country_code": "UKR",
     "division": "men"
   },
@@ -1579,7 +1579,7 @@
     "PlacementRank": 11,
     "Competitor_fName": "Chris",
     "Compititor_LName": "Beetham",
-    "difficulty": 641.3,
+    "difficulty": 641.0,
     "country_code": "GBR",
     "division": "men"
   },
@@ -1591,7 +1591,7 @@
     "PlacementRank": 12,
     "Competitor_fName": "Jaco",
     "Compititor_LName": "Schoonwinkel",
-    "difficulty": 641.3,
+    "difficulty": 641.0,
     "country_code": "RSA",
     "division": "men"
   },
@@ -2599,7 +2599,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Mitchell",
     "Compititor_LName": "Hooper",
-    "difficulty": 535.7,
+    "difficulty": 535.5,
     "country_code": "CAN",
     "division": "men"
   },
@@ -2611,7 +2611,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Maxime",
     "Compititor_LName": "Boudreault",
-    "difficulty": 535.7,
+    "difficulty": 535.5,
     "country_code": "CAN",
     "division": "men"
   },
@@ -2623,7 +2623,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Luke",
     "Compititor_LName": "Richardson",
-    "difficulty": 535.7,
+    "difficulty": 535.5,
     "country_code": "GBR",
     "division": "men"
   },
@@ -2635,7 +2635,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Thomas",
     "Compititor_LName": "Evans",
-    "difficulty": 535.7,
+    "difficulty": 535.5,
     "country_code": "USA",
     "division": "men"
   },
@@ -2647,7 +2647,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Evan",
     "Compititor_LName": "Singleton",
-    "difficulty": 535.7,
+    "difficulty": 535.5,
     "country_code": "USA",
     "division": "men"
   },
@@ -2659,7 +2659,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Oleksii",
     "Compititor_LName": "Novikov",
-    "difficulty": 535.7,
+    "difficulty": 535.5,
     "country_code": "UKR",
     "division": "men"
   },
@@ -2671,7 +2671,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Ondřej",
     "Compititor_LName": "Fojtů",
-    "difficulty": 535.7,
+    "difficulty": 535.5,
     "country_code": "CZE",
     "division": "men"
   },
@@ -2683,7 +2683,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Aivars",
     "Compititor_LName": "Šmaukstelis",
-    "difficulty": 535.7,
+    "difficulty": 535.5,
     "country_code": "LAT",
     "division": "men"
   },
@@ -2695,7 +2695,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Kevin",
     "Compititor_LName": "Faires",
-    "difficulty": 535.7,
+    "difficulty": 535.5,
     "country_code": "USA",
     "division": "men"
   },
@@ -2707,7 +2707,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Paddy",
     "Compititor_LName": "Haynes",
-    "difficulty": 535.7,
+    "difficulty": 535.5,
     "country_code": "GBR",
     "division": "men"
   },
@@ -2719,7 +2719,7 @@
     "PlacementRank": 11,
     "Competitor_fName": "Gavin",
     "Compititor_LName": "Bilton",
-    "difficulty": 535.7,
+    "difficulty": 535.5,
     "country_code": "GBR",
     "division": "men"
   },
@@ -2731,7 +2731,7 @@
     "PlacementRank": 12,
     "Competitor_fName": "Nathan",
     "Compititor_LName": "Goltry",
-    "difficulty": 535.7,
+    "difficulty": 535.5,
     "country_code": "USA",
     "division": "men"
   },
@@ -3199,7 +3199,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Luke",
     "Compititor_LName": "Richardson",
-    "difficulty": 432.3,
+    "difficulty": 432.1,
     "country_code": "GBR",
     "division": "men"
   },
@@ -3211,7 +3211,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Ondřej",
     "Compititor_LName": "Fojtů",
-    "difficulty": 432.3,
+    "difficulty": 432.1,
     "country_code": "CZE",
     "division": "men"
   },
@@ -3223,7 +3223,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Andrew",
     "Compititor_LName": "Flynn",
-    "difficulty": 432.3,
+    "difficulty": 432.1,
     "country_code": "GBR",
     "division": "men"
   },
@@ -3235,7 +3235,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Evans",
     "Compititor_LName": "Nana Aryee",
-    "difficulty": 432.3,
+    "difficulty": 432.1,
     "country_code": "GHA",
     "division": "men"
   },
@@ -3247,7 +3247,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Tom",
     "Compititor_LName": "Stoltman",
-    "difficulty": 432.3,
+    "difficulty": 432.1,
     "country_code": "GBR",
     "division": "men"
   },
@@ -3259,7 +3259,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Ryan",
     "Compititor_LName": "Bennett",
-    "difficulty": 432.3,
+    "difficulty": 432.1,
     "country_code": "GBR",
     "division": "men"
   },
@@ -3271,7 +3271,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Gavin",
     "Compititor_LName": "Bilton",
-    "difficulty": 432.3,
+    "difficulty": 432.1,
     "country_code": "GBR",
     "division": "men"
   },
@@ -3283,7 +3283,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Maxime",
     "Compititor_LName": "Boudreault",
-    "difficulty": 432.3,
+    "difficulty": 432.1,
     "country_code": "CAN",
     "division": "men"
   },
@@ -3295,7 +3295,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "James",
     "Compititor_LName": "Jeffers",
-    "difficulty": 432.3,
+    "difficulty": 432.1,
     "country_code": "CAN",
     "division": "men"
   },
@@ -3307,7 +3307,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Callum",
     "Compititor_LName": "Crozier",
-    "difficulty": 432.3,
+    "difficulty": 432.1,
     "country_code": "GBR",
     "division": "men"
   },
@@ -3319,7 +3319,7 @@
     "PlacementRank": 11,
     "Competitor_fName": "Oleh",
     "Compititor_LName": "Pylypiak",
-    "difficulty": 432.3,
+    "difficulty": 432.1,
     "country_code": "UKR",
     "division": "men"
   },
@@ -3331,7 +3331,7 @@
     "PlacementRank": 12,
     "Competitor_fName": "Tim",
     "Compititor_LName": "Buck",
-    "difficulty": 432.3,
+    "difficulty": 432.1,
     "country_code": "USA",
     "division": "men"
   },
@@ -3343,7 +3343,7 @@
     "PlacementRank": 13,
     "Competitor_fName": "Mateusz",
     "Compititor_LName": "Kieliszkowski",
-    "difficulty": 432.3,
+    "difficulty": 432.1,
     "country_code": "POL",
     "division": "men"
   },
@@ -3847,7 +3847,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Luke",
     "Compititor_LName": "Richardson",
-    "difficulty": 364.3,
+    "difficulty": 364.1,
     "country_code": "GBR",
     "division": "men"
   },
@@ -3859,7 +3859,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Paddy",
     "Compititor_LName": "Haynes",
-    "difficulty": 364.3,
+    "difficulty": 364.1,
     "country_code": "GBR",
     "division": "men"
   },
@@ -3871,7 +3871,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Mateusz",
     "Compititor_LName": "Kieliszkowski",
-    "difficulty": 364.3,
+    "difficulty": 364.1,
     "country_code": "POL",
     "division": "men"
   },
@@ -3883,7 +3883,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Ondřej",
     "Compititor_LName": "Fojtů",
-    "difficulty": 364.3,
+    "difficulty": 364.1,
     "country_code": "CZE",
     "division": "men"
   },
@@ -3895,7 +3895,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Pavlo",
     "Compititor_LName": "Kordiyaka",
-    "difficulty": 364.3,
+    "difficulty": 364.1,
     "country_code": "UKR",
     "division": "men"
   },
@@ -3907,7 +3907,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Andrew",
     "Compititor_LName": "Flynn",
-    "difficulty": 364.3,
+    "difficulty": 364.1,
     "country_code": "GBR",
     "division": "men"
   },
@@ -3919,7 +3919,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Rauno",
     "Compititor_LName": "Heinla",
-    "difficulty": 364.3,
+    "difficulty": 364.1,
     "country_code": "EST",
     "division": "men"
   },
@@ -3931,7 +3931,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Pa",
     "Compititor_LName": "O'Dwyer",
-    "difficulty": 364.3,
+    "difficulty": 364.1,
     "country_code": "IRL",
     "division": "men"
   },
@@ -3943,7 +3943,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Aivars",
     "Compititor_LName": "Šmaukstelis",
-    "difficulty": 364.3,
+    "difficulty": 364.1,
     "country_code": "LAT",
     "division": "men"
   },
@@ -3955,7 +3955,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Nicolas",
     "Compititor_LName": "Cambi",
-    "difficulty": 364.3,
+    "difficulty": 364.1,
     "country_code": "ITA",
     "division": "men"
   },
@@ -3967,7 +3967,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Luke",
     "Compititor_LName": "Stoltman",
-    "difficulty": 364.3,
+    "difficulty": 364.1,
     "country_code": "GBR",
     "division": "men"
   },
@@ -3979,7 +3979,7 @@
     "PlacementRank": 12,
     "Competitor_fName": "Gavin",
     "Compititor_LName": "Bilton",
-    "difficulty": 364.3,
+    "difficulty": 364.1,
     "country_code": "GBR",
     "division": "men"
   },
@@ -6931,7 +6931,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Kane",
     "Compititor_LName": "Francis",
-    "difficulty": 211.4,
+    "difficulty": 211.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -6943,7 +6943,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Andrew",
     "Compititor_LName": "Flynn",
-    "difficulty": 211.4,
+    "difficulty": 211.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -6955,7 +6955,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Paddy",
     "Compititor_LName": "Haynes",
-    "difficulty": 211.4,
+    "difficulty": 211.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -6967,7 +6967,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Luke",
     "Compititor_LName": "Richardson",
-    "difficulty": 211.4,
+    "difficulty": 211.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -6979,7 +6979,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Ben",
     "Compititor_LName": "Glasscock",
-    "difficulty": 211.4,
+    "difficulty": 211.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -6991,7 +6991,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "John",
     "Compititor_LName": "Harker",
-    "difficulty": 211.4,
+    "difficulty": 211.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -7003,7 +7003,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "William",
     "Compititor_LName": "Relf",
-    "difficulty": 211.4,
+    "difficulty": 211.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -7015,7 +7015,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Joe",
     "Compititor_LName": "Oliver",
-    "difficulty": 211.4,
+    "difficulty": 211.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -7027,7 +7027,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Mark",
     "Compititor_LName": "Felix",
-    "difficulty": 211.4,
+    "difficulty": 211.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -7039,7 +7039,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Jack",
     "Compititor_LName": "Osborn",
-    "difficulty": 211.4,
+    "difficulty": 211.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -7051,7 +7051,7 @@
     "PlacementRank": 11,
     "Competitor_fName": "Ryan",
     "Compititor_LName": "Bennett",
-    "difficulty": 211.4,
+    "difficulty": 211.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -7063,7 +7063,7 @@
     "PlacementRank": 12,
     "Competitor_fName": "Tom",
     "Compititor_LName": "Place",
-    "difficulty": 211.4,
+    "difficulty": 211.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -7075,7 +7075,7 @@
     "PlacementRank": 13,
     "Competitor_fName": "Mitch",
     "Compititor_LName": "Flowers",
-    "difficulty": 211.4,
+    "difficulty": 211.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -7087,7 +7087,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Evan",
     "Compititor_LName": "Singleton",
-    "difficulty": 206.6,
+    "difficulty": 206.5,
     "country_code": "USA",
     "division": "men"
   },
@@ -7099,7 +7099,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Oleksii",
     "Compititor_LName": "Novikov",
-    "difficulty": 206.6,
+    "difficulty": 206.5,
     "country_code": "UKR",
     "division": "men"
   },
@@ -7111,7 +7111,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Trey",
     "Compititor_LName": "Mitchell",
-    "difficulty": 206.6,
+    "difficulty": 206.5,
     "country_code": "USA",
     "division": "men"
   },
@@ -7123,7 +7123,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Jean-François",
     "Compititor_LName": "Caron",
-    "difficulty": 206.6,
+    "difficulty": 206.5,
     "country_code": "CAN",
     "division": "men"
   },
@@ -7135,7 +7135,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Mark",
     "Compititor_LName": "Felix",
-    "difficulty": 206.6,
+    "difficulty": 206.5,
     "country_code": "GBR",
     "division": "men"
   },
@@ -7147,7 +7147,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Andy",
     "Compititor_LName": "Black",
-    "difficulty": 206.6,
+    "difficulty": 206.5,
     "country_code": "GBR",
     "division": "men"
   },
@@ -7159,7 +7159,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Nedžmin",
     "Compititor_LName": "Ambešković",
-    "difficulty": 206.6,
+    "difficulty": 206.5,
     "country_code": "BIH",
     "division": "men"
   },
@@ -7171,7 +7171,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Pa",
     "Compititor_LName": "O'Dwyer",
-    "difficulty": 206.6,
+    "difficulty": 206.5,
     "country_code": "IRL",
     "division": "men"
   },
@@ -7183,7 +7183,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Luke",
     "Compititor_LName": "Stoltman",
-    "difficulty": 206.6,
+    "difficulty": 206.5,
     "country_code": "GBR",
     "division": "men"
   },
@@ -7195,7 +7195,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Tom",
     "Compititor_LName": "Stoltman",
-    "difficulty": 206.6,
+    "difficulty": 206.5,
     "country_code": "GBR",
     "division": "men"
   },
@@ -7207,7 +7207,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Luke",
     "Compititor_LName": "Richardson",
-    "difficulty": 202.4,
+    "difficulty": 202.2,
     "country_code": "GBR",
     "division": "men"
   },
@@ -7219,7 +7219,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Adam",
     "Compititor_LName": "Roszkowski",
-    "difficulty": 202.4,
+    "difficulty": 202.2,
     "country_code": "POL",
     "division": "men"
   },
@@ -7231,7 +7231,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Evans",
     "Compititor_LName": "Nana Aryee",
-    "difficulty": 202.4,
+    "difficulty": 202.2,
     "country_code": "GHA",
     "division": "men"
   },
@@ -7243,7 +7243,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Kevin",
     "Compititor_LName": "Hazeleger",
-    "difficulty": 202.4,
+    "difficulty": 202.2,
     "country_code": "NED",
     "division": "men"
   },
@@ -7255,7 +7255,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Jesper",
     "Compititor_LName": "Hansson",
-    "difficulty": 202.4,
+    "difficulty": 202.2,
     "country_code": "SWE",
     "division": "men"
   },
@@ -7267,7 +7267,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Patrick",
     "Compititor_LName": "Eibel",
-    "difficulty": 202.4,
+    "difficulty": 202.2,
     "country_code": "GER",
     "division": "men"
   },
@@ -7279,7 +7279,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Péter",
     "Compititor_LName": "Juhász",
-    "difficulty": 202.4,
+    "difficulty": 202.2,
     "country_code": "HUN",
     "division": "men"
   },
@@ -7291,7 +7291,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Brian",
     "Compititor_LName": "Kichton",
-    "difficulty": 202.4,
+    "difficulty": 202.2,
     "country_code": "USA",
     "division": "men"
   },
@@ -7303,7 +7303,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Mika",
     "Compititor_LName": "Törrö",
-    "difficulty": 202.4,
+    "difficulty": 202.2,
     "country_code": "FIN",
     "division": "men"
   },
@@ -7315,7 +7315,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Luca",
     "Compititor_LName": "Heijster",
-    "difficulty": 202.4,
+    "difficulty": 202.2,
     "country_code": "NED",
     "division": "men"
   },
@@ -7327,7 +7327,7 @@
     "PlacementRank": 11,
     "Competitor_fName": "Johan",
     "Compititor_LName": "Langhorst",
-    "difficulty": 202.4,
+    "difficulty": 202.2,
     "country_code": "NED",
     "division": "men"
   },
@@ -7339,7 +7339,7 @@
     "PlacementRank": 12,
     "Competitor_fName": "Guus",
     "Compititor_LName": "Palmer",
-    "difficulty": 202.4,
+    "difficulty": 202.2,
     "country_code": "NED",
     "division": "men"
   },
@@ -8611,7 +8611,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Luke",
     "Compititor_LName": "Richardson",
-    "difficulty": 180.6,
+    "difficulty": 180.4,
     "country_code": "ENG",
     "division": "men"
   },
@@ -8623,7 +8623,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Kane",
     "Compititor_LName": "Francis",
-    "difficulty": 180.6,
+    "difficulty": 180.4,
     "country_code": "ENG",
     "division": "men"
   },
@@ -8635,7 +8635,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Paddy",
     "Compititor_LName": "Haynes",
-    "difficulty": 180.6,
+    "difficulty": 180.4,
     "country_code": "ENG",
     "division": "men"
   },
@@ -8647,7 +8647,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Paul",
     "Compititor_LName": "Smith",
-    "difficulty": 180.6,
+    "difficulty": 180.4,
     "country_code": "ENG",
     "division": "men"
   },
@@ -8659,7 +8659,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Andrew",
     "Compititor_LName": "Flynn",
-    "difficulty": 180.6,
+    "difficulty": 180.4,
     "country_code": "ENG",
     "division": "men"
   },
@@ -8671,7 +8671,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Jack",
     "Compititor_LName": "Osborn",
-    "difficulty": 180.6,
+    "difficulty": 180.4,
     "country_code": "ENG",
     "division": "men"
   },
@@ -8683,7 +8683,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Mark",
     "Compititor_LName": "Felix",
-    "difficulty": 180.6,
+    "difficulty": 180.4,
     "country_code": "ENG",
     "division": "men"
   },
@@ -8695,7 +8695,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "John",
     "Compititor_LName": "Harker",
-    "difficulty": 180.6,
+    "difficulty": 180.4,
     "country_code": "ENG",
     "division": "men"
   },
@@ -8707,7 +8707,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Josh",
     "Compititor_LName": "Brown",
-    "difficulty": 180.6,
+    "difficulty": 180.4,
     "country_code": "ENG",
     "division": "men"
   },
@@ -8719,7 +8719,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Shane",
     "Compititor_LName": "Nye",
-    "difficulty": 180.6,
+    "difficulty": 180.4,
     "country_code": "ENG",
     "division": "men"
   },
@@ -8731,7 +8731,7 @@
     "PlacementRank": 11,
     "Competitor_fName": "Ben",
     "Compititor_LName": "Glasscock",
-    "difficulty": 180.6,
+    "difficulty": 180.4,
     "country_code": "ENG",
     "division": "men"
   },
@@ -8743,7 +8743,7 @@
     "PlacementRank": 12,
     "Competitor_fName": "Ben",
     "Compititor_LName": "Williams",
-    "difficulty": 180.6,
+    "difficulty": 180.4,
     "country_code": "ENG",
     "division": "men"
   },
@@ -11299,7 +11299,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Andrew",
     "Compititor_LName": "Flynn",
-    "difficulty": 137.4,
+    "difficulty": 137.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -11311,7 +11311,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Joe",
     "Compititor_LName": "Oliver",
-    "difficulty": 137.4,
+    "difficulty": 137.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -11323,7 +11323,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Ben",
     "Compititor_LName": "Glasscock",
-    "difficulty": 137.4,
+    "difficulty": 137.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -11335,7 +11335,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Luke",
     "Compititor_LName": "Richardson",
-    "difficulty": 137.4,
+    "difficulty": 137.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -11347,7 +11347,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Paul",
     "Compititor_LName": "Smith",
-    "difficulty": 137.4,
+    "difficulty": 137.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -11359,7 +11359,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Tom",
     "Compititor_LName": "Place",
-    "difficulty": 137.4,
+    "difficulty": 137.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -11371,7 +11371,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Zack",
     "Compititor_LName": "Hill",
-    "difficulty": 137.4,
+    "difficulty": 137.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -11383,7 +11383,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "William",
     "Compititor_LName": "Relf",
-    "difficulty": 137.4,
+    "difficulty": 137.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -11395,7 +11395,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Dean",
     "Compititor_LName": "Mason",
-    "difficulty": 137.4,
+    "difficulty": 137.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -11407,7 +11407,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Ryan",
     "Compititor_LName": "Bennett",
-    "difficulty": 137.4,
+    "difficulty": 137.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -11419,7 +11419,7 @@
     "PlacementRank": 11,
     "Competitor_fName": "Josh",
     "Compititor_LName": "Brown",
-    "difficulty": 137.4,
+    "difficulty": 137.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -11431,7 +11431,7 @@
     "PlacementRank": 12,
     "Competitor_fName": "Paddy",
     "Compititor_LName": "Haynes",
-    "difficulty": 137.4,
+    "difficulty": 137.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -21079,7 +21079,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Pavlo",
     "Compititor_LName": "Kordiyaka",
-    "difficulty": 67.3,
+    "difficulty": 67.2,
     "country_code": "UKR",
     "division": "men"
   },
@@ -21091,7 +21091,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Zack",
     "Compititor_LName": "Hill",
-    "difficulty": 67.3,
+    "difficulty": 67.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -21103,7 +21103,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Tom",
     "Compititor_LName": "Place",
-    "difficulty": 67.3,
+    "difficulty": 67.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -21115,7 +21115,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Paul",
     "Compititor_LName": "Smith",
-    "difficulty": 67.3,
+    "difficulty": 67.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -21127,7 +21127,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Anders",
     "Compititor_LName": "Aslak",
-    "difficulty": 67.3,
+    "difficulty": 67.2,
     "country_code": "DEN",
     "division": "men"
   },
@@ -21139,7 +21139,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Jamie",
     "Compititor_LName": "Butler",
-    "difficulty": 67.3,
+    "difficulty": 67.2,
     "country_code": "WAL",
     "division": "men"
   },
@@ -21151,7 +21151,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Dean",
     "Compititor_LName": "Mason",
-    "difficulty": 67.3,
+    "difficulty": 67.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -21163,7 +21163,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Jamie",
     "Compititor_LName": "Nelson",
-    "difficulty": 67.3,
+    "difficulty": 67.2,
     "country_code": "WAL",
     "division": "men"
   },
@@ -21175,7 +21175,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Alex",
     "Compititor_LName": "Feri",
-    "difficulty": 67.3,
+    "difficulty": 67.2,
     "country_code": "ENG",
     "division": "men"
   },
@@ -21187,7 +21187,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Chris",
     "Compititor_LName": "Beetham",
-    "difficulty": 67.3,
+    "difficulty": 67.2,
     "country_code": "SCO",
     "division": "men"
   },
@@ -39655,7 +39655,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Paul",
     "Compititor_LName": "Smith",
-    "difficulty": 34.1,
+    "difficulty": 34.0,
     "country_code": "ENG",
     "division": "men"
   },
@@ -39667,7 +39667,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Louis",
     "Compititor_LName": "Jack",
-    "difficulty": 34.1,
+    "difficulty": 34.0,
     "country_code": "SCO",
     "division": "men"
   },
@@ -39679,7 +39679,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Andrew",
     "Compititor_LName": "Flynn",
-    "difficulty": 34.1,
+    "difficulty": 34.0,
     "country_code": "ENG",
     "division": "men"
   },
@@ -39691,7 +39691,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Shaun",
     "Compititor_LName": "Diver",
-    "difficulty": 34.1,
+    "difficulty": 34.0,
     "country_code": "IRL",
     "division": "men"
   },
@@ -39703,7 +39703,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Matt",
     "Compititor_LName": "Dimond",
-    "difficulty": 34.1,
+    "difficulty": 34.0,
     "country_code": "WAL",
     "division": "men"
   },
@@ -39715,7 +39715,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Chris",
     "Compititor_LName": "Beetham",
-    "difficulty": 34.1,
+    "difficulty": 34.0,
     "country_code": "SCO",
     "division": "men"
   },
@@ -39727,7 +39727,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Cilléin",
     "Compititor_LName": "Groom",
-    "difficulty": 34.1,
+    "difficulty": 34.0,
     "country_code": "IRL",
     "division": "men"
   },
@@ -39739,7 +39739,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Stephen",
     "Compititor_LName": "Jackson",
-    "difficulty": 34.1,
+    "difficulty": 34.0,
     "country_code": "SCO",
     "division": "men"
   },
@@ -44527,7 +44527,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Ryan",
     "Compititor_LName": "Bennett",
-    "difficulty": 30.0,
+    "difficulty": 29.9,
     "country_code": "GBR",
     "division": "men"
   },
@@ -44539,7 +44539,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Sean",
     "Compititor_LName": "Gillen",
-    "difficulty": 30.0,
+    "difficulty": 29.9,
     "country_code": "IRL",
     "division": "men"
   },
@@ -44551,7 +44551,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Dillon",
     "Compititor_LName": "Gartner",
-    "difficulty": 30.0,
+    "difficulty": 29.9,
     "country_code": "USA",
     "division": "men"
   },
@@ -44563,7 +44563,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Shane",
     "Compititor_LName": "Nye",
-    "difficulty": 30.0,
+    "difficulty": 29.9,
     "country_code": "GBR",
     "division": "men"
   },
@@ -44575,7 +44575,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Pierre",
     "Compititor_LName": "Motal",
-    "difficulty": 30.0,
+    "difficulty": 29.9,
     "country_code": "FRA",
     "division": "men"
   },
@@ -44587,7 +44587,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Paul",
     "Compititor_LName": "Smith",
-    "difficulty": 30.0,
+    "difficulty": 29.9,
     "country_code": "GBR",
     "division": "men"
   },
@@ -44599,7 +44599,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Calum",
     "Compititor_LName": "Nicholls",
-    "difficulty": 30.0,
+    "difficulty": 29.9,
     "country_code": "GBR",
     "division": "men"
   },
@@ -44611,7 +44611,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Gavin",
     "Compititor_LName": "McNamee",
-    "difficulty": 30.0,
+    "difficulty": 29.9,
     "country_code": "IRL",
     "division": "men"
   },
@@ -44623,7 +44623,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Paulius",
     "Compititor_LName": "Lukša",
-    "difficulty": 30.0,
+    "difficulty": 29.9,
     "country_code": "LTU",
     "division": "men"
   },
@@ -44635,7 +44635,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Dillon",
     "Compititor_LName": "Doyle",
-    "difficulty": 30.0,
+    "difficulty": 29.9,
     "country_code": "IRL",
     "division": "men"
   },
@@ -44647,7 +44647,7 @@
     "PlacementRank": 11,
     "Competitor_fName": "Cathal",
     "Compititor_LName": "McNally",
-    "difficulty": 30.0,
+    "difficulty": 29.9,
     "country_code": "IRL",
     "division": "men"
   },
@@ -44659,7 +44659,7 @@
     "PlacementRank": 12,
     "Competitor_fName": "Darren",
     "Compititor_LName": "Simpson",
-    "difficulty": 30.0,
+    "difficulty": 29.9,
     "country_code": "IRL",
     "division": "men"
   },
@@ -44671,7 +44671,7 @@
     "PlacementRank": 13,
     "Competitor_fName": "Liam",
     "Compititor_LName": "Shiels",
-    "difficulty": 30.0,
+    "difficulty": 29.9,
     "country_code": "IRL",
     "division": "men"
   },
@@ -44683,7 +44683,7 @@
     "PlacementRank": 14,
     "Competitor_fName": "Dan",
     "Compititor_LName": "McGuire",
-    "difficulty": 30.0,
+    "difficulty": 29.9,
     "country_code": "USA",
     "division": "men"
   },
@@ -44695,7 +44695,7 @@
     "PlacementRank": 15,
     "Competitor_fName": "Matt",
     "Compititor_LName": "Dimond",
-    "difficulty": 30.0,
+    "difficulty": 29.9,
     "country_code": "WAL",
     "division": "men"
   },

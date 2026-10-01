@@ -1320,7 +1320,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 21077.376581845747,
+    "raw_difficulty": 21072.376581845747,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -1334,13 +1334,13 @@
         "person_name": "Trey Mitchell",
         "country": "USA",
         "power": 5237.2,
-        "percent": 24.8
+        "percent": 24.9
       },
       {
         "rank": "3",
         "person_name": "Luke Richardson",
         "country": "GBR",
-        "power": 2894.1,
+        "power": 2889.1,
         "percent": 13.7
       },
       {
@@ -1432,7 +1432,7 @@
         "score": 1
       }
     ],
-    "difficulty_score": 641.3,
+    "difficulty_score": 641.0,
     "competition_rank": 12
   },
   {
@@ -2358,14 +2358,14 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 18695.892400478748,
+    "raw_difficulty": 18690.892400478748,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Mitchell Hooper",
         "country": "CAN",
         "power": 8402.9,
-        "percent": 44.9
+        "percent": 45.0
       },
       {
         "rank": "2",
@@ -2378,7 +2378,7 @@
         "rank": "3",
         "person_name": "Luke Richardson",
         "country": "GBR",
-        "power": 2894.1,
+        "power": 2889.1,
         "percent": 15.5
       },
       {
@@ -2470,7 +2470,7 @@
         "score": 8
       }
     ],
-    "difficulty_score": 535.7,
+    "difficulty_score": 535.5,
     "competition_rank": 21
   },
   {
@@ -2866,14 +2866,14 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 13,
-    "raw_difficulty": 16205.850503814534,
+    "raw_difficulty": 16200.850503814534,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Luke Richardson",
         "country": "GBR",
-        "power": 2894.1,
-        "percent": 17.9
+        "power": 2889.1,
+        "percent": 17.8
       },
       {
         "rank": "2",
@@ -2984,7 +2984,7 @@
         "score": 5.5
       }
     ],
-    "difficulty_score": 432.3,
+    "difficulty_score": 432.1,
     "competition_rank": 25
   },
   {
@@ -3398,13 +3398,13 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 14456.754801988645,
+    "raw_difficulty": 14451.754801988645,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Luke Richardson",
         "country": "GBR",
-        "power": 2894.1,
+        "power": 2889.1,
         "percent": 20.0
       },
       {
@@ -3426,7 +3426,7 @@
         "person_name": "Ondřej Fojtů",
         "country": "CZE",
         "power": 4011.6,
-        "percent": 27.7
+        "percent": 27.8
       },
       {
         "rank": "5",
@@ -3510,7 +3510,7 @@
         "score": 18
       }
     ],
-    "difficulty_score": 364.3,
+    "difficulty_score": 364.1,
     "competition_rank": 29
   },
   {
@@ -3522,7 +3522,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 14309.380648892595,
+    "raw_difficulty": 14308.287035551417,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -3556,7 +3556,7 @@
         "rank": "5",
         "person_name": "Paul Smith",
         "country": "GBR",
-        "power": 542.2,
+        "power": 541.1,
         "percent": 3.8
       }
     ],
@@ -5217,7 +5217,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 10881.478355516385,
+    "raw_difficulty": 10881.263146012743,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -5244,7 +5244,7 @@
         "rank": "4",
         "person_name": "Kane Francis",
         "country": "GBR",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 5.9
       },
       {
@@ -6098,13 +6098,13 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 13,
-    "raw_difficulty": 10057.040600654587,
+    "raw_difficulty": 10051.825391150946,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Kane Francis",
         "country": "ENG",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 6.4
       },
       {
@@ -6125,8 +6125,8 @@
         "rank": "4",
         "person_name": "Luke Richardson",
         "country": "ENG",
-        "power": 2894.1,
-        "percent": 28.8
+        "power": 2889.1,
+        "percent": 28.7
       },
       {
         "rank": "5",
@@ -6216,7 +6216,7 @@
         "score": 19.5
       }
     ],
-    "difficulty_score": 211.4,
+    "difficulty_score": 211.2,
     "competition_rank": 51
   },
   {
@@ -6228,7 +6228,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 9905.905202964486,
+    "raw_difficulty": 9901.459259085064,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -6262,8 +6262,8 @@
         "rank": "5",
         "person_name": "Mark Felix",
         "country": "GBR",
-        "power": 302.5,
-        "percent": 3.1
+        "power": 298.0,
+        "percent": 3.0
       }
     ],
     "results": [
@@ -6328,7 +6328,7 @@
         "score": 3
       }
     ],
-    "difficulty_score": 206.6,
+    "difficulty_score": 206.5,
     "competition_rank": 52
   },
   {
@@ -6340,13 +6340,13 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 9771.040890113116,
+    "raw_difficulty": 9766.040890113116,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Luke Richardson",
         "country": "GBR",
-        "power": 2894.1,
+        "power": 2889.1,
         "percent": 29.6
       },
       {
@@ -6452,7 +6452,7 @@
         "score": 2
       }
     ],
-    "difficulty_score": 202.4,
+    "difficulty_score": 202.2,
     "competition_rank": 53
   },
   {
@@ -6960,7 +6960,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 13,
-    "raw_difficulty": 9430.806568388258,
+    "raw_difficulty": 9430.591358884614,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -6994,7 +6994,7 @@
         "rank": "5",
         "person_name": "Kane Francis",
         "country": "GBR",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 6.8
       }
     ],
@@ -7326,7 +7326,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 9074.85378320609,
+    "raw_difficulty": 9074.638573702447,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -7360,7 +7360,7 @@
         "rank": "5",
         "person_name": "Kane Francis",
         "country": "ENG",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 7.1
       }
     ],
@@ -7559,23 +7559,23 @@
     "details": "Doncaster, England, 2023-10-01",
     "tier": "TIER_4",
     "tier_multiplier": 1.0,
-    "recency_multiplier": 1.0,
+    "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 9056.609868384932,
+    "raw_difficulty": 9050.301045540113,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Luke Richardson",
         "country": "ENG",
-        "power": 2894.1,
-        "percent": 32.0
+        "power": 2889.1,
+        "percent": 31.9
       },
       {
         "rank": "2",
         "person_name": "Kane Francis",
         "country": "ENG",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 7.1
       },
       {
@@ -7589,7 +7589,7 @@
         "rank": "4",
         "person_name": "Paul Smith",
         "country": "ENG",
-        "power": 542.2,
+        "power": 541.1,
         "percent": 6.0
       },
       {
@@ -7674,7 +7674,7 @@
         "score": 11.5
       }
     ],
-    "difficulty_score": 180.6,
+    "difficulty_score": 180.4,
     "competition_rank": 63
   },
   {
@@ -8312,7 +8312,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 8010.57322636439,
+    "raw_difficulty": 8010.358016860748,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -8325,7 +8325,7 @@
         "rank": "2",
         "person_name": "Kane Francis",
         "country": "GBR",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 8.0
       },
       {
@@ -8430,7 +8430,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 7980.1797465312475,
+    "raw_difficulty": 7979.0861331900705,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -8464,7 +8464,7 @@
         "rank": "5",
         "person_name": "Paul Smith",
         "country": "ENG",
-        "power": 542.2,
+        "power": 541.1,
         "percent": 6.8
       }
     ],
@@ -9410,7 +9410,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 7705.146803100905,
+    "raw_difficulty": 7703.837980256086,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -9430,7 +9430,7 @@
         "rank": "3",
         "person_name": "Kane Francis",
         "country": "ENG",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 8.3
       },
       {
@@ -9444,7 +9444,7 @@
         "rank": "5",
         "person_name": "Paul Smith",
         "country": "ENG",
-        "power": 542.2,
+        "power": 541.1,
         "percent": 7.0
       }
     ],
@@ -9770,7 +9770,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 7546.803540448413,
+    "raw_difficulty": 7546.58833094477,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -9783,7 +9783,7 @@
         "rank": "2",
         "person_name": "Kane Francis",
         "country": "GBR",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 8.5
       },
       {
@@ -9894,7 +9894,7 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 7546.555041264092,
+    "raw_difficulty": 7540.461427922916,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -9915,20 +9915,20 @@
         "person_name": "Ben Glasscock",
         "country": "ENG",
         "power": 1542.7,
-        "percent": 20.4
+        "percent": 20.5
       },
       {
         "rank": "4",
         "person_name": "Luke Richardson",
         "country": "ENG",
-        "power": 2894.1,
+        "power": 2889.1,
         "percent": 38.3
       },
       {
         "rank": "5",
         "person_name": "Paul Smith",
         "country": "ENG",
-        "power": 542.2,
+        "power": 541.1,
         "percent": 7.2
       }
     ],
@@ -10006,7 +10006,7 @@
         "score": 10
       }
     ],
-    "difficulty_score": 137.4,
+    "difficulty_score": 137.2,
     "competition_rank": 82
   },
   {
@@ -10762,7 +10762,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 7036.546346529547,
+    "raw_difficulty": 7036.331137025904,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -10782,7 +10782,7 @@
         "rank": "3",
         "person_name": "Kane Francis",
         "country": "GBR",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 9.1
       },
       {
@@ -11576,7 +11576,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 6672.624670453476,
+    "raw_difficulty": 6672.409460949833,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -11596,7 +11596,7 @@
         "rank": "3",
         "person_name": "Kane Francis",
         "country": "GBR",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 9.6
       },
       {
@@ -12862,7 +12862,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 6144.319717559633,
+    "raw_difficulty": 6144.104508055991,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -12875,7 +12875,7 @@
         "rank": "2",
         "person_name": "Kane Francis",
         "country": "GBR",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 10.4
       },
       {
@@ -13812,7 +13812,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 5713.788864812967,
+    "raw_difficulty": 5713.573655309325,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -13832,7 +13832,7 @@
         "rank": "3",
         "person_name": "Kane Francis",
         "country": "GBR",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 11.2
       },
       {
@@ -14820,7 +14820,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 5353.398169188493,
+    "raw_difficulty": 5353.18295968485,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -14840,7 +14840,7 @@
         "rank": "3",
         "person_name": "Kane Francis",
         "country": "GBR",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 12.0
       },
       {
@@ -16490,7 +16490,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 13,
-    "raw_difficulty": 5009.618652523039,
+    "raw_difficulty": 5008.525039181862,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -16524,7 +16524,7 @@
         "rank": "5",
         "person_name": "Paul Smith",
         "country": "ENG",
-        "power": 542.2,
+        "power": 541.1,
         "percent": 10.8
       }
     ],
@@ -16620,7 +16620,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 14,
-    "raw_difficulty": 5001.382895022391,
+    "raw_difficulty": 4998.48441634694,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -16634,7 +16634,7 @@
         "person_name": "Ben Glasscock",
         "country": "GBR",
         "power": 1542.7,
-        "percent": 30.8
+        "percent": 30.9
       },
       {
         "rank": "3",
@@ -16654,7 +16654,7 @@
         "rank": "5",
         "person_name": "Shane Nye",
         "country": "GBR",
-        "power": 95.7,
+        "power": 92.8,
         "percent": 1.9
       }
     ],
@@ -17022,7 +17022,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 4924.259025660271,
+    "raw_difficulty": 4924.043816156628,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -17049,7 +17049,7 @@
         "rank": "4",
         "person_name": "Kane Francis",
         "country": "GBR",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 13.0
       },
       {
@@ -17146,7 +17146,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 4918.360158242337,
+    "raw_difficulty": 4917.0513353975175,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -17160,7 +17160,7 @@
         "person_name": "Gavin Bilton",
         "country": "WAL",
         "power": 1163.0,
-        "percent": 23.6
+        "percent": 23.7
       },
       {
         "rank": "3",
@@ -17173,14 +17173,14 @@
         "rank": "4",
         "person_name": "Paul Smith",
         "country": "ENG",
-        "power": 542.2,
+        "power": 541.1,
         "percent": 11.0
       },
       {
         "rank": "5",
         "person_name": "Kane Francis",
         "country": "ENG",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 13.1
       }
     ],
@@ -18580,7 +18580,7 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 4687.988820961118,
+    "raw_difficulty": 4686.895207619941,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -18607,8 +18607,8 @@
         "rank": "4",
         "person_name": "Paul Smith",
         "country": "ENG",
-        "power": 542.2,
-        "percent": 11.6
+        "power": 541.1,
+        "percent": 11.5
       },
       {
         "rank": "5",
@@ -18680,7 +18680,7 @@
         "score": 15.0
       }
     ],
-    "difficulty_score": 67.3,
+    "difficulty_score": 67.2,
     "competition_rank": 155
   },
   {
@@ -19954,13 +19954,13 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 4455.056763769898,
+    "raw_difficulty": 4454.841554266255,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Kane Francis",
         "country": "GBR",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 14.4
       },
       {
@@ -21586,7 +21586,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 14,
-    "raw_difficulty": 4252.01535326022,
+    "raw_difficulty": 4251.800143756577,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -21613,7 +21613,7 @@
         "rank": "4",
         "person_name": "Kane Francis",
         "country": "GBR",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 15.1
       },
       {
@@ -24400,13 +24400,13 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 8,
-    "raw_difficulty": 3918.8755292660844,
+    "raw_difficulty": 3917.7819159249075,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Paul Smith",
         "country": "ENG",
-        "power": 542.2,
+        "power": 541.1,
         "percent": 13.8
       },
       {
@@ -24814,7 +24814,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 8,
-    "raw_difficulty": 3881.676875693795,
+    "raw_difficulty": 3880.583262352618,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -24834,8 +24834,8 @@
         "rank": "3",
         "person_name": "Paul Smith",
         "country": "ENG",
-        "power": 542.2,
-        "percent": 14.0
+        "power": 541.1,
+        "percent": 13.9
       },
       {
         "rank": "4",
@@ -31968,7 +31968,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 14,
-    "raw_difficulty": 3272.0852995226146,
+    "raw_difficulty": 3270.991686181438,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -31981,15 +31981,15 @@
         "rank": "2",
         "person_name": "Paul Smith",
         "country": "GBR",
-        "power": 542.2,
-        "percent": 16.6
+        "power": 541.1,
+        "percent": 16.5
       },
       {
         "rank": "3",
         "person_name": "Gavin Bilton",
         "country": "GBR",
         "power": 1163.0,
-        "percent": 35.5
+        "percent": 35.6
       },
       {
         "rank": "4",
@@ -34098,7 +34098,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 3102.247769265888,
+    "raw_difficulty": 3102.0325597622455,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -34118,7 +34118,7 @@
         "rank": "3",
         "person_name": "Kane Francis",
         "country": "GBR",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 20.7
       },
       {
@@ -34834,7 +34834,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 3053.45993551626,
+    "raw_difficulty": 3053.2447260126173,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -34861,7 +34861,7 @@
         "rank": "4",
         "person_name": "Kane Francis",
         "country": "GBR",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 21.0
       },
       {
@@ -35564,13 +35564,13 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 8,
-    "raw_difficulty": 2978.7287244982363,
+    "raw_difficulty": 2977.63511115706,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Paul Smith",
         "country": "ENG",
-        "power": 542.2,
+        "power": 541.1,
         "percent": 18.2
       },
       {
@@ -35652,7 +35652,7 @@
         "score": 5
       }
     ],
-    "difficulty_score": 34.1,
+    "difficulty_score": 34.0,
     "competition_rank": 303
   },
   {
@@ -36908,7 +36908,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 2887.3431388494782,
+    "raw_difficulty": 2887.1279293458356,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -36928,7 +36928,7 @@
         "rank": "3",
         "person_name": "Kane Francis",
         "country": "GBR",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 22.2
       },
       {
@@ -40132,7 +40132,7 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 15,
-    "raw_difficulty": 2733.867248256375,
+    "raw_difficulty": 2730.968769580924,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -40159,8 +40159,8 @@
         "rank": "4",
         "person_name": "Shane Nye",
         "country": "GBR",
-        "power": 95.7,
-        "percent": 3.5
+        "power": 92.8,
+        "percent": 3.4
       },
       {
         "rank": "5",
@@ -40262,7 +40262,7 @@
         "score": 11
       }
     ],
-    "difficulty_score": 30.0,
+    "difficulty_score": 29.9,
     "competition_rank": 344
   },
   {
@@ -44472,7 +44472,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 9,
-    "raw_difficulty": 2391.2342094007226,
+    "raw_difficulty": 2391.01899989708,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -44485,7 +44485,7 @@
         "rank": "2",
         "person_name": "Kane Francis",
         "country": "GBR",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 26.8
       },
       {
@@ -44578,13 +44578,13 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 8,
-    "raw_difficulty": 2364.6727028618125,
+    "raw_difficulty": 2363.5790895206355,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Paul Smith",
         "country": "ENG",
-        "power": 542.2,
+        "power": 541.1,
         "percent": 22.9
       },
       {
@@ -48126,13 +48126,13 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 2126.2607705791415,
+    "raw_difficulty": 2126.045561075499,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Kane Francis",
         "country": "GBR",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 30.2
       },
       {
@@ -53764,7 +53764,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 13,
-    "raw_difficulty": 1579.3823775868827,
+    "raw_difficulty": 1579.16716808324,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -53798,7 +53798,7 @@
         "rank": "5",
         "person_name": "Kane Francis",
         "country": "GBR",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 40.6
       }
     ],
@@ -56936,7 +56936,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 1267.2684802062902,
+    "raw_difficulty": 1267.0532707026475,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -56970,7 +56970,7 @@
         "rank": "5",
         "person_name": "Kane Francis",
         "country": "GBR",
-        "power": 642.0,
+        "power": 641.8,
         "percent": 50.7
       }
     ],
@@ -58704,13 +58704,13 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 8,
-    "raw_difficulty": 1119.3921213589904,
+    "raw_difficulty": 1118.2985080178134,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Paul Smith",
         "country": "GBR",
-        "power": 542.2,
+        "power": 541.1,
         "percent": 48.4
       },
       {
@@ -59198,28 +59198,28 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 1078.7172714800402,
+    "raw_difficulty": 1074.2713276006186,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Richard Birchmore",
         "country": "GBR",
         "power": 300.0,
-        "percent": 27.8
+        "percent": 27.9
       },
       {
         "rank": "2",
         "person_name": "Mark Felix",
         "country": "GBR",
-        "power": 302.5,
-        "percent": 28.0
+        "power": 298.0,
+        "percent": 27.7
       },
       {
         "rank": "3",
         "person_name": "Žydrūnas Savickas",
         "country": "LTU",
         "power": 219.7,
-        "percent": 20.4
+        "percent": 20.5
       },
       {
         "rank": "4",
@@ -59233,7 +59233,7 @@
         "person_name": "Ivan Murphy",
         "country": "GBR",
         "power": 110.4,
-        "percent": 10.2
+        "percent": 10.3
       }
     ],
     "results": [
