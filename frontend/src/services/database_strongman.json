@@ -79171,7 +79171,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Reiariki",
     "Compititor_LName": "Kimitaunga",
-    "difficulty": 4.5,
+    "difficulty": 4.4,
     "country_code": "AUS",
     "division": "women"
   },
@@ -79183,7 +79183,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Scarlett",
     "Compititor_LName": "Harvey",
-    "difficulty": 4.5,
+    "difficulty": 4.4,
     "country_code": "GBR",
     "division": "women"
   },
@@ -79195,7 +79195,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Gabrielle",
     "Compititor_LName": "Jenkins",
-    "difficulty": 4.5,
+    "difficulty": 4.4,
     "country_code": "AUS",
     "division": "women"
   },
@@ -79207,7 +79207,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Krista",
     "Compititor_LName": "Zhivago-Prall",
-    "difficulty": 4.5,
+    "difficulty": 4.4,
     "country_code": "CAN",
     "division": "women"
   },
@@ -79267,7 +79267,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Ekaterina",
     "Compititor_LName": "Zaitseva",
-    "difficulty": 0.3,
+    "difficulty": 0.2,
     "country_code": "RUS",
     "division": "women"
   },
@@ -79279,7 +79279,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Leila",
     "Compititor_LName": "Amirbekian",
-    "difficulty": 0.3,
+    "difficulty": 0.2,
     "country_code": "RUS",
     "division": "women"
   },
@@ -79291,7 +79291,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Victoria",
     "Compititor_LName": "Yakovenko",
-    "difficulty": 0.3,
+    "difficulty": 0.2,
     "country_code": "RUS",
     "division": "women"
   },
@@ -79303,7 +79303,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Nataliya",
     "Compititor_LName": "Kuznetsova",
-    "difficulty": 0.3,
+    "difficulty": 0.2,
     "country_code": "RUS",
     "division": "women"
   },
@@ -79315,7 +79315,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Olga",
     "Compititor_LName": "Yaremyuk",
-    "difficulty": 0.3,
+    "difficulty": 0.2,
     "country_code": "RUS",
     "division": "women"
   },
@@ -79327,44 +79327,8 @@
     "PlacementRank": 6,
     "Competitor_fName": "Kseniya",
     "Compititor_LName": "Baturina",
-    "difficulty": 0.3,
-    "country_code": "RUS",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2021 Middle East's Strongest Woman",
-    "Show_Promotion": "Other",
-    "Date": "2021-10-01",
-    "Year": 2021,
-    "PlacementRank": 1,
-    "Competitor_fName": "Ekaterina",
-    "Compititor_LName": "Zaitseva",
     "difficulty": 0.2,
     "country_code": "RUS",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2021 Middle East's Strongest Woman",
-    "Show_Promotion": "Other",
-    "Date": "2021-10-01",
-    "Year": 2021,
-    "PlacementRank": 2,
-    "Competitor_fName": "Brendali",
-    "Compititor_LName": "Theron",
-    "difficulty": 0.2,
-    "country_code": "RSA",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2021 Middle East's Strongest Woman",
-    "Show_Promotion": "Other",
-    "Date": "2021-10-01",
-    "Year": 2021,
-    "PlacementRank": 3,
-    "Competitor_fName": "Scarlett",
-    "Compititor_LName": "Harvey",
-    "difficulty": 0.2,
-    "country_code": "GBR",
     "division": "women"
   },
   {
