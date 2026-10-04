@@ -185872,5 +185872,1076 @@
         "score": 7.0
       }
     ]
+  },
+  {
+    "contest_id": 3001,
+    "contest_name": "2026 OSG European Championships (Men)",
+    "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3001",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Dawid Pakulski",
+        "country": "POL",
+        "score": 24.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Oskar Ziółkowski",
+        "country": "POL",
+        "score": 23.0
+      },
+      {
+        "rank": "-",
+        "person_name": "William Relf",
+        "country": "GBR",
+        "score": 20.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jamie Butler",
+        "country": "GBR",
+        "score": 19.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tomas Šliupas",
+        "country": "LTU",
+        "score": 19.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Anton Wasser",
+        "country": "SWE",
+        "score": 18.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "score": 17.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Anders Aslak",
+        "country": "DEN",
+        "score": 13.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Joe Brown",
+        "country": "GBR",
+        "score": 9.0
+      },
+      {
+        "rank": "-",
+        "person_name": "George Paunovic",
+        "country": "SUI",
+        "score": 3.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3002,
+    "contest_name": "2026 OSG European Championships (Women)",
+    "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3002",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Claire Myler",
+        "country": "GBR",
+        "score": 32.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Patricia Smit",
+        "country": "NED",
+        "score": 32.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Cassandra Annergren",
+        "country": "SWE",
+        "score": 30.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Chloe Leggett",
+        "country": "GBR",
+        "score": 23.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jade Crouch",
+        "country": "GBR",
+        "score": 22.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Mille Wolfgang Freiberg",
+        "country": "DEN",
+        "score": 22.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jade Skill",
+        "country": "GBR",
+        "score": 22.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Natalie Tung",
+        "country": "GBR",
+        "score": 16.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Stephanie Dutton",
+        "country": "GBR",
+        "score": 13.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Gee Grou",
+        "country": "GBR",
+        "score": 5.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ophelie  Mermoz",
+        "country": "FRA",
+        "score": 5.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Victoria Hookway",
+        "country": "GBR",
+        "score": 3.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3003,
+    "contest_name": "2026 U105 OSG European Championships",
+    "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3003",
+    "total_competitors": 18,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Tom Owens",
+        "country": "GBR",
+        "score": 52.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Alfie Sharplin",
+        "country": "GBR",
+        "score": 50.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Scott McGowan",
+        "country": "GBR",
+        "score": 46.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Yevhenii Nastenko",
+        "country": "UKR",
+        "score": 40.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Gavin Bruce",
+        "country": "GBR",
+        "score": 39.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Viktor Lingman",
+        "country": "SWE",
+        "score": 38.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Will  Clarke",
+        "country": "GBR",
+        "score": 31.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Matěj Svoboda",
+        "country": "CZE",
+        "score": 28.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jake O'Grady",
+        "country": "GBR",
+        "score": 27.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ben Watson",
+        "country": "GBR",
+        "score": 25.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ulvar Vahter",
+        "country": "EST",
+        "score": 24.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ryan Miles",
+        "country": "GBR",
+        "score": 22.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Chris Arnold",
+        "country": "GBR",
+        "score": 21.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Akoto Koffi",
+        "country": "FRA",
+        "score": 20.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Charlie Stickley",
+        "country": "GBR",
+        "score": 16.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Graeme Lamont",
+        "country": "GBR",
+        "score": 14.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Stuart Basford",
+        "country": "GBR",
+        "score": 13.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Mark Pearson",
+        "country": "GBR",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3004,
+    "contest_name": "2026 U90 OSG European Championships",
+    "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3004",
+    "total_competitors": 21,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Harry Rogers",
+        "country": "GBR",
+        "score": 57.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Dan Benson",
+        "country": "GBR",
+        "score": 55.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Filip Zajíček",
+        "country": "CZE",
+        "score": 52.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ollie Clarke",
+        "country": "GBR",
+        "score": 50.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Radovan  Mešina",
+        "country": "SVK",
+        "score": 43.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jordan  Cutts",
+        "country": "GBR",
+        "score": 41.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Nickolas Douville",
+        "country": "FRA",
+        "score": 41.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kyle Scott",
+        "country": "GBR",
+        "score": 39.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tom  Butts",
+        "country": "GBR",
+        "score": 36.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Connor Smith",
+        "country": "GBR",
+        "score": 36.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Avi Esdras",
+        "country": "GRE",
+        "score": 31.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Radoslav Ferjanc",
+        "country": "SVK",
+        "score": 27.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Matt Holley",
+        "country": "GBR",
+        "score": 26.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Rodolphe Vanherpen",
+        "country": "FRA",
+        "score": 26.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ashley Walker",
+        "country": "GBR",
+        "score": 26.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Christian  Alvær",
+        "country": "NOR",
+        "score": 25.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jaroslav Frantisek",
+        "country": "CZE",
+        "score": 22.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Vlăduț Angheloiu",
+        "country": "ROU",
+        "score": 19.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Thomas Kelly",
+        "country": "GBR",
+        "score": 16.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Christian von Bothmer",
+        "country": "SWE",
+        "score": 15.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Cyril Jouanique",
+        "country": "FRA",
+        "score": 10.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3005,
+    "contest_name": "2026 U80 OSG European Championships",
+    "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3005",
+    "total_competitors": 23,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Chris Harper",
+        "country": "GBR",
+        "score": 68.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Dorian Diepeveen",
+        "country": "NED",
+        "score": 60.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Connor Cowens",
+        "country": "GBR",
+        "score": 57.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jonas Bertschinger",
+        "country": "SUI",
+        "score": 53.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Thomas Hulme",
+        "country": "GBR",
+        "score": 48.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Patrick Harris",
+        "country": "GBR",
+        "score": 47.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Richard Molnar",
+        "country": "GBR",
+        "score": 47.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Perry White",
+        "country": "GBR",
+        "score": 46.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Michael Neubauer",
+        "country": "CZE",
+        "score": 43.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Petr Kalivoda",
+        "country": "CZE",
+        "score": 40.0
+      },
+      {
+        "rank": "-",
+        "person_name": "David  Armstrong",
+        "country": "GBR",
+        "score": 36.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Mads Even Bjorheim",
+        "country": "NOR",
+        "score": 35.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Lee Kelly",
+        "country": "GBR",
+        "score": 31.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Max Glover-West",
+        "country": "GBR",
+        "score": 30.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Andrew Keys",
+        "country": "GBR",
+        "score": 30.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kieren Stevens",
+        "country": "GBR",
+        "score": 28.0
+      },
+      {
+        "rank": "-",
+        "person_name": "James Watts",
+        "country": "GBR",
+        "score": 26.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Adam Bandoľa",
+        "country": "SVK",
+        "score": 22.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Adam  Beattie",
+        "country": "GBR",
+        "score": 22.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Mathieu Beauvois",
+        "country": "FRA",
+        "score": 22.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Joe  Longshaw",
+        "country": "GBR",
+        "score": 22.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ian Armstrong",
+        "country": "GBR",
+        "score": 12.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Matt Smallacombe",
+        "country": "GBR",
+        "score": 3.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3006,
+    "contest_name": "2026 Masters OSG European Championships (Men)",
+    "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3006",
+    "total_competitors": 16,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Aurélien Le Jeune",
+        "country": "FRA",
+        "score": 41.0
+      },
+      {
+        "rank": "-",
+        "person_name": "James Stuart",
+        "country": "GBR",
+        "score": 41.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Mariusz Arendacz",
+        "country": "POL",
+        "score": 40.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Andrew Lumley",
+        "country": "GBR",
+        "score": 38.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Matthew Riddall",
+        "country": "ESP",
+        "score": 32.0
+      },
+      {
+        "rank": "-",
+        "person_name": "James Merry",
+        "country": "GBR",
+        "score": 31.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Richard Turrell",
+        "country": "GBR",
+        "score": 30.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Dougie Black",
+        "country": "GBR",
+        "score": 28.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Marc Burgess",
+        "country": "GBR",
+        "score": 25.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Brandon Mandet",
+        "country": "FRA",
+        "score": 20.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Michael Forster",
+        "country": "GBR",
+        "score": 16.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Adam Sauberlich",
+        "country": "GBR",
+        "score": 15.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jonathan Mills",
+        "country": "GBR",
+        "score": 14.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Louis Ripley",
+        "country": "GBR",
+        "score": 14.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jonathan Hines",
+        "country": "GBR",
+        "score": 12.0
+      },
+      {
+        "rank": "-",
+        "person_name": "David Broomhead",
+        "country": "GBR",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3007,
+    "contest_name": "2026 Masters 50+ OSG European Championships",
+    "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3007",
+    "total_competitors": 13,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Mark Felix",
+        "country": "GBR",
+        "score": 37.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Richard Birchmore",
+        "country": "GBR",
+        "score": 35.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Stefan Bergqvist",
+        "country": "SWE",
+        "score": 31.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Alan O'Connor",
+        "country": "GBR",
+        "score": 30.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Daniel Yexley",
+        "country": "GBR",
+        "score": 28.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Aidan Kennedy",
+        "country": "IRL",
+        "score": 22.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Craig Sigerson",
+        "country": "GBR",
+        "score": 20.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Andrew Burns",
+        "country": "GBR",
+        "score": 17.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ivan Murphy",
+        "country": "GBR",
+        "score": 15.0
+      },
+      {
+        "rank": "-",
+        "person_name": "John Else",
+        "country": "GBR",
+        "score": 14.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ulf Gustavsson",
+        "country": "SWE",
+        "score": 10.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Brian Harcus",
+        "country": "GBR",
+        "score": 9.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Gareth Wallace",
+        "country": "GBR",
+        "score": 4.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3008,
+    "contest_name": "2026 U64 OSG European Championships",
+    "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3008",
+    "total_competitors": 13,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Kate Connolly",
+        "country": "GBR",
+        "score": 36.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Alessandra Menaglio",
+        "country": "ITA",
+        "score": 34.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Diane Gaughan",
+        "country": "GBR",
+        "score": 32.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Emily Norley",
+        "country": "GBR",
+        "score": 31.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Céline Mathieu",
+        "country": "FRA",
+        "score": 29.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tatiana Cousins",
+        "country": "SVK",
+        "score": 27.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Sarah Jones",
+        "country": "GBR",
+        "score": 18.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Hundra Laurens",
+        "country": "FRA",
+        "score": 16.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Emma  Wilson",
+        "country": "GBR",
+        "score": 12.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kirsty Robathan-Smith",
+        "country": "GBR",
+        "score": 11.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Rebecca Atkinson",
+        "country": "GBR",
+        "score": 8.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jemma Jelf",
+        "country": "GBR",
+        "score": 6.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Sophie Strachan",
+        "country": "GBR",
+        "score": 3.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3009,
+    "contest_name": "2026 U73 OSG European Championships",
+    "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3009",
+    "total_competitors": 15,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Rosie Abercrombie",
+        "country": "GBR",
+        "score": 39.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Heather Holden",
+        "country": "GBR",
+        "score": 36.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Stacey-Anne Pope",
+        "country": "GBR",
+        "score": 35.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Cathy Watson",
+        "country": "GBR",
+        "score": 35.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Karin Krchlíková",
+        "country": "SVK",
+        "score": 34.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tayla Southgate",
+        "country": "GBR",
+        "score": 31.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Mollie Wagstaff",
+        "country": "GBR",
+        "score": 27.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Elizabeth Seeds",
+        "country": "GBR",
+        "score": 26.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Christie Herbert",
+        "country": "GBR",
+        "score": 24.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Melanie Chlond",
+        "country": "GBR",
+        "score": 18.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Amber Joseph",
+        "country": "GBR",
+        "score": 16.0
+      },
+      {
+        "rank": "-",
+        "person_name": "April Granelli",
+        "country": "GBR",
+        "score": 15.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Desi Gillespie",
+        "country": "GBR",
+        "score": 13.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Fabienne Mendy",
+        "country": "FRA",
+        "score": 6.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Andrea Bareva",
+        "country": "CZE",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3010,
+    "contest_name": "2026 U82 OSG European Championships",
+    "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3010",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Donna Moore",
+        "country": "GBR",
+        "score": 35.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Angéline Berva",
+        "country": "FRA",
+        "score": 34.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Rebecca Worgan",
+        "country": "GBR",
+        "score": 30.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Pandora Holladay",
+        "country": "GBR",
+        "score": 23.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Shauna Moar",
+        "country": "GBR",
+        "score": 22.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Hannah Johnstone",
+        "country": "GBR",
+        "score": 20.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Hayley Black",
+        "country": "GBR",
+        "score": 17.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jess Tait",
+        "country": "GBR",
+        "score": 16.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Hannah Ross",
+        "country": "GBR",
+        "score": 15.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Beth Carpenter",
+        "country": "GBR",
+        "score": 8.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jemma Dymond",
+        "country": "GBR",
+        "score": 6.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Lisa-Marie Hassall",
+        "country": "GBR",
+        "score": 4.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3011,
+    "contest_name": "2026 Masters OSG European Championships (Women)",
+    "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3011",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Naomi Hadley",
+        "country": "GBR",
+        "score": 23.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Michaela Pearson",
+        "country": "GBR",
+        "score": 23.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Izzy Tait",
+        "country": "GBR",
+        "score": 23.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Andrea Seed",
+        "country": "GBR",
+        "score": 19.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Rajuska Podojahina",
+        "country": "GBR",
+        "score": 15.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Katie Smith",
+        "country": "GBR",
+        "score": 11.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Carys Parry",
+        "country": "GBR",
+        "score": 8.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Janne Mathisen",
+        "country": "NOR",
+        "score": 7.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Natalie Alleyne",
+        "country": "GBR",
+        "score": 5.0
+      }
+    ]
   }
 ]
