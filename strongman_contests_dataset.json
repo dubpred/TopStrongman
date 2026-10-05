@@ -185881,64 +185881,64 @@
     "total_competitors": 10,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "score": 36.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Oskar Ziółkowski",
+        "country": "POL",
+        "score": 36.0
+      },
+      {
+        "rank": "3",
+        "person_name": "William Relf",
+        "country": "GBR",
+        "score": 35.0
+      },
+      {
+        "rank": "4",
         "person_name": "Dawid Pakulski",
         "country": "POL",
+        "score": 34.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Jamie Butler",
+        "country": "GBR",
+        "score": 33.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Anton Wasser",
+        "country": "SWE",
+        "score": 30.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Anders Aslak",
+        "country": "DEN",
+        "score": 25.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Tomas Šliupas",
+        "country": "LTU",
         "score": 24.0
       },
       {
-        "rank": "-",
-        "person_name": "Oskar Ziółkowski",
-        "country": "POL",
-        "score": 23.0
-      },
-      {
-        "rank": "-",
-        "person_name": "William Relf",
+        "rank": "9",
+        "person_name": "Joe Brown",
         "country": "GBR",
-        "score": 20.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jamie Butler",
-        "country": "GBR",
-        "score": 19.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Tomas Šliupas",
-        "country": "LTU",
-        "score": 19.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Anton Wasser",
-        "country": "SWE",
-        "score": 18.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
         "score": 17.0
       },
       {
-        "rank": "-",
-        "person_name": "Anders Aslak",
-        "country": "DEN",
-        "score": 13.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Joe Brown",
-        "country": "GBR",
-        "score": 9.0
-      },
-      {
-        "rank": "-",
+        "rank": "10",
         "person_name": "George Paunovic",
         "country": "SUI",
-        "score": 3.0
+        "score": 5.0
       }
     ]
   },
@@ -185950,76 +185950,76 @@
     "total_competitors": 12,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Claire Myler",
         "country": "GBR",
-        "score": 32.0
+        "score": 55.0
       },
       {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Patricia Smit",
         "country": "NED",
-        "score": 32.0
+        "score": 50.0
       },
       {
-        "rank": "-",
-        "person_name": "Cassandra Annergren",
-        "country": "SWE",
-        "score": 30.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Chloe Leggett",
-        "country": "GBR",
-        "score": 23.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jade Crouch",
-        "country": "GBR",
-        "score": 22.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Mille Wolfgang Freiberg",
-        "country": "DEN",
-        "score": 22.0
-      },
-      {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Jade Skill",
         "country": "GBR",
-        "score": 22.0
+        "score": 45.0
       },
       {
-        "rank": "-",
+        "rank": "4",
+        "person_name": "Cassandra Annergren",
+        "country": "SWE",
+        "score": 45.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Chloe Leggett",
+        "country": "GBR",
+        "score": 43.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Jade Crouch",
+        "country": "GBR",
+        "score": 34.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Mille Wolfgang Freiberg",
+        "country": "DEN",
+        "score": 34.0
+      },
+      {
+        "rank": "8",
         "person_name": "Natalie Tung",
         "country": "GBR",
-        "score": 16.0
+        "score": 25.0
       },
       {
-        "rank": "-",
+        "rank": "9",
         "person_name": "Stephanie Dutton",
         "country": "GBR",
-        "score": 13.0
+        "score": 20.0
       },
       {
-        "rank": "-",
-        "person_name": "Gee Grou",
-        "country": "GBR",
-        "score": 5.0
-      },
-      {
-        "rank": "-",
+        "rank": "10",
         "person_name": "Ophelie  Mermoz",
         "country": "FRA",
-        "score": 5.0
+        "score": 12.0
       },
       {
-        "rank": "-",
+        "rank": "11",
         "person_name": "Victoria Hookway",
         "country": "GBR",
-        "score": 3.0
+        "score": 11.0
+      },
+      {
+        "rank": "12",
+        "person_name": "Gee Grou",
+        "country": "GBR",
+        "score": 7.0
       }
     ]
   },
@@ -186031,112 +186031,112 @@
     "total_competitors": 18,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Tom Owens",
         "country": "GBR",
-        "score": 52.0
+        "score": 84.0
       },
       {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Alfie Sharplin",
         "country": "GBR",
-        "score": 50.0
+        "score": 77.0
       },
       {
-        "rank": "-",
+        "rank": "3",
+        "person_name": "Gavin Bruce",
+        "country": "GBR",
+        "score": 71.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Yevhenii Nastenko",
+        "country": "UKR",
+        "score": 67.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Viktor Lingman",
+        "country": "SWE",
+        "score": 62.0
+      },
+      {
+        "rank": "6",
         "person_name": "Scott McGowan",
         "country": "GBR",
+        "score": 62.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Matěj Svoboda",
+        "country": "CZE",
+        "score": 54.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Ben Watson",
+        "country": "GBR",
+        "score": 54.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Will  Clarke",
+        "country": "GBR",
+        "score": 49.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Ulvar Vahter",
+        "country": "EST",
         "score": 46.0
       },
       {
-        "rank": "-",
-        "person_name": "Yevhenii Nastenko",
-        "country": "UKR",
-        "score": 40.0
+        "rank": "11",
+        "person_name": "Jake O'Grady",
+        "country": "GBR",
+        "score": 45.0
       },
       {
-        "rank": "-",
-        "person_name": "Gavin Bruce",
+        "rank": "12",
+        "person_name": "Ryan Miles",
         "country": "GBR",
         "score": 39.0
       },
       {
-        "rank": "-",
-        "person_name": "Viktor Lingman",
-        "country": "SWE",
-        "score": 38.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Will  Clarke",
-        "country": "GBR",
+        "rank": "13",
+        "person_name": "Akoto Koffi",
+        "country": "FRA",
         "score": 31.0
       },
       {
-        "rank": "-",
-        "person_name": "Matěj Svoboda",
-        "country": "CZE",
-        "score": 28.0
+        "rank": "14",
+        "person_name": "Chris Arnold",
+        "country": "GBR",
+        "score": 30.0
       },
       {
-        "rank": "-",
-        "person_name": "Jake O'Grady",
+        "rank": "15",
+        "person_name": "Graeme Lamont",
         "country": "GBR",
         "score": 27.0
       },
       {
-        "rank": "-",
-        "person_name": "Ben Watson",
-        "country": "GBR",
-        "score": 25.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Ulvar Vahter",
-        "country": "EST",
-        "score": 24.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Ryan Miles",
-        "country": "GBR",
-        "score": 22.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Chris Arnold",
+        "rank": "16",
+        "person_name": "Charlie Stickley",
         "country": "GBR",
         "score": 21.0
       },
       {
-        "rank": "-",
-        "person_name": "Akoto Koffi",
-        "country": "FRA",
-        "score": 20.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Charlie Stickley",
-        "country": "GBR",
-        "score": 16.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Graeme Lamont",
-        "country": "GBR",
-        "score": 14.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Stuart Basford",
-        "country": "GBR",
-        "score": 13.0
-      },
-      {
-        "rank": "-",
+        "rank": "17",
         "person_name": "Mark Pearson",
         "country": "GBR",
-        "score": 7.0
+        "score": 19.0
+      },
+      {
+        "rank": "18",
+        "person_name": "Stuart Basford",
+        "country": "GBR",
+        "score": 17.0
       }
     ]
   },
@@ -186148,130 +186148,130 @@
     "total_competitors": 21,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Harry Rogers",
-        "country": "GBR",
-        "score": 57.0
+        "rank": "1",
+        "person_name": "Filip Zajíček",
+        "country": "CZE",
+        "score": 94.0
       },
       {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Dan Benson",
         "country": "GBR",
+        "score": 88.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Harry Rogers",
+        "country": "GBR",
+        "score": 81.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Kyle Scott",
+        "country": "GBR",
+        "score": 77.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Ollie Clarke",
+        "country": "GBR",
+        "score": 71.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Radovan  Mešina",
+        "country": "SVK",
+        "score": 68.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Jordan  Cutts",
+        "country": "GBR",
+        "score": 65.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Rodolphe Vanherpen",
+        "country": "FRA",
+        "score": 63.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Connor Smith",
+        "country": "GBR",
+        "score": 58.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Tom  Butts",
+        "country": "GBR",
+        "score": 58.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Christian  Alvær",
+        "country": "NOR",
         "score": 55.0
       },
       {
-        "rank": "-",
-        "person_name": "Filip Zajíček",
-        "country": "CZE",
-        "score": 52.0
+        "rank": "12",
+        "person_name": "Avi Esdras",
+        "country": "GRE",
+        "score": 51.0
       },
       {
-        "rank": "-",
-        "person_name": "Ollie Clarke",
+        "rank": "13",
+        "person_name": "Ashley Walker",
         "country": "GBR",
         "score": 50.0
       },
       {
-        "rank": "-",
-        "person_name": "Radovan  Mešina",
-        "country": "SVK",
-        "score": 43.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jordan  Cutts",
-        "country": "GBR",
-        "score": 41.0
-      },
-      {
-        "rank": "-",
+        "rank": "14",
         "person_name": "Nickolas Douville",
         "country": "FRA",
-        "score": 41.0
+        "score": 49.0
       },
       {
-        "rank": "-",
-        "person_name": "Kyle Scott",
-        "country": "GBR",
-        "score": 39.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Tom  Butts",
-        "country": "GBR",
-        "score": 36.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Connor Smith",
-        "country": "GBR",
-        "score": 36.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Avi Esdras",
-        "country": "GRE",
-        "score": 31.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Radoslav Ferjanc",
-        "country": "SVK",
-        "score": 27.0
-      },
-      {
-        "rank": "-",
+        "rank": "15",
         "person_name": "Matt Holley",
         "country": "GBR",
-        "score": 26.0
+        "score": 44.0
       },
       {
-        "rank": "-",
-        "person_name": "Rodolphe Vanherpen",
-        "country": "FRA",
-        "score": 26.0
+        "rank": "16",
+        "person_name": "Radoslav Ferjanc",
+        "country": "SVK",
+        "score": 38.0
       },
       {
-        "rank": "-",
-        "person_name": "Ashley Walker",
-        "country": "GBR",
-        "score": 26.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Christian  Alvær",
-        "country": "NOR",
-        "score": 25.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jaroslav Frantisek",
-        "country": "CZE",
-        "score": 22.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Vlăduț Angheloiu",
-        "country": "ROU",
-        "score": 19.0
-      },
-      {
-        "rank": "-",
+        "rank": "17",
         "person_name": "Thomas Kelly",
         "country": "GBR",
-        "score": 16.0
+        "score": 36.0
       },
       {
-        "rank": "-",
+        "rank": "18",
+        "person_name": "Jaroslav Frantisek",
+        "country": "CZE",
+        "score": 32.0
+      },
+      {
+        "rank": "19",
         "person_name": "Christian von Bothmer",
         "country": "SWE",
-        "score": 15.0
+        "score": 28.0
       },
       {
-        "rank": "-",
+        "rank": "20",
+        "person_name": "Vlăduț Angheloiu",
+        "country": "ROU",
+        "score": 26.0
+      },
+      {
+        "rank": "21",
         "person_name": "Cyril Jouanique",
         "country": "FRA",
-        "score": 10.0
+        "score": 22.0
       }
     ]
   },
@@ -186283,142 +186283,142 @@
     "total_competitors": 23,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Chris Harper",
+        "country": "GBR",
+        "score": 111.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Dorian Diepeveen",
+        "country": "NED",
+        "score": 100.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Connor Cowens",
+        "country": "GBR",
+        "score": 95.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Jonas Bertschinger",
+        "country": "SUI",
+        "score": 89.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Patrick Harris",
+        "country": "GBR",
+        "score": 85.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Michael Neubauer",
+        "country": "CZE",
+        "score": 83.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Richard Molnar",
+        "country": "GBR",
+        "score": 80.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Thomas Hulme",
+        "country": "GBR",
+        "score": 78.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Perry White",
         "country": "GBR",
         "score": 68.0
       },
       {
-        "rank": "-",
-        "person_name": "Dorian Diepeveen",
-        "country": "NED",
+        "rank": "10",
+        "person_name": "David  Armstrong",
+        "country": "GBR",
+        "score": 64.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Andrew Keys",
+        "country": "GBR",
         "score": 60.0
       },
       {
-        "rank": "-",
-        "person_name": "Connor Cowens",
+        "rank": "12",
+        "person_name": "Mads Even Bjorheim",
+        "country": "NOR",
+        "score": 59.0
+      },
+      {
+        "rank": "13",
+        "person_name": "Max Glover-West",
         "country": "GBR",
-        "score": 57.0
+        "score": 56.0
       },
       {
-        "rank": "-",
-        "person_name": "Jonas Bertschinger",
-        "country": "SUI",
-        "score": 53.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Thomas Hulme",
-        "country": "GBR",
-        "score": 48.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Patrick Harris",
-        "country": "GBR",
-        "score": 47.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Richard Molnar",
-        "country": "GBR",
-        "score": 47.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Perry White",
-        "country": "GBR",
-        "score": 46.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Michael Neubauer",
+        "rank": "14",
+        "person_name": "Petr Kalivoda",
         "country": "CZE",
+        "score": 56.0
+      },
+      {
+        "rank": "15",
+        "person_name": "James Watts",
+        "country": "GBR",
+        "score": 52.0
+      },
+      {
+        "rank": "16",
+        "person_name": "Lee Kelly",
+        "country": "GBR",
+        "score": 47.0
+      },
+      {
+        "rank": "17",
+        "person_name": "Adam  Beattie",
+        "country": "GBR",
         "score": 43.0
       },
       {
-        "rank": "-",
-        "person_name": "Petr Kalivoda",
-        "country": "CZE",
-        "score": 40.0
-      },
-      {
-        "rank": "-",
-        "person_name": "David  Armstrong",
+        "rank": "18",
+        "person_name": "Joe  Longshaw",
         "country": "GBR",
-        "score": 36.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Mads Even Bjorheim",
-        "country": "NOR",
         "score": 35.0
       },
       {
-        "rank": "-",
-        "person_name": "Lee Kelly",
-        "country": "GBR",
-        "score": 31.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Max Glover-West",
-        "country": "GBR",
-        "score": 30.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Andrew Keys",
-        "country": "GBR",
-        "score": 30.0
-      },
-      {
-        "rank": "-",
+        "rank": "19",
         "person_name": "Kieren Stevens",
         "country": "GBR",
-        "score": 28.0
+        "score": 33.0
       },
       {
-        "rank": "-",
-        "person_name": "James Watts",
-        "country": "GBR",
-        "score": 26.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Adam Bandoľa",
-        "country": "SVK",
-        "score": 22.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Adam  Beattie",
-        "country": "GBR",
-        "score": 22.0
-      },
-      {
-        "rank": "-",
+        "rank": "20",
         "person_name": "Mathieu Beauvois",
         "country": "FRA",
-        "score": 22.0
+        "score": 29.0
       },
       {
-        "rank": "-",
-        "person_name": "Joe  Longshaw",
-        "country": "GBR",
-        "score": 22.0
+        "rank": "21",
+        "person_name": "Adam Bandoľa",
+        "country": "SVK",
+        "score": 29.0
       },
       {
-        "rank": "-",
+        "rank": "22",
         "person_name": "Ian Armstrong",
         "country": "GBR",
-        "score": 12.0
+        "score": 19.0
       },
       {
-        "rank": "-",
+        "rank": "23",
         "person_name": "Matt Smallacombe",
         "country": "GBR",
-        "score": 3.0
+        "score": 8.0
       }
     ]
   },
@@ -186430,97 +186430,97 @@
     "total_competitors": 16,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
+        "person_name": "Mariusz Arendacz",
+        "country": "POL",
+        "score": 69.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Andrew Lumley",
+        "country": "GBR",
+        "score": 65.0
+      },
+      {
+        "rank": "3",
+        "person_name": "James Stuart",
+        "country": "GBR",
+        "score": 63.0
+      },
+      {
+        "rank": "4",
+        "person_name": "James Merry",
+        "country": "GBR",
+        "score": 60.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Richard Turrell",
+        "country": "GBR",
+        "score": 59.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Matthew Riddall",
+        "country": "ESP",
+        "score": 48.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Dougie Black",
+        "country": "GBR",
+        "score": 45.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Marc Burgess",
+        "country": "GBR",
+        "score": 43.0
+      },
+      {
+        "rank": "9",
         "person_name": "Aurélien Le Jeune",
         "country": "FRA",
         "score": 41.0
       },
       {
-        "rank": "-",
-        "person_name": "James Stuart",
-        "country": "GBR",
-        "score": 41.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Mariusz Arendacz",
-        "country": "POL",
-        "score": 40.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Andrew Lumley",
-        "country": "GBR",
-        "score": 38.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Matthew Riddall",
-        "country": "ESP",
-        "score": 32.0
-      },
-      {
-        "rank": "-",
-        "person_name": "James Merry",
-        "country": "GBR",
-        "score": 31.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Richard Turrell",
-        "country": "GBR",
-        "score": 30.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Dougie Black",
-        "country": "GBR",
-        "score": 28.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Marc Burgess",
-        "country": "GBR",
-        "score": 25.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Brandon Mandet",
-        "country": "FRA",
-        "score": 20.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Michael Forster",
-        "country": "GBR",
-        "score": 16.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Adam Sauberlich",
-        "country": "GBR",
-        "score": 15.0
-      },
-      {
-        "rank": "-",
+        "rank": "10",
         "person_name": "Jonathan Mills",
         "country": "GBR",
-        "score": 14.0
+        "score": 35.0
       },
       {
-        "rank": "-",
+        "rank": "11",
+        "person_name": "Brandon Mandet",
+        "country": "FRA",
+        "score": 35.0
+      },
+      {
+        "rank": "12",
+        "person_name": "Michael Forster",
+        "country": "GBR",
+        "score": 34.0
+      },
+      {
+        "rank": "13",
+        "person_name": "Jonathan Hines",
+        "country": "GBR",
+        "score": 23.0
+      },
+      {
+        "rank": "14",
+        "person_name": "Adam Sauberlich",
+        "country": "GBR",
+        "score": 23.0
+      },
+      {
+        "rank": "15",
         "person_name": "Louis Ripley",
         "country": "GBR",
         "score": 14.0
       },
       {
-        "rank": "-",
-        "person_name": "Jonathan Hines",
-        "country": "GBR",
-        "score": 12.0
-      },
-      {
-        "rank": "-",
+        "rank": "16",
         "person_name": "David Broomhead",
         "country": "GBR",
         "score": 7.0
@@ -186535,82 +186535,82 @@
     "total_competitors": 13,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Mark Felix",
+        "country": "GBR",
+        "score": 63.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Richard Birchmore",
+        "country": "GBR",
+        "score": 54.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Stefan Bergqvist",
+        "country": "SWE",
+        "score": 53.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Alan O'Connor",
+        "country": "GBR",
+        "score": 47.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Daniel Yexley",
+        "country": "GBR",
+        "score": 47.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Aidan Kennedy",
+        "country": "IRL",
+        "score": 42.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Craig Sigerson",
         "country": "GBR",
         "score": 37.0
       },
       {
-        "rank": "-",
-        "person_name": "Richard Birchmore",
+        "rank": "8",
+        "person_name": "Ivan Murphy",
         "country": "GBR",
-        "score": 35.0
+        "score": 26.0
       },
       {
-        "rank": "-",
-        "person_name": "Stefan Bergqvist",
-        "country": "SWE",
-        "score": 31.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Alan O'Connor",
+        "rank": "9",
+        "person_name": "Andrew Burns",
         "country": "GBR",
-        "score": 30.0
+        "score": 23.0
       },
       {
-        "rank": "-",
-        "person_name": "Daniel Yexley",
-        "country": "GBR",
-        "score": 28.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Aidan Kennedy",
-        "country": "IRL",
-        "score": 22.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Craig Sigerson",
+        "rank": "10",
+        "person_name": "Brian Harcus",
         "country": "GBR",
         "score": 20.0
       },
       {
-        "rank": "-",
-        "person_name": "Andrew Burns",
-        "country": "GBR",
-        "score": 17.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Ivan Murphy",
-        "country": "GBR",
-        "score": 15.0
-      },
-      {
-        "rank": "-",
+        "rank": "11",
         "person_name": "John Else",
         "country": "GBR",
-        "score": 14.0
+        "score": 20.0
       },
       {
-        "rank": "-",
+        "rank": "12",
         "person_name": "Ulf Gustavsson",
         "country": "SWE",
-        "score": 10.0
+        "score": 16.0
       },
       {
-        "rank": "-",
-        "person_name": "Brian Harcus",
-        "country": "GBR",
-        "score": 9.0
-      },
-      {
-        "rank": "-",
+        "rank": "13",
         "person_name": "Gareth Wallace",
         "country": "GBR",
-        "score": 4.0
+        "score": 6.0
       }
     ]
   },
@@ -186622,79 +186622,79 @@
     "total_competitors": 13,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Kate Connolly",
         "country": "GBR",
-        "score": 36.0
+        "score": 59.0
       },
       {
-        "rank": "-",
+        "rank": "2",
+        "person_name": "Emily Norley",
+        "country": "GBR",
+        "score": 54.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Céline Mathieu",
+        "country": "FRA",
+        "score": 50.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Diane Gaughan",
+        "country": "GBR",
+        "score": 50.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Tatiana Cousins",
+        "country": "SVK",
+        "score": 49.0
+      },
+      {
+        "rank": "6",
         "person_name": "Alessandra Menaglio",
         "country": "ITA",
-        "score": 34.0
+        "score": 48.0
       },
       {
-        "rank": "-",
-        "person_name": "Diane Gaughan",
+        "rank": "7",
+        "person_name": "Hundra Laurens",
+        "country": "FRA",
+        "score": 32.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Sarah Jones",
         "country": "GBR",
         "score": 32.0
       },
       {
-        "rank": "-",
-        "person_name": "Emily Norley",
-        "country": "GBR",
-        "score": 31.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Céline Mathieu",
-        "country": "FRA",
-        "score": 29.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Tatiana Cousins",
-        "country": "SVK",
-        "score": 27.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Sarah Jones",
-        "country": "GBR",
-        "score": 18.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Hundra Laurens",
-        "country": "FRA",
-        "score": 16.0
-      },
-      {
-        "rank": "-",
+        "rank": "9",
         "person_name": "Emma  Wilson",
         "country": "GBR",
-        "score": 12.0
+        "score": 22.0
       },
       {
-        "rank": "-",
-        "person_name": "Kirsty Robathan-Smith",
-        "country": "GBR",
-        "score": 11.0
-      },
-      {
-        "rank": "-",
+        "rank": "10",
         "person_name": "Rebecca Atkinson",
         "country": "GBR",
-        "score": 8.0
+        "score": 17.0
       },
       {
-        "rank": "-",
+        "rank": "11",
+        "person_name": "Kirsty Robathan-Smith",
+        "country": "GBR",
+        "score": 17.0
+      },
+      {
+        "rank": "12",
         "person_name": "Jemma Jelf",
         "country": "GBR",
-        "score": 6.0
+        "score": 10.0
       },
       {
-        "rank": "-",
+        "rank": "13",
         "person_name": "Sophie Strachan",
         "country": "GBR",
         "score": 3.0
@@ -186709,94 +186709,94 @@
     "total_competitors": 15,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Rosie Abercrombie",
-        "country": "GBR",
-        "score": 39.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Heather Holden",
-        "country": "GBR",
-        "score": 36.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Stacey-Anne Pope",
-        "country": "GBR",
-        "score": 35.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Cathy Watson",
         "country": "GBR",
-        "score": 35.0
+        "score": 63.0
       },
       {
-        "rank": "-",
+        "rank": "2",
+        "person_name": "Heather Holden",
+        "country": "GBR",
+        "score": 61.0
+      },
+      {
+        "rank": "3",
         "person_name": "Karin Krchlíková",
         "country": "SVK",
+        "score": 58.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Tayla Southgate",
+        "country": "GBR",
+        "score": 57.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Stacey-Anne Pope",
+        "country": "GBR",
+        "score": 55.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Rosie Abercrombie",
+        "country": "GBR",
+        "score": 54.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Mollie Wagstaff",
+        "country": "GBR",
+        "score": 44.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Christie Herbert",
+        "country": "GBR",
+        "score": 40.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Melanie Chlond",
+        "country": "GBR",
+        "score": 37.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Elizabeth Seeds",
+        "country": "GBR",
         "score": 34.0
       },
       {
-        "rank": "-",
-        "person_name": "Tayla Southgate",
-        "country": "GBR",
-        "score": 31.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Mollie Wagstaff",
-        "country": "GBR",
-        "score": 27.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Elizabeth Seeds",
-        "country": "GBR",
-        "score": 26.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Christie Herbert",
-        "country": "GBR",
-        "score": 24.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Melanie Chlond",
-        "country": "GBR",
-        "score": 18.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Amber Joseph",
-        "country": "GBR",
-        "score": 16.0
-      },
-      {
-        "rank": "-",
+        "rank": "11",
         "person_name": "April Granelli",
         "country": "GBR",
-        "score": 15.0
+        "score": 33.0
       },
       {
-        "rank": "-",
+        "rank": "12",
+        "person_name": "Amber Joseph",
+        "country": "GBR",
+        "score": 25.0
+      },
+      {
+        "rank": "13",
         "person_name": "Desi Gillespie",
         "country": "GBR",
-        "score": 13.0
+        "score": 21.0
       },
       {
-        "rank": "-",
+        "rank": "14",
         "person_name": "Fabienne Mendy",
         "country": "FRA",
-        "score": 6.0
+        "score": 11.0
       },
       {
-        "rank": "-",
+        "rank": "15",
         "person_name": "Andrea Bareva",
         "country": "CZE",
-        "score": 0.0
+        "score": 1.0
       }
     ]
   },
@@ -186808,76 +186808,76 @@
     "total_competitors": 12,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Donna Moore",
-        "country": "GBR",
-        "score": 35.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Angéline Berva",
         "country": "FRA",
+        "score": 56.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Donna Moore",
+        "country": "GBR",
+        "score": 52.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Rebecca Worgan",
+        "country": "GBR",
+        "score": 47.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Hannah Ross",
+        "country": "GBR",
+        "score": 39.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Pandora Holladay",
+        "country": "GBR",
+        "score": 37.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Hannah Johnstone",
+        "country": "GBR",
         "score": 34.0
       },
       {
-        "rank": "-",
-        "person_name": "Rebecca Worgan",
-        "country": "GBR",
-        "score": 30.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Pandora Holladay",
-        "country": "GBR",
-        "score": 23.0
-      },
-      {
-        "rank": "-",
+        "rank": "7",
         "person_name": "Shauna Moar",
         "country": "GBR",
-        "score": 22.0
+        "score": 33.0
       },
       {
-        "rank": "-",
-        "person_name": "Hannah Johnstone",
-        "country": "GBR",
-        "score": 20.0
-      },
-      {
-        "rank": "-",
+        "rank": "8",
         "person_name": "Hayley Black",
         "country": "GBR",
-        "score": 17.0
+        "score": 32.0
       },
       {
-        "rank": "-",
+        "rank": "9",
         "person_name": "Jess Tait",
         "country": "GBR",
-        "score": 16.0
+        "score": 26.0
       },
       {
-        "rank": "-",
-        "person_name": "Hannah Ross",
-        "country": "GBR",
-        "score": 15.0
-      },
-      {
-        "rank": "-",
+        "rank": "10",
         "person_name": "Beth Carpenter",
         "country": "GBR",
-        "score": 8.0
+        "score": 13.0
       },
       {
-        "rank": "-",
+        "rank": "11",
         "person_name": "Jemma Dymond",
         "country": "GBR",
-        "score": 6.0
+        "score": 11.0
       },
       {
-        "rank": "-",
+        "rank": "12",
         "person_name": "Lisa-Marie Hassall",
         "country": "GBR",
-        "score": 4.0
+        "score": 6.0
       }
     ]
   },
@@ -186889,58 +186889,58 @@
     "total_competitors": 9,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Naomi Hadley",
         "country": "GBR",
-        "score": 23.0
+        "score": 40.0
       },
       {
-        "rank": "-",
-        "person_name": "Michaela Pearson",
-        "country": "GBR",
-        "score": 23.0
-      },
-      {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Izzy Tait",
         "country": "GBR",
-        "score": 23.0
+        "score": 36.0
       },
       {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Andrea Seed",
+        "country": "GBR",
+        "score": 35.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Michaela Pearson",
+        "country": "GBR",
+        "score": 30.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Rajuska Podojahina",
+        "country": "GBR",
+        "score": 29.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Katie Smith",
         "country": "GBR",
         "score": 19.0
       },
       {
-        "rank": "-",
-        "person_name": "Rajuska Podojahina",
-        "country": "GBR",
-        "score": 15.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Katie Smith",
-        "country": "GBR",
-        "score": 11.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Carys Parry",
-        "country": "GBR",
-        "score": 8.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Janne Mathisen",
-        "country": "NOR",
-        "score": 7.0
-      },
-      {
-        "rank": "-",
+        "rank": "7",
         "person_name": "Natalie Alleyne",
         "country": "GBR",
-        "score": 5.0
+        "score": 13.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Carys Parry",
+        "country": "GBR",
+        "score": 13.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Janne Mathisen",
+        "country": "NOR",
+        "score": 8.0
       }
     ]
   }
