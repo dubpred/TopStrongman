@@ -187045,5 +187045,62 @@
         "score": 7.0
       }
     ]
+  },
+  {
+    "contest_id": 3016,
+    "contest_name": "2024 Queen of the Klondike",
+    "details": "Edmonton, Canada, 2024-07-20 to 2024-07-21",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3016",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Maria Barwig",
+        "country": "CAN",
+        "score": 34.5
+      },
+      {
+        "rank": "-",
+        "person_name": "Bailey Deschene",
+        "country": "CAN",
+        "score": 31.5
+      },
+      {
+        "rank": "-",
+        "person_name": "Therese Zoltan",
+        "country": "CAN",
+        "score": 26.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Astra Richards",
+        "country": "CAN",
+        "score": 25.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Danielle Elias",
+        "country": "CAN",
+        "score": 16.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jessica Pietrzyk",
+        "country": "CAN",
+        "score": 12.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Helen Lin",
+        "country": "CAN",
+        "score": 8.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Courtney Hollihan",
+        "country": "CAN",
+        "score": 6.0
+      }
+    ]
   }
 ]
