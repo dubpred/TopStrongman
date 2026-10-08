@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-07T05:36:08.919Z",
-  "totalRankedMen": 3982,
+  "lastUpdated": "2026-10-08T05:44:17.908Z",
+  "totalRankedMen": 3990,
   "totalRankedWomen": 437,
   "men": [
     {
@@ -230305,6 +230305,42 @@
       "rank": 3876
     },
     {
+      "name": "Bailey Deschene",
+      "firstName": "Bailey",
+      "lastName": "Deschene",
+      "country": "CAN",
+      "goatScore": 0,
+      "totalShows": 1,
+      "evaluatedCount": 1,
+      "totalWins": 1,
+      "totalPodiums": 1,
+      "winRate": 100,
+      "podiumRate": 100,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2024",
+      "startYear": 2024,
+      "endYear": 2024,
+      "era": "New Era (2020–Present)",
+      "topShows": [
+        {
+          "contest": "2024 Queen of the Klondike",
+          "year": 2024,
+          "rank": 1,
+          "difficulty": 0,
+          "points": 0,
+          "basePlacementPts": 0,
+          "bonus": 0
+        }
+      ],
+      "rank": 3877
+    },
+    {
       "name": "Rob Kennedy",
       "firstName": "Rob",
       "lastName": "Kennedy",
@@ -230338,7 +230374,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3877
+      "rank": 3878
     },
     {
       "name": "Craig Bongelli",
@@ -230374,7 +230410,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3878
+      "rank": 3879
     },
     {
       "name": "Johnny Wasiczko",
@@ -230410,7 +230446,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3879
+      "rank": 3880
     },
     {
       "name": "Jacob Miskimens",
@@ -230446,7 +230482,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3880
+      "rank": 3881
     },
     {
       "name": "Joe Stanton",
@@ -230482,7 +230518,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3881
+      "rank": 3882
     },
     {
       "name": "Wayne Tunstall",
@@ -230518,7 +230554,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3882
+      "rank": 3883
     },
     {
       "name": "Zach Gallman",
@@ -230554,7 +230590,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3883
+      "rank": 3884
     },
     {
       "name": "Pat Wilson",
@@ -230590,7 +230626,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3884
+      "rank": 3885
     },
     {
       "name": "Paul Amor",
@@ -230626,7 +230662,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3885
+      "rank": 3886
     },
     {
       "name": "Jordan Foley",
@@ -230662,7 +230698,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3886
+      "rank": 3887
     },
     {
       "name": "Zach Rupp",
@@ -230698,7 +230734,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3887
+      "rank": 3888
     },
     {
       "name": "Tamás Bartalos",
@@ -230734,7 +230770,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3888
+      "rank": 3889
     },
     {
       "name": "Brady Jones",
@@ -230770,7 +230806,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3889
+      "rank": 3890
     },
     {
       "name": "Anki Öberg",
@@ -230806,7 +230842,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3890
+      "rank": 3891
     },
     {
       "name": "Jaana Tanner",
@@ -230842,7 +230878,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3891
+      "rank": 3892
     },
     {
       "name": "Niina Jumppanen",
@@ -230878,7 +230914,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3892
+      "rank": 3893
     },
     {
       "name": "Bryndís Ólafsdóttir",
@@ -230914,7 +230950,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3893
+      "rank": 3894
     },
     {
       "name": "Alina Leisiö",
@@ -230950,7 +230986,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3894
+      "rank": 3895
     },
     {
       "name": "Leena Nurminen",
@@ -230986,7 +231022,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3895
+      "rank": 3896
     },
     {
       "name": "Samantha Belliveau",
@@ -231022,7 +231058,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3896
+      "rank": 3897
     },
     {
       "name": "Nadia Stowers",
@@ -231058,7 +231094,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3897
+      "rank": 3898
     },
     {
       "name": "Jodi Kennedy",
@@ -231094,7 +231130,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3898
+      "rank": 3899
     },
     {
       "name": "Erin Walklet",
@@ -231130,7 +231166,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3899
+      "rank": 3900
     },
     {
       "name": "Rebecca Lorch",
@@ -231166,7 +231202,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3900
+      "rank": 3901
     },
     {
       "name": "Jessica Mitchell",
@@ -231202,7 +231238,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3901
+      "rank": 3902
     },
     {
       "name": "Laura de Berdt Romilly",
@@ -231238,7 +231274,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3902
+      "rank": 3903
     },
     {
       "name": "Gabi Dixson",
@@ -231274,7 +231310,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3903
+      "rank": 3904
     },
     {
       "name": "Julia Hamilton",
@@ -231310,7 +231346,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3904
+      "rank": 3905
     },
     {
       "name": "Stefanie Herod",
@@ -231346,7 +231382,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3905
+      "rank": 3906
     },
     {
       "name": "Cassandra Moore",
@@ -231382,7 +231418,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3906
+      "rank": 3907
     },
     {
       "name": "Julia Tomascheski",
@@ -231418,7 +231454,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3907
+      "rank": 3908
     },
     {
       "name": "Lauren Ryder",
@@ -231454,7 +231490,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3908
+      "rank": 3909
     },
     {
       "name": "Daphne Zhang",
@@ -231490,7 +231526,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3909
+      "rank": 3910
     },
     {
       "name": "Josefine Adele Liverød",
@@ -231526,7 +231562,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3910
+      "rank": 3911
     },
     {
       "name": "Cynthia Martinez",
@@ -231562,7 +231598,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3911
+      "rank": 3912
     },
     {
       "name": "Gina Cravedi",
@@ -231598,7 +231634,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3912
+      "rank": 3913
     },
     {
       "name": "Erin Anderson",
@@ -231634,7 +231670,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3913
+      "rank": 3914
     },
     {
       "name": "Teresa Waterfield",
@@ -231670,7 +231706,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3914
+      "rank": 3915
     },
     {
       "name": "Nicole Recchia",
@@ -231706,7 +231742,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3915
+      "rank": 3916
     },
     {
       "name": "Tatiana Viera",
@@ -231742,7 +231778,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3916
+      "rank": 3917
     },
     {
       "name": "Véronique Cormier",
@@ -231778,7 +231814,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3917
+      "rank": 3918
     },
     {
       "name": "Adam Conti",
@@ -231814,7 +231850,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3918
+      "rank": 3919
     },
     {
       "name": "Josh Reed",
@@ -231850,7 +231886,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3919
+      "rank": 3920
     },
     {
       "name": "Troy Stininger",
@@ -231886,7 +231922,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3920
+      "rank": 3921
     },
     {
       "name": "Matt Garee",
@@ -231922,7 +231958,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3921
+      "rank": 3922
     },
     {
       "name": "Thomas Benjamin",
@@ -231958,7 +231994,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3922
+      "rank": 3923
     },
     {
       "name": "Kevin Mendes",
@@ -231994,7 +232030,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3923
+      "rank": 3924
     },
     {
       "name": "Victor Casado",
@@ -232030,7 +232066,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3924
+      "rank": 3925
     },
     {
       "name": "Jakeb Barnett",
@@ -232066,7 +232102,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3925
+      "rank": 3926
     },
     {
       "name": "Josh Harrelson",
@@ -232102,7 +232138,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3926
+      "rank": 3927
     },
     {
       "name": "Nick Strauss",
@@ -232138,7 +232174,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3927
+      "rank": 3928
     },
     {
       "name": "Harry Walker",
@@ -232174,7 +232210,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3928
+      "rank": 3929
     },
     {
       "name": "Blake Hoffman",
@@ -232210,7 +232246,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3929
+      "rank": 3930
     },
     {
       "name": "Michael Simons",
@@ -232246,7 +232282,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3930
+      "rank": 3931
     },
     {
       "name": "Laurens Prontera",
@@ -232282,7 +232318,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3931
+      "rank": 3932
     },
     {
       "name": "Kevin Tancré",
@@ -232327,7 +232363,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3932
+      "rank": 3933
     },
     {
       "name": "Emilio Mesolaras",
@@ -232363,7 +232399,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3933
+      "rank": 3934
     },
     {
       "name": "Pekka Tompuri",
@@ -232399,7 +232435,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3934
+      "rank": 3935
     },
     {
       "name": "Christian Lindholm",
@@ -232435,7 +232471,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3935
+      "rank": 3936
     },
     {
       "name": "Ville Ruuskanen",
@@ -232471,7 +232507,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3936
+      "rank": 3937
     },
     {
       "name": "Kaveh Vefai",
@@ -232507,7 +232543,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3937
+      "rank": 3938
     },
     {
       "name": "Lauri Härkä",
@@ -232543,7 +232579,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3938
+      "rank": 3939
     },
     {
       "name": "Zach Veeneman",
@@ -232579,7 +232615,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3939
+      "rank": 3940
     },
     {
       "name": "Ross Mackintosh",
@@ -232624,7 +232660,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3940
+      "rank": 3941
     },
     {
       "name": "Dean Patch",
@@ -232660,7 +232696,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3941
+      "rank": 3942
     },
     {
       "name": "Ben Rant",
@@ -232696,7 +232732,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3942
+      "rank": 3943
     },
     {
       "name": "Jiří Bánovský",
@@ -232732,7 +232768,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3943
+      "rank": 3944
     },
     {
       "name": "Adam Csupori",
@@ -232768,7 +232804,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3944
+      "rank": 3945
     },
     {
       "name": "Imrich Švec",
@@ -232804,7 +232840,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3945
+      "rank": 3946
     },
     {
       "name": "Ondrej Magna",
@@ -232840,7 +232876,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3946
+      "rank": 3947
     },
     {
       "name": "Milan Erd",
@@ -232876,7 +232912,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3947
+      "rank": 3948
     },
     {
       "name": "Branislav Kopec",
@@ -232912,7 +232948,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3948
+      "rank": 3949
     },
     {
       "name": "Alexandre Lima",
@@ -232948,7 +232984,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3949
+      "rank": 3950
     },
     {
       "name": "Glenn Van Dierendonck",
@@ -232984,7 +233020,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3950
+      "rank": 3951
     },
     {
       "name": "Sergiu Golban",
@@ -233020,7 +233056,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3951
+      "rank": 3952
     },
     {
       "name": "Jordan Wychulis",
@@ -233056,7 +233092,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3952
+      "rank": 3953
     },
     {
       "name": "Sean Mullican",
@@ -233092,7 +233128,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3953
+      "rank": 3954
     },
     {
       "name": "Kevin Candito",
@@ -233128,7 +233164,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3954
+      "rank": 3955
     },
     {
       "name": "Christopher Otero",
@@ -233164,7 +233200,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3955
+      "rank": 3956
     },
     {
       "name": "Derek Brooks",
@@ -233200,7 +233236,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3956
+      "rank": 3957
     },
     {
       "name": "Joe Korasick",
@@ -233236,7 +233272,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3957
+      "rank": 3958
     },
     {
       "name": "Gabe Deal",
@@ -233272,7 +233308,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3958
+      "rank": 3959
     },
     {
       "name": "Bodie Giron",
@@ -233308,7 +233344,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3959
+      "rank": 3960
     },
     {
       "name": "Skye Olsen",
@@ -233344,7 +233380,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3960
+      "rank": 3961
     },
     {
       "name": "Jaendre van der Berg",
@@ -233380,7 +233416,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3961
+      "rank": 3962
     },
     {
       "name": "Kyle Rosslee",
@@ -233416,7 +233452,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3962
+      "rank": 3963
     },
     {
       "name": "Thuto Ramaele",
@@ -233452,7 +233488,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3963
+      "rank": 3964
     },
     {
       "name": "Ken Uedoi",
@@ -233488,7 +233524,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3964
+      "rank": 3965
     },
     {
       "name": "Keegan Macaulay",
@@ -233524,7 +233560,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3965
+      "rank": 3966
     },
     {
       "name": "Braedan Rupert",
@@ -233560,7 +233596,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3966
+      "rank": 3967
     },
     {
       "name": "Mike Hunt",
@@ -233605,7 +233641,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3967
+      "rank": 3968
     },
     {
       "name": "Sum Ting Wong",
@@ -233650,7 +233686,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3968
+      "rank": 3969
     },
     {
       "name": "Suuk Ma Deek",
@@ -233695,7 +233731,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3969
+      "rank": 3970
     },
     {
       "name": "Ben Dover",
@@ -233740,7 +233776,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3970
+      "rank": 3971
     },
     {
       "name": "Wayne Kerr",
@@ -233785,7 +233821,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3971
+      "rank": 3972
     },
     {
       "name": "Will Drysdale",
@@ -233821,7 +233857,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3972
+      "rank": 3973
     },
     {
       "name": "Nick Cox",
@@ -233857,7 +233893,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3973
+      "rank": 3974
     },
     {
       "name": "Daniel Maslen",
@@ -233893,7 +233929,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3974
+      "rank": 3975
     },
     {
       "name": "Leon Paterson",
@@ -233929,7 +233965,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3975
+      "rank": 3976
     },
     {
       "name": "Dougie Black",
@@ -233965,7 +234001,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3976
+      "rank": 3977
     },
     {
       "name": "Shane Buchan",
@@ -234001,7 +234037,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3977
+      "rank": 3978
     },
     {
       "name": "Bret Gillies",
@@ -234037,7 +234073,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3978
+      "rank": 3979
     },
     {
       "name": "Les Woof",
@@ -234073,7 +234109,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3979
+      "rank": 3980
     },
     {
       "name": "Henrik Prutz",
@@ -234109,7 +234145,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3980
+      "rank": 3981
     },
     {
       "name": "Josh Graham",
@@ -234145,7 +234181,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3981
+      "rank": 3982
     },
     {
       "name": "Nathan Brown",
@@ -234181,7 +234217,259 @@
           "bonus": 0
         }
       ],
-      "rank": 3982
+      "rank": 3983
+    },
+    {
+      "name": "Maria Barwig",
+      "firstName": "Maria",
+      "lastName": "Barwig",
+      "country": "CAN",
+      "goatScore": 0,
+      "totalShows": 1,
+      "evaluatedCount": 1,
+      "totalWins": 0,
+      "totalPodiums": 1,
+      "winRate": 0,
+      "podiumRate": 100,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2024",
+      "startYear": 2024,
+      "endYear": 2024,
+      "era": "New Era (2020–Present)",
+      "topShows": [
+        {
+          "contest": "2024 Queen of the Klondike",
+          "year": 2024,
+          "rank": 2,
+          "difficulty": 0,
+          "points": 0,
+          "basePlacementPts": 0,
+          "bonus": 0
+        }
+      ],
+      "rank": 3984
+    },
+    {
+      "name": "Therese Zoltan",
+      "firstName": "Therese",
+      "lastName": "Zoltan",
+      "country": "CAN",
+      "goatScore": 0,
+      "totalShows": 1,
+      "evaluatedCount": 1,
+      "totalWins": 0,
+      "totalPodiums": 1,
+      "winRate": 0,
+      "podiumRate": 100,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2024",
+      "startYear": 2024,
+      "endYear": 2024,
+      "era": "New Era (2020–Present)",
+      "topShows": [
+        {
+          "contest": "2024 Queen of the Klondike",
+          "year": 2024,
+          "rank": 3,
+          "difficulty": 0,
+          "points": 0,
+          "basePlacementPts": 0,
+          "bonus": 0
+        }
+      ],
+      "rank": 3985
+    },
+    {
+      "name": "Astra Richards",
+      "firstName": "Astra",
+      "lastName": "Richards",
+      "country": "CAN",
+      "goatScore": 0,
+      "totalShows": 1,
+      "evaluatedCount": 1,
+      "totalWins": 0,
+      "totalPodiums": 0,
+      "winRate": 0,
+      "podiumRate": 0,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2024",
+      "startYear": 2024,
+      "endYear": 2024,
+      "era": "New Era (2020–Present)",
+      "topShows": [
+        {
+          "contest": "2024 Queen of the Klondike",
+          "year": 2024,
+          "rank": 4,
+          "difficulty": 0,
+          "points": 0,
+          "basePlacementPts": 0,
+          "bonus": 0
+        }
+      ],
+      "rank": 3986
+    },
+    {
+      "name": "Danielle Elias",
+      "firstName": "Danielle",
+      "lastName": "Elias",
+      "country": "CAN",
+      "goatScore": 0,
+      "totalShows": 1,
+      "evaluatedCount": 1,
+      "totalWins": 0,
+      "totalPodiums": 0,
+      "winRate": 0,
+      "podiumRate": 0,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2024",
+      "startYear": 2024,
+      "endYear": 2024,
+      "era": "New Era (2020–Present)",
+      "topShows": [
+        {
+          "contest": "2024 Queen of the Klondike",
+          "year": 2024,
+          "rank": 5,
+          "difficulty": 0,
+          "points": 0,
+          "basePlacementPts": 0,
+          "bonus": 0
+        }
+      ],
+      "rank": 3987
+    },
+    {
+      "name": "Jessica Pietrzyk",
+      "firstName": "Jessica",
+      "lastName": "Pietrzyk",
+      "country": "CAN",
+      "goatScore": 0,
+      "totalShows": 1,
+      "evaluatedCount": 1,
+      "totalWins": 0,
+      "totalPodiums": 0,
+      "winRate": 0,
+      "podiumRate": 0,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2024",
+      "startYear": 2024,
+      "endYear": 2024,
+      "era": "New Era (2020–Present)",
+      "topShows": [
+        {
+          "contest": "2024 Queen of the Klondike",
+          "year": 2024,
+          "rank": 6,
+          "difficulty": 0,
+          "points": 0,
+          "basePlacementPts": 0,
+          "bonus": 0
+        }
+      ],
+      "rank": 3988
+    },
+    {
+      "name": "Helen Lin",
+      "firstName": "Helen",
+      "lastName": "Lin",
+      "country": "CAN",
+      "goatScore": 0,
+      "totalShows": 1,
+      "evaluatedCount": 1,
+      "totalWins": 0,
+      "totalPodiums": 0,
+      "winRate": 0,
+      "podiumRate": 0,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2024",
+      "startYear": 2024,
+      "endYear": 2024,
+      "era": "New Era (2020–Present)",
+      "topShows": [
+        {
+          "contest": "2024 Queen of the Klondike",
+          "year": 2024,
+          "rank": 7,
+          "difficulty": 0,
+          "points": 0,
+          "basePlacementPts": 0,
+          "bonus": 0
+        }
+      ],
+      "rank": 3989
+    },
+    {
+      "name": "Courtney Hollihan",
+      "firstName": "Courtney",
+      "lastName": "Hollihan",
+      "country": "CAN",
+      "goatScore": 0,
+      "totalShows": 1,
+      "evaluatedCount": 1,
+      "totalWins": 0,
+      "totalPodiums": 0,
+      "winRate": 0,
+      "podiumRate": 0,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2024",
+      "startYear": 2024,
+      "endYear": 2024,
+      "era": "New Era (2020–Present)",
+      "topShows": [
+        {
+          "contest": "2024 Queen of the Klondike",
+          "year": 2024,
+          "rank": 8,
+          "difficulty": 0,
+          "points": 0,
+          "basePlacementPts": 0,
+          "bonus": 0
+        }
+      ],
+      "rank": 3990
     }
   ],
   "women": [

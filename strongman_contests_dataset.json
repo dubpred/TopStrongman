@@ -187054,52 +187054,52 @@
     "total_competitors": 8,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Maria Barwig",
-        "country": "CAN",
-        "score": 34.5
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Bailey Deschene",
         "country": "CAN",
-        "score": 31.5
+        "score": 37.5
       },
       {
-        "rank": "-",
+        "rank": "2",
+        "person_name": "Maria Barwig",
+        "country": "CAN",
+        "score": 37.5
+      },
+      {
+        "rank": "3",
         "person_name": "Therese Zoltan",
         "country": "CAN",
-        "score": 26.0
+        "score": 34.0
       },
       {
-        "rank": "-",
+        "rank": "4",
         "person_name": "Astra Richards",
         "country": "CAN",
-        "score": 25.0
+        "score": 29.0
       },
       {
-        "rank": "-",
+        "rank": "5",
         "person_name": "Danielle Elias",
         "country": "CAN",
-        "score": 16.0
+        "score": 23.0
       },
       {
-        "rank": "-",
+        "rank": "6",
         "person_name": "Jessica Pietrzyk",
         "country": "CAN",
-        "score": 12.0
+        "score": 17.0
       },
       {
-        "rank": "-",
+        "rank": "7",
         "person_name": "Helen Lin",
         "country": "CAN",
-        "score": 8.0
+        "score": 9.0
       },
       {
-        "rank": "-",
+        "rank": "8",
         "person_name": "Courtney Hollihan",
         "country": "CAN",
-        "score": 6.0
+        "score": 8.0
       }
     ]
   }
