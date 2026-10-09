@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-08T05:44:17.908Z",
-  "totalRankedMen": 3990,
+  "lastUpdated": "2026-10-09T05:48:39.970Z",
+  "totalRankedMen": 3992,
   "totalRankedWomen": 437,
   "men": [
     {
@@ -128560,227 +128560,11 @@
       "rank": 1544
     },
     {
-      "name": "Mihály Ulvicki",
-      "firstName": "Mihály",
-      "lastName": "Ulvicki",
-      "country": "HUN",
-      "goatScore": 38.3,
-      "totalShows": 2,
-      "evaluatedCount": 2,
-      "totalWins": 0,
-      "totalPodiums": 1,
-      "winRate": 0,
-      "podiumRate": 50,
-      "wsmWins": 0,
-      "wsmPodiums": 0,
-      "ascWins": 0,
-      "smoeWins": 0,
-      "rogueWins": 0,
-      "esmWins": 0,
-      "majorTitles": 0,
-      "activeYears": "2002–2004",
-      "startYear": 2002,
-      "endYear": 2004,
-      "era": "Titan Era (2002–2019)",
-      "topShows": [
-        {
-          "contest": "2002 Hungary's Strongest Man",
-          "year": 2002,
-          "rank": 2,
-          "difficulty": 33.3,
-          "points": 25.9,
-          "basePlacementPts": 25.9,
-          "bonus": 0
-        },
-        {
-          "contest": "2004 Czechoslovak Strongman Cup",
-          "year": 2004,
-          "rank": 6,
-          "difficulty": 43.2,
-          "points": 12.4,
-          "basePlacementPts": 12.4,
-          "bonus": 0
-        }
-      ],
-      "rank": 1545
-    },
-    {
-      "name": "Teemu Nieminen",
-      "firstName": "Teemu",
-      "lastName": "Nieminen",
-      "country": "FIN",
-      "goatScore": 38.3,
-      "totalShows": 2,
-      "evaluatedCount": 2,
-      "totalWins": 0,
-      "totalPodiums": 1,
-      "winRate": 0,
-      "podiumRate": 50,
-      "wsmWins": 0,
-      "wsmPodiums": 0,
-      "ascWins": 0,
-      "smoeWins": 0,
-      "rogueWins": 0,
-      "esmWins": 0,
-      "majorTitles": 0,
-      "activeYears": "1996–1998",
-      "startYear": 1996,
-      "endYear": 1998,
-      "era": "Nordic Dominance (1990–2001)",
-      "topShows": [
-        {
-          "contest": "1998 Kuikan Vahvin Mies",
-          "year": 1998,
-          "rank": 3,
-          "difficulty": 54.9,
-          "points": 33.3,
-          "basePlacementPts": 33.3,
-          "bonus": 0
-        },
-        {
-          "contest": "1996 Kouheron Karpaasi",
-          "year": 1996,
-          "rank": 4,
-          "difficulty": 10.5,
-          "points": 5,
-          "basePlacementPts": 5,
-          "bonus": 0
-        }
-      ],
-      "rank": 1546
-    },
-    {
-      "name": "Peter Egbergen",
-      "firstName": "Peter",
-      "lastName": "Egbergen",
-      "country": "NED",
-      "goatScore": 38.3,
-      "totalShows": 1,
-      "evaluatedCount": 1,
-      "totalWins": 0,
-      "totalPodiums": 0,
-      "winRate": 0,
-      "podiumRate": 0,
-      "wsmWins": 0,
-      "wsmPodiums": 0,
-      "ascWins": 0,
-      "smoeWins": 0,
-      "rogueWins": 0,
-      "esmWins": 0,
-      "majorTitles": 0,
-      "activeYears": "1982",
-      "startYear": 1982,
-      "endYear": 1982,
-      "era": "Golden Era (1977–1989)",
-      "topShows": [
-        {
-          "contest": "1982 Strongest Man in the Netherlands",
-          "year": 1982,
-          "rank": 5,
-          "difficulty": 104,
-          "points": 38.3,
-          "basePlacementPts": 38.3,
-          "bonus": 0
-        }
-      ],
-      "rank": 1547
-    },
-    {
-      "name": "Maurice Paquette",
-      "firstName": "Maurice",
-      "lastName": "Paquette",
-      "country": "CAN",
-      "goatScore": 38.2,
-      "totalShows": 2,
-      "evaluatedCount": 2,
-      "totalWins": 0,
-      "totalPodiums": 0,
-      "winRate": 0,
-      "podiumRate": 0,
-      "wsmWins": 0,
-      "wsmPodiums": 0,
-      "ascWins": 0,
-      "smoeWins": 0,
-      "rogueWins": 0,
-      "esmWins": 0,
-      "majorTitles": 0,
-      "activeYears": "2002–2010",
-      "startYear": 2002,
-      "endYear": 2010,
-      "era": "Titan Era (2002–2019)",
-      "topShows": [
-        {
-          "contest": "2010 Canada's Strongest Man",
-          "year": 2010,
-          "rank": 8,
-          "difficulty": 126.9,
-          "points": 22.1,
-          "basePlacementPts": 22.1,
-          "bonus": 0
-        },
-        {
-          "contest": "2002 Canada's Strongest Man",
-          "year": 2002,
-          "rank": 12,
-          "difficulty": 251.1,
-          "points": 16.1,
-          "basePlacementPts": 16.1,
-          "bonus": 0
-        }
-      ],
-      "rank": 1548
-    },
-    {
-      "name": "Peter Eriksson",
-      "firstName": "Peter",
-      "lastName": "Eriksson",
-      "country": "SWE",
-      "goatScore": 38.2,
-      "totalShows": 2,
-      "evaluatedCount": 2,
-      "totalWins": 0,
-      "totalPodiums": 0,
-      "winRate": 0,
-      "podiumRate": 0,
-      "wsmWins": 0,
-      "wsmPodiums": 0,
-      "ascWins": 0,
-      "smoeWins": 0,
-      "rogueWins": 0,
-      "esmWins": 0,
-      "majorTitles": 0,
-      "activeYears": "2010–2011",
-      "startYear": 2010,
-      "endYear": 2011,
-      "era": "Titan Era (2002–2019)",
-      "topShows": [
-        {
-          "contest": "2011 Sweden's Strongest Man",
-          "year": 2011,
-          "rank": 5,
-          "difficulty": 71.1,
-          "points": 26.2,
-          "basePlacementPts": 26.2,
-          "bonus": 0
-        },
-        {
-          "contest": "2010 Sweden's Strongest Man",
-          "year": 2010,
-          "rank": 7,
-          "difficulty": 53.7,
-          "points": 12,
-          "basePlacementPts": 12,
-          "bonus": 0
-        }
-      ],
-      "rank": 1549
-    },
-    {
       "name": "Erik Krajčovič",
       "firstName": "Erik",
       "lastName": "Krajčovič",
       "country": "SVK",
-      "goatScore": 38.2,
+      "goatScore": 38.3,
       "totalShows": 6,
       "evaluatedCount": 6,
       "totalWins": 0,
@@ -128839,9 +128623,9 @@
           "contest": "2025 Slovakia's Strongest Man",
           "year": 2025,
           "rank": 4,
-          "difficulty": 6.4,
-          "points": 3,
-          "basePlacementPts": 3,
+          "difficulty": 6.5,
+          "points": 3.1,
+          "basePlacementPts": 3.1,
           "bonus": 0
         },
         {
@@ -128851,6 +128635,222 @@
           "difficulty": 5.9,
           "points": 0.8,
           "basePlacementPts": 0.8,
+          "bonus": 0
+        }
+      ],
+      "rank": 1545
+    },
+    {
+      "name": "Mihály Ulvicki",
+      "firstName": "Mihály",
+      "lastName": "Ulvicki",
+      "country": "HUN",
+      "goatScore": 38.3,
+      "totalShows": 2,
+      "evaluatedCount": 2,
+      "totalWins": 0,
+      "totalPodiums": 1,
+      "winRate": 0,
+      "podiumRate": 50,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2002–2004",
+      "startYear": 2002,
+      "endYear": 2004,
+      "era": "Titan Era (2002–2019)",
+      "topShows": [
+        {
+          "contest": "2002 Hungary's Strongest Man",
+          "year": 2002,
+          "rank": 2,
+          "difficulty": 33.3,
+          "points": 25.9,
+          "basePlacementPts": 25.9,
+          "bonus": 0
+        },
+        {
+          "contest": "2004 Czechoslovak Strongman Cup",
+          "year": 2004,
+          "rank": 6,
+          "difficulty": 43.2,
+          "points": 12.4,
+          "basePlacementPts": 12.4,
+          "bonus": 0
+        }
+      ],
+      "rank": 1546
+    },
+    {
+      "name": "Teemu Nieminen",
+      "firstName": "Teemu",
+      "lastName": "Nieminen",
+      "country": "FIN",
+      "goatScore": 38.3,
+      "totalShows": 2,
+      "evaluatedCount": 2,
+      "totalWins": 0,
+      "totalPodiums": 1,
+      "winRate": 0,
+      "podiumRate": 50,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "1996–1998",
+      "startYear": 1996,
+      "endYear": 1998,
+      "era": "Nordic Dominance (1990–2001)",
+      "topShows": [
+        {
+          "contest": "1998 Kuikan Vahvin Mies",
+          "year": 1998,
+          "rank": 3,
+          "difficulty": 54.9,
+          "points": 33.3,
+          "basePlacementPts": 33.3,
+          "bonus": 0
+        },
+        {
+          "contest": "1996 Kouheron Karpaasi",
+          "year": 1996,
+          "rank": 4,
+          "difficulty": 10.5,
+          "points": 5,
+          "basePlacementPts": 5,
+          "bonus": 0
+        }
+      ],
+      "rank": 1547
+    },
+    {
+      "name": "Peter Egbergen",
+      "firstName": "Peter",
+      "lastName": "Egbergen",
+      "country": "NED",
+      "goatScore": 38.3,
+      "totalShows": 1,
+      "evaluatedCount": 1,
+      "totalWins": 0,
+      "totalPodiums": 0,
+      "winRate": 0,
+      "podiumRate": 0,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "1982",
+      "startYear": 1982,
+      "endYear": 1982,
+      "era": "Golden Era (1977–1989)",
+      "topShows": [
+        {
+          "contest": "1982 Strongest Man in the Netherlands",
+          "year": 1982,
+          "rank": 5,
+          "difficulty": 104,
+          "points": 38.3,
+          "basePlacementPts": 38.3,
+          "bonus": 0
+        }
+      ],
+      "rank": 1548
+    },
+    {
+      "name": "Maurice Paquette",
+      "firstName": "Maurice",
+      "lastName": "Paquette",
+      "country": "CAN",
+      "goatScore": 38.2,
+      "totalShows": 2,
+      "evaluatedCount": 2,
+      "totalWins": 0,
+      "totalPodiums": 0,
+      "winRate": 0,
+      "podiumRate": 0,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2002–2010",
+      "startYear": 2002,
+      "endYear": 2010,
+      "era": "Titan Era (2002–2019)",
+      "topShows": [
+        {
+          "contest": "2010 Canada's Strongest Man",
+          "year": 2010,
+          "rank": 8,
+          "difficulty": 126.9,
+          "points": 22.1,
+          "basePlacementPts": 22.1,
+          "bonus": 0
+        },
+        {
+          "contest": "2002 Canada's Strongest Man",
+          "year": 2002,
+          "rank": 12,
+          "difficulty": 251.1,
+          "points": 16.1,
+          "basePlacementPts": 16.1,
+          "bonus": 0
+        }
+      ],
+      "rank": 1549
+    },
+    {
+      "name": "Peter Eriksson",
+      "firstName": "Peter",
+      "lastName": "Eriksson",
+      "country": "SWE",
+      "goatScore": 38.2,
+      "totalShows": 2,
+      "evaluatedCount": 2,
+      "totalWins": 0,
+      "totalPodiums": 0,
+      "winRate": 0,
+      "podiumRate": 0,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2010–2011",
+      "startYear": 2010,
+      "endYear": 2011,
+      "era": "Titan Era (2002–2019)",
+      "topShows": [
+        {
+          "contest": "2011 Sweden's Strongest Man",
+          "year": 2011,
+          "rank": 5,
+          "difficulty": 71.1,
+          "points": 26.2,
+          "basePlacementPts": 26.2,
+          "bonus": 0
+        },
+        {
+          "contest": "2010 Sweden's Strongest Man",
+          "year": 2010,
+          "rank": 7,
+          "difficulty": 53.7,
+          "points": 12,
+          "basePlacementPts": 12,
           "bonus": 0
         }
       ],
@@ -162441,12 +162441,12 @@
       "lastName": "Angheloiu",
       "country": "ROU",
       "goatScore": 14.1,
-      "totalShows": 12,
+      "totalShows": 13,
       "evaluatedCount": 10,
       "totalWins": 0,
-      "totalPodiums": 3,
+      "totalPodiums": 4,
       "winRate": 0,
-      "podiumRate": 25,
+      "podiumRate": 30.8,
       "wsmWins": 0,
       "wsmPodiums": 0,
       "ascWins": 0,
@@ -163777,6 +163777,51 @@
       "rank": 2250
     },
     {
+      "name": "Ladislav Valkár",
+      "firstName": "Ladislav",
+      "lastName": "Valkár",
+      "country": "SVK",
+      "goatScore": 13.6,
+      "totalShows": 2,
+      "evaluatedCount": 2,
+      "totalWins": 0,
+      "totalPodiums": 1,
+      "winRate": 0,
+      "podiumRate": 50,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2020–2025",
+      "startYear": 2020,
+      "endYear": 2025,
+      "era": "New Era (2020–Present)",
+      "topShows": [
+        {
+          "contest": "2020 Central European Strongman Cup",
+          "year": 2020,
+          "rank": 8,
+          "difficulty": 48.7,
+          "points": 8.5,
+          "basePlacementPts": 8.5,
+          "bonus": 0
+        },
+        {
+          "contest": "2025 Slovakia's Strongest Man",
+          "year": 2025,
+          "rank": 2,
+          "difficulty": 6.5,
+          "points": 5.1,
+          "basePlacementPts": 5.1,
+          "bonus": 0
+        }
+      ],
+      "rank": 2251
+    },
+    {
       "name": "Nick Osborne",
       "firstName": "Nick",
       "lastName": "Osborne",
@@ -163810,7 +163855,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2251
+      "rank": 2252
     },
     {
       "name": "Yuri Kazantsev",
@@ -163846,7 +163891,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2252
+      "rank": 2253
     },
     {
       "name": "Emanuel Mendoza",
@@ -163891,7 +163936,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2253
+      "rank": 2254
     },
     {
       "name": "Philip Kuninski",
@@ -163936,7 +163981,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2254
+      "rank": 2255
     },
     {
       "name": "Yulian Kuznetsov",
@@ -164017,7 +164062,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2255
+      "rank": 2256
     },
     {
       "name": "Dave Blake",
@@ -164086,51 +164131,6 @@
           "difficulty": 9.1,
           "points": 0.7,
           "basePlacementPts": 0.7,
-          "bonus": 0
-        }
-      ],
-      "rank": 2256
-    },
-    {
-      "name": "Ladislav Valkár",
-      "firstName": "Ladislav",
-      "lastName": "Valkár",
-      "country": "SVK",
-      "goatScore": 13.5,
-      "totalShows": 2,
-      "evaluatedCount": 2,
-      "totalWins": 0,
-      "totalPodiums": 1,
-      "winRate": 0,
-      "podiumRate": 50,
-      "wsmWins": 0,
-      "wsmPodiums": 0,
-      "ascWins": 0,
-      "smoeWins": 0,
-      "rogueWins": 0,
-      "esmWins": 0,
-      "majorTitles": 0,
-      "activeYears": "2020–2025",
-      "startYear": 2020,
-      "endYear": 2025,
-      "era": "New Era (2020–Present)",
-      "topShows": [
-        {
-          "contest": "2020 Central European Strongman Cup",
-          "year": 2020,
-          "rank": 8,
-          "difficulty": 48.7,
-          "points": 8.5,
-          "basePlacementPts": 8.5,
-          "bonus": 0
-        },
-        {
-          "contest": "2025 Slovakia's Strongest Man",
-          "year": 2025,
-          "rank": 2,
-          "difficulty": 6.4,
-          "points": 5,
-          "basePlacementPts": 5,
           "bonus": 0
         }
       ],
@@ -172912,7 +172912,7 @@
           "contest": "2025 Slovakia's Strongest Man",
           "year": 2025,
           "rank": 3,
-          "difficulty": 6.4,
+          "difficulty": 6.5,
           "points": 3.9,
           "basePlacementPts": 3.9,
           "bonus": 0
@@ -180859,6 +180859,60 @@
       "rank": 2629
     },
     {
+      "name": "Stanimir Todorov",
+      "firstName": "Stanimir",
+      "lastName": "Todorov",
+      "country": "BUL",
+      "goatScore": 7.3,
+      "totalShows": 3,
+      "evaluatedCount": 3,
+      "totalWins": 2,
+      "totalPodiums": 2,
+      "winRate": 66.7,
+      "podiumRate": 66.7,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2026",
+      "startYear": 2026,
+      "endYear": 2026,
+      "era": "New Era (2020–Present)",
+      "topShows": [
+        {
+          "contest": "2026 Bulgaria Strongman World Battle",
+          "year": 2026,
+          "rank": 8,
+          "difficulty": 36.6,
+          "points": 6.4,
+          "basePlacementPts": 6.4,
+          "bonus": 0
+        },
+        {
+          "contest": "2026 B.F.S.A Strongman Cup",
+          "year": 2026,
+          "rank": 1,
+          "difficulty": 0.6,
+          "points": 0.6,
+          "basePlacementPts": 0.6,
+          "bonus": 0
+        },
+        {
+          "contest": "2026 B.F.S.A Strongman Cup",
+          "year": 2026,
+          "rank": 1,
+          "difficulty": 0.3,
+          "points": 0.3,
+          "basePlacementPts": 0.3,
+          "bonus": 0
+        }
+      ],
+      "rank": 2630
+    },
+    {
       "name": "Chris Burke",
       "firstName": "Chris",
       "lastName": "Burke",
@@ -180892,7 +180946,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2630
+      "rank": 2631
     },
     {
       "name": "Hans Lolkema",
@@ -180928,7 +180982,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2631
+      "rank": 2632
     },
     {
       "name": "Mikhail Rodimtsev",
@@ -180973,7 +181027,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2632
+      "rank": 2633
     },
     {
       "name": "Alexander Jørgensen",
@@ -181018,7 +181072,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2633
+      "rank": 2634
     },
     {
       "name": "Martin Hoi",
@@ -181063,7 +181117,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2634
+      "rank": 2635
     },
     {
       "name": "Christian Cerar",
@@ -181099,7 +181153,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2635
+      "rank": 2636
     },
     {
       "name": "Tapio Vilppola",
@@ -181162,7 +181216,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2636
+      "rank": 2637
     },
     {
       "name": "Lasse Koistinen",
@@ -181207,7 +181261,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2637
+      "rank": 2638
     },
     {
       "name": "Bas van der Molen",
@@ -181252,7 +181306,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2638
+      "rank": 2639
     },
     {
       "name": "Ashish Dayma",
@@ -181288,7 +181342,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2639
+      "rank": 2640
     },
     {
       "name": "Jack Turner",
@@ -181333,7 +181387,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2640
+      "rank": 2641
     },
     {
       "name": "Silvio Ajfrid",
@@ -181369,7 +181423,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2641
+      "rank": 2642
     },
     {
       "name": "Antonio Sternativo",
@@ -181423,7 +181477,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2642
+      "rank": 2643
     },
     {
       "name": "Leonard Totka",
@@ -181459,7 +181513,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2643
+      "rank": 2644
     },
     {
       "name": "Sven von der Lippe",
@@ -181495,7 +181549,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2644
+      "rank": 2645
     },
     {
       "name": "Lawrence da Silva",
@@ -181531,7 +181585,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2645
+      "rank": 2646
     },
     {
       "name": "Joshua Puckett",
@@ -181567,7 +181621,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2646
+      "rank": 2647
     },
     {
       "name": "Vaughan Hannah",
@@ -181603,7 +181657,7 @@
           "bonus": 0
         }
       ],
-      "rank": 2647
+      "rank": 2648
     },
     {
       "name": "Sergiu Coadă",
@@ -181690,51 +181744,6 @@
           "difficulty": 1.1,
           "points": 0.3,
           "basePlacementPts": 0.3,
-          "bonus": 0
-        }
-      ],
-      "rank": 2648
-    },
-    {
-      "name": "Stanimir Todorov",
-      "firstName": "Stanimir",
-      "lastName": "Todorov",
-      "country": "BUL",
-      "goatScore": 7,
-      "totalShows": 2,
-      "evaluatedCount": 2,
-      "totalWins": 1,
-      "totalPodiums": 1,
-      "winRate": 50,
-      "podiumRate": 50,
-      "wsmWins": 0,
-      "wsmPodiums": 0,
-      "ascWins": 0,
-      "smoeWins": 0,
-      "rogueWins": 0,
-      "esmWins": 0,
-      "majorTitles": 0,
-      "activeYears": "2026",
-      "startYear": 2026,
-      "endYear": 2026,
-      "era": "New Era (2020–Present)",
-      "topShows": [
-        {
-          "contest": "2026 Bulgaria Strongman World Battle",
-          "year": 2026,
-          "rank": 8,
-          "difficulty": 36.6,
-          "points": 6.4,
-          "basePlacementPts": 6.4,
-          "bonus": 0
-        },
-        {
-          "contest": "2026 B.F.S.A Strongman Cup",
-          "year": 2026,
-          "rank": 1,
-          "difficulty": 0.6,
-          "points": 0.6,
-          "basePlacementPts": 0.6,
           "bonus": 0
         }
       ],
@@ -193315,7 +193324,7 @@
           "contest": "2025 Slovakia's Strongest Man",
           "year": 2025,
           "rank": 5,
-          "difficulty": 6.4,
+          "difficulty": 6.5,
           "points": 2.4,
           "basePlacementPts": 2.4,
           "bonus": 0
@@ -209479,6 +209488,42 @@
       "rank": 3327
     },
     {
+      "name": "Adam Bandoľa",
+      "firstName": "Adam",
+      "lastName": "Bandoľa",
+      "country": "SVK",
+      "goatScore": 1.5,
+      "totalShows": 1,
+      "evaluatedCount": 1,
+      "totalWins": 0,
+      "totalPodiums": 0,
+      "winRate": 0,
+      "podiumRate": 0,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2025",
+      "startYear": 2025,
+      "endYear": 2025,
+      "era": "New Era (2020–Present)",
+      "topShows": [
+        {
+          "contest": "2025 Slovakia's Strongest Man",
+          "year": 2025,
+          "rank": 7,
+          "difficulty": 6.5,
+          "points": 1.5,
+          "basePlacementPts": 1.5,
+          "bonus": 0
+        }
+      ],
+      "rank": 3328
+    },
+    {
       "name": "Ludvík Lang",
       "firstName": "Ludvík",
       "lastName": "Lang",
@@ -209512,7 +209557,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3328
+      "rank": 3329
     },
     {
       "name": "Jayson Woods",
@@ -209557,7 +209602,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3329
+      "rank": 3330
     },
     {
       "name": "Gian Paolo Pedna",
@@ -209611,7 +209656,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3330
+      "rank": 3331
     },
     {
       "name": "Ville Tiainen",
@@ -209647,7 +209692,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3331
+      "rank": 3332
     },
     {
       "name": "Jussi Onnenlehto",
@@ -209683,7 +209728,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3332
+      "rank": 3333
     },
     {
       "name": "Ilkka Seppala",
@@ -209719,7 +209764,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3333
+      "rank": 3334
     },
     {
       "name": "Mikhail Verbitsky",
@@ -209755,7 +209800,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3334
+      "rank": 3335
     },
     {
       "name": "Miro Hrastar",
@@ -209791,7 +209836,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3335
+      "rank": 3336
     },
     {
       "name": "Runi Hansen",
@@ -209827,7 +209872,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3336
+      "rank": 3337
     },
     {
       "name": "Deni Omeragic",
@@ -209863,7 +209908,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3337
+      "rank": 3338
     },
     {
       "name": "Milan Ranđelović",
@@ -209899,7 +209944,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3338
+      "rank": 3339
     },
     {
       "name": "Kevin Hochstrasser",
@@ -209935,7 +209980,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3339
+      "rank": 3340
     },
     {
       "name": "Dale Murray",
@@ -209971,7 +210016,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3340
+      "rank": 3341
     },
     {
       "name": "Kacper Sopata",
@@ -210007,7 +210052,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3341
+      "rank": 3342
     },
     {
       "name": "Martin Hinteregger",
@@ -210043,7 +210088,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3342
+      "rank": 3343
     },
     {
       "name": "Vlad Vodzinschi",
@@ -210124,7 +210169,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3343
+      "rank": 3344
     },
     {
       "name": "Riku Lähde",
@@ -210160,7 +210205,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3344
+      "rank": 3345
     },
     {
       "name": "Ștefan Roşca",
@@ -210196,7 +210241,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3345
+      "rank": 3346
     },
     {
       "name": "Abaddon Quinn",
@@ -210232,7 +210277,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3346
+      "rank": 3347
     },
     {
       "name": "Les Milhinch",
@@ -210268,7 +210313,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3347
+      "rank": 3348
     },
     {
       "name": "Tomasz Wszęnderowski",
@@ -210304,7 +210349,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3348
+      "rank": 3349
     },
     {
       "name": "Mahdi Khayati",
@@ -210340,7 +210385,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3349
+      "rank": 3350
     },
     {
       "name": "Ebad Kohansal",
@@ -210376,7 +210421,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3350
+      "rank": 3351
     },
     {
       "name": "Jared Taylor",
@@ -210421,7 +210466,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3351
+      "rank": 3352
     },
     {
       "name": "Lukáš Žigmund",
@@ -210457,7 +210502,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3352
+      "rank": 3353
     },
     {
       "name": "Jozef Pěnkava",
@@ -210493,7 +210538,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3353
+      "rank": 3354
     },
     {
       "name": "Kyle Evanoff",
@@ -210529,7 +210574,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3354
+      "rank": 3355
     },
     {
       "name": "Michal Druska",
@@ -210560,42 +210605,6 @@
           "year": 2022,
           "rank": 9,
           "difficulty": 10.5,
-          "points": 1.4,
-          "basePlacementPts": 1.4,
-          "bonus": 0
-        }
-      ],
-      "rank": 3355
-    },
-    {
-      "name": "Adam Bandoľa",
-      "firstName": "Adam",
-      "lastName": "Bandoľa",
-      "country": "SVK",
-      "goatScore": 1.4,
-      "totalShows": 1,
-      "evaluatedCount": 1,
-      "totalWins": 0,
-      "totalPodiums": 0,
-      "winRate": 0,
-      "podiumRate": 0,
-      "wsmWins": 0,
-      "wsmPodiums": 0,
-      "ascWins": 0,
-      "smoeWins": 0,
-      "rogueWins": 0,
-      "esmWins": 0,
-      "majorTitles": 0,
-      "activeYears": "2025",
-      "startYear": 2025,
-      "endYear": 2025,
-      "era": "New Era (2020–Present)",
-      "topShows": [
-        {
-          "contest": "2025 Slovakia's Strongest Man",
-          "year": 2025,
-          "rank": 7,
-          "difficulty": 6.4,
           "points": 1.4,
           "basePlacementPts": 1.4,
           "bonus": 0
@@ -213187,7 +213196,7 @@
           "contest": "2025 Slovakia's Strongest Man",
           "year": 2025,
           "rank": 8,
-          "difficulty": 6.4,
+          "difficulty": 6.5,
           "points": 1.1,
           "basePlacementPts": 1.1,
           "bonus": 0
@@ -219163,6 +219172,51 @@
       "rank": 3578
     },
     {
+      "name": "Ivan Mryankov",
+      "firstName": "Ivan",
+      "lastName": "Mryankov",
+      "country": "BUL",
+      "goatScore": 0.6,
+      "totalShows": 2,
+      "evaluatedCount": 2,
+      "totalWins": 0,
+      "totalPodiums": 2,
+      "winRate": 0,
+      "podiumRate": 100,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2026",
+      "startYear": 2026,
+      "endYear": 2026,
+      "era": "New Era (2020–Present)",
+      "topShows": [
+        {
+          "contest": "2026 B.F.S.A Strongman Cup",
+          "year": 2026,
+          "rank": 3,
+          "difficulty": 0.6,
+          "points": 0.4,
+          "basePlacementPts": 0.4,
+          "bonus": 0
+        },
+        {
+          "contest": "2026 B.F.S.A Strongman Cup",
+          "year": 2026,
+          "rank": 2,
+          "difficulty": 0.3,
+          "points": 0.2,
+          "basePlacementPts": 0.2,
+          "bonus": 0
+        }
+      ],
+      "rank": 3579
+    },
+    {
       "name": "Andy Kerr",
       "firstName": "Andy",
       "lastName": "Kerr",
@@ -219196,7 +219250,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3579
+      "rank": 3580
     },
     {
       "name": "Brian Rehberg",
@@ -219232,7 +219286,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3580
+      "rank": 3581
     },
     {
       "name": "Józef Sokołowski",
@@ -219268,7 +219322,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3581
+      "rank": 3582
     },
     {
       "name": "Per Magnus Pedersen",
@@ -219304,7 +219358,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3582
+      "rank": 3583
     },
     {
       "name": "Michael Congdon",
@@ -219340,7 +219394,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3583
+      "rank": 3584
     },
     {
       "name": "Amir Sohrabi",
@@ -219376,7 +219430,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3584
+      "rank": 3585
     },
     {
       "name": "Miles Orec",
@@ -219412,7 +219466,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3585
+      "rank": 3586
     },
     {
       "name": "Alexander Ruziczka",
@@ -219457,7 +219511,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3586
+      "rank": 3587
     },
     {
       "name": "Ahmed Basit",
@@ -219493,7 +219547,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3587
+      "rank": 3588
     },
     {
       "name": "Josh Lancaster",
@@ -219529,7 +219583,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3588
+      "rank": 3589
     },
     {
       "name": "Evgeny Novikov",
@@ -219574,7 +219628,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3589
+      "rank": 3590
     },
     {
       "name": "Helmut Pils",
@@ -219610,7 +219664,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3590
+      "rank": 3591
     },
     {
       "name": "Massimo Scavo",
@@ -219646,7 +219700,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3591
+      "rank": 3592
     },
     {
       "name": "Arjan Boghaert",
@@ -219718,7 +219772,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3592
+      "rank": 3593
     },
     {
       "name": "Tomáš Vojtek",
@@ -219754,7 +219808,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3593
+      "rank": 3594
     },
     {
       "name": "Jonne Heinonen",
@@ -219790,7 +219844,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3594
+      "rank": 3595
     },
     {
       "name": "Petr Lněnička",
@@ -219826,7 +219880,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3595
+      "rank": 3596
     },
     {
       "name": "Maksymilian Mioduszewski",
@@ -219862,7 +219916,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3596
+      "rank": 3597
     },
     {
       "name": "Antonio Luchena",
@@ -219907,7 +219961,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3597
+      "rank": 3598
     },
     {
       "name": "Andrea Giomini",
@@ -219943,7 +219997,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3598
+      "rank": 3599
     },
     {
       "name": "Aki Heikkilä",
@@ -219979,7 +220033,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3599
+      "rank": 3600
     },
     {
       "name": "Juraj Barbarič",
@@ -220015,7 +220069,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3600
+      "rank": 3601
     },
     {
       "name": "Thom Andreasson",
@@ -220051,7 +220105,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3601
+      "rank": 3602
     },
     {
       "name": "Markku Eskelinen",
@@ -220087,7 +220141,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3602
+      "rank": 3603
     },
     {
       "name": "Juha Kärkiö",
@@ -220123,7 +220177,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3603
+      "rank": 3604
     },
     {
       "name": "Jarkko Mihailov",
@@ -220159,7 +220213,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3604
+      "rank": 3605
     },
     {
       "name": "Andreas Kronborg Sørensen",
@@ -220195,7 +220249,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3605
+      "rank": 3606
     },
     {
       "name": "Ali Smajlovic",
@@ -220231,7 +220285,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3606
+      "rank": 3607
     },
     {
       "name": "Frederik Albøge",
@@ -220267,7 +220321,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3607
+      "rank": 3608
     },
     {
       "name": "Hayo de Jong",
@@ -220303,7 +220357,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3608
+      "rank": 3609
     },
     {
       "name": "Avi Esdras",
@@ -220348,7 +220402,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3609
+      "rank": 3610
     },
     {
       "name": "John Andersson",
@@ -220384,7 +220438,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3610
+      "rank": 3611
     },
     {
       "name": "Milan Potkonjak",
@@ -220420,7 +220474,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3611
+      "rank": 3612
     },
     {
       "name": "Kyle Mahoney",
@@ -220456,7 +220510,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3612
+      "rank": 3613
     },
     {
       "name": "Atanas Zapryanov",
@@ -220501,7 +220555,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3613
+      "rank": 3614
     },
     {
       "name": "Radomir Živkovič",
@@ -220546,7 +220600,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3614
+      "rank": 3615
     },
     {
       "name": "Hristo Hristov",
@@ -220600,7 +220654,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3615
+      "rank": 3616
     },
     {
       "name": "Émile Boissonnault",
@@ -220645,7 +220699,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3616
+      "rank": 3617
     },
     {
       "name": "Darcy Bone",
@@ -220681,7 +220735,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3617
+      "rank": 3618
     },
     {
       "name": "Frédérik van den Abeele",
@@ -220735,7 +220789,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3618
+      "rank": 3619
     },
     {
       "name": "Anatoly Malniev",
@@ -220789,7 +220843,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3619
+      "rank": 3620
     },
     {
       "name": "Rhys Calland",
@@ -220825,7 +220879,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3620
+      "rank": 3621
     },
     {
       "name": "Daniel Bouma",
@@ -220861,7 +220915,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3621
+      "rank": 3622
     },
     {
       "name": "David Jiménez",
@@ -220897,7 +220951,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3622
+      "rank": 3623
     },
     {
       "name": "Rudolf Strejček",
@@ -220933,7 +220987,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3623
+      "rank": 3624
     },
     {
       "name": "Reed Tompkins",
@@ -220969,7 +221023,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3624
+      "rank": 3625
     },
     {
       "name": "Bob Schwantz",
@@ -221005,7 +221059,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3625
+      "rank": 3626
     },
     {
       "name": "Coenraad Theron",
@@ -221041,7 +221095,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3626
+      "rank": 3627
     },
     {
       "name": "Irakli Datashvili",
@@ -221077,7 +221131,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3627
+      "rank": 3628
     },
     {
       "name": "Thayne Jackson",
@@ -221113,7 +221167,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3628
+      "rank": 3629
     },
     {
       "name": "Deng Jie",
@@ -221149,7 +221203,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3629
+      "rank": 3630
     },
     {
       "name": "Philippe Dumont-Bouchard",
@@ -221185,7 +221239,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3630
+      "rank": 3631
     },
     {
       "name": "Nathan Hettick",
@@ -221221,7 +221275,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3631
+      "rank": 3632
     },
     {
       "name": "Uwe Böser",
@@ -221266,7 +221320,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3632
+      "rank": 3633
     },
     {
       "name": "Nando Stoll",
@@ -221302,7 +221356,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3633
+      "rank": 3634
     },
     {
       "name": "Mario Stradej",
@@ -221338,7 +221392,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3634
+      "rank": 3635
     },
     {
       "name": "Mikko Raitanen",
@@ -221383,7 +221437,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3635
+      "rank": 3636
     },
     {
       "name": "Thomas Gerl",
@@ -221419,7 +221473,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3636
+      "rank": 3637
     },
     {
       "name": "Leoš Kubeš",
@@ -221455,7 +221509,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3637
+      "rank": 3638
     },
     {
       "name": "Niko Laine",
@@ -221491,7 +221545,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3638
+      "rank": 3639
     },
     {
       "name": "Joona Matilainen",
@@ -221536,7 +221590,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3639
+      "rank": 3640
     },
     {
       "name": "Jaromír Jalový",
@@ -221572,7 +221626,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3640
+      "rank": 3641
     },
     {
       "name": "Johannes Lidström",
@@ -221608,7 +221662,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3641
+      "rank": 3642
     },
     {
       "name": "Andreas Lundberg",
@@ -221653,7 +221707,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3642
+      "rank": 3643
     },
     {
       "name": "Jorma Viljanen",
@@ -221689,7 +221743,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3643
+      "rank": 3644
     },
     {
       "name": "Janne Hakala",
@@ -221725,7 +221779,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3644
+      "rank": 3645
     },
     {
       "name": "Jože Vincetic",
@@ -221761,7 +221815,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3645
+      "rank": 3646
     },
     {
       "name": "André Østergaard Johansen",
@@ -221797,7 +221851,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3646
+      "rank": 3647
     },
     {
       "name": "Panagiotis Perentis",
@@ -221833,7 +221887,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3647
+      "rank": 3648
     },
     {
       "name": "Frank Terhorst",
@@ -221869,7 +221923,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3648
+      "rank": 3649
     },
     {
       "name": "Lorenz Scherneck",
@@ -221905,7 +221959,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3649
+      "rank": 3650
     },
     {
       "name": "Jean-Luc Moalli",
@@ -221950,7 +222004,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3650
+      "rank": 3651
     },
     {
       "name": "Michael Dubois",
@@ -221986,7 +222040,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3651
+      "rank": 3652
     },
     {
       "name": "Mikloš Mihajlović",
@@ -222022,7 +222076,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3652
+      "rank": 3653
     },
     {
       "name": "Victor Rosca",
@@ -222058,7 +222112,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3653
+      "rank": 3654
     },
     {
       "name": "Shadoe Moshenko",
@@ -222094,7 +222148,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3654
+      "rank": 3655
     },
     {
       "name": "Hayato Fujiwara",
@@ -222130,7 +222184,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3655
+      "rank": 3656
     },
     {
       "name": "Kyle Scott",
@@ -222161,42 +222215,6 @@
           "year": 2026,
           "rank": 13,
           "difficulty": 8.2,
-          "points": 0.4,
-          "basePlacementPts": 0.4,
-          "bonus": 0
-        }
-      ],
-      "rank": 3656
-    },
-    {
-      "name": "Ivan Mryankov",
-      "firstName": "Ivan",
-      "lastName": "Mryankov",
-      "country": "BUL",
-      "goatScore": 0.4,
-      "totalShows": 1,
-      "evaluatedCount": 1,
-      "totalWins": 0,
-      "totalPodiums": 1,
-      "winRate": 0,
-      "podiumRate": 100,
-      "wsmWins": 0,
-      "wsmPodiums": 0,
-      "ascWins": 0,
-      "smoeWins": 0,
-      "rogueWins": 0,
-      "esmWins": 0,
-      "majorTitles": 0,
-      "activeYears": "2026",
-      "startYear": 2026,
-      "endYear": 2026,
-      "era": "New Era (2020–Present)",
-      "topShows": [
-        {
-          "contest": "2026 B.F.S.A Strongman Cup",
-          "year": 2026,
-          "rank": 3,
-          "difficulty": 0.6,
           "points": 0.4,
           "basePlacementPts": 0.4,
           "bonus": 0
@@ -224329,6 +224347,51 @@
       "rank": 3713
     },
     {
+      "name": "Vasil Nakov",
+      "firstName": "Vasil",
+      "lastName": "Nakov",
+      "country": "BUL",
+      "goatScore": 0.3,
+      "totalShows": 2,
+      "evaluatedCount": 2,
+      "totalWins": 0,
+      "totalPodiums": 0,
+      "winRate": 0,
+      "podiumRate": 0,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2026",
+      "startYear": 2026,
+      "endYear": 2026,
+      "era": "New Era (2020–Present)",
+      "topShows": [
+        {
+          "contest": "2026 Open Cup ZajeÄar",
+          "year": 2026,
+          "rank": 7,
+          "difficulty": 0.9,
+          "points": 0.2,
+          "basePlacementPts": 0.2,
+          "bonus": 0
+        },
+        {
+          "contest": "2026 B.F.S.A Strongman Cup",
+          "year": 2026,
+          "rank": 6,
+          "difficulty": 0.3,
+          "points": 0.1,
+          "basePlacementPts": 0.1,
+          "bonus": 0
+        }
+      ],
+      "rank": 3714
+    },
+    {
       "name": "Peteris Balodis",
       "firstName": "Peteris",
       "lastName": "Balodis",
@@ -224362,7 +224425,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3714
+      "rank": 3715
     },
     {
       "name": "Alec Soukup",
@@ -224398,7 +224461,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3715
+      "rank": 3716
     },
     {
       "name": "Arvydas Svegzda",
@@ -224434,7 +224497,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3716
+      "rank": 3717
     },
     {
       "name": "Aleksandras Žukauskas",
@@ -224470,7 +224533,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3717
+      "rank": 3718
     },
     {
       "name": "Egidijus Žaldokas",
@@ -224506,7 +224569,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3718
+      "rank": 3719
     },
     {
       "name": "Edmundas Kvietinskas",
@@ -224542,7 +224605,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3719
+      "rank": 3720
     },
     {
       "name": "Arūnas Vitkevičius",
@@ -224578,7 +224641,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3720
+      "rank": 3721
     },
     {
       "name": "Mike Mastell",
@@ -224614,7 +224677,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3721
+      "rank": 3722
     },
     {
       "name": "Luke Johnson",
@@ -224650,7 +224713,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3722
+      "rank": 3723
     },
     {
       "name": "Ole Laache",
@@ -224686,7 +224749,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3723
+      "rank": 3724
     },
     {
       "name": "Tom Hardman",
@@ -224722,7 +224785,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3724
+      "rank": 3725
     },
     {
       "name": "Justin Loy",
@@ -224758,7 +224821,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3725
+      "rank": 3726
     },
     {
       "name": "Mike O'Connor",
@@ -224794,7 +224857,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3726
+      "rank": 3727
     },
     {
       "name": "Daniel Atallah",
@@ -224830,7 +224893,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3727
+      "rank": 3728
     },
     {
       "name": "Ben Jenkins",
@@ -224866,7 +224929,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3728
+      "rank": 3729
     },
     {
       "name": "Craig Candler",
@@ -224902,7 +224965,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3729
+      "rank": 3730
     },
     {
       "name": "Josh Bourne",
@@ -224938,7 +225001,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3730
+      "rank": 3731
     },
     {
       "name": "Pavlo Dobryu",
@@ -224974,7 +225037,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3731
+      "rank": 3732
     },
     {
       "name": "Christoph Würflinger",
@@ -225019,7 +225082,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3732
+      "rank": 3733
     },
     {
       "name": "Travis Lanham",
@@ -225055,7 +225118,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3733
+      "rank": 3734
     },
     {
       "name": "Matthew McQuiston",
@@ -225091,7 +225154,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3734
+      "rank": 3735
     },
     {
       "name": "Andrei Zhukau",
@@ -225127,7 +225190,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3735
+      "rank": 3736
     },
     {
       "name": "Chris Terbos",
@@ -225163,7 +225226,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3736
+      "rank": 3737
     },
     {
       "name": "Dylan Heynes",
@@ -225199,7 +225262,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3737
+      "rank": 3738
     },
     {
       "name": "Danny Gartz",
@@ -225235,7 +225298,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3738
+      "rank": 3739
     },
     {
       "name": "Oscar Tinius Birkeland",
@@ -225271,7 +225334,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3739
+      "rank": 3740
     },
     {
       "name": "Nicolai Sternefalk",
@@ -225307,7 +225370,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3740
+      "rank": 3741
     },
     {
       "name": "Castelijns Tjörven",
@@ -225352,7 +225415,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3741
+      "rank": 3742
     },
     {
       "name": "Rob Elferink",
@@ -225388,7 +225451,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3742
+      "rank": 3743
     },
     {
       "name": "Patrik Kohout",
@@ -225424,7 +225487,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3743
+      "rank": 3744
     },
     {
       "name": "Achille Marrone",
@@ -225460,7 +225523,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3744
+      "rank": 3745
     },
     {
       "name": "Petteri Virtanen",
@@ -225496,7 +225559,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3745
+      "rank": 3746
     },
     {
       "name": "Jukka Hakala",
@@ -225532,7 +225595,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3746
+      "rank": 3747
     },
     {
       "name": "Laurynas Riliskis",
@@ -225568,7 +225631,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3747
+      "rank": 3748
     },
     {
       "name": "Christer Högström",
@@ -225604,7 +225667,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3748
+      "rank": 3749
     },
     {
       "name": "Jaakko Myllymäki",
@@ -225640,7 +225703,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3749
+      "rank": 3750
     },
     {
       "name": "Kai Ruotsala",
@@ -225676,7 +225739,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3750
+      "rank": 3751
     },
     {
       "name": "Ville Kuusisto",
@@ -225712,7 +225775,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3751
+      "rank": 3752
     },
     {
       "name": "Mikko Välilä",
@@ -225748,7 +225811,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3752
+      "rank": 3753
     },
     {
       "name": "Malte Andersen",
@@ -225784,7 +225847,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3753
+      "rank": 3754
     },
     {
       "name": "Giannis Karavelakis",
@@ -225820,7 +225883,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3754
+      "rank": 3755
     },
     {
       "name": "Arnold Velichko",
@@ -225856,7 +225919,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3755
+      "rank": 3756
     },
     {
       "name": "Dimitris Fokas",
@@ -225892,7 +225955,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3756
+      "rank": 3757
     },
     {
       "name": "Igor Razinkin",
@@ -225928,7 +225991,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3757
+      "rank": 3758
     },
     {
       "name": "Ion Viliman",
@@ -225964,7 +226027,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3758
+      "rank": 3759
     },
     {
       "name": "Adam Kostura",
@@ -226009,7 +226072,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3759
+      "rank": 3760
     },
     {
       "name": "Danny Brumpton",
@@ -226045,7 +226108,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3760
+      "rank": 3761
     },
     {
       "name": "Matthew Scott",
@@ -226081,7 +226144,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3761
+      "rank": 3762
     },
     {
       "name": "Mat Gordon",
@@ -226126,7 +226189,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3762
+      "rank": 3763
     },
     {
       "name": "Justin Zahner",
@@ -226171,7 +226234,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3763
+      "rank": 3764
     },
     {
       "name": "Renaud Pelletier-Godin",
@@ -226207,7 +226270,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3764
+      "rank": 3765
     },
     {
       "name": "Lars Ainasoja",
@@ -226243,7 +226306,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3765
+      "rank": 3766
     },
     {
       "name": "Eric Bairin",
@@ -226279,7 +226342,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3766
+      "rank": 3767
     },
     {
       "name": "Denis Handala",
@@ -226324,7 +226387,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3767
+      "rank": 3768
     },
     {
       "name": "Josep Baldayo",
@@ -226369,7 +226432,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3768
+      "rank": 3769
     },
     {
       "name": "Karder Belhadef",
@@ -226405,7 +226468,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3769
+      "rank": 3770
     },
     {
       "name": "Eric Simon",
@@ -226441,7 +226504,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3770
+      "rank": 3771
     },
     {
       "name": "Emmanuel Lecur",
@@ -226477,7 +226540,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3771
+      "rank": 3772
     },
     {
       "name": "Lukas Aigner",
@@ -226513,7 +226576,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3772
+      "rank": 3773
     },
     {
       "name": "Matthias Kargl Turner",
@@ -226549,7 +226612,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3773
+      "rank": 3774
     },
     {
       "name": "Tyler Dyck",
@@ -226585,7 +226648,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3774
+      "rank": 3775
     },
     {
       "name": "Declan Young",
@@ -226621,7 +226684,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3775
+      "rank": 3776
     },
     {
       "name": "Alexandru Iacovenko",
@@ -226657,7 +226720,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3776
+      "rank": 3777
     },
     {
       "name": "Dmitri Cebotari",
@@ -226693,7 +226756,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3777
+      "rank": 3778
     },
     {
       "name": "Dean Kennedy",
@@ -226729,7 +226792,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3778
+      "rank": 3779
     },
     {
       "name": "William Carton",
@@ -226765,7 +226828,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3779
+      "rank": 3780
     },
     {
       "name": "Darren McGirr",
@@ -226801,7 +226864,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3780
+      "rank": 3781
     },
     {
       "name": "Detelin Yonchev",
@@ -226832,42 +226895,6 @@
           "year": 2026,
           "rank": 5,
           "difficulty": 0.6,
-          "points": 0.2,
-          "basePlacementPts": 0.2,
-          "bonus": 0
-        }
-      ],
-      "rank": 3781
-    },
-    {
-      "name": "Vasil Nakov",
-      "firstName": "Vasil",
-      "lastName": "Nakov",
-      "country": "BUL",
-      "goatScore": 0.2,
-      "totalShows": 1,
-      "evaluatedCount": 1,
-      "totalWins": 0,
-      "totalPodiums": 0,
-      "winRate": 0,
-      "podiumRate": 0,
-      "wsmWins": 0,
-      "wsmPodiums": 0,
-      "ascWins": 0,
-      "smoeWins": 0,
-      "rogueWins": 0,
-      "esmWins": 0,
-      "majorTitles": 0,
-      "activeYears": "2026",
-      "startYear": 2026,
-      "endYear": 2026,
-      "era": "New Era (2020–Present)",
-      "topShows": [
-        {
-          "contest": "2026 Open Cup ZajeÄar",
-          "year": 2026,
-          "rank": 7,
-          "difficulty": 0.9,
           "points": 0.2,
           "basePlacementPts": 0.2,
           "bonus": 0
@@ -229783,6 +229810,78 @@
       "rank": 3862
     },
     {
+      "name": "Hristiyan Delchev",
+      "firstName": "Hristiyan",
+      "lastName": "Delchev",
+      "country": "BUL",
+      "goatScore": 0.1,
+      "totalShows": 1,
+      "evaluatedCount": 1,
+      "totalWins": 0,
+      "totalPodiums": 0,
+      "winRate": 0,
+      "podiumRate": 0,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2026",
+      "startYear": 2026,
+      "endYear": 2026,
+      "era": "New Era (2020–Present)",
+      "topShows": [
+        {
+          "contest": "2026 B.F.S.A Strongman Cup",
+          "year": 2026,
+          "rank": 4,
+          "difficulty": 0.3,
+          "points": 0.1,
+          "basePlacementPts": 0.1,
+          "bonus": 0
+        }
+      ],
+      "rank": 3863
+    },
+    {
+      "name": "Alberto Nicolas Concepcion",
+      "firstName": "Alberto",
+      "lastName": "Nicolas Concepcion",
+      "country": "BUL",
+      "goatScore": 0.1,
+      "totalShows": 1,
+      "evaluatedCount": 1,
+      "totalWins": 0,
+      "totalPodiums": 0,
+      "winRate": 0,
+      "podiumRate": 0,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2026",
+      "startYear": 2026,
+      "endYear": 2026,
+      "era": "New Era (2020–Present)",
+      "topShows": [
+        {
+          "contest": "2026 B.F.S.A Strongman Cup",
+          "year": 2026,
+          "rank": 5,
+          "difficulty": 0.3,
+          "points": 0.1,
+          "basePlacementPts": 0.1,
+          "bonus": 0
+        }
+      ],
+      "rank": 3864
+    },
+    {
       "name": "Annina Saine",
       "firstName": "Annina",
       "lastName": "Saine",
@@ -229816,7 +229915,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3863
+      "rank": 3865
     },
     {
       "name": "Melissa Peacock",
@@ -229852,7 +229951,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3864
+      "rank": 3866
     },
     {
       "name": "Inez Carrasquillo",
@@ -229888,7 +229987,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3865
+      "rank": 3867
     },
     {
       "name": "Svetlana Bostelman",
@@ -229924,7 +230023,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3866
+      "rank": 3868
     },
     {
       "name": "Elijah Yoder",
@@ -229960,7 +230059,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3867
+      "rank": 3869
     },
     {
       "name": "Sasha Nijs",
@@ -229996,7 +230095,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3868
+      "rank": 3870
     },
     {
       "name": "Mike De Clerck",
@@ -230032,7 +230131,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3869
+      "rank": 3871
     },
     {
       "name": "Tyler Pruitt",
@@ -230068,7 +230167,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3870
+      "rank": 3872
     },
     {
       "name": "Shaun Boshoff",
@@ -230104,7 +230203,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3871
+      "rank": 3873
     },
     {
       "name": "Kazunori  Hikida",
@@ -230140,7 +230239,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3872
+      "rank": 3874
     },
     {
       "name": "Seymour Cox",
@@ -230185,7 +230284,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3873
+      "rank": 3875
     },
     {
       "name": "Dick Zucker",
@@ -230230,7 +230329,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3874
+      "rank": 3876
     },
     {
       "name": "Glen Millen",
@@ -230266,7 +230365,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3875
+      "rank": 3877
     },
     {
       "name": "Liam Bourke",
@@ -230302,7 +230401,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3876
+      "rank": 3878
     },
     {
       "name": "Bailey Deschene",
@@ -230338,7 +230437,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3877
+      "rank": 3879
     },
     {
       "name": "Rob Kennedy",
@@ -230374,7 +230473,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3878
+      "rank": 3880
     },
     {
       "name": "Craig Bongelli",
@@ -230410,7 +230509,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3879
+      "rank": 3881
     },
     {
       "name": "Johnny Wasiczko",
@@ -230446,7 +230545,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3880
+      "rank": 3882
     },
     {
       "name": "Jacob Miskimens",
@@ -230482,7 +230581,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3881
+      "rank": 3883
     },
     {
       "name": "Joe Stanton",
@@ -230518,7 +230617,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3882
+      "rank": 3884
     },
     {
       "name": "Wayne Tunstall",
@@ -230554,7 +230653,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3883
+      "rank": 3885
     },
     {
       "name": "Zach Gallman",
@@ -230590,7 +230689,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3884
+      "rank": 3886
     },
     {
       "name": "Pat Wilson",
@@ -230626,7 +230725,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3885
+      "rank": 3887
     },
     {
       "name": "Paul Amor",
@@ -230662,7 +230761,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3886
+      "rank": 3888
     },
     {
       "name": "Jordan Foley",
@@ -230698,7 +230797,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3887
+      "rank": 3889
     },
     {
       "name": "Zach Rupp",
@@ -230734,7 +230833,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3888
+      "rank": 3890
     },
     {
       "name": "Tamás Bartalos",
@@ -230770,7 +230869,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3889
+      "rank": 3891
     },
     {
       "name": "Brady Jones",
@@ -230806,7 +230905,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3890
+      "rank": 3892
     },
     {
       "name": "Anki Öberg",
@@ -230842,7 +230941,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3891
+      "rank": 3893
     },
     {
       "name": "Jaana Tanner",
@@ -230878,7 +230977,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3892
+      "rank": 3894
     },
     {
       "name": "Niina Jumppanen",
@@ -230914,7 +231013,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3893
+      "rank": 3895
     },
     {
       "name": "Bryndís Ólafsdóttir",
@@ -230950,7 +231049,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3894
+      "rank": 3896
     },
     {
       "name": "Alina Leisiö",
@@ -230986,7 +231085,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3895
+      "rank": 3897
     },
     {
       "name": "Leena Nurminen",
@@ -231022,7 +231121,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3896
+      "rank": 3898
     },
     {
       "name": "Samantha Belliveau",
@@ -231058,7 +231157,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3897
+      "rank": 3899
     },
     {
       "name": "Nadia Stowers",
@@ -231094,7 +231193,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3898
+      "rank": 3900
     },
     {
       "name": "Jodi Kennedy",
@@ -231130,7 +231229,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3899
+      "rank": 3901
     },
     {
       "name": "Erin Walklet",
@@ -231166,7 +231265,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3900
+      "rank": 3902
     },
     {
       "name": "Rebecca Lorch",
@@ -231202,7 +231301,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3901
+      "rank": 3903
     },
     {
       "name": "Jessica Mitchell",
@@ -231238,7 +231337,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3902
+      "rank": 3904
     },
     {
       "name": "Laura de Berdt Romilly",
@@ -231274,7 +231373,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3903
+      "rank": 3905
     },
     {
       "name": "Gabi Dixson",
@@ -231310,7 +231409,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3904
+      "rank": 3906
     },
     {
       "name": "Julia Hamilton",
@@ -231346,7 +231445,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3905
+      "rank": 3907
     },
     {
       "name": "Stefanie Herod",
@@ -231382,7 +231481,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3906
+      "rank": 3908
     },
     {
       "name": "Cassandra Moore",
@@ -231418,7 +231517,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3907
+      "rank": 3909
     },
     {
       "name": "Julia Tomascheski",
@@ -231454,7 +231553,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3908
+      "rank": 3910
     },
     {
       "name": "Lauren Ryder",
@@ -231490,7 +231589,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3909
+      "rank": 3911
     },
     {
       "name": "Daphne Zhang",
@@ -231526,7 +231625,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3910
+      "rank": 3912
     },
     {
       "name": "Josefine Adele Liverød",
@@ -231562,7 +231661,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3911
+      "rank": 3913
     },
     {
       "name": "Cynthia Martinez",
@@ -231598,7 +231697,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3912
+      "rank": 3914
     },
     {
       "name": "Gina Cravedi",
@@ -231634,7 +231733,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3913
+      "rank": 3915
     },
     {
       "name": "Erin Anderson",
@@ -231670,7 +231769,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3914
+      "rank": 3916
     },
     {
       "name": "Teresa Waterfield",
@@ -231706,7 +231805,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3915
+      "rank": 3917
     },
     {
       "name": "Nicole Recchia",
@@ -231742,7 +231841,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3916
+      "rank": 3918
     },
     {
       "name": "Tatiana Viera",
@@ -231778,7 +231877,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3917
+      "rank": 3919
     },
     {
       "name": "Véronique Cormier",
@@ -231814,7 +231913,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3918
+      "rank": 3920
     },
     {
       "name": "Adam Conti",
@@ -231850,7 +231949,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3919
+      "rank": 3921
     },
     {
       "name": "Josh Reed",
@@ -231886,7 +231985,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3920
+      "rank": 3922
     },
     {
       "name": "Troy Stininger",
@@ -231922,7 +232021,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3921
+      "rank": 3923
     },
     {
       "name": "Matt Garee",
@@ -231958,7 +232057,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3922
+      "rank": 3924
     },
     {
       "name": "Thomas Benjamin",
@@ -231994,7 +232093,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3923
+      "rank": 3925
     },
     {
       "name": "Kevin Mendes",
@@ -232030,7 +232129,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3924
+      "rank": 3926
     },
     {
       "name": "Victor Casado",
@@ -232066,7 +232165,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3925
+      "rank": 3927
     },
     {
       "name": "Jakeb Barnett",
@@ -232102,7 +232201,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3926
+      "rank": 3928
     },
     {
       "name": "Josh Harrelson",
@@ -232138,7 +232237,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3927
+      "rank": 3929
     },
     {
       "name": "Nick Strauss",
@@ -232174,7 +232273,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3928
+      "rank": 3930
     },
     {
       "name": "Harry Walker",
@@ -232210,7 +232309,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3929
+      "rank": 3931
     },
     {
       "name": "Blake Hoffman",
@@ -232246,7 +232345,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3930
+      "rank": 3932
     },
     {
       "name": "Michael Simons",
@@ -232282,7 +232381,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3931
+      "rank": 3933
     },
     {
       "name": "Laurens Prontera",
@@ -232318,7 +232417,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3932
+      "rank": 3934
     },
     {
       "name": "Kevin Tancré",
@@ -232363,7 +232462,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3933
+      "rank": 3935
     },
     {
       "name": "Emilio Mesolaras",
@@ -232399,7 +232498,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3934
+      "rank": 3936
     },
     {
       "name": "Pekka Tompuri",
@@ -232435,7 +232534,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3935
+      "rank": 3937
     },
     {
       "name": "Christian Lindholm",
@@ -232471,7 +232570,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3936
+      "rank": 3938
     },
     {
       "name": "Ville Ruuskanen",
@@ -232507,7 +232606,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3937
+      "rank": 3939
     },
     {
       "name": "Kaveh Vefai",
@@ -232543,7 +232642,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3938
+      "rank": 3940
     },
     {
       "name": "Lauri Härkä",
@@ -232579,7 +232678,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3939
+      "rank": 3941
     },
     {
       "name": "Zach Veeneman",
@@ -232615,7 +232714,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3940
+      "rank": 3942
     },
     {
       "name": "Ross Mackintosh",
@@ -232660,7 +232759,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3941
+      "rank": 3943
     },
     {
       "name": "Dean Patch",
@@ -232696,7 +232795,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3942
+      "rank": 3944
     },
     {
       "name": "Ben Rant",
@@ -232732,7 +232831,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3943
+      "rank": 3945
     },
     {
       "name": "Jiří Bánovský",
@@ -232768,7 +232867,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3944
+      "rank": 3946
     },
     {
       "name": "Adam Csupori",
@@ -232804,7 +232903,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3945
+      "rank": 3947
     },
     {
       "name": "Imrich Švec",
@@ -232840,7 +232939,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3946
+      "rank": 3948
     },
     {
       "name": "Ondrej Magna",
@@ -232876,7 +232975,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3947
+      "rank": 3949
     },
     {
       "name": "Milan Erd",
@@ -232912,7 +233011,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3948
+      "rank": 3950
     },
     {
       "name": "Branislav Kopec",
@@ -232948,7 +233047,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3949
+      "rank": 3951
     },
     {
       "name": "Alexandre Lima",
@@ -232984,7 +233083,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3950
+      "rank": 3952
     },
     {
       "name": "Glenn Van Dierendonck",
@@ -233020,7 +233119,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3951
+      "rank": 3953
     },
     {
       "name": "Sergiu Golban",
@@ -233056,7 +233155,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3952
+      "rank": 3954
     },
     {
       "name": "Jordan Wychulis",
@@ -233092,7 +233191,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3953
+      "rank": 3955
     },
     {
       "name": "Sean Mullican",
@@ -233128,7 +233227,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3954
+      "rank": 3956
     },
     {
       "name": "Kevin Candito",
@@ -233164,7 +233263,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3955
+      "rank": 3957
     },
     {
       "name": "Christopher Otero",
@@ -233200,7 +233299,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3956
+      "rank": 3958
     },
     {
       "name": "Derek Brooks",
@@ -233236,7 +233335,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3957
+      "rank": 3959
     },
     {
       "name": "Joe Korasick",
@@ -233272,7 +233371,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3958
+      "rank": 3960
     },
     {
       "name": "Gabe Deal",
@@ -233308,7 +233407,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3959
+      "rank": 3961
     },
     {
       "name": "Bodie Giron",
@@ -233344,7 +233443,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3960
+      "rank": 3962
     },
     {
       "name": "Skye Olsen",
@@ -233380,7 +233479,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3961
+      "rank": 3963
     },
     {
       "name": "Jaendre van der Berg",
@@ -233416,7 +233515,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3962
+      "rank": 3964
     },
     {
       "name": "Kyle Rosslee",
@@ -233452,7 +233551,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3963
+      "rank": 3965
     },
     {
       "name": "Thuto Ramaele",
@@ -233488,7 +233587,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3964
+      "rank": 3966
     },
     {
       "name": "Ken Uedoi",
@@ -233524,7 +233623,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3965
+      "rank": 3967
     },
     {
       "name": "Keegan Macaulay",
@@ -233560,7 +233659,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3966
+      "rank": 3968
     },
     {
       "name": "Braedan Rupert",
@@ -233596,7 +233695,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3967
+      "rank": 3969
     },
     {
       "name": "Mike Hunt",
@@ -233641,7 +233740,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3968
+      "rank": 3970
     },
     {
       "name": "Sum Ting Wong",
@@ -233686,7 +233785,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3969
+      "rank": 3971
     },
     {
       "name": "Suuk Ma Deek",
@@ -233731,7 +233830,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3970
+      "rank": 3972
     },
     {
       "name": "Ben Dover",
@@ -233776,7 +233875,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3971
+      "rank": 3973
     },
     {
       "name": "Wayne Kerr",
@@ -233821,7 +233920,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3972
+      "rank": 3974
     },
     {
       "name": "Will Drysdale",
@@ -233857,7 +233956,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3973
+      "rank": 3975
     },
     {
       "name": "Nick Cox",
@@ -233893,7 +233992,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3974
+      "rank": 3976
     },
     {
       "name": "Daniel Maslen",
@@ -233929,7 +234028,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3975
+      "rank": 3977
     },
     {
       "name": "Leon Paterson",
@@ -233965,7 +234064,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3976
+      "rank": 3978
     },
     {
       "name": "Dougie Black",
@@ -234001,7 +234100,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3977
+      "rank": 3979
     },
     {
       "name": "Shane Buchan",
@@ -234037,7 +234136,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3978
+      "rank": 3980
     },
     {
       "name": "Bret Gillies",
@@ -234073,7 +234172,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3979
+      "rank": 3981
     },
     {
       "name": "Les Woof",
@@ -234109,7 +234208,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3980
+      "rank": 3982
     },
     {
       "name": "Henrik Prutz",
@@ -234145,7 +234244,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3981
+      "rank": 3983
     },
     {
       "name": "Josh Graham",
@@ -234181,7 +234280,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3982
+      "rank": 3984
     },
     {
       "name": "Nathan Brown",
@@ -234217,7 +234316,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3983
+      "rank": 3985
     },
     {
       "name": "Maria Barwig",
@@ -234253,7 +234352,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3984
+      "rank": 3986
     },
     {
       "name": "Therese Zoltan",
@@ -234289,7 +234388,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3985
+      "rank": 3987
     },
     {
       "name": "Astra Richards",
@@ -234325,7 +234424,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3986
+      "rank": 3988
     },
     {
       "name": "Danielle Elias",
@@ -234361,7 +234460,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3987
+      "rank": 3989
     },
     {
       "name": "Jessica Pietrzyk",
@@ -234397,7 +234496,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3988
+      "rank": 3990
     },
     {
       "name": "Helen Lin",
@@ -234433,7 +234532,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3989
+      "rank": 3991
     },
     {
       "name": "Courtney Hollihan",
@@ -234469,7 +234568,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3990
+      "rank": 3992
     }
   ],
   "women": [

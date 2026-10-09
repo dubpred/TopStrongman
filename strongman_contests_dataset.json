@@ -187102,5 +187102,188 @@
         "score": 8.0
       }
     ]
+  },
+  {
+    "contest_id": 3017,
+    "contest_name": "2026 B.F.S.A Strongman Cup",
+    "details": "Koprivshtitsa, Bulgaria, 2026-09-19",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3017",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Stanimir Todorov",
+        "country": "BUL",
+        "score": 44.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Ivan Mryankov",
+        "country": "BUL",
+        "score": 40.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Vlăduț Angheloiu",
+        "country": "ROU",
+        "score": 35.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Hristiyan Delchev",
+        "country": "BUL",
+        "score": 34.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Alberto Nicolas Concepcion",
+        "country": "BUL",
+        "score": 22.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Vasil Nakov",
+        "country": "BUL",
+        "score": 17.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3018,
+    "contest_name": "2021 Masters 50+ World's Strongest Man",
+    "details": "Daytona Beach, Florida, 2021-11-12 to 2021-11-14",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3018",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mike Saunders",
+        "country": "CAN",
+        "score": 52.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Andy Clarke",
+        "country": "GBR",
+        "score": 51.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Dennis Long",
+        "country": "USA",
+        "score": 44.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Eric Patterson",
+        "country": "USA",
+        "score": 41.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Mike Craig",
+        "country": "USA",
+        "score": 38.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Brad Currell",
+        "country": "AUS",
+        "score": 28.0
+      },
+      {
+        "rank": "7",
+        "person_name": "David Johns",
+        "country": "USA",
+        "score": 26.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Tim Sowards",
+        "country": "USA",
+        "score": 20.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Joey Grappe",
+        "country": "USA",
+        "score": 14.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Brian Strickland",
+        "country": "USA",
+        "score": 9.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3019,
+    "contest_name": "2022 Masters 50+ World's Strongest Man",
+    "details": "Daytona Beach, Florida, 2022-11-12 to 2022-11-13",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3019",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mark Felix",
+        "country": "GBR",
+        "score": 68.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Nick Best",
+        "country": "USA",
+        "score": 51.5
+      },
+      {
+        "rank": "3",
+        "person_name": "George Pearson",
+        "country": "USA",
+        "score": 51.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Andy Clarke",
+        "country": "GBR",
+        "score": 51.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Dennis Troll",
+        "country": "USA",
+        "score": 38.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Chad Coy",
+        "country": "USA",
+        "score": 31.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Lee Woody",
+        "country": "USA",
+        "score": 29.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Andrew Burwell",
+        "country": "USA",
+        "score": 27.5
+      },
+      {
+        "rank": "9",
+        "person_name": "David Johns",
+        "country": "USA",
+        "score": 19.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Steve Islas",
+        "country": "USA",
+        "score": 15.5
+      }
+    ]
   }
 ]

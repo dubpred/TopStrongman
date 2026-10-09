@@ -51754,42 +51754,42 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 1778.4778910569735,
+    "raw_difficulty": 1795.547148475069,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Ladislav Gálik",
         "country": "SVK",
         "power": 606.2,
-        "percent": 34.1
+        "percent": 33.8
       },
       {
         "rank": "2",
         "person_name": "Vladislav Shapovalov",
         "country": "MDA",
         "power": 541.8,
-        "percent": 30.5
+        "percent": 30.2
       },
       {
         "rank": "3",
         "person_name": "Martin Szabo",
         "country": "CZE",
         "power": 186.9,
-        "percent": 10.5
+        "percent": 10.4
       },
       {
         "rank": "4",
         "person_name": "Szabolcs Boros",
         "country": "SVK",
         "power": 111.8,
-        "percent": 6.3
+        "percent": 6.2
       },
       {
         "rank": "5",
         "person_name": "Vlăduț Angheloiu",
         "country": "ROU",
-        "power": 331.8,
-        "percent": 18.7
+        "power": 348.8,
+        "percent": 19.4
       }
     ],
     "results": [
@@ -51860,7 +51860,7 @@
         "score": 4
       }
     ],
-    "difficulty_score": 15.7,
+    "difficulty_score": 15.9,
     "competition_rank": 446
   },
   {
@@ -53174,42 +53174,42 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 1613.1548721728504,
+    "raw_difficulty": 1630.224129590946,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Vladislav Shapovalov",
         "country": "MDA",
         "power": 541.8,
-        "percent": 33.6
+        "percent": 33.2
       },
       {
         "rank": "2",
         "person_name": "György Várszegi",
         "country": "HUN",
         "power": 127.5,
-        "percent": 7.9
+        "percent": 7.8
       },
       {
         "rank": "3",
         "person_name": "František Csizmadia",
         "country": "SVK",
         "power": 298.5,
-        "percent": 18.5
+        "percent": 18.3
       },
       {
         "rank": "4",
         "person_name": "Vlăduț Angheloiu",
         "country": "ROU",
-        "power": 331.8,
-        "percent": 20.6
+        "power": 348.8,
+        "percent": 21.4
       },
       {
         "rank": "5",
         "person_name": "Vlad Voinea",
         "country": "ROU",
         "power": 313.7,
-        "percent": 19.4
+        "percent": 19.2
       }
     ],
     "results": [
@@ -53280,7 +53280,7 @@
         "score": 13.5
       }
     ],
-    "difficulty_score": 13.6,
+    "difficulty_score": 13.8,
     "competition_rank": 459
   },
   {
@@ -56738,6 +56738,124 @@
     "competition_rank": 490
   },
   {
+    "contest_id": 2595,
+    "contest_name": "2026 PSL Silver Round I",
+    "details": "Poprad, Slovakia, 2026-05-31",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 5.0,
+    "division": "men",
+    "total_competitors": 11,
+    "raw_difficulty": 1302.2740794023293,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Jaroslav Mockovčiak",
+        "country": "SVK",
+        "power": 285.4,
+        "percent": 21.9
+      },
+      {
+        "rank": "2",
+        "person_name": "Pierre Motal",
+        "country": "FRA",
+        "power": 515.6,
+        "percent": 39.6
+      },
+      {
+        "rank": "3",
+        "person_name": "Márk Basahidi",
+        "country": "HUN",
+        "power": 84.5,
+        "percent": 6.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Vlăduț Angheloiu",
+        "country": "ROU",
+        "power": 348.8,
+        "percent": 26.8
+      },
+      {
+        "rank": "5",
+        "person_name": "Pintér Balázs",
+        "country": "HUN",
+        "power": 67.9,
+        "percent": 5.2
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jaroslav Mockovčiak",
+        "country": "SVK",
+        "score": 52
+      },
+      {
+        "rank": "2",
+        "person_name": "Pierre Motal",
+        "country": "FRA",
+        "score": 51
+      },
+      {
+        "rank": "3",
+        "person_name": "Márk Basahidi",
+        "country": "HUN",
+        "score": 33.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Vlăduț Angheloiu",
+        "country": "ROU",
+        "score": 30
+      },
+      {
+        "rank": "5",
+        "person_name": "Pintér Balázs",
+        "country": "HUN",
+        "score": 29
+      },
+      {
+        "rank": "6",
+        "person_name": "Martin Szabo",
+        "country": "CZE",
+        "score": 27
+      },
+      {
+        "rank": "7",
+        "person_name": "Vlad Voinea",
+        "country": "ROU",
+        "score": 26
+      },
+      {
+        "rank": "8",
+        "person_name": "Patryk Stolarczyk",
+        "country": "POL",
+        "score": 25.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Ivan Hryhorovskyy",
+        "country": "UKR",
+        "score": 22
+      },
+      {
+        "rank": "10",
+        "person_name": "Čeněk Říha",
+        "country": "CZE",
+        "score": 18.5
+      },
+      {
+        "rank": "11",
+        "person_name": "András Gadó",
+        "country": "HUN",
+        "score": 11.5
+      }
+    ],
+    "difficulty_score": 9.8,
+    "competition_rank": 491
+  },
+  {
     "contest_id": 1336,
     "contest_name": "2022 Iceland's Strongest Man",
     "details": "Reykjavík, Iceland, 2022-08-06 to 2022-08-07",
@@ -56820,124 +56938,6 @@
         "person_name": "Sigurjón Gudnason",
         "country": "ISL",
         "score": 11
-      }
-    ],
-    "difficulty_score": 9.7,
-    "competition_rank": 491
-  },
-  {
-    "contest_id": 2595,
-    "contest_name": "2026 PSL Silver Round I",
-    "details": "Poprad, Slovakia, 2026-05-31",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 5.0,
-    "division": "men",
-    "total_competitors": 11,
-    "raw_difficulty": 1285.2048219842338,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Jaroslav Mockovčiak",
-        "country": "SVK",
-        "power": 285.4,
-        "percent": 22.2
-      },
-      {
-        "rank": "2",
-        "person_name": "Pierre Motal",
-        "country": "FRA",
-        "power": 515.6,
-        "percent": 40.1
-      },
-      {
-        "rank": "3",
-        "person_name": "Márk Basahidi",
-        "country": "HUN",
-        "power": 84.5,
-        "percent": 6.6
-      },
-      {
-        "rank": "4",
-        "person_name": "Vlăduț Angheloiu",
-        "country": "ROU",
-        "power": 331.8,
-        "percent": 25.8
-      },
-      {
-        "rank": "5",
-        "person_name": "Pintér Balázs",
-        "country": "HUN",
-        "power": 67.9,
-        "percent": 5.3
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Jaroslav Mockovčiak",
-        "country": "SVK",
-        "score": 52
-      },
-      {
-        "rank": "2",
-        "person_name": "Pierre Motal",
-        "country": "FRA",
-        "score": 51
-      },
-      {
-        "rank": "3",
-        "person_name": "Márk Basahidi",
-        "country": "HUN",
-        "score": 33.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Vlăduț Angheloiu",
-        "country": "ROU",
-        "score": 30
-      },
-      {
-        "rank": "5",
-        "person_name": "Pintér Balázs",
-        "country": "HUN",
-        "score": 29
-      },
-      {
-        "rank": "6",
-        "person_name": "Martin Szabo",
-        "country": "CZE",
-        "score": 27
-      },
-      {
-        "rank": "7",
-        "person_name": "Vlad Voinea",
-        "country": "ROU",
-        "score": 26
-      },
-      {
-        "rank": "8",
-        "person_name": "Patryk Stolarczyk",
-        "country": "POL",
-        "score": 25.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Ivan Hryhorovskyy",
-        "country": "UKR",
-        "score": 22
-      },
-      {
-        "rank": "10",
-        "person_name": "Čeněk Říha",
-        "country": "CZE",
-        "score": 18.5
-      },
-      {
-        "rank": "11",
-        "person_name": "András Gadó",
-        "country": "HUN",
-        "score": 11.5
       }
     ],
     "difficulty_score": 9.7,
@@ -59448,6 +59448,100 @@
     "competition_rank": 515
   },
   {
+    "contest_id": 2935,
+    "contest_name": "2026 B.F.S.A Strongman Cup",
+    "details": "Cherven Bryag, Bulgaria, 2026-09-06",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 5.0,
+    "division": "men",
+    "total_competitors": 7,
+    "raw_difficulty": 1034.7143499420013,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Stanimir Todorov",
+        "country": "BUL",
+        "power": 246.5,
+        "percent": 23.8
+      },
+      {
+        "rank": "2",
+        "person_name": "Vlăduț Angheloiu",
+        "country": "ROU",
+        "power": 348.8,
+        "percent": 33.7
+      },
+      {
+        "rank": "3",
+        "person_name": "Ivan Mryankov",
+        "country": "BUL",
+        "power": 161.8,
+        "percent": 15.6
+      },
+      {
+        "rank": "4",
+        "person_name": "Tihomir Traykov",
+        "country": "BUL",
+        "power": 231.6,
+        "percent": 22.4
+      },
+      {
+        "rank": "5",
+        "person_name": "Detelin Yonchev",
+        "country": "BUL",
+        "power": 46.0,
+        "percent": 4.4
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Stanimir Todorov",
+        "country": "BUL",
+        "score": 34.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Vlăduț Angheloiu",
+        "country": "ROU",
+        "score": 29.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Ivan Mryankov",
+        "country": "BUL",
+        "score": 28.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Tihomir Traykov",
+        "country": "BUL",
+        "score": 27.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Detelin Yonchev",
+        "country": "BUL",
+        "score": 27.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Hristo Hristov",
+        "country": "BUL",
+        "score": 11.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Stanimir Getov",
+        "country": "BUL",
+        "score": 11.0
+      }
+    ],
+    "difficulty_score": 7.0,
+    "competition_rank": 516
+  },
+  {
     "contest_id": 1413,
     "contest_name": "2022 Norway's Strongest Man",
     "details": "Nordreisa, Norway, 2022-12-03",
@@ -59563,7 +59657,7 @@
       }
     ],
     "difficulty_score": 6.9,
-    "competition_rank": 516
+    "competition_rank": 517
   },
   {
     "contest_id": 1728,
@@ -59675,7 +59769,7 @@
       }
     ],
     "difficulty_score": 6.8,
-    "competition_rank": 517
+    "competition_rank": 518
   },
   {
     "contest_id": 2198,
@@ -59799,7 +59893,7 @@
       }
     ],
     "difficulty_score": 6.7,
-    "competition_rank": 518
+    "competition_rank": 519
   },
   {
     "contest_id": 1157,
@@ -59923,7 +60017,7 @@
       }
     ],
     "difficulty_score": 6.6,
-    "competition_rank": 519
+    "competition_rank": 520
   },
   {
     "contest_id": 2537,
@@ -60011,7 +60105,7 @@
       }
     ],
     "difficulty_score": 6.4,
-    "competition_rank": 520
+    "competition_rank": 521
   },
   {
     "contest_id": 1446,
@@ -60111,7 +60205,7 @@
       }
     ],
     "difficulty_score": 6.3,
-    "competition_rank": 521
+    "competition_rank": 522
   },
   {
     "contest_id": 1714,
@@ -60211,7 +60305,7 @@
       }
     ],
     "difficulty_score": 6.3,
-    "competition_rank": 522
+    "competition_rank": 523
   },
   {
     "contest_id": 2628,
@@ -60317,7 +60411,7 @@
       }
     ],
     "difficulty_score": 6.3,
-    "competition_rank": 523
+    "competition_rank": 524
   },
   {
     "contest_id": 2633,
@@ -60417,7 +60511,7 @@
       }
     ],
     "difficulty_score": 6.3,
-    "competition_rank": 524
+    "competition_rank": 525
   },
   {
     "contest_id": 2838,
@@ -60529,7 +60623,7 @@
       }
     ],
     "difficulty_score": 6.3,
-    "competition_rank": 525
+    "competition_rank": 526
   },
   {
     "contest_id": 1338,
@@ -60653,7 +60747,7 @@
       }
     ],
     "difficulty_score": 6.2,
-    "competition_rank": 526
+    "competition_rank": 527
   },
   {
     "contest_id": 1540,
@@ -60765,7 +60859,7 @@
       }
     ],
     "difficulty_score": 6.2,
-    "competition_rank": 527
+    "competition_rank": 528
   },
   {
     "contest_id": 2547,
@@ -60883,7 +60977,7 @@
       }
     ],
     "difficulty_score": 6.2,
-    "competition_rank": 528
+    "competition_rank": 529
   },
   {
     "contest_id": 2596,
@@ -61001,7 +61095,7 @@
       }
     ],
     "difficulty_score": 5.9,
-    "competition_rank": 529
+    "competition_rank": 530
   },
   {
     "contest_id": 2600,
@@ -61119,53 +61213,53 @@
       }
     ],
     "difficulty_score": 5.8,
-    "competition_rank": 530
+    "competition_rank": 531
   },
   {
-    "contest_id": 2935,
+    "contest_id": 3017,
     "contest_name": "2026 B.F.S.A Strongman Cup",
-    "details": "Cherven Bryag, Bulgaria, 2026-09-06",
+    "details": "Koprivshtitsa, Bulgaria, 2026-09-19",
     "tier": "TIER_5",
     "tier_multiplier": 0.25,
     "recency_multiplier": 5.0,
     "division": "men",
-    "total_competitors": 7,
-    "raw_difficulty": 828.6757059492879,
+    "total_competitors": 6,
+    "raw_difficulty": 862.1181226283088,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Stanimir Todorov",
         "country": "BUL",
-        "power": 143.5,
-        "percent": 17.3
+        "power": 246.5,
+        "percent": 28.6
       },
       {
         "rank": "2",
-        "person_name": "Vlăduț Angheloiu",
-        "country": "ROU",
-        "power": 331.8,
-        "percent": 40.0
+        "person_name": "Ivan Mryankov",
+        "country": "BUL",
+        "power": 161.8,
+        "percent": 18.8
       },
       {
         "rank": "3",
-        "person_name": "Ivan Mryankov",
-        "country": "BUL",
-        "power": 75.8,
-        "percent": 9.1
+        "person_name": "Vlăduț Angheloiu",
+        "country": "ROU",
+        "power": 348.8,
+        "percent": 40.5
       },
       {
         "rank": "4",
-        "person_name": "Tihomir Traykov",
+        "person_name": "Hristiyan Delchev",
         "country": "BUL",
-        "power": 231.6,
-        "percent": 27.9
+        "power": 59.0,
+        "percent": 6.8
       },
       {
         "rank": "5",
-        "person_name": "Detelin Yonchev",
+        "person_name": "Alberto Nicolas Concepcion",
         "country": "BUL",
         "power": 46.0,
-        "percent": 5.6
+        "percent": 5.3
       }
     ],
     "results": [
@@ -61173,47 +61267,41 @@
         "rank": "1",
         "person_name": "Stanimir Todorov",
         "country": "BUL",
-        "score": 34.5
+        "score": 44.0
       },
       {
         "rank": "2",
-        "person_name": "Vlăduț Angheloiu",
-        "country": "ROU",
-        "score": 29.0
+        "person_name": "Ivan Mryankov",
+        "country": "BUL",
+        "score": 40.0
       },
       {
         "rank": "3",
-        "person_name": "Ivan Mryankov",
-        "country": "BUL",
-        "score": 28.5
+        "person_name": "Vlăduț Angheloiu",
+        "country": "ROU",
+        "score": 35.0
       },
       {
         "rank": "4",
-        "person_name": "Tihomir Traykov",
+        "person_name": "Hristiyan Delchev",
         "country": "BUL",
-        "score": 27.0
+        "score": 34.0
       },
       {
         "rank": "5",
-        "person_name": "Detelin Yonchev",
+        "person_name": "Alberto Nicolas Concepcion",
         "country": "BUL",
-        "score": 27.0
+        "score": 22.0
       },
       {
         "rank": "6",
-        "person_name": "Hristo Hristov",
+        "person_name": "Vasil Nakov",
         "country": "BUL",
-        "score": 11.0
-      },
-      {
-        "rank": "7",
-        "person_name": "Stanimir Getov",
-        "country": "BUL",
-        "score": 11.0
+        "score": 17.0
       }
     ],
-    "difficulty_score": 5.0,
-    "competition_rank": 531
+    "difficulty_score": 5.3,
+    "competition_rank": 532
   },
   {
     "contest_id": 2597,
@@ -61325,7 +61413,7 @@
       }
     ],
     "difficulty_score": 4.8,
-    "competition_rank": 532
+    "competition_rank": 533
   },
   {
     "contest_id": 1312,
@@ -61485,7 +61573,7 @@
       }
     ],
     "difficulty_score": 4.4,
-    "competition_rank": 533
+    "competition_rank": 534
   },
   {
     "contest_id": 1740,
@@ -61573,7 +61661,7 @@
       }
     ],
     "difficulty_score": 4.3,
-    "competition_rank": 534
+    "competition_rank": 535
   },
   {
     "contest_id": 1959,
@@ -61703,7 +61791,7 @@
       }
     ],
     "difficulty_score": 4.3,
-    "competition_rank": 535
+    "competition_rank": 536
   },
   {
     "contest_id": 1604,
@@ -61845,7 +61933,7 @@
       }
     ],
     "difficulty_score": 4.1,
-    "competition_rank": 536
+    "competition_rank": 537
   },
   {
     "contest_id": 2419,
@@ -61957,7 +62045,7 @@
       }
     ],
     "difficulty_score": 4.1,
-    "competition_rank": 537
+    "competition_rank": 538
   },
   {
     "contest_id": 2913,
@@ -62039,7 +62127,7 @@
       }
     ],
     "difficulty_score": 3.9,
-    "competition_rank": 538
+    "competition_rank": 539
   },
   {
     "contest_id": 2418,
@@ -62163,7 +62251,7 @@
       }
     ],
     "difficulty_score": 3.6,
-    "competition_rank": 539
+    "competition_rank": 540
   },
   {
     "contest_id": 2614,
@@ -62281,7 +62369,7 @@
       }
     ],
     "difficulty_score": 3.5,
-    "competition_rank": 540
+    "competition_rank": 541
   },
   {
     "contest_id": 1898,
@@ -62393,7 +62481,7 @@
       }
     ],
     "difficulty_score": 3.3,
-    "competition_rank": 541
+    "competition_rank": 542
   },
   {
     "contest_id": 2006,
@@ -62487,7 +62575,7 @@
       }
     ],
     "difficulty_score": 3.3,
-    "competition_rank": 542
+    "competition_rank": 543
   },
   {
     "contest_id": 2876,
@@ -62599,7 +62687,7 @@
       }
     ],
     "difficulty_score": 2.9,
-    "competition_rank": 543
+    "competition_rank": 544
   },
   {
     "contest_id": 1882,
@@ -62717,7 +62805,7 @@
       }
     ],
     "difficulty_score": 2.7,
-    "competition_rank": 544
+    "competition_rank": 545
   },
   {
     "contest_id": 1881,
@@ -62835,7 +62923,7 @@
       }
     ],
     "difficulty_score": 2.6,
-    "competition_rank": 545
+    "competition_rank": 546
   },
   {
     "contest_id": 2624,
@@ -62929,7 +63017,7 @@
       }
     ],
     "difficulty_score": 2.5,
-    "competition_rank": 546
+    "competition_rank": 547
   },
   {
     "contest_id": 2626,
@@ -63029,7 +63117,7 @@
       }
     ],
     "difficulty_score": 2.4,
-    "competition_rank": 547
+    "competition_rank": 548
   },
   {
     "contest_id": 1390,
@@ -63165,7 +63253,7 @@
       }
     ],
     "difficulty_score": 2.0,
-    "competition_rank": 548
+    "competition_rank": 549
   },
   {
     "contest_id": 1272,
@@ -63289,7 +63377,7 @@
       }
     ],
     "difficulty_score": 1.9,
-    "competition_rank": 549
+    "competition_rank": 550
   },
   {
     "contest_id": 1596,
@@ -63401,7 +63489,7 @@
       }
     ],
     "difficulty_score": 1.5,
-    "competition_rank": 550
+    "competition_rank": 551
   },
   {
     "contest_id": 1673,
@@ -63489,7 +63577,7 @@
       }
     ],
     "difficulty_score": 1.1,
-    "competition_rank": 551
+    "competition_rank": 552
   },
   {
     "contest_id": 1408,
@@ -63601,7 +63689,7 @@
       }
     ],
     "difficulty_score": 0.9,
-    "competition_rank": 552
+    "competition_rank": 553
   },
   {
     "contest_id": 2619,
@@ -63695,7 +63783,7 @@
       }
     ],
     "difficulty_score": 0.6,
-    "competition_rank": 553
+    "competition_rank": 554
   },
   {
     "contest_id": 2618,
@@ -63795,7 +63883,7 @@
       }
     ],
     "difficulty_score": 0.5,
-    "competition_rank": 554
+    "competition_rank": 555
   },
   {
     "contest_id": 2620,
@@ -63895,7 +63983,7 @@
       }
     ],
     "difficulty_score": 0.5,
-    "competition_rank": 555
+    "competition_rank": 556
   },
   {
     "contest_id": 1369,
@@ -64001,7 +64089,7 @@
       }
     ],
     "difficulty_score": 0.4,
-    "competition_rank": 556
+    "competition_rank": 557
   },
   {
     "contest_id": 2617,
@@ -64101,7 +64189,7 @@
       }
     ],
     "difficulty_score": 0.4,
-    "competition_rank": 557
+    "competition_rank": 558
   },
   {
     "contest_id": 3016,
@@ -64201,7 +64289,7 @@
       }
     ],
     "difficulty_score": 0.2,
-    "competition_rank": 558
+    "competition_rank": 559
   },
   {
     "contest_id": 1238,
@@ -64301,7 +64389,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 559
+    "competition_rank": 560
   },
   {
     "contest_id": 1315,
@@ -64401,7 +64489,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 560
+    "competition_rank": 561
   },
   {
     "contest_id": 2079,
@@ -64489,7 +64577,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 561
+    "competition_rank": 562
   },
   {
     "contest_id": 2336,
@@ -64565,7 +64653,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 562
+    "competition_rank": 563
   },
   {
     "contest_id": 2561,
@@ -64635,7 +64723,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 563
+    "competition_rank": 564
   },
   {
     "contest_id": 2947,
@@ -64729,6 +64817,6 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 564
+    "competition_rank": 565
   }
 ]
