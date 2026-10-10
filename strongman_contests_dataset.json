@@ -187285,5 +187285,713 @@
         "score": 15.5
       }
     ]
+  },
+  {
+    "contest_id": 3020,
+    "contest_name": "2023 Masters 50+ World's Strongest Man",
+    "details": "Charleston, West Virginia, 2023-12-01 to 2023-12-03",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3020",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mark Felix",
+        "country": "GBR",
+        "score": 50.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Peter Rundberg",
+        "country": "SWE",
+        "score": 48.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Ben France",
+        "country": "GBR",
+        "score": 42.0
+      },
+      {
+        "rank": "4",
+        "person_name": "George Pearson",
+        "country": "USA",
+        "score": 38.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Richard Birchmore",
+        "country": "GBR",
+        "score": 32.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Marc Bevins",
+        "country": "USA",
+        "score": 28.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Mike Kromer",
+        "country": "USA",
+        "score": 27.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Dale Peters",
+        "country": "GBR",
+        "score": 26.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Vaughn Sikorski",
+        "country": "USA",
+        "score": 25.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Vuyani Mseswa",
+        "country": "RSA",
+        "score": 14.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3021,
+    "contest_name": "2024 Masters 50+ World's Strongest Man",
+    "details": "Madison, Wisconsin, 2024-12-06 to 2024-12-08",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3021",
+    "total_competitors": 11,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mark Felix",
+        "country": "GBR",
+        "score": 72.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Peter Rundberg",
+        "country": "SWE",
+        "score": 67.5
+      },
+      {
+        "rank": "3",
+        "person_name": "George Pearson",
+        "country": "USA",
+        "score": 53.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Bob Casalnova",
+        "country": "USA",
+        "score": 45.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Brad Currell",
+        "country": "AUS",
+        "score": 41.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Artur Patyk",
+        "country": "POL",
+        "score": 38.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Mike Kromer",
+        "country": "USA",
+        "score": 34.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Shane Jensen",
+        "country": "RSA",
+        "score": 32.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Kirk McLaughlin",
+        "country": "USA",
+        "score": 30.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Denis Bertrand",
+        "country": "CAN",
+        "score": 23.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Vuyani Mseswa",
+        "country": "RSA",
+        "score": 23.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3022,
+    "contest_name": "2025 Masters 50+ World's Strongest Man",
+    "details": "Arlington, Texas, 2025-11-21 to 2025-11-23",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3022",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Žydrūnas Savickas",
+        "country": "LTU",
+        "score": 55.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Mark Felix",
+        "country": "GBR",
+        "score": 51.0
+      },
+      {
+        "rank": "3",
+        "person_name": "George Pearson",
+        "country": "USA",
+        "score": 37.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Stefan Bergqvist",
+        "country": "SWE",
+        "score": 30.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Richard Birchmore",
+        "country": "GBR",
+        "score": 30.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Mike Kromer",
+        "country": "USA",
+        "score": 28.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Shane Jensen",
+        "country": "RSA",
+        "score": 28.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Jason  Holmes",
+        "country": "AUS",
+        "score": 24.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Vuyani Mseswa",
+        "country": "RSA",
+        "score": 22.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Ron Mazza",
+        "country": "USA",
+        "score": 22.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3023,
+    "contest_name": "2023 Masters 50+ World's Strongest Woman",
+    "details": "Charleston, West Virginia, 2023-12-01 to 2023-12-03",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3023",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Claire Myler",
+        "country": "GBR",
+        "score": 54.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Kikki Berli-Johnsen",
+        "country": "NOR",
+        "score": 49.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Alison Dann",
+        "country": "AUS",
+        "score": 40.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Janet McGraw",
+        "country": "USA",
+        "score": 39.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Lacy Hughes",
+        "country": "USA",
+        "score": 38.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Kristin  McCarthy",
+        "country": "USA",
+        "score": 30.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Gen Segger",
+        "country": "CAN",
+        "score": 25.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Jo Kowalski",
+        "country": "GBR",
+        "score": 22.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Penelope Barber",
+        "country": "USA",
+        "score": 14.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Natalie  Studer",
+        "country": "USA",
+        "score": 12.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3025,
+    "contest_name": "2025 Masters 50+ World's Strongest Woman",
+    "details": "Arlington, Texas, 2025-11-21 to 2025-11-23",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3025",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Claire Myler",
+        "country": "GBR",
+        "score": 60.0
+      },
+      {
+        "rank": "2",
+        "person_name": "T York",
+        "country": "USA",
+        "score": 45.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Melanie Poa",
+        "country": "NZL",
+        "score": 43.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Karrie Ann Davis",
+        "country": "USA",
+        "score": 39.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Kikki Berli-Johnsen",
+        "country": "NOR",
+        "score": 39.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Kristin  McCarthy",
+        "country": "USA",
+        "score": 35.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Lacy Hughes",
+        "country": "USA",
+        "score": 23.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Molly  McDaniel",
+        "country": "USA",
+        "score": 19.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Penelope Barber",
+        "country": "USA",
+        "score": 17.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Clare Sheridan",
+        "country": "IRL",
+        "score": 5.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3026,
+    "contest_name": "2024 Masters 50+ World's Strongest Woman",
+    "details": "Madison, Wisconsin, 2024-12-06 to 2024-12-08",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3026",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Claire Myler",
+        "country": "GBR",
+        "score": 61.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Carrie Poole",
+        "country": "CAN",
+        "score": 53.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Alison Dann",
+        "country": "AUS",
+        "score": 45.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Melanie Poa",
+        "country": "NZL",
+        "score": 44.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Lacy Hughes",
+        "country": "USA",
+        "score": 39.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Karrie Ann Davis",
+        "country": "USA",
+        "score": 32.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Penelope Barber",
+        "country": "USA",
+        "score": 28.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Kristin  McCarthy",
+        "country": "USA",
+        "score": 24.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Jade Dickens",
+        "country": "USA",
+        "score": 21.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Molly  McDaniel",
+        "country": "USA",
+        "score": 19.5
+      }
+    ]
+  },
+  {
+    "contest_id": 3027,
+    "contest_name": "2024 Masters U105 World's Strongest Man",
+    "details": "Madison, Wisconsin, 2024-12-06 to 2024-12-08",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3027",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Luke Ahlfield",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Blake Dedas",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jonathan Hines",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Denis LaBreche",
+        "country": "CAN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kip Lightner",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ben Maclean",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Paul Mwanza",
+        "country": "ZAM",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "David Sanderson",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Chris Schwandt",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Joshua Swisher",
+        "country": "USA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3028,
+    "contest_name": "2024 Masters U73 World's Strongest Woman",
+    "details": "Madison, Wisconsin, 2024-12-06 to 2024-12-08",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3028",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Tatiana Cousins",
+        "country": "SVK",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Nikki Ellerington",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Christine Galvin",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Annika Karhu",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kellie New",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Laura O'Connor-Butler",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Faye Pittman",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Lise Reierskog",
+        "country": "NOR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jennie Roberts",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Meg Robson-Austin",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3029,
+    "contest_name": "2025 Masters U105 World's Strongest Man",
+    "details": "Arlington, Texas, 2025-11-21 to 2025-11-23",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3029",
+    "total_competitors": 11,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Dane Bonin",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Sam Collopy",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Damon Curtis",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "John Doyle",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jonathan Hines",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Chris Kolenberg",
+        "country": "NED",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ben Maclean",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Paul Mwanza",
+        "country": "ZAM",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Matt Powell",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "David Sanderson",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Eric Shuty",
+        "country": "USA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3030,
+    "contest_name": "2025 Masters U73 World's Strongest Woman",
+    "details": "Arlington, Texas, 2025-11-23 to 2025-11-23",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3030",
+    "total_competitors": 11,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Jessica Cameron",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Mary Colasanto",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Christine Galvin",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Annika Karhu",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Laura O'Connor-Butler",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tiffany Peters",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Meg Robson-Austin",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jamie Strong",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Cathy Watson",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tasha Wolf Whelan",
+        "country": "USA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Sheri Zimmermann",
+        "country": "USA",
+        "score": 0.0
+      }
+    ]
   }
 ]
