@@ -187987,5 +187987,683 @@
         "score": 23.5
       }
     ]
+  },
+  {
+    "contest_id": 3031,
+    "contest_name": "2019 Masters OSG European Championships (Men)",
+    "details": "Rotherham, England, 2019-08-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3031",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Richard Birchmore",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Luke Fullbrook",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tatu Karhu",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Dale Peters",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "John Pollock",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Dan Thomas",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3032,
+    "contest_name": "2019 Masters OSG European Championships (Women)",
+    "details": "Rotherham, England, 2019-08-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3032",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Kikki Berli-Johnsen",
+        "country": "NOR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jules Child",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Josefin Hansen",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Julia Mills",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Sam Taylor",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Catherine West",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3033,
+    "contest_name": "2019 OSG European Championships (Men)",
+    "details": "Rotherham, England, 2019-08-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3033",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Ryan Bennett",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ben Brunning",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kevin  Coils",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Matt Dimond",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Stuart Graham",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Mikey Lane",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Aaron Page",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Luke Richardson",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Andrew Robinson",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ellis Vine",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3034,
+    "contest_name": "2019 OSG European Championships (Women)",
+    "details": "Rotherham, England, 2019-08-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3034",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Nina Hake",
+        "country": "NOR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Lorna Paton",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Rebecca Roberts",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3035,
+    "contest_name": "2019 U64 OSG European Championships",
+    "details": "Rotherham, England, 2019-08-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3035",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Christine Azzolini",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Clare Burton",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kate Connolly",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Lu Dudley",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Amelia Haigh",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Naomi Handley",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Rhianon Lovelace",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jade Presley",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Rebecca Stephenson",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Mollie Wagstaff",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3036,
+    "contest_name": "2019 U82 OSG European Championships",
+    "details": "Rotherham, England, 2019-08-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3036",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Catherine Anderson",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Martina Andersson",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Lucia Bilic",
+        "country": "GER",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Helen Harrison",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Annika Karhu",
+        "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Samantha McLean",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Natalie O'Shea",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Valentina Rossi",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Bobby Sundberg",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Cecilie Wormdahl",
+        "country": "NOR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3037,
+    "contest_name": "2019 U105 OSG European Championships",
+    "details": "Rotherham, England, 2019-08-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3037",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Shaun Blairs",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Robert Clarke",
+        "country": "IRL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ondřej  Havránek",
+        "country": "CZE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Anders Kylander",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ola Nilsson",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ben Penswick",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jiří Tkadlčík",
+        "country": "CZE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "John Emil Westby",
+        "country": "NOR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3038,
+    "contest_name": "2019 U90 OSG European Championships",
+    "details": "Rotherham, England, 2019-08-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3038",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Lee Osment",
+        "country": "GBR",
+        "score": 48.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Paavo Paaso",
+        "country": "FIN",
+        "score": 48.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kjetil Finnes",
+        "country": "NOR",
+        "score": 42.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jack Ottendahl",
+        "country": "SWE",
+        "score": 42.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Giovanni Luciano",
+        "country": "ITA",
+        "score": 39.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tyrone Jones",
+        "country": "GBR",
+        "score": 31.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Matt Illife",
+        "country": "GBR",
+        "score": 30.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Victor Johansson",
+        "country": "SWE",
+        "score": 20.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Chris Brock",
+        "country": "GBR",
+        "score": 17.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Leeroi Smith",
+        "country": "GBR",
+        "score": 16.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Joe Daglish",
+        "country": "GBR",
+        "score": 12.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Josh Lancaster",
+        "country": "GBR",
+        "score": 11.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3039,
+    "contest_name": "2019 U80 OSG European Championships",
+    "details": "Rotherham, England, 2019-08-04",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3039",
+    "total_competitors": 11,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Danny Ashcroft",
+        "country": "GBR",
+        "score": 52.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Dean McVie",
+        "country": "GBR",
+        "score": 37.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Stephen Wilkinson",
+        "country": "GBR",
+        "score": 30.5
+      },
+      {
+        "rank": "4",
+        "person_name": "David Todd",
+        "country": "GBR",
+        "score": 28.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Mads Even Bjorheim",
+        "country": "NOR",
+        "score": 27.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Luigi Dioguardi",
+        "country": "ITA",
+        "score": 27.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Aldo Alberico",
+        "country": "ITA",
+        "score": 26.0
+      },
+      {
+        "rank": "8",
+        "person_name": "John Apperley",
+        "country": "GBR",
+        "score": 21.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Marek Tyl",
+        "country": "CZE",
+        "score": 13.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Rick Halliday",
+        "country": "GBR",
+        "score": 10.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Tobias Ommer",
+        "country": "GER",
+        "score": 6.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3040,
+    "contest_name": "2026 B.F.S.A Strongman Cup",
+    "details": "Nova Zagora, Bulgaria, 2026-10-11",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3040",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Robert Marian Topîrceanu",
+        "country": "ROU",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Stanimir Todorov",
+        "country": "BUL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Tihomir Traykov",
+        "country": "BUL",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Hristiyan Delchev",
+        "country": "BUL",
+        "score": 0.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Denis Hristov",
+        "country": "BUL",
+        "score": 0.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Ivan Mryankov",
+        "country": "BUL",
+        "score": 0.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Vasil Nakov",
+        "country": "BUL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3041,
+    "contest_name": "2026 BÃ¡novskÃ½ SilÃ¡k",
+    "details": "BÃ¡novce nad Bebravou, Slovakia, 2026-09-20",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3041",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Viktor Čajka",
+        "country": "CZE",
+        "score": 31.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Benjamín Machala",
+        "country": "SVK",
+        "score": 27.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Lukáš Heglas",
+        "country": "CZE",
+        "score": 22.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Jaroslav Mockovčiak",
+        "country": "SVK",
+        "score": 18.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Radoslav Ferjanc",
+        "country": "SVK",
+        "score": 13.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Lukáš Tesař",
+        "country": "CZE",
+        "score": 13.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Bartłomiej Górecki",
+        "country": "POL",
+        "score": 12.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3042,
+    "contest_name": "2026 Pojedynek GigantÃ³w Novum Groszek",
+    "details": "Zakliczyn, Poland, 2026-10-11",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3042",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Oskar Ziółkowski",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Patryk Sentyrz",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Ryszard Hołówka",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Krzysztof Kacnerski",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Kamil Łyszkowski",
+        "country": "POL",
+        "score": 0.0
+      }
+    ]
   }
 ]
