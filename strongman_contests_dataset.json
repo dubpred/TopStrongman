@@ -187996,40 +187996,40 @@
     "total_competitors": 6,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Richard Birchmore",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Luke Fullbrook",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Tatu Karhu",
-        "country": "FIN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Dale Peters",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "John Pollock",
         "country": "GBR",
-        "score": 0.0
+        "score": 20.5
       },
       {
-        "rank": "-",
+        "rank": "2",
+        "person_name": "Dale Peters",
+        "country": "GBR",
+        "score": 20.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Luke Fullbrook",
+        "country": "GBR",
+        "score": 20.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Richard Birchmore",
+        "country": "GBR",
+        "score": 17.0
+      },
+      {
+        "rank": "5",
         "person_name": "Dan Thomas",
         "country": "GBR",
-        "score": 0.0
+        "score": 15.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Tatu Karhu",
+        "country": "FIN",
+        "score": 9.0
       }
     ]
   },
@@ -188041,40 +188041,40 @@
     "total_competitors": 6,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Kikki Berli-Johnsen",
-        "country": "NOR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jules Child",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Josefin Hansen",
-        "country": "SWE",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Julia Mills",
         "country": "GBR",
-        "score": 0.0
+        "score": 30.0
       },
       {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Sam Taylor",
         "country": "GBR",
-        "score": 0.0
+        "score": 24.0
       },
       {
-        "rank": "-",
+        "rank": "3",
+        "person_name": "Kikki Berli-Johnsen",
+        "country": "NOR",
+        "score": 19.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Josefin Hansen",
+        "country": "SWE",
+        "score": 13.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Jules Child",
+        "country": "GBR",
+        "score": 11.0
+      },
+      {
+        "rank": "6",
         "person_name": "Catherine West",
         "country": "GBR",
-        "score": 0.0
+        "score": 6.0
       }
     ]
   },
@@ -188086,64 +188086,64 @@
     "total_competitors": 10,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Ryan Bennett",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Ben Brunning",
         "country": "GBR",
-        "score": 0.0
+        "score": 46.5
       },
       {
-        "rank": "-",
-        "person_name": "Kevin  Coils",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Matt Dimond",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Stuart Graham",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Mikey Lane",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Aaron Page",
         "country": "GBR",
-        "score": 0.0
+        "score": 39.5
       },
       {
-        "rank": "-",
-        "person_name": "Luke Richardson",
+        "rank": "3",
+        "person_name": "Stuart Graham",
         "country": "GBR",
-        "score": 0.0
+        "score": 29.0
       },
       {
-        "rank": "-",
-        "person_name": "Andrew Robinson",
+        "rank": "4",
+        "person_name": "Kevin  Coils",
         "country": "GBR",
-        "score": 0.0
+        "score": 28.0
       },
       {
-        "rank": "-",
+        "rank": "5",
         "person_name": "Ellis Vine",
         "country": "GBR",
-        "score": 0.0
+        "score": 27.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Ryan Bennett",
+        "country": "GBR",
+        "score": 26.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Luke Richardson",
+        "country": "GBR",
+        "score": 23.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Matt Dimond",
+        "country": "GBR",
+        "score": 21.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Mikey Lane",
+        "country": "GBR",
+        "score": 14.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Andrew Robinson",
+        "country": "GBR",
+        "score": 14.0
       }
     ]
   },
@@ -188155,22 +188155,22 @@
     "total_competitors": 3,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Nina Hake",
-        "country": "NOR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Lorna Paton",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Rebecca Roberts",
         "country": "GBR",
-        "score": 0.0
+        "score": 14.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Nina Hake",
+        "country": "NOR",
+        "score": 10.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Lorna Paton",
+        "country": "GBR",
+        "score": 4.0
       }
     ]
   },
@@ -188182,62 +188182,62 @@
     "total_competitors": 10,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Christine Azzolini",
-        "country": "ITA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Clare Burton",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Kate Connolly",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Lu Dudley",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Amelia Haigh",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Naomi Handley",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Rhianon Lovelace",
         "country": "GBR",
-        "score": 0.0
+        "score": 48.0
       },
       {
-        "rank": "-",
+        "rank": "2",
+        "person_name": "Kate Connolly",
+        "country": "GBR",
+        "score": 46.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Clare Burton",
+        "country": "GBR",
+        "score": 38.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Christine Azzolini",
+        "country": "ITA",
+        "score": 33.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Mollie Wagstaff",
+        "country": "GBR",
+        "score": 19.0
+      },
+      {
+        "rank": "6",
         "person_name": "Jade Presley",
         "country": "GBR",
-        "score": 0.0
+        "score": 19.0
       },
       {
-        "rank": "-",
+        "rank": "7",
+        "person_name": "Amelia Haigh",
+        "country": "GBR",
+        "score": 18.5
+      },
+      {
+        "rank": "8",
         "person_name": "Rebecca Stephenson",
         "country": "GBR",
-        "score": 0.0
+        "score": 17.0
       },
       {
-        "rank": "-",
-        "person_name": "Mollie Wagstaff",
+        "rank": "9",
+        "person_name": "Naomi Handley",
+        "country": "GBR",
+        "score": 17.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Lu Dudley",
         "country": "GBR",
         "score": 0.0
       }
@@ -188251,64 +188251,64 @@
     "total_competitors": 10,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Catherine Anderson",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Martina Andersson",
         "country": "SWE",
-        "score": 0.0
+        "score": 45.0
       },
       {
-        "rank": "-",
-        "person_name": "Lucia Bilic",
-        "country": "GER",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Helen Harrison",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Annika Karhu",
-        "country": "FIN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Samantha McLean",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Natalie O'Shea",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Valentina Rossi",
-        "country": "ITA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Bobby Sundberg",
-        "country": "SWE",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Cecilie Wormdahl",
         "country": "NOR",
-        "score": 0.0
+        "score": 42.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Bobby Sundberg",
+        "country": "SWE",
+        "score": 41.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Annika Karhu",
+        "country": "FIN",
+        "score": 31.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Valentina Rossi",
+        "country": "ITA",
+        "score": 24.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Natalie O'Shea",
+        "country": "GBR",
+        "score": 22.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Lucia Bilic",
+        "country": "GER",
+        "score": 17.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Samantha McLean",
+        "country": "GBR",
+        "score": 14.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Helen Harrison",
+        "country": "GBR",
+        "score": 11.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Catherine Anderson",
+        "country": "GBR",
+        "score": 5.0
       }
     ]
   },
@@ -188320,52 +188320,52 @@
     "total_competitors": 8,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Shaun Blairs",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Robert Clarke",
-        "country": "IRL",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Ondřej  Havránek",
-        "country": "CZE",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Anders Kylander",
-        "country": "SWE",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Ola Nilsson",
-        "country": "SWE",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Ben Penswick",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Jiří Tkadlčík",
         "country": "CZE",
-        "score": 0.0
+        "score": 35.0
       },
       {
-        "rank": "-",
+        "rank": "2",
+        "person_name": "Ondřej  Havránek",
+        "country": "CZE",
+        "score": 33.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Anders Kylander",
+        "country": "SWE",
+        "score": 26.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Ola Nilsson",
+        "country": "SWE",
+        "score": 23.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Robert Clarke",
+        "country": "IRL",
+        "score": 21.0
+      },
+      {
+        "rank": "6",
         "person_name": "John Emil Westby",
         "country": "NOR",
-        "score": 0.0
+        "score": 20.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Ben Penswick",
+        "country": "GBR",
+        "score": 14.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Shaun Blairs",
+        "country": "GBR",
+        "score": 7.0
       }
     ]
   },
@@ -188377,73 +188377,73 @@
     "total_competitors": 12,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Lee Osment",
-        "country": "GBR",
-        "score": 48.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Paavo Paaso",
         "country": "FIN",
         "score": 48.0
       },
       {
-        "rank": "-",
-        "person_name": "Kjetil Finnes",
-        "country": "NOR",
-        "score": 42.0
+        "rank": "2",
+        "person_name": "Lee Osment",
+        "country": "GBR",
+        "score": 48.0
       },
       {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Jack Ottendahl",
         "country": "SWE",
         "score": 42.0
       },
       {
-        "rank": "-",
+        "rank": "4",
+        "person_name": "Kjetil Finnes",
+        "country": "NOR",
+        "score": 42.0
+      },
+      {
+        "rank": "5",
         "person_name": "Giovanni Luciano",
         "country": "ITA",
         "score": 39.0
       },
       {
-        "rank": "-",
+        "rank": "6",
         "person_name": "Tyrone Jones",
         "country": "GBR",
         "score": 31.0
       },
       {
-        "rank": "-",
+        "rank": "7",
         "person_name": "Matt Illife",
         "country": "GBR",
         "score": 30.0
       },
       {
-        "rank": "-",
+        "rank": "8",
         "person_name": "Victor Johansson",
         "country": "SWE",
         "score": 20.0
       },
       {
-        "rank": "-",
+        "rank": "9",
         "person_name": "Chris Brock",
         "country": "GBR",
         "score": 17.0
       },
       {
-        "rank": "-",
+        "rank": "10",
         "person_name": "Leeroi Smith",
         "country": "GBR",
         "score": 16.0
       },
       {
-        "rank": "-",
+        "rank": "11",
         "person_name": "Joe Daglish",
         "country": "GBR",
         "score": 12.0
       },
       {
-        "rank": "-",
+        "rank": "12",
         "person_name": "Josh Lancaster",
         "country": "GBR",
         "score": 11.0
@@ -188663,6 +188663,525 @@
         "person_name": "Kamil Łyszkowski",
         "country": "POL",
         "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3043,
+    "contest_name": "2018 OSG European Championships (Women)",
+    "details": "Lisburn, Northern Ireland, 2018-11-03",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3043",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Adriana Geamănu",
+        "country": "ROU",
+        "score": 12.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Rebecca Roberts",
+        "country": "GBR",
+        "score": 10.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Natasha  Méité",
+        "country": "GBR",
+        "score": 6.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3044,
+    "contest_name": "2018 Masters OSG European Championships (Men)",
+    "details": "Lisburn, Northern Ireland, 2018-11-03",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3044",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "John Pollock",
+        "country": "GBR",
+        "score": 8.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Simon  Yates",
+        "country": "GBR",
+        "score": 2.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3045,
+    "contest_name": "2018 Masters OSG European Championships (Women)",
+    "details": "Lisburn, Northern Ireland, 2018-11-03",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3045",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mary Anderson",
+        "country": "GBR",
+        "score": 10.0
+      },
+      {
+        "rank": "1",
+        "person_name": "Lisa Corallini",
+        "country": "GBR",
+        "score": 10.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jules Child",
+        "country": "GBR",
+        "score": 2.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3046,
+    "contest_name": "2018 U64 OSG European Championships",
+    "details": "Lisburn, Northern Ireland, 2018-11-03",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3046",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Rhianon Lovelace",
+        "country": "GBR",
+        "score": 10.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Kate Connolly",
+        "country": "GBR",
+        "score": 4.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3047,
+    "contest_name": "2018 U82 OSG European Championships",
+    "details": "Lisburn, Northern Ireland, 2018-11-03",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3047",
+    "total_competitors": 14,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Martina Andersson",
+        "country": "SWE",
+        "score": 63.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Rhianon Lovelace",
+        "country": "GBR",
+        "score": 63.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Bobby Sundberg",
+        "country": "SWE",
+        "score": 60.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Rebecca Cumpsty",
+        "country": "GBR",
+        "score": 52.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Annika Karhu",
+        "country": "FIN",
+        "score": 48.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Lisa Corallini",
+        "country": "GBR",
+        "score": 38.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Kate Connolly",
+        "country": "GBR",
+        "score": 37.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Natasha Webb",
+        "country": "GBR",
+        "score": 34.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Cecilie Wormdahl",
+        "country": "NOR",
+        "score": 29.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Andrea Biswas",
+        "country": "SUI",
+        "score": 15.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Hannah Spuffard",
+        "country": "GBR",
+        "score": 14.0
+      },
+      {
+        "rank": "12",
+        "person_name": "Sharon Williamson",
+        "country": "IRL",
+        "score": 8.0
+      },
+      {
+        "rank": "13",
+        "person_name": "Emma Evans",
+        "country": "GBR",
+        "score": 3.0
+      },
+      {
+        "rank": "14",
+        "person_name": "Alicia Hatt",
+        "country": "SWE",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3048,
+    "contest_name": "2018 OSG European Championships (Men)",
+    "details": "Lisburn, Northern Ireland, 2018-11-03",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3048",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Rauno Heinla",
+        "country": "EST",
+        "score": 44.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Ervin Toots",
+        "country": "EST",
+        "score": 37.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Aaron Page",
+        "country": "GBR",
+        "score": 37.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Daniel McElroy",
+        "country": "IRL",
+        "score": 35.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Ryan Oldfield",
+        "country": "GBR",
+        "score": 27.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Ilya Khazov",
+        "country": "CYP",
+        "score": 27.0
+      },
+      {
+        "rank": "7",
+        "person_name": "David  Jones",
+        "country": "IRL",
+        "score": 20.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Andrew Robinson",
+        "country": "GBR",
+        "score": 19.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Henk Frijters",
+        "country": "IRL",
+        "score": 15.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Lee Henson",
+        "country": "GBR",
+        "score": 3.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3049,
+    "contest_name": "2018 U105 OSG European Championships",
+    "details": "Lisburn, Northern Ireland, 2018-11-03",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3049",
+    "total_competitors": 16,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jimmy Johansson",
+        "country": "SWE",
+        "score": 71.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Robert Clarke",
+        "country": "IRL",
+        "score": 59.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Ondřej  Havránek",
+        "country": "CZE",
+        "score": 56.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Vaidotas Siurna",
+        "country": "LTU",
+        "score": 56.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Matthew Cole",
+        "country": "GBR",
+        "score": 52.5
+      },
+      {
+        "rank": "6",
+        "person_name": "David Williams",
+        "country": "GBR",
+        "score": 51.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Lars Ainasoja",
+        "country": "SWE",
+        "score": 50.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Shaun Blairs",
+        "country": "GBR",
+        "score": 45.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Matthew McKeegan",
+        "country": "IRL",
+        "score": 40.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Danny Dawson-Weatherill",
+        "country": "GBR",
+        "score": 38.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Dhanni Moar",
+        "country": "GBR",
+        "score": 37.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Jarrad Lewis",
+        "country": "GBR",
+        "score": 37.5
+      },
+      {
+        "rank": "13",
+        "person_name": "Ben Penswick",
+        "country": "GBR",
+        "score": 35.5
+      },
+      {
+        "rank": "14",
+        "person_name": "Miles Hutchinson",
+        "country": "IRL",
+        "score": 18.5
+      },
+      {
+        "rank": "15",
+        "person_name": "Scott Patterson",
+        "country": "GBR",
+        "score": 17.0
+      },
+      {
+        "rank": "16",
+        "person_name": "Dean Kennedy",
+        "country": "IRL",
+        "score": 12.5
+      }
+    ]
+  },
+  {
+    "contest_id": 3050,
+    "contest_name": "2018 U90 OSG European Championships",
+    "details": "Lisburn, Northern Ireland, 2018-11-03",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3050",
+    "total_competitors": 13,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Lee Osment",
+        "country": "GBR",
+        "score": 54.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Matt Illife",
+        "country": "GBR",
+        "score": 48.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Davy Wallace",
+        "country": "GBR",
+        "score": 47.5
+      },
+      {
+        "rank": "4",
+        "person_name": "David  Graham",
+        "country": "GBR",
+        "score": 46.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Niklas Jäggi",
+        "country": "SUI",
+        "score": 41.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Liam Howell",
+        "country": "GBR",
+        "score": 37.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Chris Brock",
+        "country": "GBR",
+        "score": 32.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Beasty Tuilagi",
+        "country": "GBR",
+        "score": 32.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Shaun Plews",
+        "country": "GBR",
+        "score": 29.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Jack Ottendahl",
+        "country": "SWE",
+        "score": 26.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Daniel Withnall",
+        "country": "GBR",
+        "score": 25.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Kristján Páll Árnason",
+        "country": "ISL",
+        "score": 15.0
+      },
+      {
+        "rank": "13",
+        "person_name": "Rodger Gillespie",
+        "country": "GBR",
+        "score": 2.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3051,
+    "contest_name": "2018 U80 OSG European Championships",
+    "details": "Lisburn, Northern Ireland, 2018-11-03",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3051",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mark Burke",
+        "country": "IRL",
+        "score": 43.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Dean McVie",
+        "country": "GBR",
+        "score": 40.0
+      },
+      {
+        "rank": "3",
+        "person_name": "David Todd",
+        "country": "GBR",
+        "score": 34.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Tom  Gee",
+        "country": "GBR",
+        "score": 32.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Andy Smiles",
+        "country": "GBR",
+        "score": 28.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Stephen Wilkinson",
+        "country": "GBR",
+        "score": 23.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Marek Tyl",
+        "country": "CZE",
+        "score": 22.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Dom Crane",
+        "country": "GBR",
+        "score": 20.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Bobby St. Ledger",
+        "country": "IRL",
+        "score": 18.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Joni Alles",
+        "country": "BEL",
+        "score": 4.0
       }
     ]
   }
