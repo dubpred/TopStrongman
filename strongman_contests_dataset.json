@@ -189184,5 +189184,74 @@
         "score": 4.0
       }
     ]
+  },
+  {
+    "contest_id": 3052,
+    "contest_name": "2013 STP European Championship",
+    "details": "RadzionkÃ³w, Poland, 2013",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3052",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mateusz Baron",
+        "country": "POL",
+        "score": 66.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Tomasz Kowal",
+        "country": "POL",
+        "score": 61.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Rafał Kobylarz",
+        "country": "POL",
+        "score": 53.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Tarmo Mitt",
+        "country": "EST",
+        "score": 37.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Tomasz Żocholl",
+        "country": "POL",
+        "score": 34.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Zdeněk Sedmík",
+        "country": "CZE",
+        "score": 33.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Rolands Gulbis",
+        "country": "LAT",
+        "score": 32.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Luboš Pevný",
+        "country": "SVK",
+        "score": 27.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Oleksandr Lashyn",
+        "country": "UKR",
+        "score": 25.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Richard Looney",
+        "country": "IRL",
+        "score": 8.0
+      }
+    ]
   }
 ]
