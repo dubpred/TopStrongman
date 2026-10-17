@@ -189253,5 +189253,434 @@
         "score": 8.0
       }
     ]
+  },
+  {
+    "contest_id": 3053,
+    "contest_name": "2026 Strongest Woman in Iceland",
+    "details": "KÃ³pavogur, Iceland, 2026-11-07",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3053",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Svala Björgvinsdóttir",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Erika Jónsdóttir",
+        "country": "ISL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3054,
+    "contest_name": "2026 Sweden's Strongest Man",
+    "details": "MalmÃ¶, Sweden, 2026-10-24",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3054",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Harley Andersson",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Maximilian Eckhardt",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Cim Johansson",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jacob Larsson",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Henrik Norberg",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Nils Nordström",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jonathan Partanen",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jonas Tinnerholm",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Anton Wasser",
+        "country": "SWE",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3055,
+    "contest_name": "2022 Arnold UK Pro Strongwoman",
+    "details": "Birmingham, England, 2022-09-23",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3055",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Lucy Underdown",
+        "country": "GBR",
+        "score": 36.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Katie Smith",
+        "country": "GBR",
+        "score": 21.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Naomi Hadley",
+        "country": "GBR",
+        "score": 21.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Anetka Brzáková",
+        "country": "GBR",
+        "score": 18.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Emmajane Smith",
+        "country": "GBR",
+        "score": 6.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Melissa Smith",
+        "country": "GBR",
+        "score": 3.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3056,
+    "contest_name": "2022 U82 Arnold UK Pro Strongwoman",
+    "details": "Birmingham, England, 2022-09-23",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3056",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Donna Moore",
+        "country": "GBR",
+        "score": 34.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Laura Baxter",
+        "country": "GBR",
+        "score": 27.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Jemma Stubbs",
+        "country": "GBR",
+        "score": 19.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Alexandra Alexa",
+        "country": "GBR",
+        "score": 18.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Gemma Ferguson",
+        "country": "GBR",
+        "score": 13.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Nicola Buchan",
+        "country": "GBR",
+        "score": 8.5
+      }
+    ]
+  },
+  {
+    "contest_id": 3057,
+    "contest_name": "2022 U73 Arnold UK Pro Strongwoman",
+    "details": "Birmingham, England, 2022-09-23",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3057",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Chloe Brennan",
+        "country": "GBR",
+        "score": 31.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Kate Connolly",
+        "country": "GBR",
+        "score": 28.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Rachael Greathead",
+        "country": "GBR",
+        "score": 19.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Dionne Mcintyre-Wilson",
+        "country": "GBR",
+        "score": 15.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Becky  Noon",
+        "country": "GBR",
+        "score": 14.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Sarah Reynolds",
+        "country": "IRL",
+        "score": 10.5
+      }
+    ]
+  },
+  {
+    "contest_id": 3058,
+    "contest_name": "2022 U64 Arnold UK Pro Strongwoman",
+    "details": "Birmingham, England, 2022-09-23",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3058",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Rhianon Lovelace",
+        "country": "GBR",
+        "score": 34.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Shannon Smith",
+        "country": "GBR",
+        "score": 32.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Sammy Mayhew",
+        "country": "GBR",
+        "score": 23.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Tatiana Cousins",
+        "country": "SVK",
+        "score": 13.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Charlotte Hayden",
+        "country": "GBR",
+        "score": 10.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Eilidh Greig",
+        "country": "GBR",
+        "score": 7.5
+      }
+    ]
+  },
+  {
+    "contest_id": 3059,
+    "contest_name": "2026 Norway's Strongest Man",
+    "details": "Larvik, Norway, 2026-09-04 to 2026-09-05",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3059",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Henrik Hildeskor",
+        "country": "NOR",
+        "score": 52.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Håkon Heitmann Kollerød",
+        "country": "NOR",
+        "score": 48.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Max Rogers",
+        "country": "GBR",
+        "score": 45.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Axel Steffensen",
+        "country": "NOR",
+        "score": 44.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Magnus Ødegård",
+        "country": "NOR",
+        "score": 43.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Anders Hauge Hognestad",
+        "country": "NOR",
+        "score": 32.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Knut Arne Risholm",
+        "country": "NOR",
+        "score": 29.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Thomas Nordgaard Berg",
+        "country": "NOR",
+        "score": 28.5
+      },
+      {
+        "rank": "9",
+        "person_name": "John Andre Åsgård",
+        "country": "NOR",
+        "score": 24.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Ionut Carip",
+        "country": "CYP",
+        "score": 13.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Markus Webasto",
+        "country": "NOR",
+        "score": 13.0
+      },
+      {
+        "rank": "12",
+        "person_name": "Elias Skålevik",
+        "country": "NOR",
+        "score": 8.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3060,
+    "contest_name": "2026 Norway's Strongest Woman",
+    "details": "Larvik, Norway, 2026-09-04 to 2026-09-05",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3060",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Nina Hake",
+        "country": "NOR",
+        "score": 15.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Kikki Berli-Johnsen",
+        "country": "NOR",
+        "score": 14.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Malin Rydland",
+        "country": "NOR",
+        "score": 12.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Janne Mathisen",
+        "country": "NOR",
+        "score": 4.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3061,
+    "contest_name": "2014 STP European Championship",
+    "details": "Krynica-ZdrÃ³j, Poland, 2014-06-21",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3061",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tomasz Kowal",
+        "country": "POL",
+        "score": 35.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jarosław Nowacki",
+        "country": "POL",
+        "score": 28.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Tarmo Mitt",
+        "country": "EST",
+        "score": 20.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Rolands Gulbis",
+        "country": "LAT",
+        "score": 15.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Grzegorz Wiśniewski",
+        "country": "POL",
+        "score": 15.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Kordian Bolczak",
+        "country": "POL",
+        "score": 13.0
+      }
+    ]
   }
 ]
