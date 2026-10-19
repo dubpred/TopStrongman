@@ -189727,5 +189727,50 @@
         "score": 11.0
       }
     ]
+  },
+  {
+    "contest_id": 3063,
+    "contest_name": "2015 STP European Championship",
+    "details": "ZÄbki, Poland, 2015-06-21",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3063",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jarosław Nowacki",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Tomasz Kowal",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Grzegorz Wiśniewski",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Rolands Gulbis",
+        "country": "LAT",
+        "score": 0.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Iwan Groholski",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Dalius Ziminskas",
+        "country": "LTU",
+        "score": 0.0
+      }
+    ]
   }
 ]
