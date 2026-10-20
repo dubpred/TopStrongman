@@ -189772,5 +189772,362 @@
         "score": 0.0
       }
     ]
+  },
+  {
+    "contest_id": 3064,
+    "contest_name": "2026 Masters Norway's Strongest Man",
+    "details": "Larvik, Norway, 2026-09-04 to 2026-09-05",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3064",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Øyvind Skjævesland Gustavsen",
+        "country": "NOR",
+        "score": 39.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Dag Rune Stangeland",
+        "country": "NOR",
+        "score": 36.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Espen Nordhagen",
+        "country": "NOR",
+        "score": 26.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Abdelhak Meftah",
+        "country": "NOR",
+        "score": 23.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Kjartan Nygård",
+        "country": "NOR",
+        "score": 18.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Jan Inge Gundersen",
+        "country": "NOR",
+        "score": 17.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Jan-Tore Børresen",
+        "country": "NOR",
+        "score": 15.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Tjark Busch",
+        "country": "GER",
+        "score": 3.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3065,
+    "contest_name": "2026 U120 Norway's Strongest Man",
+    "details": "Larvik, Norway, 2026-09-04 to 2026-09-05",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3065",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jan Haaversen",
+        "country": "NOR",
+        "score": 32.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Andreas Bakken",
+        "country": "NOR",
+        "score": 26.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Jarle Zahl",
+        "country": "NOR",
+        "score": 24.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Vidar Daae Vikøyr",
+        "country": "NOR",
+        "score": 23.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Glenn Helge Kvilhaugsvik",
+        "country": "NOR",
+        "score": 22.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Lasse Haaland",
+        "country": "NOR",
+        "score": 19.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Arild Nyland",
+        "country": "NOR",
+        "score": 15.5
+      },
+      {
+        "rank": "8",
+        "person_name": "John Anders Terland",
+        "country": "NOR",
+        "score": 15.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3066,
+    "contest_name": "2026 U105 Norway's Strongest Man",
+    "details": "Larvik, Norway, 2026-09-04 to 2026-09-05",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3066",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jørgen Aaen",
+        "country": "NOR",
+        "score": 41.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Kasper Bekken",
+        "country": "NOR",
+        "score": 41.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Nicolai Sternefalk",
+        "country": "NOR",
+        "score": 30.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Torbjørn Tøn",
+        "country": "NOR",
+        "score": 28.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Chris Nijkamp",
+        "country": "NED",
+        "score": 21.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Aleksander Johannesen",
+        "country": "NOR",
+        "score": 19.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Jonas Utrimark Olsson",
+        "country": "NOR",
+        "score": 17.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Tom Glessing",
+        "country": "NOR",
+        "score": 12.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Andreas Bjørgo Narheim",
+        "country": "NOR",
+        "score": 9.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3067,
+    "contest_name": "2026 U90 Norway's Strongest Man",
+    "details": "Larvik, Norway, 2026-09-04 to 2026-09-05",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3067",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Sebastian Bruvik",
+        "country": "NOR",
+        "score": 37.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Christian  Alvær",
+        "country": "NOR",
+        "score": 36.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Joachim Pietronigro",
+        "country": "NOR",
+        "score": 33.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Hans Rulffs",
+        "country": "NOR",
+        "score": 24.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Stian Gjermstad",
+        "country": "NOR",
+        "score": 23.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Chris Kvilhaugsvik",
+        "country": "NOR",
+        "score": 23.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Lasse Karisari",
+        "country": "NOR",
+        "score": 18.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Simen Andersen",
+        "country": "NOR",
+        "score": 14.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Thomas Reierskog Harborg",
+        "country": "NOR",
+        "score": 3.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3068,
+    "contest_name": "2026 U80 Norway's Strongest Man",
+    "details": "Larvik, Norway, 2026-09-04 to 2026-09-05",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3068",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mads Even Bjorheim",
+        "country": "NOR",
+        "score": 24.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Lauris Grorud",
+        "country": "NOR",
+        "score": 18.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Joakim Lee Sletten",
+        "country": "NOR",
+        "score": 15.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Filip Ekrem",
+        "country": "NOR",
+        "score": 10.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Markus Robberstad",
+        "country": "NOR",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3069,
+    "contest_name": "2026 U64 Norway's Strongest Woman",
+    "details": "Larvik, Norway, 2026-09-04 to 2026-09-05",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3069",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Andrine Helgesen",
+        "country": "NOR",
+        "score": 23.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Gina-Merethe Borø",
+        "country": "NOR",
+        "score": 18.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Sanna Barstad",
+        "country": "NOR",
+        "score": 16.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Rikke Sæther",
+        "country": "NOR",
+        "score": 9.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Celeste Porsbøll",
+        "country": "NOR",
+        "score": 8.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3070,
+    "contest_name": "2026 U73 Norway's Strongest Woman",
+    "details": "Larvik, Norway, 2026-09-04 to 2026-09-05",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3070",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Lise Reierskog",
+        "country": "NOR",
+        "score": 22.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Eline Hønsen",
+        "country": "NOR",
+        "score": 19.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Cecilie Wormdahl",
+        "country": "NOR",
+        "score": 13.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Alexandra Voll Skrove",
+        "country": "NOR",
+        "score": 10.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Anette Larsen",
+        "country": "NOR",
+        "score": 9.0
+      }
+    ]
   }
 ]
