@@ -148753,7 +148753,7 @@
     "contest_name": "2026 Rogue Invitational (Men)",
     "details": "Aberdeen, Scotland, 2026-10-23 to 2026-10-24",
     "url": "https://strongmanarchives.com/viewContest.php?id=2336",
-    "total_competitors": 10,
+    "total_competitors": 9,
     "results": [
       {
         "rank": "-",
@@ -148808,12 +148808,6 @@
         "person_name": "Rayno Nel",
         "country": "RSA",
         "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Tom Stoltman",
-        "country": "GBR",
-        "score": 0.0
       }
     ]
   },
@@ -148822,7 +148816,7 @@
     "contest_name": "2026 Rogue Invitational (Women)",
     "details": "Aberdeen, Scotland, 2026-10-23 to 2026-10-24",
     "url": "https://strongmanarchives.com/viewContest.php?id=2337",
-    "total_competitors": 10,
+    "total_competitors": 9,
     "results": [
       {
         "rank": "-",
@@ -148846,12 +148840,6 @@
         "rank": "-",
         "person_name": "Angelica Jardine",
         "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Olga Liashchuk",
-        "country": "UKR",
         "score": 0.0
       },
       {
@@ -190127,6 +190115,675 @@
         "person_name": "Anette Larsen",
         "country": "NOR",
         "score": 9.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3071,
+    "contest_name": "2026 Masters Australia's Strongest Man",
+    "details": "Sydney, Australia, 2026-05-01",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3071",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Michael Blackwood",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "David Broomham",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "David Forth",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jeff Rudd",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jarron  Stewart",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Dave Wood",
+        "country": "AUS",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3072,
+    "contest_name": "2026 Masters U105 Australia's Strongest Man",
+    "details": "Sydney, Australia, 2026-05-01",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3072",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Sam Falkinder",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Arron Lightburn",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Paul Mammone",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Luke  Parsons",
+        "country": "AUS",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3073,
+    "contest_name": "2026 Masters Australia's Strongest Woman",
+    "details": "Sydney, Australia, 2026-05-01",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3073",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Kirsten Bromley",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Hayley Galea",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jane Laidler",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Evelyn Langkilde",
+        "country": "SAM",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Alli Lavery",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Matala Sula-Siaosi",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Red Windle",
+        "country": "AUS",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3074,
+    "contest_name": "2026 Masters U73 Australia's Strongest Woman",
+    "details": "Sydney, Australia, 2026-05-01",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3074",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Sarah  Burns",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jessica Cameron",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kylie Davis",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Nardia Styles",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Candice Thompson",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Courtney Thurgar",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Sarah Woodham",
+        "country": "AUS",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3075,
+    "contest_name": "2026 U64 Australia's Strongest Woman",
+    "details": "Sydney, Australia, 2026-05-02",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3075",
+    "total_competitors": 11,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Jessica Bassett",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Sarah Devery",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Camilla Fogagnolo",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Josie Hamor",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Christina  Lim",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Frances Lolohea",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Temecca Meade",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Flo Naish",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tanita Northcott",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Alexis Pisani",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kayla Watkins",
+        "country": "AUS",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3076,
+    "contest_name": "2026 U73 Australia's Strongest Woman",
+    "details": "Sydney, Australia, 2026-05-01",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3076",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Annaliese  Bevan",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Elissa Black",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jessica Cameron",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Hayley Collicoat",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Caroline Eaton",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Camilla Fogagnolo",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Madeline Heath",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jessica Houston",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Sammy Johnston",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Natalie Koopman",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Lauren Mcmillen",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kerryn Taylor",
+        "country": "AUS",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3077,
+    "contest_name": "2026 U82 Australia's Strongest Woman",
+    "details": "Sydney, Australia, 2026-05-01",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3077",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Liz Aitken",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ellira Bassett",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Emma Breebaart",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Sarah Hallifax",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Simone Jones",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Sally Kubler",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Donna McKenzie",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Rachel Spencer",
+        "country": "AUS",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3078,
+    "contest_name": "2026 U80 Australia's Strongest Man",
+    "details": "Sydney, Australia, 2026-05-02",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3078",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Jack Aulsebrook",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Harry Bartlett",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jacob Charsley",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Alex Emery",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Murray Joyce",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Nathan Mercieca",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Trevor Talent",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Zemmeon Walker",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Alec Wallace",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Spiro Xepapas",
+        "country": "AUS",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3079,
+    "contest_name": "2026 U90 Australia's Strongest Man",
+    "details": "Sydney, Australia, 2026-05-01",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3079",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Matthew  Bylsma",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Logan Day",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Joseph Eaton",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Luke Gough",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Daniel Guirey",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Luke Keiger",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Marcus Nicol",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Dean Paterson",
+        "country": "AUS",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3080,
+    "contest_name": "2026 U105 Australia's Strongest Man",
+    "details": "Sydney, Australia, 2026-05-01",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3080",
+    "total_competitors": 13,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Izzy Barrett",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jordan Boyce",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Paul Cullen",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "James De Graaf",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Adam Fullgrabe",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Harley Hughes",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "James Leyshon",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Justin Longdon",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jake Meguerditchian",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Brice Purton",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Cam Taylor",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Charl Van Niekerk",
+        "country": "AUS",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ash Vincent",
+        "country": "AUS",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3081,
+    "contest_name": "2026 PSL Round 10",
+    "details": "RimavskÃ¡ Sobota, Slovakia, 2026-10-17",
+    "url": "https://strongmanarchives.com/viewContest.php?id=3081",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "score": 41.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Modestas Struckus",
+        "country": "LTU",
+        "score": 38.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Jan Lacina",
+        "country": "CZE",
+        "score": 34.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Damian Paczuski",
+        "country": "POL",
+        "score": 30.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Kevin Horváth",
+        "country": "HUN",
+        "score": 25.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Pierre Motal",
+        "country": "FRA",
+        "score": 21.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Jaroslav Mockovčiak",
+        "country": "SVK",
+        "score": 16.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Lukáš Svoboda",
+        "country": "CZE",
+        "score": 13.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Milan Šuľan",
+        "country": "SVK",
+        "score": 3.0
       }
     ]
   }
