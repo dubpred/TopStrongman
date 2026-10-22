@@ -16531,7 +16531,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Austin",
     "Compititor_LName": "Andrade",
-    "difficulty": 83.4,
+    "difficulty": 83.3,
     "country_code": "MEX",
     "division": "men"
   },
@@ -16543,7 +16543,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Uriel",
     "Compititor_LName": "Gutiérrez",
-    "difficulty": 83.4,
+    "difficulty": 83.3,
     "country_code": "MEX",
     "division": "men"
   },
@@ -16555,7 +16555,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Lucas",
     "Compititor_LName": "Rogerio",
-    "difficulty": 83.4,
+    "difficulty": 83.3,
     "country_code": "BRA",
     "division": "men"
   },
@@ -16567,7 +16567,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Christopher",
     "Compititor_LName": "Matos",
-    "difficulty": 83.4,
+    "difficulty": 83.3,
     "country_code": "PUR",
     "division": "men"
   },
@@ -16579,7 +16579,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Andrea",
     "Compititor_LName": "Invernizzi",
-    "difficulty": 83.4,
+    "difficulty": 83.3,
     "country_code": "ITA",
     "division": "men"
   },
@@ -16591,7 +16591,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Marko",
     "Compititor_LName": "Reyes",
-    "difficulty": 83.4,
+    "difficulty": 83.3,
     "country_code": "CHI",
     "division": "men"
   },
@@ -16603,7 +16603,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Tiago",
     "Compititor_LName": "Aparecido",
-    "difficulty": 83.4,
+    "difficulty": 83.3,
     "country_code": "BRA",
     "division": "men"
   },
@@ -16615,7 +16615,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Aurélien",
     "Compititor_LName": "Le Jeune",
-    "difficulty": 83.4,
+    "difficulty": 83.3,
     "country_code": "FRA",
     "division": "men"
   },
@@ -16627,7 +16627,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Anderson",
     "Compititor_LName": "Aguiar",
-    "difficulty": 83.4,
+    "difficulty": 83.3,
     "country_code": "BRA",
     "division": "men"
   },
@@ -16639,7 +16639,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Alexandre",
     "Compititor_LName": "Hulin",
-    "difficulty": 83.4,
+    "difficulty": 83.3,
     "country_code": "FRA",
     "division": "men"
   },
@@ -16651,7 +16651,7 @@
     "PlacementRank": 11,
     "Competitor_fName": "Alessandro",
     "Compititor_LName": "Castelli",
-    "difficulty": 83.4,
+    "difficulty": 83.3,
     "country_code": "ITA",
     "division": "men"
   },
@@ -16663,7 +16663,7 @@
     "PlacementRank": 12,
     "Competitor_fName": "Alex",
     "Compititor_LName": "Lungu",
-    "difficulty": 83.4,
+    "difficulty": 83.3,
     "country_code": "ROU",
     "division": "men"
   },
@@ -17227,7 +17227,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Brian",
     "Compititor_LName": "Kichton",
-    "difficulty": 78.9,
+    "difficulty": 78.8,
     "country_code": "USA",
     "division": "men"
   },
@@ -17239,7 +17239,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Kevin",
     "Compititor_LName": "Hazeleger",
-    "difficulty": 78.9,
+    "difficulty": 78.8,
     "country_code": "NED",
     "division": "men"
   },
@@ -17251,7 +17251,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Patrick",
     "Compititor_LName": "Eibel",
-    "difficulty": 78.9,
+    "difficulty": 78.8,
     "country_code": "GER",
     "division": "men"
   },
@@ -17263,7 +17263,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Andrea",
     "Compititor_LName": "Invernizzi",
-    "difficulty": 78.9,
+    "difficulty": 78.8,
     "country_code": "ITA",
     "division": "men"
   },
@@ -17275,7 +17275,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "George",
     "Compititor_LName": "Sulaiman",
-    "difficulty": 78.9,
+    "difficulty": 78.8,
     "country_code": "NED",
     "division": "men"
   },
@@ -17287,7 +17287,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Péter",
     "Compititor_LName": "Juhász",
-    "difficulty": 78.9,
+    "difficulty": 78.8,
     "country_code": "HUN",
     "division": "men"
   },
@@ -17299,7 +17299,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Jesse",
     "Compititor_LName": "Pynnönen",
-    "difficulty": 78.9,
+    "difficulty": 78.8,
     "country_code": "FIN",
     "division": "men"
   },
@@ -17311,7 +17311,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Heikki",
     "Compititor_LName": "Pohjonen",
-    "difficulty": 78.9,
+    "difficulty": 78.8,
     "country_code": "FIN",
     "division": "men"
   },
@@ -17323,7 +17323,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Dillon",
     "Compititor_LName": "Gartner",
-    "difficulty": 78.9,
+    "difficulty": 78.8,
     "country_code": "USA",
     "division": "men"
   },
@@ -17335,7 +17335,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Ervin",
     "Compititor_LName": "Toots",
-    "difficulty": 78.9,
+    "difficulty": 78.8,
     "country_code": "EST",
     "division": "men"
   },
@@ -17347,7 +17347,7 @@
     "PlacementRank": 11,
     "Competitor_fName": "Ayyub",
     "Compititor_LName": "Mohammad",
-    "difficulty": 78.9,
+    "difficulty": 78.8,
     "country_code": "GER",
     "division": "men"
   },
@@ -18463,7 +18463,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Aivars",
     "Compititor_LName": "Šmaukstelis",
-    "difficulty": 74.6,
+    "difficulty": 74.5,
     "country_code": "LAT",
     "division": "men"
   },
@@ -18475,7 +18475,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Didzis",
     "Compititor_LName": "Zariņš",
-    "difficulty": 74.6,
+    "difficulty": 74.5,
     "country_code": "LAT",
     "division": "men"
   },
@@ -18487,7 +18487,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Mantas",
     "Compititor_LName": "Lalas",
-    "difficulty": 74.6,
+    "difficulty": 74.5,
     "country_code": "LTU",
     "division": "men"
   },
@@ -18499,7 +18499,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Pavlo",
     "Compititor_LName": "Kordiyaka",
-    "difficulty": 74.6,
+    "difficulty": 74.5,
     "country_code": "UKR",
     "division": "men"
   },
@@ -18511,7 +18511,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Žydrūnas",
     "Compititor_LName": "Savickas",
-    "difficulty": 74.6,
+    "difficulty": 74.5,
     "country_code": "LTU",
     "division": "men"
   },
@@ -18523,7 +18523,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Rongo",
     "Compititor_LName": "Keene",
-    "difficulty": 74.6,
+    "difficulty": 74.5,
     "country_code": "AUS",
     "division": "men"
   },
@@ -18535,7 +18535,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Ervin",
     "Compititor_LName": "Toots",
-    "difficulty": 74.6,
+    "difficulty": 74.5,
     "country_code": "EST",
     "division": "men"
   },
@@ -18547,7 +18547,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Andy",
     "Compititor_LName": "Black",
-    "difficulty": 74.6,
+    "difficulty": 74.5,
     "country_code": "GBR",
     "division": "men"
   },
@@ -18559,7 +18559,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Sebastian",
     "Compititor_LName": "Kurek",
-    "difficulty": 74.6,
+    "difficulty": 74.5,
     "country_code": "POL",
     "division": "men"
   },
@@ -18571,7 +18571,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Andris",
     "Compititor_LName": "Dilāns",
-    "difficulty": 74.6,
+    "difficulty": 74.5,
     "country_code": "LAT",
     "division": "men"
   },
@@ -18583,7 +18583,7 @@
     "PlacementRank": 11,
     "Competitor_fName": "Valentins",
     "Compititor_LName": "Klevinskis",
-    "difficulty": 74.6,
+    "difficulty": 74.5,
     "country_code": "LAT",
     "division": "men"
   },
@@ -19675,7 +19675,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Oskar",
     "Compititor_LName": "Ziółkowski",
-    "difficulty": 71.4,
+    "difficulty": 71.3,
     "country_code": "POL",
     "division": "men"
   },
@@ -19687,7 +19687,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Aivars",
     "Compititor_LName": "Šmaukstelis",
-    "difficulty": 71.4,
+    "difficulty": 71.3,
     "country_code": "LAT",
     "division": "men"
   },
@@ -19699,7 +19699,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Kevin",
     "Compititor_LName": "Hazeleger",
-    "difficulty": 71.4,
+    "difficulty": 71.3,
     "country_code": "NED",
     "division": "men"
   },
@@ -19711,7 +19711,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Kane",
     "Compititor_LName": "Francis",
-    "difficulty": 71.4,
+    "difficulty": 71.3,
     "country_code": "GBR",
     "division": "men"
   },
@@ -19723,7 +19723,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Andrea",
     "Compititor_LName": "Invernizzi",
-    "difficulty": 71.4,
+    "difficulty": 71.3,
     "country_code": "ITA",
     "division": "men"
   },
@@ -19735,7 +19735,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Evans",
     "Compititor_LName": "Nana Aryee",
-    "difficulty": 71.4,
+    "difficulty": 71.3,
     "country_code": "GHA",
     "division": "men"
   },
@@ -19747,7 +19747,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Adam",
     "Compititor_LName": "Roszkowski",
-    "difficulty": 71.4,
+    "difficulty": 71.3,
     "country_code": "POL",
     "division": "men"
   },
@@ -19759,7 +19759,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Mika",
     "Compititor_LName": "Törrö",
-    "difficulty": 71.4,
+    "difficulty": 71.3,
     "country_code": "FIN",
     "division": "men"
   },
@@ -19771,7 +19771,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Fatih",
     "Compititor_LName": "Karaca",
-    "difficulty": 71.4,
+    "difficulty": 71.3,
     "country_code": "TUR",
     "division": "men"
   },
@@ -19783,7 +19783,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Damir",
     "Compititor_LName": "Stroil",
-    "difficulty": 71.4,
+    "difficulty": 71.3,
     "country_code": "BIH",
     "division": "men"
   },
@@ -19795,7 +19795,7 @@
     "PlacementRank": 11,
     "Competitor_fName": "Ervin",
     "Compititor_LName": "Toots",
-    "difficulty": 71.4,
+    "difficulty": 71.3,
     "country_code": "EST",
     "division": "men"
   },
@@ -19807,7 +19807,7 @@
     "PlacementRank": 12,
     "Competitor_fName": "Péter",
     "Compititor_LName": "Juhász",
-    "difficulty": 71.4,
+    "difficulty": 71.3,
     "country_code": "HUN",
     "division": "men"
   },
@@ -24343,7 +24343,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Adam",
     "Compititor_LName": "Roszkowski",
-    "difficulty": 56.8,
+    "difficulty": 56.7,
     "country_code": "POL",
     "division": "men"
   },
@@ -24355,7 +24355,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Frédérick",
     "Compititor_LName": "Rhéaume",
-    "difficulty": 56.8,
+    "difficulty": 56.7,
     "country_code": "CAN",
     "division": "men"
   },
@@ -24367,7 +24367,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Péter",
     "Compititor_LName": "Juhász",
-    "difficulty": 56.8,
+    "difficulty": 56.7,
     "country_code": "HUN",
     "division": "men"
   },
@@ -24379,7 +24379,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Mitch",
     "Compititor_LName": "Flowers",
-    "difficulty": 56.8,
+    "difficulty": 56.7,
     "country_code": "GBR",
     "division": "men"
   },
@@ -24391,7 +24391,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Andrea",
     "Compititor_LName": "Invernizzi",
-    "difficulty": 56.8,
+    "difficulty": 56.7,
     "country_code": "ITA",
     "division": "men"
   },
@@ -24403,7 +24403,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Kevin",
     "Compititor_LName": "Hazeleger",
-    "difficulty": 56.8,
+    "difficulty": 56.7,
     "country_code": "NED",
     "division": "men"
   },
@@ -24415,7 +24415,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Alex",
     "Compititor_LName": "Cristolovean",
-    "difficulty": 56.8,
+    "difficulty": 56.7,
     "country_code": "ROU",
     "division": "men"
   },
@@ -24427,7 +24427,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Mika",
     "Compititor_LName": "Törrö",
-    "difficulty": 56.8,
+    "difficulty": 56.7,
     "country_code": "FIN",
     "division": "men"
   },
@@ -24439,7 +24439,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Zdeněk",
     "Compititor_LName": "Vávra",
-    "difficulty": 56.8,
+    "difficulty": 56.7,
     "country_code": "CZE",
     "division": "men"
   },
@@ -24451,7 +24451,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Alex",
     "Compititor_LName": "Véró",
-    "difficulty": 56.8,
+    "difficulty": 56.7,
     "country_code": "HUN",
     "division": "men"
   },
@@ -24463,7 +24463,7 @@
     "PlacementRank": 11,
     "Competitor_fName": "Hristo",
     "Compititor_LName": "Muskov",
-    "difficulty": 56.8,
+    "difficulty": 56.7,
     "country_code": "BUL",
     "division": "men"
   },
@@ -24475,7 +24475,7 @@
     "PlacementRank": 12,
     "Competitor_fName": "Jesper",
     "Compititor_LName": "Hansson",
-    "difficulty": 56.8,
+    "difficulty": 56.7,
     "country_code": "SWE",
     "division": "men"
   },
@@ -24487,7 +24487,7 @@
     "PlacementRank": 13,
     "Competitor_fName": "Damir",
     "Compititor_LName": "Stroil",
-    "difficulty": 56.8,
+    "difficulty": 56.7,
     "country_code": "BIH",
     "division": "men"
   },
@@ -25831,7 +25831,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Aivars",
     "Compititor_LName": "Šmaukstelis",
-    "difficulty": 55.0,
+    "difficulty": 54.9,
     "country_code": "LAT",
     "division": "men"
   },
@@ -25843,7 +25843,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Didzis",
     "Compititor_LName": "Zariņš",
-    "difficulty": 55.0,
+    "difficulty": 54.9,
     "country_code": "LAT",
     "division": "men"
   },
@@ -25855,7 +25855,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Audrius",
     "Compititor_LName": "Jokūbaitis",
-    "difficulty": 55.0,
+    "difficulty": 54.9,
     "country_code": "LTU",
     "division": "men"
   },
@@ -25867,7 +25867,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Mantas",
     "Compititor_LName": "Lalas",
-    "difficulty": 55.0,
+    "difficulty": 54.9,
     "country_code": "LTU",
     "division": "men"
   },
@@ -25879,7 +25879,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Adam",
     "Compititor_LName": "Roszkowski",
-    "difficulty": 55.0,
+    "difficulty": 54.9,
     "country_code": "POL",
     "division": "men"
   },
@@ -25891,7 +25891,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Māris",
     "Compititor_LName": "Krievelis",
-    "difficulty": 55.0,
+    "difficulty": 54.9,
     "country_code": "LAT",
     "division": "men"
   },
@@ -25903,7 +25903,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Andris",
     "Compititor_LName": "Dilāns",
-    "difficulty": 55.0,
+    "difficulty": 54.9,
     "country_code": "LAT",
     "division": "men"
   },
@@ -25915,7 +25915,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Heikki",
     "Compititor_LName": "Pohjonen",
-    "difficulty": 55.0,
+    "difficulty": 54.9,
     "country_code": "FIN",
     "division": "men"
   },
@@ -25927,7 +25927,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Mairis",
     "Compititor_LName": "Kopeika",
-    "difficulty": 55.0,
+    "difficulty": 54.9,
     "country_code": "LAT",
     "division": "men"
   },
@@ -25939,7 +25939,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Ervin",
     "Compititor_LName": "Toots",
-    "difficulty": 55.0,
+    "difficulty": 54.9,
     "country_code": "EST",
     "division": "men"
   },
@@ -32316,126 +32316,6 @@
     "division": "men"
   },
   {
-    "Show_Name": "2022 Marijampolė International",
-    "Show_Promotion": "Other",
-    "Date": "2022-08-20",
-    "Year": 2022,
-    "PlacementRank": 1,
-    "Competitor_fName": "Pavlo",
-    "Compititor_LName": "Kordiyaka",
-    "difficulty": 43.7,
-    "country_code": "UKR",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2022 Marijampolė International",
-    "Show_Promotion": "Other",
-    "Date": "2022-08-20",
-    "Year": 2022,
-    "PlacementRank": 2,
-    "Competitor_fName": "Mantas",
-    "Compititor_LName": "Lalas",
-    "difficulty": 43.7,
-    "country_code": "LTU",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2022 Marijampolė International",
-    "Show_Promotion": "Other",
-    "Date": "2022-08-20",
-    "Year": 2022,
-    "PlacementRank": 3,
-    "Competitor_fName": "Gunnar",
-    "Compititor_LName": "Gimbutas",
-    "difficulty": 43.7,
-    "country_code": "EST",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2022 Marijampolė International",
-    "Show_Promotion": "Other",
-    "Date": "2022-08-20",
-    "Year": 2022,
-    "PlacementRank": 4,
-    "Competitor_fName": "Sami",
-    "Compititor_LName": "Ahola",
-    "difficulty": 43.7,
-    "country_code": "FIN",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2022 Marijampolė International",
-    "Show_Promotion": "Other",
-    "Date": "2022-08-20",
-    "Year": 2022,
-    "PlacementRank": 5,
-    "Competitor_fName": "Karolis",
-    "Compititor_LName": "Aleksandravičius",
-    "difficulty": 43.7,
-    "country_code": "LTU",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2022 Marijampolė International",
-    "Show_Promotion": "Other",
-    "Date": "2022-08-20",
-    "Year": 2022,
-    "PlacementRank": 6,
-    "Competitor_fName": "Dainius",
-    "Compititor_LName": "Repšys",
-    "difficulty": 43.7,
-    "country_code": "LTU",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2022 Marijampolė International",
-    "Show_Promotion": "Other",
-    "Date": "2022-08-20",
-    "Year": 2022,
-    "PlacementRank": 7,
-    "Competitor_fName": "Andris",
-    "Compititor_LName": "Dilāns",
-    "difficulty": 43.7,
-    "country_code": "LAT",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2022 Marijampolė International",
-    "Show_Promotion": "Other",
-    "Date": "2022-08-20",
-    "Year": 2022,
-    "PlacementRank": 8,
-    "Competitor_fName": "Peter",
-    "Compititor_LName": "Reinthaler",
-    "difficulty": 43.7,
-    "country_code": "AUT",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2022 Marijampolė International",
-    "Show_Promotion": "Other",
-    "Date": "2022-08-20",
-    "Year": 2022,
-    "PlacementRank": 9,
-    "Competitor_fName": "Chris",
-    "Compititor_LName": "Beetham",
-    "difficulty": 43.7,
-    "country_code": "GBR",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2022 Marijampolė International",
-    "Show_Promotion": "Other",
-    "Date": "2022-08-20",
-    "Year": 2022,
-    "PlacementRank": 10,
-    "Competitor_fName": "Maroš",
-    "Compititor_LName": "Štefaňák",
-    "difficulty": 43.7,
-    "country_code": "SVK",
-    "division": "men"
-  },
-  {
     "Show_Name": "2025 Arnold South America",
     "Show_Promotion": "Arnold Classic",
     "Date": "2025-04-05",
@@ -32517,6 +32397,126 @@
     "Compititor_LName": "Motal",
     "difficulty": 43.7,
     "country_code": "FRA",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2022 Marijampolė International",
+    "Show_Promotion": "Other",
+    "Date": "2022-08-20",
+    "Year": 2022,
+    "PlacementRank": 1,
+    "Competitor_fName": "Pavlo",
+    "Compititor_LName": "Kordiyaka",
+    "difficulty": 43.6,
+    "country_code": "UKR",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2022 Marijampolė International",
+    "Show_Promotion": "Other",
+    "Date": "2022-08-20",
+    "Year": 2022,
+    "PlacementRank": 2,
+    "Competitor_fName": "Mantas",
+    "Compititor_LName": "Lalas",
+    "difficulty": 43.6,
+    "country_code": "LTU",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2022 Marijampolė International",
+    "Show_Promotion": "Other",
+    "Date": "2022-08-20",
+    "Year": 2022,
+    "PlacementRank": 3,
+    "Competitor_fName": "Gunnar",
+    "Compititor_LName": "Gimbutas",
+    "difficulty": 43.6,
+    "country_code": "EST",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2022 Marijampolė International",
+    "Show_Promotion": "Other",
+    "Date": "2022-08-20",
+    "Year": 2022,
+    "PlacementRank": 4,
+    "Competitor_fName": "Sami",
+    "Compititor_LName": "Ahola",
+    "difficulty": 43.6,
+    "country_code": "FIN",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2022 Marijampolė International",
+    "Show_Promotion": "Other",
+    "Date": "2022-08-20",
+    "Year": 2022,
+    "PlacementRank": 5,
+    "Competitor_fName": "Karolis",
+    "Compititor_LName": "Aleksandravičius",
+    "difficulty": 43.6,
+    "country_code": "LTU",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2022 Marijampolė International",
+    "Show_Promotion": "Other",
+    "Date": "2022-08-20",
+    "Year": 2022,
+    "PlacementRank": 6,
+    "Competitor_fName": "Dainius",
+    "Compititor_LName": "Repšys",
+    "difficulty": 43.6,
+    "country_code": "LTU",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2022 Marijampolė International",
+    "Show_Promotion": "Other",
+    "Date": "2022-08-20",
+    "Year": 2022,
+    "PlacementRank": 7,
+    "Competitor_fName": "Andris",
+    "Compititor_LName": "Dilāns",
+    "difficulty": 43.6,
+    "country_code": "LAT",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2022 Marijampolė International",
+    "Show_Promotion": "Other",
+    "Date": "2022-08-20",
+    "Year": 2022,
+    "PlacementRank": 8,
+    "Competitor_fName": "Peter",
+    "Compititor_LName": "Reinthaler",
+    "difficulty": 43.6,
+    "country_code": "AUT",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2022 Marijampolė International",
+    "Show_Promotion": "Other",
+    "Date": "2022-08-20",
+    "Year": 2022,
+    "PlacementRank": 9,
+    "Competitor_fName": "Chris",
+    "Compititor_LName": "Beetham",
+    "difficulty": 43.6,
+    "country_code": "GBR",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2022 Marijampolė International",
+    "Show_Promotion": "Other",
+    "Date": "2022-08-20",
+    "Year": 2022,
+    "PlacementRank": 10,
+    "Competitor_fName": "Maroš",
+    "Compititor_LName": "Štefaňák",
+    "difficulty": 43.6,
+    "country_code": "SVK",
     "division": "men"
   },
   {
@@ -45691,7 +45691,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Nicolas",
     "Compititor_LName": "Cambi",
-    "difficulty": 28.7,
+    "difficulty": 28.4,
     "country_code": "ITA",
     "division": "men"
   },
@@ -45703,7 +45703,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Andrea",
     "Compititor_LName": "Invernizzi",
-    "difficulty": 28.7,
+    "difficulty": 28.4,
     "country_code": "ITA",
     "division": "men"
   },
@@ -45715,7 +45715,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Alessandro",
     "Compititor_LName": "Castelli",
-    "difficulty": 28.7,
+    "difficulty": 28.4,
     "country_code": "ITA",
     "division": "men"
   },
@@ -45727,7 +45727,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Emanuele",
     "Compititor_LName": "Greco",
-    "difficulty": 28.7,
+    "difficulty": 28.4,
     "country_code": "ITA",
     "division": "men"
   },
@@ -45739,7 +45739,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Paolo",
     "Compititor_LName": "Acquaviva",
-    "difficulty": 28.7,
+    "difficulty": 28.4,
     "country_code": "ITA",
     "division": "men"
   },
@@ -45751,7 +45751,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Emanuele",
     "Compititor_LName": "Condoleo",
-    "difficulty": 28.7,
+    "difficulty": 28.4,
     "country_code": "ITA",
     "division": "men"
   },
@@ -54324,66 +54324,6 @@
     "division": "men"
   },
   {
-    "Show_Name": "2022 Italy's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2022-10-22",
-    "Year": 2022,
-    "PlacementRank": 1,
-    "Competitor_fName": "Andrea",
-    "Compititor_LName": "Invernizzi",
-    "difficulty": 18.9,
-    "country_code": "ITA",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2022 Italy's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2022-10-22",
-    "Year": 2022,
-    "PlacementRank": 2,
-    "Competitor_fName": "Matteo",
-    "Compititor_LName": "Toninelli",
-    "difficulty": 18.9,
-    "country_code": "ITA",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2022 Italy's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2022-10-22",
-    "Year": 2022,
-    "PlacementRank": 3,
-    "Competitor_fName": "Paolo",
-    "Compititor_LName": "Acquaviva",
-    "difficulty": 18.9,
-    "country_code": "ITA",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2022 Italy's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2022-10-22",
-    "Year": 2022,
-    "PlacementRank": 4,
-    "Competitor_fName": "Alessandro",
-    "Compititor_LName": "Castelli",
-    "difficulty": 18.9,
-    "country_code": "ITA",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2022 Italy's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2022-10-22",
-    "Year": 2022,
-    "PlacementRank": 5,
-    "Competitor_fName": "Emanuele",
-    "Compititor_LName": "Greco",
-    "difficulty": 18.9,
-    "country_code": "ITA",
-    "division": "men"
-  },
-  {
     "Show_Name": "2026 Belgium's Strongest Man",
     "Show_Promotion": "Other",
     "Date": "2026-09-20",
@@ -55437,6 +55377,66 @@
     "Compititor_LName": "Boros",
     "difficulty": 18.6,
     "country_code": "SVK",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2022 Italy's Strongest Man",
+    "Show_Promotion": "Other",
+    "Date": "2022-10-22",
+    "Year": 2022,
+    "PlacementRank": 1,
+    "Competitor_fName": "Andrea",
+    "Compititor_LName": "Invernizzi",
+    "difficulty": 18.3,
+    "country_code": "ITA",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2022 Italy's Strongest Man",
+    "Show_Promotion": "Other",
+    "Date": "2022-10-22",
+    "Year": 2022,
+    "PlacementRank": 2,
+    "Competitor_fName": "Matteo",
+    "Compititor_LName": "Toninelli",
+    "difficulty": 18.3,
+    "country_code": "ITA",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2022 Italy's Strongest Man",
+    "Show_Promotion": "Other",
+    "Date": "2022-10-22",
+    "Year": 2022,
+    "PlacementRank": 3,
+    "Competitor_fName": "Paolo",
+    "Compititor_LName": "Acquaviva",
+    "difficulty": 18.3,
+    "country_code": "ITA",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2022 Italy's Strongest Man",
+    "Show_Promotion": "Other",
+    "Date": "2022-10-22",
+    "Year": 2022,
+    "PlacementRank": 4,
+    "Competitor_fName": "Alessandro",
+    "Compititor_LName": "Castelli",
+    "difficulty": 18.3,
+    "country_code": "ITA",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2022 Italy's Strongest Man",
+    "Show_Promotion": "Other",
+    "Date": "2022-10-22",
+    "Year": 2022,
+    "PlacementRank": 5,
+    "Competitor_fName": "Emanuele",
+    "Compititor_LName": "Greco",
+    "difficulty": 18.3,
+    "country_code": "ITA",
     "division": "men"
   },
   {
@@ -75259,7 +75259,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Samantha",
     "Compititor_LName": "Belliveau",
-    "difficulty": 188.8,
+    "difficulty": 188.7,
     "country_code": "CAN",
     "division": "women"
   },
@@ -75271,7 +75271,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Jackie",
     "Compititor_LName": "Osczevski",
-    "difficulty": 188.8,
+    "difficulty": 188.7,
     "country_code": "CAN",
     "division": "women"
   },
@@ -75283,7 +75283,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Samantha",
     "Compititor_LName": "Koski-Moffat",
-    "difficulty": 188.8,
+    "difficulty": 188.7,
     "country_code": "CAN",
     "division": "women"
   },
@@ -75295,7 +75295,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Joscelyne",
     "Compititor_LName": "O'Brien",
-    "difficulty": 188.8,
+    "difficulty": 188.7,
     "country_code": "CAN",
     "division": "women"
   },
@@ -75307,7 +75307,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Bailey",
     "Compititor_LName": "Deschene",
-    "difficulty": 188.8,
+    "difficulty": 188.7,
     "country_code": "CAN",
     "division": "women"
   },
@@ -75319,7 +75319,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Taylor",
     "Compititor_LName": "Woods",
-    "difficulty": 188.8,
+    "difficulty": 188.7,
     "country_code": "CAN",
     "division": "women"
   },
@@ -75331,7 +75331,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Josée",
     "Compititor_LName": "De Lachevrotière",
-    "difficulty": 188.8,
+    "difficulty": 188.7,
     "country_code": "CAN",
     "division": "women"
   },
@@ -75343,7 +75343,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Sarah-Jeanne",
     "Compititor_LName": "Voyer",
-    "difficulty": 188.8,
+    "difficulty": 188.7,
     "country_code": "CAN",
     "division": "women"
   },
@@ -75547,7 +75547,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Samantha",
     "Compititor_LName": "Belliveau",
-    "difficulty": 162.0,
+    "difficulty": 161.9,
     "country_code": "CAN",
     "division": "women"
   },
@@ -75559,7 +75559,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Jackie",
     "Compititor_LName": "Osczevski",
-    "difficulty": 162.0,
+    "difficulty": 161.9,
     "country_code": "CAN",
     "division": "women"
   },
@@ -75571,7 +75571,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Jessica",
     "Compititor_LName": "Theaker",
-    "difficulty": 162.0,
+    "difficulty": 161.9,
     "country_code": "CAN",
     "division": "women"
   },
@@ -75583,7 +75583,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Samantha",
     "Compititor_LName": "Koski-Moffat",
-    "difficulty": 162.0,
+    "difficulty": 161.9,
     "country_code": "CAN",
     "division": "women"
   },
@@ -75595,7 +75595,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Bailey",
     "Compititor_LName": "Deschene",
-    "difficulty": 162.0,
+    "difficulty": 161.9,
     "country_code": "CAN",
     "division": "women"
   },
@@ -75607,7 +75607,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Josée",
     "Compititor_LName": "De Lachevrotière",
-    "difficulty": 162.0,
+    "difficulty": 161.9,
     "country_code": "CAN",
     "division": "women"
   },
@@ -75619,7 +75619,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Holly",
     "Compititor_LName": "McRae",
-    "difficulty": 162.0,
+    "difficulty": 161.9,
     "country_code": "CAN",
     "division": "women"
   },
@@ -75631,7 +75631,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Alisha",
     "Compititor_LName": "Thompson",
-    "difficulty": 162.0,
+    "difficulty": 161.9,
     "country_code": "CAN",
     "division": "women"
   },
@@ -75643,7 +75643,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Stephanie",
     "Compititor_LName": "Bisignano",
-    "difficulty": 162.0,
+    "difficulty": 161.9,
     "country_code": "CAN",
     "division": "women"
   },
@@ -75655,115 +75655,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Stephanie",
     "Compititor_LName": "Fimognari",
-    "difficulty": 162.0,
-    "country_code": "CAN",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2022 Strongest Woman In Canada",
-    "Show_Promotion": "Other",
-    "Date": "2022-10-22",
-    "Year": 2022,
-    "PlacementRank": 1,
-    "Competitor_fName": "Samantha",
-    "Compititor_LName": "Belliveau",
-    "difficulty": 160.0,
-    "country_code": "CAN",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2022 Strongest Woman In Canada",
-    "Show_Promotion": "Other",
-    "Date": "2022-10-22",
-    "Year": 2022,
-    "PlacementRank": 2,
-    "Competitor_fName": "Jackie",
-    "Compititor_LName": "Osczevski",
-    "difficulty": 160.0,
-    "country_code": "CAN",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2022 Strongest Woman In Canada",
-    "Show_Promotion": "Other",
-    "Date": "2022-10-22",
-    "Year": 2022,
-    "PlacementRank": 3,
-    "Competitor_fName": "Bailey",
-    "Compititor_LName": "Deschene",
-    "difficulty": 160.0,
-    "country_code": "CAN",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2022 Strongest Woman In Canada",
-    "Show_Promotion": "Other",
-    "Date": "2022-10-22",
-    "Year": 2022,
-    "PlacementRank": 4,
-    "Competitor_fName": "Stephanie",
-    "Compititor_LName": "Bisignano",
-    "difficulty": 160.0,
-    "country_code": "CAN",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2022 Strongest Woman In Canada",
-    "Show_Promotion": "Other",
-    "Date": "2022-10-22",
-    "Year": 2022,
-    "PlacementRank": 5,
-    "Competitor_fName": "Josée",
-    "Compititor_LName": "De Lachevrotière",
-    "difficulty": 160.0,
-    "country_code": "CAN",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2022 Strongest Woman In Canada",
-    "Show_Promotion": "Other",
-    "Date": "2022-10-22",
-    "Year": 2022,
-    "PlacementRank": 6,
-    "Competitor_fName": "Samantha",
-    "Compititor_LName": "Koski-Moffat",
-    "difficulty": 160.0,
-    "country_code": "CAN",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2022 Strongest Woman In Canada",
-    "Show_Promotion": "Other",
-    "Date": "2022-10-22",
-    "Year": 2022,
-    "PlacementRank": 7,
-    "Competitor_fName": "Sarah-Jeanne",
-    "Compititor_LName": "Voyer",
-    "difficulty": 160.0,
-    "country_code": "CAN",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2022 Strongest Woman In Canada",
-    "Show_Promotion": "Other",
-    "Date": "2022-10-22",
-    "Year": 2022,
-    "PlacementRank": 8,
-    "Competitor_fName": "Alisha",
-    "Compititor_LName": "Thompson",
-    "difficulty": 160.0,
-    "country_code": "CAN",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2022 Strongest Woman In Canada",
-    "Show_Promotion": "Other",
-    "Date": "2022-10-22",
-    "Year": 2022,
-    "PlacementRank": 9,
-    "Competitor_fName": "Laura",
-    "Compititor_LName": "de Berdt Romilly",
-    "difficulty": 160.0,
+    "difficulty": 161.9,
     "country_code": "CAN",
     "division": "women"
   },
@@ -75885,6 +75777,114 @@
     "Compititor_LName": "Catlett",
     "difficulty": 159.9,
     "country_code": "USA",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2022 Strongest Woman In Canada",
+    "Show_Promotion": "Other",
+    "Date": "2022-10-22",
+    "Year": 2022,
+    "PlacementRank": 1,
+    "Competitor_fName": "Samantha",
+    "Compititor_LName": "Belliveau",
+    "difficulty": 159.8,
+    "country_code": "CAN",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2022 Strongest Woman In Canada",
+    "Show_Promotion": "Other",
+    "Date": "2022-10-22",
+    "Year": 2022,
+    "PlacementRank": 2,
+    "Competitor_fName": "Jackie",
+    "Compititor_LName": "Osczevski",
+    "difficulty": 159.8,
+    "country_code": "CAN",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2022 Strongest Woman In Canada",
+    "Show_Promotion": "Other",
+    "Date": "2022-10-22",
+    "Year": 2022,
+    "PlacementRank": 3,
+    "Competitor_fName": "Bailey",
+    "Compititor_LName": "Deschene",
+    "difficulty": 159.8,
+    "country_code": "CAN",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2022 Strongest Woman In Canada",
+    "Show_Promotion": "Other",
+    "Date": "2022-10-22",
+    "Year": 2022,
+    "PlacementRank": 4,
+    "Competitor_fName": "Stephanie",
+    "Compititor_LName": "Bisignano",
+    "difficulty": 159.8,
+    "country_code": "CAN",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2022 Strongest Woman In Canada",
+    "Show_Promotion": "Other",
+    "Date": "2022-10-22",
+    "Year": 2022,
+    "PlacementRank": 5,
+    "Competitor_fName": "Josée",
+    "Compititor_LName": "De Lachevrotière",
+    "difficulty": 159.8,
+    "country_code": "CAN",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2022 Strongest Woman In Canada",
+    "Show_Promotion": "Other",
+    "Date": "2022-10-22",
+    "Year": 2022,
+    "PlacementRank": 6,
+    "Competitor_fName": "Samantha",
+    "Compititor_LName": "Koski-Moffat",
+    "difficulty": 159.8,
+    "country_code": "CAN",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2022 Strongest Woman In Canada",
+    "Show_Promotion": "Other",
+    "Date": "2022-10-22",
+    "Year": 2022,
+    "PlacementRank": 7,
+    "Competitor_fName": "Sarah-Jeanne",
+    "Compititor_LName": "Voyer",
+    "difficulty": 159.8,
+    "country_code": "CAN",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2022 Strongest Woman In Canada",
+    "Show_Promotion": "Other",
+    "Date": "2022-10-22",
+    "Year": 2022,
+    "PlacementRank": 8,
+    "Competitor_fName": "Alisha",
+    "Compititor_LName": "Thompson",
+    "difficulty": 159.8,
+    "country_code": "CAN",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2022 Strongest Woman In Canada",
+    "Show_Promotion": "Other",
+    "Date": "2022-10-22",
+    "Year": 2022,
+    "PlacementRank": 9,
+    "Competitor_fName": "Laura",
+    "Compititor_LName": "de Berdt Romilly",
+    "difficulty": 159.8,
+    "country_code": "CAN",
     "division": "women"
   },
   {
@@ -76159,7 +76159,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Samantha",
     "Compititor_LName": "Belliveau",
-    "difficulty": 150.6,
+    "difficulty": 150.5,
     "country_code": "CAN",
     "division": "women"
   },
@@ -76171,7 +76171,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Jackie",
     "Compititor_LName": "Osczevski",
-    "difficulty": 150.6,
+    "difficulty": 150.5,
     "country_code": "CAN",
     "division": "women"
   },
@@ -76183,7 +76183,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Samantha",
     "Compititor_LName": "Koski-Moffat",
-    "difficulty": 150.6,
+    "difficulty": 150.5,
     "country_code": "CAN",
     "division": "women"
   },
@@ -76195,7 +76195,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Josée",
     "Compititor_LName": "De Lachevrotière",
-    "difficulty": 150.6,
+    "difficulty": 150.5,
     "country_code": "CAN",
     "division": "women"
   },
@@ -76207,7 +76207,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Joscelyne",
     "Compititor_LName": "O'Brien",
-    "difficulty": 150.6,
+    "difficulty": 150.5,
     "country_code": "CAN",
     "division": "women"
   },
@@ -76219,7 +76219,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Stephanie",
     "Compititor_LName": "Bisignano",
-    "difficulty": 150.6,
+    "difficulty": 150.5,
     "country_code": "CAN",
     "division": "women"
   },
@@ -76231,7 +76231,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Sarah-Jeanne",
     "Compititor_LName": "Voyer",
-    "difficulty": 150.6,
+    "difficulty": 150.5,
     "country_code": "CAN",
     "division": "women"
   },
@@ -76243,7 +76243,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Lisa",
     "Compititor_LName": "Wills",
-    "difficulty": 150.6,
+    "difficulty": 150.5,
     "country_code": "CAN",
     "division": "women"
   },
@@ -76255,7 +76255,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Taylor",
     "Compititor_LName": "Woods",
-    "difficulty": 150.6,
+    "difficulty": 150.5,
     "country_code": "CAN",
     "division": "women"
   },
@@ -76267,7 +76267,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Christine",
     "Compititor_LName": "Fox",
-    "difficulty": 150.6,
+    "difficulty": 150.5,
     "country_code": "CAN",
     "division": "women"
   },
@@ -76279,7 +76279,7 @@
     "PlacementRank": 11,
     "Competitor_fName": "Nicole",
     "Compititor_LName": "Kenny",
-    "difficulty": 150.6,
+    "difficulty": 150.5,
     "country_code": "CAN",
     "division": "women"
   },
@@ -76975,7 +76975,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Jackie",
     "Compititor_LName": "Osczevski",
-    "difficulty": 99.9,
+    "difficulty": 99.8,
     "country_code": "CAN",
     "division": "women"
   },
@@ -76987,7 +76987,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Bailey",
     "Compititor_LName": "Deschene",
-    "difficulty": 99.9,
+    "difficulty": 99.8,
     "country_code": "CAN",
     "division": "women"
   },
@@ -76999,7 +76999,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Alisha",
     "Compititor_LName": "Thompson",
-    "difficulty": 99.9,
+    "difficulty": 99.8,
     "country_code": "CAN",
     "division": "women"
   },
@@ -77011,7 +77011,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Angela",
     "Compititor_LName": "Houle",
-    "difficulty": 99.9,
+    "difficulty": 99.8,
     "country_code": "CAN",
     "division": "women"
   },
@@ -77023,7 +77023,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Sam",
     "Compititor_LName": "Husak",
-    "difficulty": 99.9,
+    "difficulty": 99.8,
     "country_code": "CAN",
     "division": "women"
   },
@@ -77767,7 +77767,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Samantha",
     "Compititor_LName": "Belliveau",
-    "difficulty": 53.6,
+    "difficulty": 53.5,
     "country_code": "CAN",
     "division": "women"
   },
@@ -77779,7 +77779,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Chelsea",
     "Compititor_LName": "Held",
-    "difficulty": 53.6,
+    "difficulty": 53.5,
     "country_code": "USA",
     "division": "women"
   },
@@ -77791,7 +77791,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Samantha",
     "Compititor_LName": "Koski-Moffat",
-    "difficulty": 53.6,
+    "difficulty": 53.5,
     "country_code": "CAN",
     "division": "women"
   },
@@ -77803,7 +77803,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Stevie",
     "Compititor_LName": "Aligbe",
-    "difficulty": 53.6,
+    "difficulty": 53.5,
     "country_code": "USA",
     "division": "women"
   },
@@ -77815,7 +77815,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Josée",
     "Compititor_LName": "De Lachevrotière",
-    "difficulty": 53.6,
+    "difficulty": 53.5,
     "country_code": "CAN",
     "division": "women"
   },
@@ -77827,7 +77827,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Bailey",
     "Compititor_LName": "Deschene",
-    "difficulty": 53.6,
+    "difficulty": 53.5,
     "country_code": "CAN",
     "division": "women"
   },
@@ -77839,7 +77839,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Joscelyne",
     "Compititor_LName": "O'Brien",
-    "difficulty": 53.6,
+    "difficulty": 53.5,
     "country_code": "CAN",
     "division": "women"
   },
@@ -77851,7 +77851,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Sarah-Jeanne",
     "Compititor_LName": "Voyer",
-    "difficulty": 53.6,
+    "difficulty": 53.5,
     "country_code": "CAN",
     "division": "women"
   },
@@ -77863,7 +77863,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Tara",
     "Compititor_LName": "Simonson",
-    "difficulty": 53.6,
+    "difficulty": 53.5,
     "country_code": "USA",
     "division": "women"
   },
@@ -77875,7 +77875,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Jules",
     "Compititor_LName": "Mansfield",
-    "difficulty": 53.6,
+    "difficulty": 53.5,
     "country_code": "USA",
     "division": "women"
   },
@@ -77887,7 +77887,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Samantha",
     "Compititor_LName": "Belliveau",
-    "difficulty": 46.1,
+    "difficulty": 45.9,
     "country_code": "CAN",
     "division": "women"
   },
@@ -77899,7 +77899,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Samantha",
     "Compititor_LName": "Koski-Moffat",
-    "difficulty": 46.1,
+    "difficulty": 45.9,
     "country_code": "CAN",
     "division": "women"
   },
@@ -77911,7 +77911,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Josée",
     "Compititor_LName": "De Lachevrotière",
-    "difficulty": 46.1,
+    "difficulty": 45.9,
     "country_code": "CAN",
     "division": "women"
   },
@@ -77923,7 +77923,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Stephanie",
     "Compititor_LName": "Bisignano",
-    "difficulty": 46.1,
+    "difficulty": 45.9,
     "country_code": "CAN",
     "division": "women"
   },
@@ -77935,7 +77935,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Sarah-Jeanne",
     "Compititor_LName": "Voyer",
-    "difficulty": 46.1,
+    "difficulty": 45.9,
     "country_code": "CAN",
     "division": "women"
   },
@@ -77947,7 +77947,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Tamara",
     "Compititor_LName": "Nolan",
-    "difficulty": 46.1,
+    "difficulty": 45.9,
     "country_code": "CAN",
     "division": "women"
   },
@@ -77959,7 +77959,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Laura",
     "Compititor_LName": "de Berdt Romilly",
-    "difficulty": 46.1,
+    "difficulty": 45.9,
     "country_code": "CAN",
     "division": "women"
   },
@@ -77971,7 +77971,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Taylor",
     "Compititor_LName": "Woods",
-    "difficulty": 46.1,
+    "difficulty": 45.9,
     "country_code": "CAN",
     "division": "women"
   },
@@ -77983,7 +77983,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Mara",
     "Compititor_LName": "Rozitis",
-    "difficulty": 46.1,
+    "difficulty": 45.9,
     "country_code": "CAN",
     "division": "women"
   },
@@ -77995,7 +77995,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Kelsey",
     "Compititor_LName": "Guieb",
-    "difficulty": 46.1,
+    "difficulty": 45.9,
     "country_code": "CAN",
     "division": "women"
   },

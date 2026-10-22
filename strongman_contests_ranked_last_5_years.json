@@ -5346,7 +5346,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 10707.136034548337,
+    "raw_difficulty": 10706.135161471613,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -5387,7 +5387,7 @@
         "rank": "5",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 647.2,
+        "power": 646.2,
         "percent": 6.0
       }
     ],
@@ -14538,7 +14538,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 5324.534095764762,
+    "raw_difficulty": 5323.533222688038,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -14572,8 +14572,8 @@
         "rank": "5",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 647.2,
-        "percent": 12.2
+        "power": 646.2,
+        "percent": 12.1
       }
     ],
     "results": [
@@ -14650,7 +14650,7 @@
         "score": 0
       }
     ],
-    "difficulty_score": 83.4,
+    "difficulty_score": 83.3,
     "competition_rank": 121
   },
   {
@@ -15146,7 +15146,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 5131.423515188867,
+    "raw_difficulty": 5130.422642112143,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -15160,7 +15160,7 @@
         "person_name": "Kevin Hazeleger",
         "country": "NED",
         "power": 1490.4,
-        "percent": 29.0
+        "percent": 29.1
       },
       {
         "rank": "3",
@@ -15173,7 +15173,7 @@
         "rank": "4",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 647.2,
+        "power": 646.2,
         "percent": 12.6
       },
       {
@@ -15252,7 +15252,7 @@
         "score": 18
       }
     ],
-    "difficulty_score": 78.9,
+    "difficulty_score": 78.8,
     "competition_rank": 126
   },
   {
@@ -15624,7 +15624,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 5078.459686980473,
+    "raw_difficulty": 5077.458813903749,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -15658,7 +15658,7 @@
         "rank": "5",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 647.2,
+        "power": 646.2,
         "percent": 12.7
       }
     ],
@@ -16229,10 +16229,10 @@
     "details": "Talsi, Latvia, 2022-10-22",
     "tier": "TIER_5",
     "tier_multiplier": 0.25,
-    "recency_multiplier": 0.5,
+    "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 4943.425793683668,
+    "raw_difficulty": 4940.876059221757,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -16252,7 +16252,7 @@
         "rank": "3",
         "person_name": "Mantas Lalas",
         "country": "LTU",
-        "power": 51.4,
+        "power": 49.6,
         "percent": 1.0
       },
       {
@@ -16260,13 +16260,13 @@
         "person_name": "Pavlo Kordiyaka",
         "country": "UKR",
         "power": 3105.8,
-        "percent": 62.8
+        "percent": 62.9
       },
       {
         "rank": "5",
         "person_name": "Žydrūnas Savickas",
         "country": "LTU",
-        "power": 219.7,
+        "power": 219.0,
         "percent": 4.4
       }
     ],
@@ -16338,7 +16338,7 @@
         "score": 15.5
       }
     ],
-    "difficulty_score": 74.6,
+    "difficulty_score": 74.5,
     "competition_rank": 135
   },
   {
@@ -16852,7 +16852,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 6,
-    "raw_difficulty": 4850.4798630635605,
+    "raw_difficulty": 4850.318971250435,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -16886,7 +16886,7 @@
         "rank": "5",
         "person_name": "Andris Dilāns",
         "country": "LAT",
-        "power": 10.2,
+        "power": 10.0,
         "percent": 0.2
       }
     ],
@@ -17182,13 +17182,13 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 4812.443401418273,
+    "raw_difficulty": 4811.442528341549,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 647.2,
+        "power": 646.2,
         "percent": 13.4
       },
       {
@@ -17306,7 +17306,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 4800.8190009101045,
+    "raw_difficulty": 4799.8181278333805,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -17327,7 +17327,7 @@
         "person_name": "Kevin Hazeleger",
         "country": "NED",
         "power": 1490.4,
-        "percent": 31.0
+        "percent": 31.1
       },
       {
         "rank": "4",
@@ -17340,7 +17340,7 @@
         "rank": "5",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 647.2,
+        "power": 646.2,
         "percent": 13.5
       }
     ],
@@ -17418,7 +17418,7 @@
         "score": 10
       }
     ],
-    "difficulty_score": 71.4,
+    "difficulty_score": 71.3,
     "competition_rank": 144
   },
   {
@@ -19902,7 +19902,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 4381.193755692949,
+    "raw_difficulty": 4380.192882616225,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -19915,7 +19915,7 @@
         "rank": "2",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 647.2,
+        "power": 646.2,
         "percent": 14.8
       },
       {
@@ -21564,14 +21564,14 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 13,
-    "raw_difficulty": 4121.164002835554,
+    "raw_difficulty": 4120.16312975883,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Adam Roszkowski",
         "country": "POL",
         "power": 1613.1,
-        "percent": 39.1
+        "percent": 39.2
       },
       {
         "rank": "2",
@@ -21598,7 +21598,7 @@
         "rank": "5",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 647.2,
+        "power": 646.2,
         "percent": 15.7
       }
     ],
@@ -21682,7 +21682,7 @@
         "score": 14
       }
     ],
-    "difficulty_score": 56.8,
+    "difficulty_score": 56.7,
     "competition_rank": 181
   },
   {
@@ -22444,7 +22444,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 4066.9791831437797,
+    "raw_difficulty": 4065.9783100670556,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -22478,7 +22478,7 @@
         "rank": "5",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 647.2,
+        "power": 646.2,
         "percent": 15.9
       }
     ],
@@ -22880,7 +22880,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 4033.5858171836376,
+    "raw_difficulty": 4031.7258566739224,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -22907,8 +22907,8 @@
         "rank": "4",
         "person_name": "Mantas Lalas",
         "country": "LTU",
-        "power": 51.4,
-        "percent": 1.3
+        "power": 49.6,
+        "percent": 1.2
       },
       {
         "rank": "5",
@@ -22980,7 +22980,7 @@
         "score": 7
       }
     ],
-    "difficulty_score": 55.0,
+    "difficulty_score": 54.9,
     "competition_rank": 192
   },
   {
@@ -25528,7 +25528,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 13,
-    "raw_difficulty": 3731.324017304234,
+    "raw_difficulty": 3730.32314422751,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -25555,7 +25555,7 @@
         "rank": "4",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 647.2,
+        "power": 646.2,
         "percent": 17.3
       },
       {
@@ -25563,7 +25563,7 @@
         "person_name": "Péter Juhász",
         "country": "HUN",
         "power": 1218.2,
-        "percent": 32.6
+        "percent": 32.7
       }
     ],
     "results": [
@@ -26690,13 +26690,13 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 8,
-    "raw_difficulty": 3641.857491661795,
+    "raw_difficulty": 3639.9975311520793,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Mantas Lalas",
         "country": "LTU",
-        "power": 51.4,
+        "power": 49.6,
         "percent": 1.4
       },
       {
@@ -26704,7 +26704,7 @@
         "person_name": "Saulius Skikas",
         "country": "LTU",
         "power": 551.6,
-        "percent": 15.1
+        "percent": 15.2
       },
       {
         "rank": "3",
@@ -28770,118 +28770,6 @@
     "competition_rank": 242
   },
   {
-    "contest_id": 1345,
-    "contest_name": "2022 Marijampolė International",
-    "details": "Marijampolė, Lithuania, 2022-08-20",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 3460.645545158036,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Pavlo Kordiyaka",
-        "country": "UKR",
-        "power": 3105.8,
-        "percent": 89.7
-      },
-      {
-        "rank": "2",
-        "person_name": "Mantas Lalas",
-        "country": "LTU",
-        "power": 51.4,
-        "percent": 1.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Gunnar Gimbutas",
-        "country": "EST",
-        "power": 93.3,
-        "percent": 2.7
-      },
-      {
-        "rank": "4",
-        "person_name": "Sami Ahola",
-        "country": "FIN",
-        "power": 108.4,
-        "percent": 3.1
-      },
-      {
-        "rank": "5",
-        "person_name": "Karolis Aleksandravičius",
-        "country": "LTU",
-        "power": 101.7,
-        "percent": 2.9
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Pavlo Kordiyaka",
-        "country": "UKR",
-        "score": 46
-      },
-      {
-        "rank": "2",
-        "person_name": "Mantas Lalas",
-        "country": "LTU",
-        "score": 42.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Gunnar Gimbutas",
-        "country": "EST",
-        "score": 41.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Sami Ahola",
-        "country": "FIN",
-        "score": 40.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Karolis Aleksandravičius",
-        "country": "LTU",
-        "score": 40
-      },
-      {
-        "rank": "6",
-        "person_name": "Dainius Repšys",
-        "country": "LTU",
-        "score": 39.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Andris Dilāns",
-        "country": "LAT",
-        "score": 27.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Peter Reinthaler",
-        "country": "AUT",
-        "score": 20
-      },
-      {
-        "rank": "9",
-        "person_name": "Chris Beetham",
-        "country": "GBR",
-        "score": 18
-      },
-      {
-        "rank": "10",
-        "person_name": "Maroš Štefaňák",
-        "country": "SVK",
-        "score": 6.5
-      }
-    ],
-    "difficulty_score": 43.7,
-    "competition_rank": 243
-  },
-  {
     "contest_id": 1701,
     "contest_name": "2025 Arnold South America",
     "details": "São Paulo, Brazil, 2025-04-05",
@@ -28973,6 +28861,118 @@
       }
     ],
     "difficulty_score": 43.7,
+    "competition_rank": 243
+  },
+  {
+    "contest_id": 1345,
+    "contest_name": "2022 Marijampolė International",
+    "details": "Marijampolė, Lithuania, 2022-08-20",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 0.25,
+    "division": "men",
+    "total_competitors": 10,
+    "raw_difficulty": 3458.7855846483208,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Pavlo Kordiyaka",
+        "country": "UKR",
+        "power": 3105.8,
+        "percent": 89.8
+      },
+      {
+        "rank": "2",
+        "person_name": "Mantas Lalas",
+        "country": "LTU",
+        "power": 49.6,
+        "percent": 1.4
+      },
+      {
+        "rank": "3",
+        "person_name": "Gunnar Gimbutas",
+        "country": "EST",
+        "power": 93.3,
+        "percent": 2.7
+      },
+      {
+        "rank": "4",
+        "person_name": "Sami Ahola",
+        "country": "FIN",
+        "power": 108.4,
+        "percent": 3.1
+      },
+      {
+        "rank": "5",
+        "person_name": "Karolis Aleksandravičius",
+        "country": "LTU",
+        "power": 101.7,
+        "percent": 2.9
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Pavlo Kordiyaka",
+        "country": "UKR",
+        "score": 46
+      },
+      {
+        "rank": "2",
+        "person_name": "Mantas Lalas",
+        "country": "LTU",
+        "score": 42.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Gunnar Gimbutas",
+        "country": "EST",
+        "score": 41.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Sami Ahola",
+        "country": "FIN",
+        "score": 40.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Karolis Aleksandravičius",
+        "country": "LTU",
+        "score": 40
+      },
+      {
+        "rank": "6",
+        "person_name": "Dainius Repšys",
+        "country": "LTU",
+        "score": 39.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Andris Dilāns",
+        "country": "LAT",
+        "score": 27.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Peter Reinthaler",
+        "country": "AUT",
+        "score": 20
+      },
+      {
+        "rank": "9",
+        "person_name": "Chris Beetham",
+        "country": "GBR",
+        "score": 18
+      },
+      {
+        "rank": "10",
+        "person_name": "Maroš Štefaňák",
+        "country": "SVK",
+        "score": 6.5
+      }
+    ],
+    "difficulty_score": 43.6,
     "competition_rank": 244
   },
   {
@@ -32264,7 +32264,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 3192.003423211671,
+    "raw_difficulty": 3190.1434627019553,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -32284,7 +32284,7 @@
         "rank": "3",
         "person_name": "Mantas Lalas",
         "country": "LTU",
-        "power": 51.4,
+        "power": 49.6,
         "percent": 1.6
       },
       {
@@ -32292,14 +32292,14 @@
         "person_name": "Modestas Struckus",
         "country": "LTU",
         "power": 1019.8,
-        "percent": 31.9
+        "percent": 32.0
       },
       {
         "rank": "5",
         "person_name": "Audrius Jokūbaitis",
         "country": "LTU",
         "power": 802.6,
-        "percent": 25.1
+        "percent": 25.2
       }
     ],
     "results": [
@@ -35370,7 +35370,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 2915.051943563988,
+    "raw_difficulty": 2914.973534495743,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -35404,7 +35404,7 @@
         "rank": "5",
         "person_name": "Sebastian Kurek",
         "country": "POL",
-        "power": 40.4,
+        "power": 40.3,
         "percent": 1.4
       }
     ],
@@ -39832,13 +39832,13 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 2737.656662704948,
+    "raw_difficulty": 2736.655789628224,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 647.2,
+        "power": 646.2,
         "percent": 23.6
       },
       {
@@ -39853,7 +39853,7 @@
         "person_name": "Alexandre Hulin",
         "country": "FRA",
         "power": 433.9,
-        "percent": 15.8
+        "percent": 15.9
       },
       {
         "rank": "4",
@@ -40186,7 +40186,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 2688.6876082833787,
+    "raw_difficulty": 2687.6867352066547,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -40199,8 +40199,8 @@
         "rank": "2",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 647.2,
-        "percent": 24.1
+        "power": 646.2,
+        "percent": 24.0
       },
       {
         "rank": "3",
@@ -41234,42 +41234,42 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 6,
-    "raw_difficulty": 2614.9578574675843,
+    "raw_difficulty": 2596.1481486102675,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Nicolas Cambi",
         "country": "ITA",
         "power": 674.5,
-        "percent": 25.8
+        "percent": 26.0
       },
       {
         "rank": "2",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 647.2,
-        "percent": 24.7
+        "power": 646.2,
+        "percent": 24.9
       },
       {
         "rank": "3",
         "person_name": "Alessandro Castelli",
         "country": "ITA",
-        "power": 108.7,
-        "percent": 4.2
+        "power": 100.5,
+        "percent": 3.9
       },
       {
         "rank": "4",
         "person_name": "Emanuele Greco",
         "country": "ITA",
-        "power": 414.3,
+        "power": 410.9,
         "percent": 15.8
       },
       {
         "rank": "5",
         "person_name": "Paolo Acquaviva",
         "country": "ITA",
-        "power": 770.2,
-        "percent": 29.5
+        "power": 764.1,
+        "percent": 29.4
       }
     ],
     "results": [
@@ -41310,7 +41310,7 @@
         "score": 5
       }
     ],
-    "difficulty_score": 28.7,
+    "difficulty_score": 28.4,
     "competition_rank": 354
   },
   {
@@ -48194,7 +48194,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 9,
-    "raw_difficulty": 2034.8612583394786,
+    "raw_difficulty": 2034.782849271234,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -48228,7 +48228,7 @@
         "rank": "5",
         "person_name": "Sebastian Kurek",
         "country": "POL",
-        "power": 40.4,
+        "power": 40.3,
         "percent": 2.0
       }
     ],
@@ -48660,7 +48660,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 7,
-    "raw_difficulty": 2007.8307294775445,
+    "raw_difficulty": 2007.515928292,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -48680,7 +48680,7 @@
         "rank": "3",
         "person_name": "Andris Dilāns",
         "country": "LAT",
-        "power": 10.2,
+        "power": 10.0,
         "percent": 0.5
       },
       {
@@ -48688,13 +48688,13 @@
         "person_name": "Pierre Motal",
         "country": "FRA",
         "power": 515.0,
-        "percent": 25.6
+        "percent": 25.7
       },
       {
         "rank": "5",
         "person_name": "Valentins Klevinskis",
         "country": "LAT",
-        "power": 7.6,
+        "power": 7.5,
         "percent": 0.4
       }
     ],
@@ -49082,88 +49082,6 @@
     "competition_rank": 421
   },
   {
-    "contest_id": 1974,
-    "contest_name": "2022 Italy's Strongest Man",
-    "details": "Vicopisano, Italy, 2022-10-22",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.5,
-    "division": "men",
-    "total_competitors": 5,
-    "raw_difficulty": 1979.401131456634,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Andrea Invernizzi",
-        "country": "ITA",
-        "power": 647.2,
-        "percent": 32.7
-      },
-      {
-        "rank": "2",
-        "person_name": "Matteo Toninelli",
-        "country": "ITA",
-        "power": 38.9,
-        "percent": 2.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Paolo Acquaviva",
-        "country": "ITA",
-        "power": 770.2,
-        "percent": 38.9
-      },
-      {
-        "rank": "4",
-        "person_name": "Alessandro Castelli",
-        "country": "ITA",
-        "power": 108.7,
-        "percent": 5.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Emanuele Greco",
-        "country": "ITA",
-        "power": 414.3,
-        "percent": 20.9
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Andrea Invernizzi",
-        "country": "ITA",
-        "score": 19.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Matteo Toninelli",
-        "country": "ITA",
-        "score": 17
-      },
-      {
-        "rank": "3",
-        "person_name": "Paolo Acquaviva",
-        "country": "ITA",
-        "score": 14
-      },
-      {
-        "rank": "4",
-        "person_name": "Alessandro Castelli",
-        "country": "ITA",
-        "score": 13.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Emanuele Greco",
-        "country": "ITA",
-        "score": 10
-      }
-    ],
-    "difficulty_score": 18.9,
-    "competition_rank": 422
-  },
-  {
     "contest_id": 2755,
     "contest_name": "2026 Belgium's Strongest Man",
     "details": "Herentals, Belgium, 2026-09-20",
@@ -49243,7 +49161,7 @@
       }
     ],
     "difficulty_score": 18.9,
-    "competition_rank": 423
+    "competition_rank": 422
   },
   {
     "contest_id": 1396,
@@ -49361,7 +49279,7 @@
       }
     ],
     "difficulty_score": 18.8,
-    "competition_rank": 424
+    "competition_rank": 423
   },
   {
     "contest_id": 1439,
@@ -49372,7 +49290,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 1974.3270287775235,
+    "raw_difficulty": 1973.3261557007995,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -49399,8 +49317,8 @@
         "rank": "4",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 647.2,
-        "percent": 32.8
+        "power": 646.2,
+        "percent": 32.7
       },
       {
         "rank": "5",
@@ -49485,7 +49403,7 @@
       }
     ],
     "difficulty_score": 18.8,
-    "competition_rank": 425
+    "competition_rank": 424
   },
   {
     "contest_id": 1969,
@@ -49609,7 +49527,7 @@
       }
     ],
     "difficulty_score": 18.8,
-    "competition_rank": 426
+    "competition_rank": 425
   },
   {
     "contest_id": 1919,
@@ -49781,7 +49699,7 @@
       }
     ],
     "difficulty_score": 18.7,
-    "competition_rank": 427
+    "competition_rank": 426
   },
   {
     "contest_id": 1447,
@@ -49893,7 +49811,7 @@
       }
     ],
     "difficulty_score": 18.6,
-    "competition_rank": 428
+    "competition_rank": 427
   },
   {
     "contest_id": 2744,
@@ -50011,7 +49929,7 @@
       }
     ],
     "difficulty_score": 18.6,
-    "competition_rank": 429
+    "competition_rank": 428
   },
   {
     "contest_id": 2890,
@@ -50105,6 +50023,88 @@
       }
     ],
     "difficulty_score": 18.6,
+    "competition_rank": 429
+  },
+  {
+    "contest_id": 1974,
+    "contest_name": "2022 Italy's Strongest Man",
+    "details": "Vicopisano, Italy, 2022-10-22",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 0.25,
+    "division": "men",
+    "total_competitors": 5,
+    "raw_difficulty": 1941.1214030225321,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Andrea Invernizzi",
+        "country": "ITA",
+        "power": 646.2,
+        "percent": 33.3
+      },
+      {
+        "rank": "2",
+        "person_name": "Matteo Toninelli",
+        "country": "ITA",
+        "power": 19.5,
+        "percent": 1.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Paolo Acquaviva",
+        "country": "ITA",
+        "power": 764.1,
+        "percent": 39.4
+      },
+      {
+        "rank": "4",
+        "person_name": "Alessandro Castelli",
+        "country": "ITA",
+        "power": 100.5,
+        "percent": 5.2
+      },
+      {
+        "rank": "5",
+        "person_name": "Emanuele Greco",
+        "country": "ITA",
+        "power": 410.9,
+        "percent": 21.2
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Andrea Invernizzi",
+        "country": "ITA",
+        "score": 19.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Matteo Toninelli",
+        "country": "ITA",
+        "score": 17
+      },
+      {
+        "rank": "3",
+        "person_name": "Paolo Acquaviva",
+        "country": "ITA",
+        "score": 14
+      },
+      {
+        "rank": "4",
+        "person_name": "Alessandro Castelli",
+        "country": "ITA",
+        "score": 13.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Emanuele Greco",
+        "country": "ITA",
+        "score": 10
+      }
+    ],
+    "difficulty_score": 18.3,
     "competition_rank": 430
   },
   {
@@ -50252,14 +50252,14 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 1917.23993972143,
+    "raw_difficulty": 1916.5501657692334,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Žydrūnas Savickas",
         "country": "LTU",
-        "power": 219.7,
-        "percent": 11.5
+        "power": 219.0,
+        "percent": 11.4
       },
       {
         "rank": "2",
@@ -54076,13 +54076,13 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 1559.9014239635094,
+    "raw_difficulty": 1557.3516895015975,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Žydrūnas Savickas",
         "country": "LTU",
-        "power": 219.7,
+        "power": 219.0,
         "percent": 14.1
       },
       {
@@ -54090,7 +54090,7 @@
         "person_name": "Modestas Struckus",
         "country": "LTU",
         "power": 1019.8,
-        "percent": 65.4
+        "percent": 65.5
       },
       {
         "rank": "3",
@@ -54110,8 +54110,8 @@
         "rank": "5",
         "person_name": "Mantas Lalas",
         "country": "LTU",
-        "power": 51.4,
-        "percent": 3.3
+        "power": 49.6,
+        "percent": 3.2
       }
     ],
     "results": [
@@ -59112,7 +59112,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 1088.5079363996183,
+    "raw_difficulty": 1088.4295273313735,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -59132,7 +59132,7 @@
         "rank": "3",
         "person_name": "Sebastian Kurek",
         "country": "POL",
-        "power": 40.4,
+        "power": 40.3,
         "percent": 3.7
       },
       {
@@ -59147,7 +59147,7 @@
         "person_name": "Kane Francis",
         "country": "GBR",
         "power": 532.8,
-        "percent": 48.9
+        "percent": 49.0
       }
     ],
     "results": [
@@ -59548,7 +59548,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 6,
-    "raw_difficulty": 1065.9368329117503,
+    "raw_difficulty": 1065.6220317262057,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -59575,15 +59575,15 @@
         "rank": "4",
         "person_name": "Valentins Klevinskis",
         "country": "LAT",
-        "power": 7.6,
+        "power": 7.5,
         "percent": 0.7
       },
       {
         "rank": "5",
         "person_name": "Andris Dilāns",
         "country": "LAT",
-        "power": 10.2,
-        "percent": 1.0
+        "power": 10.0,
+        "percent": 0.9
       }
     ],
     "results": [
@@ -59766,7 +59766,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 1060.8245207401053,
+    "raw_difficulty": 1060.1347467879089,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -59786,7 +59786,7 @@
         "rank": "3",
         "person_name": "Žydrūnas Savickas",
         "country": "LTU",
-        "power": 219.7,
+        "power": 219.0,
         "percent": 20.7
       },
       {
