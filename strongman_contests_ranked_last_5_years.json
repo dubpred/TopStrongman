@@ -605,7 +605,7 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 9,
-    "raw_difficulty": 23954.102520976194,
+    "raw_difficulty": 23941.611260759168,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -625,15 +625,15 @@
         "rank": "3",
         "person_name": "Martins Licis",
         "country": "USA",
-        "power": 2698.1,
-        "percent": 11.3
+        "power": 2685.6,
+        "percent": 11.2
       },
       {
         "rank": "4",
         "person_name": "Trey Mitchell",
         "country": "USA",
         "power": 5159.6,
-        "percent": 21.5
+        "percent": 21.6
       },
       {
         "rank": "5",
@@ -699,7 +699,7 @@
         "score": 14
       }
     ],
-    "difficulty_score": 797.5,
+    "difficulty_score": 796.9,
     "competition_rank": 6
   },
   {
@@ -819,118 +819,6 @@
     ],
     "difficulty_score": 729.2,
     "competition_rank": 7
-  },
-  {
-    "contest_id": 1373,
-    "contest_name": "2023 World's Strongest Man",
-    "details": "Myrtle Beach, South Carolina, 2023-04-19 to 2023-04-23",
-    "tier": "TIER_1",
-    "tier_multiplier": 5.0,
-    "recency_multiplier": 0.5,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 22168.040664404405,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Mitchell Hooper",
-        "country": "CAN",
-        "power": 8301.9,
-        "percent": 37.4
-      },
-      {
-        "rank": "2",
-        "person_name": "Tom Stoltman",
-        "country": "GBR",
-        "power": 4326.9,
-        "percent": 19.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Oleksii Novikov",
-        "country": "UKR",
-        "power": 650.9,
-        "percent": 2.9
-      },
-      {
-        "rank": "4",
-        "person_name": "Trey Mitchell",
-        "country": "USA",
-        "power": 5159.6,
-        "percent": 23.3
-      },
-      {
-        "rank": "5",
-        "person_name": "Evan Singleton",
-        "country": "USA",
-        "power": 3728.8,
-        "percent": 16.8
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Mitchell Hooper",
-        "country": "CAN",
-        "score": 53.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Tom Stoltman",
-        "country": "GBR",
-        "score": 49
-      },
-      {
-        "rank": "3",
-        "person_name": "Oleksii Novikov",
-        "country": "UKR",
-        "score": 41
-      },
-      {
-        "rank": "4",
-        "person_name": "Trey Mitchell",
-        "country": "USA",
-        "score": 39.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Evan Singleton",
-        "country": "USA",
-        "score": 39.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Pavlo Kordiyaka",
-        "country": "UKR",
-        "score": 31.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Brian Shaw",
-        "country": "USA",
-        "score": 27.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Luke Stoltman",
-        "country": "GBR",
-        "score": 21.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Mathew Ragg",
-        "country": "NZL",
-        "score": 18.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Jaco Schoonwinkel",
-        "country": "RSA",
-        "score": 5.5
-      }
-    ],
-    "difficulty_score": 710.0,
-    "competition_rank": 8
   },
   {
     "contest_id": 1613,
@@ -1061,6 +949,118 @@
       }
     ],
     "difficulty_score": 707.9,
+    "competition_rank": 8
+  },
+  {
+    "contest_id": 1373,
+    "contest_name": "2023 World's Strongest Man",
+    "details": "Myrtle Beach, South Carolina, 2023-04-19 to 2023-04-23",
+    "tier": "TIER_1",
+    "tier_multiplier": 5.0,
+    "recency_multiplier": 0.5,
+    "division": "men",
+    "total_competitors": 10,
+    "raw_difficulty": 22049.773423908144,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Mitchell Hooper",
+        "country": "CAN",
+        "power": 8301.9,
+        "percent": 37.7
+      },
+      {
+        "rank": "2",
+        "person_name": "Tom Stoltman",
+        "country": "GBR",
+        "power": 4326.9,
+        "percent": 19.6
+      },
+      {
+        "rank": "3",
+        "person_name": "Oleksii Novikov",
+        "country": "UKR",
+        "power": 532.6,
+        "percent": 2.4
+      },
+      {
+        "rank": "4",
+        "person_name": "Trey Mitchell",
+        "country": "USA",
+        "power": 5159.6,
+        "percent": 23.4
+      },
+      {
+        "rank": "5",
+        "person_name": "Evan Singleton",
+        "country": "USA",
+        "power": 3728.8,
+        "percent": 16.9
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mitchell Hooper",
+        "country": "CAN",
+        "score": 53.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Tom Stoltman",
+        "country": "GBR",
+        "score": 49
+      },
+      {
+        "rank": "3",
+        "person_name": "Oleksii Novikov",
+        "country": "UKR",
+        "score": 41
+      },
+      {
+        "rank": "4",
+        "person_name": "Trey Mitchell",
+        "country": "USA",
+        "score": 39.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Evan Singleton",
+        "country": "USA",
+        "score": 39.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Pavlo Kordiyaka",
+        "country": "UKR",
+        "score": 31.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Brian Shaw",
+        "country": "USA",
+        "score": 27.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Luke Stoltman",
+        "country": "GBR",
+        "score": 21.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Mathew Ragg",
+        "country": "NZL",
+        "score": 18.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Jaco Schoonwinkel",
+        "country": "RSA",
+        "score": 5.5
+      }
+    ],
+    "difficulty_score": 704.3,
     "competition_rank": 9
   },
   {
@@ -1792,7 +1792,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 19193.234089871647,
+    "raw_difficulty": 19192.44190691275,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -1826,7 +1826,7 @@
         "rank": "5",
         "person_name": "Bobby Thompson",
         "country": "USA",
-        "power": 823.7,
+        "power": 822.9,
         "percent": 4.3
       }
     ],
@@ -2034,7 +2034,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 18899.616744121173,
+    "raw_difficulty": 18898.824561162277,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -2068,7 +2068,7 @@
         "rank": "5",
         "person_name": "Bobby Thompson",
         "country": "USA",
-        "power": 823.7,
+        "power": 822.9,
         "percent": 4.4
       }
     ],
@@ -2146,7 +2146,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 18680.964065519358,
+    "raw_difficulty": 18680.17188256046,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -2166,7 +2166,7 @@
         "rank": "3",
         "person_name": "Bobby Thompson",
         "country": "USA",
-        "power": 823.7,
+        "power": 822.9,
         "percent": 4.4
       },
       {
@@ -2258,7 +2258,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 8,
-    "raw_difficulty": 18356.035712487326,
+    "raw_difficulty": 18355.243529528427,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -2285,7 +2285,7 @@
         "rank": "4",
         "person_name": "Bobby Thompson",
         "country": "USA",
-        "power": 823.7,
+        "power": 822.9,
         "percent": 4.5
       },
       {
@@ -2346,7 +2346,7 @@
         "score": 11
       }
     ],
-    "difficulty_score": 535.0,
+    "difficulty_score": 534.9,
     "competition_rank": 20
   },
   {
@@ -2482,7 +2482,7 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 17751.759437468594,
+    "raw_difficulty": 17739.268177251564,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -2516,8 +2516,8 @@
         "rank": "5",
         "person_name": "Martins Licis",
         "country": "LAT",
-        "power": 2698.1,
-        "percent": 15.2
+        "power": 2685.6,
+        "percent": 15.1
       }
     ],
     "results": [
@@ -2594,7 +2594,7 @@
         "score": 17.5
       }
     ],
-    "difficulty_score": 508.8,
+    "difficulty_score": 508.2,
     "competition_rank": 22
   },
   {
@@ -2751,45 +2751,45 @@
     "details": "Round Rock, Texas, 2022-10-28 to 2022-10-29",
     "tier": "TIER_1",
     "tier_multiplier": 5.0,
-    "recency_multiplier": 0.5,
+    "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 17064.35607610304,
+    "raw_difficulty": 16897.543617822586,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Oleksii Novikov",
         "country": "UKR",
-        "power": 650.9,
-        "percent": 3.8
+        "power": 532.6,
+        "percent": 3.2
       },
       {
         "rank": "2",
         "person_name": "Trey Mitchell",
         "country": "USA",
         "power": 5159.6,
-        "percent": 30.2
+        "percent": 30.5
       },
       {
         "rank": "3",
         "person_name": "Mitchell Hooper",
         "country": "CAN",
         "power": 8301.9,
-        "percent": 48.7
+        "percent": 49.1
       },
       {
         "rank": "4",
         "person_name": "Martins Licis",
         "country": "USA",
-        "power": 2698.1,
-        "percent": 15.8
+        "power": 2685.6,
+        "percent": 15.9
       },
       {
         "rank": "5",
         "person_name": "Pavlo Nakonechnyy",
         "country": "UKR",
-        "power": 253.9,
-        "percent": 1.5
+        "power": 217.9,
+        "percent": 1.3
       }
     ],
     "results": [
@@ -2854,7 +2854,7 @@
         "score": 14.5
       }
     ],
-    "difficulty_score": 479.5,
+    "difficulty_score": 472.5,
     "competition_rank": 24
   },
   {
@@ -3244,14 +3244,14 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 15,
-    "raw_difficulty": 15553.186904425495,
+    "raw_difficulty": 15434.919663929233,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Trey Mitchell",
         "country": "USA",
         "power": 5159.6,
-        "percent": 33.2
+        "percent": 33.4
       },
       {
         "rank": "2",
@@ -3265,14 +3265,14 @@
         "person_name": "Mitchell Hooper",
         "country": "CAN",
         "power": 8301.9,
-        "percent": 53.4
+        "percent": 53.8
       },
       {
         "rank": "4",
         "person_name": "Oleksii Novikov",
         "country": "UKR",
-        "power": 650.9,
-        "percent": 4.2
+        "power": 532.6,
+        "percent": 3.5
       },
       {
         "rank": "5",
@@ -3374,7 +3374,7 @@
         "score": 1
       }
     ],
-    "difficulty_score": 417.3,
+    "difficulty_score": 412.5,
     "competition_rank": 28
   },
   {
@@ -3770,35 +3770,35 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 14247.658479192874,
+    "raw_difficulty": 14129.391238696613,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Oleksii Novikov",
         "country": "UKR",
-        "power": 650.9,
-        "percent": 4.6
+        "power": 532.6,
+        "percent": 3.8
       },
       {
         "rank": "2",
         "person_name": "Mitchell Hooper",
         "country": "CAN",
         "power": 8301.9,
-        "percent": 58.3
+        "percent": 58.8
       },
       {
         "rank": "3",
         "person_name": "Evan Singleton",
         "country": "USA",
         "power": 3728.8,
-        "percent": 26.2
+        "percent": 26.4
       },
       {
         "rank": "4",
         "person_name": "Maxime Boudreault",
         "country": "CAN",
         "power": 1025.0,
-        "percent": 7.2
+        "percent": 7.3
       },
       {
         "rank": "5",
@@ -3882,7 +3882,7 @@
         "score": 1
       }
     ],
-    "difficulty_score": 365.8,
+    "difficulty_score": 361.3,
     "competition_rank": 32
   },
   {
@@ -4018,14 +4018,14 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 12929.003374126534,
+    "raw_difficulty": 12892.646940876624,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Mitchell Hooper",
         "country": "CAN",
         "power": 8301.9,
-        "percent": 64.2
+        "percent": 64.4
       },
       {
         "rank": "2",
@@ -4038,22 +4038,22 @@
         "rank": "3",
         "person_name": "Kevin Faires",
         "country": "USA",
-        "power": 272.1,
+        "power": 271.8,
         "percent": 2.1
       },
       {
         "rank": "4",
         "person_name": "Pavlo Nakonechnyy",
         "country": "UKR",
-        "power": 253.9,
-        "percent": 2.0
+        "power": 217.9,
+        "percent": 1.7
       },
       {
         "rank": "5",
         "person_name": "Pavlo Kordiyaka",
         "country": "UKR",
         "power": 3105.8,
-        "percent": 24.0
+        "percent": 24.1
       }
     ],
     "results": [
@@ -4130,7 +4130,7 @@
         "score": 18
       }
     ],
-    "difficulty_score": 316.2,
+    "difficulty_score": 314.9,
     "competition_rank": 34
   },
   {
@@ -4364,124 +4364,6 @@
     "competition_rank": 36
   },
   {
-    "contest_id": 1152,
-    "contest_name": "2022 Giants Live World Open",
-    "details": "Cardiff, Wales, 2022-08-06",
-    "tier": "TIER_2",
-    "tier_multiplier": 3.0,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 11,
-    "raw_difficulty": 11454.014309646285,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Pavlo Nakonechnyy",
-        "country": "UKR",
-        "power": 253.9,
-        "percent": 2.2
-      },
-      {
-        "rank": "2",
-        "person_name": "Mitchell Hooper",
-        "country": "CAN",
-        "power": 8301.9,
-        "percent": 72.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Oleksii Novikov",
-        "country": "UKR",
-        "power": 650.9,
-        "percent": 5.7
-      },
-      {
-        "rank": "4",
-        "person_name": "Graham Hicks",
-        "country": "GBR",
-        "power": 909.0,
-        "percent": 7.9
-      },
-      {
-        "rank": "5",
-        "person_name": "Gavin Bilton",
-        "country": "GBR",
-        "power": 1338.3,
-        "percent": 11.7
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Pavlo Nakonechnyy",
-        "country": "UKR",
-        "score": 49
-      },
-      {
-        "rank": "2",
-        "person_name": "Mitchell Hooper",
-        "country": "CAN",
-        "score": 47.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Oleksii Novikov",
-        "country": "UKR",
-        "score": 39.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Graham Hicks",
-        "country": "GBR",
-        "score": 37.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Gavin Bilton",
-        "country": "GBR",
-        "score": 34
-      },
-      {
-        "rank": "6",
-        "person_name": "Rauno Heinla",
-        "country": "EST",
-        "score": 33
-      },
-      {
-        "rank": "7",
-        "person_name": "Andy Black",
-        "country": "GBR",
-        "score": 20
-      },
-      {
-        "rank": "8",
-        "person_name": "Shane Flowers",
-        "country": "GBR",
-        "score": 18
-      },
-      {
-        "rank": "9",
-        "person_name": "Evan Singleton",
-        "country": "USA",
-        "score": 14
-      },
-      {
-        "rank": "10",
-        "person_name": "Ivan Makarov",
-        "country": "GEO",
-        "score": 8.5
-      },
-      {
-        "rank": "11",
-        "person_name": "Pa O'Dwyer",
-        "country": "IRL",
-        "score": 6
-      }
-    ],
-    "difficulty_score": 263.7,
-    "competition_rank": 37
-  },
-  {
     "contest_id": 1871,
     "contest_name": "2025 Iceland's Strongest Man",
     "details": "Iceland, 2025-08-08 to 2025-08-09",
@@ -4573,7 +4455,7 @@
       }
     ],
     "difficulty_score": 263.1,
-    "competition_rank": 38
+    "competition_rank": 37
   },
   {
     "contest_id": 1528,
@@ -4721,6 +4603,124 @@
       }
     ],
     "difficulty_score": 262.7,
+    "competition_rank": 38
+  },
+  {
+    "contest_id": 1152,
+    "contest_name": "2022 Giants Live World Open",
+    "details": "Cardiff, Wales, 2022-08-06",
+    "tier": "TIER_2",
+    "tier_multiplier": 3.0,
+    "recency_multiplier": 0.25,
+    "division": "men",
+    "total_competitors": 11,
+    "raw_difficulty": 11299.693111582861,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Pavlo Nakonechnyy",
+        "country": "UKR",
+        "power": 217.9,
+        "percent": 1.9
+      },
+      {
+        "rank": "2",
+        "person_name": "Mitchell Hooper",
+        "country": "CAN",
+        "power": 8301.9,
+        "percent": 73.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Oleksii Novikov",
+        "country": "UKR",
+        "power": 532.6,
+        "percent": 4.7
+      },
+      {
+        "rank": "4",
+        "person_name": "Graham Hicks",
+        "country": "GBR",
+        "power": 909.0,
+        "percent": 8.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Gavin Bilton",
+        "country": "GBR",
+        "power": 1338.3,
+        "percent": 11.8
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Pavlo Nakonechnyy",
+        "country": "UKR",
+        "score": 49
+      },
+      {
+        "rank": "2",
+        "person_name": "Mitchell Hooper",
+        "country": "CAN",
+        "score": 47.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Oleksii Novikov",
+        "country": "UKR",
+        "score": 39.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Graham Hicks",
+        "country": "GBR",
+        "score": 37.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Gavin Bilton",
+        "country": "GBR",
+        "score": 34
+      },
+      {
+        "rank": "6",
+        "person_name": "Rauno Heinla",
+        "country": "EST",
+        "score": 33
+      },
+      {
+        "rank": "7",
+        "person_name": "Andy Black",
+        "country": "GBR",
+        "score": 20
+      },
+      {
+        "rank": "8",
+        "person_name": "Shane Flowers",
+        "country": "GBR",
+        "score": 18
+      },
+      {
+        "rank": "9",
+        "person_name": "Evan Singleton",
+        "country": "USA",
+        "score": 14
+      },
+      {
+        "rank": "10",
+        "person_name": "Ivan Makarov",
+        "country": "GEO",
+        "score": 8.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Pa O'Dwyer",
+        "country": "IRL",
+        "score": 6
+      }
+    ],
+    "difficulty_score": 258.4,
     "competition_rank": 39
   },
   {
@@ -4980,13 +4980,13 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 13,
-    "raw_difficulty": 10896.841580453636,
+    "raw_difficulty": 10896.049397494739,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Bobby Thompson",
         "country": "USA",
-        "power": 823.7,
+        "power": 822.9,
         "percent": 7.6
       },
       {
@@ -5001,7 +5001,7 @@
         "person_name": "Trey Mitchell",
         "country": "USA",
         "power": 5159.6,
-        "percent": 47.3
+        "percent": 47.4
       },
       {
         "rank": "4",
@@ -5110,21 +5110,21 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 14,
-    "raw_difficulty": 10868.838863883759,
+    "raw_difficulty": 10750.571623387497,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Mitchell Hooper",
         "country": "CAN",
         "power": 8301.9,
-        "percent": 76.4
+        "percent": 77.2
       },
       {
         "rank": "2",
         "person_name": "Oleksii Novikov",
         "country": "UKR",
-        "power": 650.9,
-        "percent": 6.0
+        "power": 532.6,
+        "percent": 5.0
       },
       {
         "rank": "3",
@@ -5145,7 +5145,7 @@
         "person_name": "Gavin Bilton",
         "country": "GBR",
         "power": 1338.3,
-        "percent": 12.3
+        "percent": 12.4
       }
     ],
     "results": [
@@ -5234,7 +5234,7 @@
         "score": 23.5
       }
     ],
-    "difficulty_score": 243.8,
+    "difficulty_score": 239.8,
     "competition_rank": 43
   },
   {
@@ -5246,13 +5246,13 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 8,
-    "raw_difficulty": 10705.690295044198,
+    "raw_difficulty": 10704.898112085302,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Bobby Thompson",
         "country": "USA",
-        "power": 823.7,
+        "power": 822.9,
         "percent": 7.7
       },
       {
@@ -5346,7 +5346,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 10683.133407162142,
+    "raw_difficulty": 10677.397524297026,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -5387,7 +5387,7 @@
         "rank": "5",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 646.2,
+        "power": 640.4,
         "percent": 6.0
       }
     ],
@@ -5465,7 +5465,7 @@
         "score": 10
       }
     ],
-    "difficulty_score": 237.5,
+    "difficulty_score": 237.3,
     "competition_rank": 45
   },
   {
@@ -6214,118 +6214,6 @@
     "competition_rank": 51
   },
   {
-    "contest_id": 993,
-    "contest_name": "2021 Rogue Invitational",
-    "details": "Round Rock, Texas, 2021-10-29 to 2021-10-30",
-    "tier": "TIER_1",
-    "tier_multiplier": 5.0,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 9521.483331645219,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Martins Licis",
-        "country": "USA",
-        "power": 2698.1,
-        "percent": 28.3
-      },
-      {
-        "rank": "2",
-        "person_name": "Tom Stoltman",
-        "country": "GBR",
-        "power": 4326.9,
-        "percent": 45.4
-      },
-      {
-        "rank": "3",
-        "person_name": "Oleksii Novikov",
-        "country": "UKR",
-        "power": 650.9,
-        "percent": 6.8
-      },
-      {
-        "rank": "4",
-        "person_name": "Mateusz Kieliszkowski",
-        "country": "POL",
-        "power": 1718.3,
-        "percent": 18.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Jean-François Caron",
-        "country": "CAN",
-        "power": 127.3,
-        "percent": 1.3
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Martins Licis",
-        "country": "USA",
-        "score": 45
-      },
-      {
-        "rank": "2",
-        "person_name": "Tom Stoltman",
-        "country": "GBR",
-        "score": 42
-      },
-      {
-        "rank": "3",
-        "person_name": "Oleksii Novikov",
-        "country": "UKR",
-        "score": 34
-      },
-      {
-        "rank": "4",
-        "person_name": "Mateusz Kieliszkowski",
-        "country": "POL",
-        "score": 29.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Jean-François Caron",
-        "country": "CAN",
-        "score": 28
-      },
-      {
-        "rank": "6",
-        "person_name": "Rob Kearney",
-        "country": "USA",
-        "score": 26
-      },
-      {
-        "rank": "7",
-        "person_name": "Brian Shaw",
-        "country": "USA",
-        "score": 23
-      },
-      {
-        "rank": "8",
-        "person_name": "Luke Stoltman",
-        "country": "GBR",
-        "score": 22
-      },
-      {
-        "rank": "9",
-        "person_name": "Mikhail Shivlyakov",
-        "country": "RUS",
-        "score": 13.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Jerry Pritchett",
-        "country": "USA",
-        "score": 12
-      }
-    ],
-    "difficulty_score": 199.9,
-    "competition_rank": 52
-  },
-  {
     "contest_id": 1502,
     "contest_name": "2024 England's Strongest Man",
     "details": "York, England, 2024-06-22",
@@ -6453,7 +6341,7 @@
       }
     ],
     "difficulty_score": 197.6,
-    "competition_rank": 53
+    "competition_rank": 52
   },
   {
     "contest_id": 1611,
@@ -6577,119 +6465,119 @@
       }
     ],
     "difficulty_score": 197.2,
-    "competition_rank": 54
+    "competition_rank": 53
   },
   {
-    "contest_id": 1264,
-    "contest_name": "2022 World's Strongest Man",
-    "details": "Sacramento, California, 2022-05-24 to 2022-05-29",
+    "contest_id": 993,
+    "contest_name": "2021 Rogue Invitational",
+    "details": "Round Rock, Texas, 2021-10-29 to 2021-10-30",
     "tier": "TIER_1",
     "tier_multiplier": 5.0,
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 9116.741712279629,
+    "raw_difficulty": 9390.724830931927,
     "top_5_finishers": [
       {
         "rank": "1",
-        "person_name": "Tom Stoltman",
-        "country": "GBR",
-        "power": 4326.9,
-        "percent": 47.5
+        "person_name": "Martins Licis",
+        "country": "USA",
+        "power": 2685.6,
+        "percent": 28.6
       },
       {
         "rank": "2",
-        "person_name": "Martins Licis",
-        "country": "USA",
-        "power": 2698.1,
-        "percent": 29.6
+        "person_name": "Tom Stoltman",
+        "country": "GBR",
+        "power": 4326.9,
+        "percent": 46.1
       },
       {
         "rank": "3",
         "person_name": "Oleksii Novikov",
         "country": "UKR",
-        "power": 650.9,
-        "percent": 7.1
+        "power": 532.6,
+        "percent": 5.7
       },
       {
         "rank": "4",
-        "person_name": "Brian Shaw",
-        "country": "USA",
-        "power": 415.9,
-        "percent": 4.6
+        "person_name": "Mateusz Kieliszkowski",
+        "country": "POL",
+        "power": 1718.3,
+        "percent": 18.3
       },
       {
         "rank": "5",
-        "person_name": "Maxime Boudreault",
+        "person_name": "Jean-François Caron",
         "country": "CAN",
-        "power": 1025.0,
-        "percent": 11.2
+        "power": 127.3,
+        "percent": 1.4
       }
     ],
     "results": [
       {
         "rank": "1",
-        "person_name": "Tom Stoltman",
-        "country": "GBR",
-        "score": 53.5
+        "person_name": "Martins Licis",
+        "country": "USA",
+        "score": 45
       },
       {
         "rank": "2",
-        "person_name": "Martins Licis",
-        "country": "USA",
-        "score": 43
+        "person_name": "Tom Stoltman",
+        "country": "GBR",
+        "score": 42
       },
       {
         "rank": "3",
         "person_name": "Oleksii Novikov",
         "country": "UKR",
-        "score": 43
-      },
-      {
-        "rank": "4",
-        "person_name": "Brian Shaw",
-        "country": "USA",
-        "score": 37.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Maxime Boudreault",
-        "country": "CAN",
-        "score": 34.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Trey Mitchell",
-        "country": "USA",
         "score": 34
       },
       {
+        "rank": "4",
+        "person_name": "Mateusz Kieliszkowski",
+        "country": "POL",
+        "score": 29.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Jean-François Caron",
+        "country": "CAN",
+        "score": 28
+      },
+      {
+        "rank": "6",
+        "person_name": "Rob Kearney",
+        "country": "USA",
+        "score": 26
+      },
+      {
         "rank": "7",
-        "person_name": "Luke Stoltman",
-        "country": "GBR",
-        "score": 30.5
+        "person_name": "Brian Shaw",
+        "country": "USA",
+        "score": 23
       },
       {
         "rank": "8",
-        "person_name": "Mitchell Hooper",
-        "country": "CAN",
-        "score": 30
+        "person_name": "Luke Stoltman",
+        "country": "GBR",
+        "score": 22
       },
       {
         "rank": "9",
-        "person_name": "Eythór Ingólfsson Melsted",
-        "country": "ISL",
-        "score": 13
+        "person_name": "Mikhail Shivlyakov",
+        "country": "RUS",
+        "score": 13.5
       },
       {
         "rank": "10",
-        "person_name": "Gabriel Rhéaume",
-        "country": "CAN",
-        "score": 11
+        "person_name": "Jerry Pritchett",
+        "country": "USA",
+        "score": 12
       }
     ],
-    "difficulty_score": 187.3,
-    "competition_rank": 55
+    "difficulty_score": 195.8,
+    "competition_rank": 54
   },
   {
     "contest_id": 1521,
@@ -6801,6 +6689,118 @@
       }
     ],
     "difficulty_score": 183.5,
+    "competition_rank": 55
+  },
+  {
+    "contest_id": 1264,
+    "contest_name": "2022 World's Strongest Man",
+    "details": "Sacramento, California, 2022-05-24 to 2022-05-29",
+    "tier": "TIER_1",
+    "tier_multiplier": 5.0,
+    "recency_multiplier": 0.25,
+    "division": "men",
+    "total_competitors": 10,
+    "raw_difficulty": 8985.983211566338,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Tom Stoltman",
+        "country": "GBR",
+        "power": 4326.9,
+        "percent": 48.2
+      },
+      {
+        "rank": "2",
+        "person_name": "Martins Licis",
+        "country": "USA",
+        "power": 2685.6,
+        "percent": 29.9
+      },
+      {
+        "rank": "3",
+        "person_name": "Oleksii Novikov",
+        "country": "UKR",
+        "power": 532.6,
+        "percent": 5.9
+      },
+      {
+        "rank": "4",
+        "person_name": "Brian Shaw",
+        "country": "USA",
+        "power": 415.9,
+        "percent": 4.6
+      },
+      {
+        "rank": "5",
+        "person_name": "Maxime Boudreault",
+        "country": "CAN",
+        "power": 1025.0,
+        "percent": 11.4
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tom Stoltman",
+        "country": "GBR",
+        "score": 53.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Martins Licis",
+        "country": "USA",
+        "score": 43
+      },
+      {
+        "rank": "3",
+        "person_name": "Oleksii Novikov",
+        "country": "UKR",
+        "score": 43
+      },
+      {
+        "rank": "4",
+        "person_name": "Brian Shaw",
+        "country": "USA",
+        "score": 37.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Maxime Boudreault",
+        "country": "CAN",
+        "score": 34.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Trey Mitchell",
+        "country": "USA",
+        "score": 34
+      },
+      {
+        "rank": "7",
+        "person_name": "Luke Stoltman",
+        "country": "GBR",
+        "score": 30.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Mitchell Hooper",
+        "country": "CAN",
+        "score": 30
+      },
+      {
+        "rank": "9",
+        "person_name": "Eythór Ingólfsson Melsted",
+        "country": "ISL",
+        "score": 13
+      },
+      {
+        "rank": "10",
+        "person_name": "Gabriel Rhéaume",
+        "country": "CAN",
+        "score": 11
+      }
+    ],
+    "difficulty_score": 183.2,
     "competition_rank": 56
   },
   {
@@ -7170,130 +7170,6 @@
     "competition_rank": 59
   },
   {
-    "contest_id": 1460,
-    "contest_name": "2024 Europe's Strongest Man",
-    "details": "Leeds, England, 2024-04-13",
-    "tier": "TIER_3",
-    "tier_multiplier": 2.0,
-    "recency_multiplier": 1.0,
-    "division": "men",
-    "total_competitors": 12,
-    "raw_difficulty": 8832.20685922802,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Luke Stoltman",
-        "country": "GBR",
-        "power": 1617.1,
-        "percent": 18.3
-      },
-      {
-        "rank": "2",
-        "person_name": "Aivars Šmaukstelis",
-        "country": "LAT",
-        "power": 995.3,
-        "percent": 11.3
-      },
-      {
-        "rank": "3",
-        "person_name": "Oleksii Novikov",
-        "country": "UKR",
-        "power": 650.9,
-        "percent": 7.4
-      },
-      {
-        "rank": "4",
-        "person_name": "Ondřej Fojtů",
-        "country": "CZE",
-        "power": 4483.3,
-        "percent": 50.8
-      },
-      {
-        "rank": "5",
-        "person_name": "Shane Flowers",
-        "country": "GBR",
-        "power": 1085.7,
-        "percent": 12.3
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Luke Stoltman",
-        "country": "GBR",
-        "score": 44
-      },
-      {
-        "rank": "2",
-        "person_name": "Aivars Šmaukstelis",
-        "country": "LAT",
-        "score": 43
-      },
-      {
-        "rank": "3",
-        "person_name": "Oleksii Novikov",
-        "country": "UKR",
-        "score": 40
-      },
-      {
-        "rank": "4",
-        "person_name": "Ondřej Fojtů",
-        "country": "CZE",
-        "score": 38
-      },
-      {
-        "rank": "5",
-        "person_name": "Shane Flowers",
-        "country": "GBR",
-        "score": 36.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Nicolas Cambi",
-        "country": "ITA",
-        "score": 35
-      },
-      {
-        "rank": "7",
-        "person_name": "Rauno Heinla",
-        "country": "EST",
-        "score": 33
-      },
-      {
-        "rank": "8",
-        "person_name": "Pa O'Dwyer",
-        "country": "IRL",
-        "score": 33
-      },
-      {
-        "rank": "9",
-        "person_name": "Pavlo Kordiyaka",
-        "country": "UKR",
-        "score": 33
-      },
-      {
-        "rank": "10",
-        "person_name": "Gavin Bilton",
-        "country": "GBR",
-        "score": 21.5
-      },
-      {
-        "rank": "11",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "score": 17
-      },
-      {
-        "rank": "12",
-        "person_name": "Konstantine Janashia",
-        "country": "GEO",
-        "score": 10
-      }
-    ],
-    "difficulty_score": 178.6,
-    "competition_rank": 60
-  },
-  {
     "contest_id": 2347,
     "contest_name": "2026 SCL Holland",
     "details": "Winterswijk, Netherlands, 2026-06-21",
@@ -7415,6 +7291,130 @@
       }
     ],
     "difficulty_score": 175.6,
+    "competition_rank": 60
+  },
+  {
+    "contest_id": 1460,
+    "contest_name": "2024 Europe's Strongest Man",
+    "details": "Leeds, England, 2024-04-13",
+    "tier": "TIER_3",
+    "tier_multiplier": 2.0,
+    "recency_multiplier": 1.0,
+    "division": "men",
+    "total_competitors": 12,
+    "raw_difficulty": 8713.939618731758,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Luke Stoltman",
+        "country": "GBR",
+        "power": 1617.1,
+        "percent": 18.6
+      },
+      {
+        "rank": "2",
+        "person_name": "Aivars Šmaukstelis",
+        "country": "LAT",
+        "power": 995.3,
+        "percent": 11.4
+      },
+      {
+        "rank": "3",
+        "person_name": "Oleksii Novikov",
+        "country": "UKR",
+        "power": 532.6,
+        "percent": 6.1
+      },
+      {
+        "rank": "4",
+        "person_name": "Ondřej Fojtů",
+        "country": "CZE",
+        "power": 4483.3,
+        "percent": 51.4
+      },
+      {
+        "rank": "5",
+        "person_name": "Shane Flowers",
+        "country": "GBR",
+        "power": 1085.7,
+        "percent": 12.5
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Luke Stoltman",
+        "country": "GBR",
+        "score": 44
+      },
+      {
+        "rank": "2",
+        "person_name": "Aivars Šmaukstelis",
+        "country": "LAT",
+        "score": 43
+      },
+      {
+        "rank": "3",
+        "person_name": "Oleksii Novikov",
+        "country": "UKR",
+        "score": 40
+      },
+      {
+        "rank": "4",
+        "person_name": "Ondřej Fojtů",
+        "country": "CZE",
+        "score": 38
+      },
+      {
+        "rank": "5",
+        "person_name": "Shane Flowers",
+        "country": "GBR",
+        "score": 36.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Nicolas Cambi",
+        "country": "ITA",
+        "score": 35
+      },
+      {
+        "rank": "7",
+        "person_name": "Rauno Heinla",
+        "country": "EST",
+        "score": 33
+      },
+      {
+        "rank": "8",
+        "person_name": "Pa O'Dwyer",
+        "country": "IRL",
+        "score": 33
+      },
+      {
+        "rank": "9",
+        "person_name": "Pavlo Kordiyaka",
+        "country": "UKR",
+        "score": 33
+      },
+      {
+        "rank": "10",
+        "person_name": "Gavin Bilton",
+        "country": "GBR",
+        "score": 21.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "score": 17
+      },
+      {
+        "rank": "12",
+        "person_name": "Konstantine Janashia",
+        "country": "GEO",
+        "score": 10
+      }
+    ],
+    "difficulty_score": 175.0,
     "competition_rank": 61
   },
   {
@@ -7840,7 +7840,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 8038.246621636672,
+    "raw_difficulty": 8030.967060131771,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -7854,7 +7854,7 @@
         "person_name": "Gavin Bilton",
         "country": "GBR",
         "power": 1338.3,
-        "percent": 16.6
+        "percent": 16.7
       },
       {
         "rank": "3",
@@ -7867,7 +7867,7 @@
         "rank": "4",
         "person_name": "Rob Kearney",
         "country": "USA",
-        "power": 268.3,
+        "power": 261.1,
         "percent": 3.3
       },
       {
@@ -7946,7 +7946,7 @@
         "score": 5
       }
     ],
-    "difficulty_score": 155.0,
+    "difficulty_score": 154.8,
     "competition_rank": 65
   },
   {
@@ -10296,7 +10296,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 6993.0446378701035,
+    "raw_difficulty": 6992.7421621873555,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -10316,7 +10316,7 @@
         "rank": "3",
         "person_name": "Kevin Faires",
         "country": "USA",
-        "power": 272.1,
+        "power": 271.8,
         "percent": 3.9
       },
       {
@@ -11002,260 +11002,6 @@
     "competition_rank": 90
   },
   {
-    "contest_id": 1363,
-    "contest_name": "2023 Europe's Strongest Man",
-    "details": "Leeds, England, 2023-04-01",
-    "tier": "TIER_3",
-    "tier_multiplier": 2.0,
-    "recency_multiplier": 0.5,
-    "division": "men",
-    "total_competitors": 13,
-    "raw_difficulty": 6582.23873138227,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Pavlo Kordiyaka",
-        "country": "UKR",
-        "power": 3105.8,
-        "percent": 47.2
-      },
-      {
-        "rank": "2",
-        "person_name": "Oleksii Novikov",
-        "country": "UKR",
-        "power": 650.9,
-        "percent": 9.9
-      },
-      {
-        "rank": "3",
-        "person_name": "Aivars Šmaukstelis",
-        "country": "LAT",
-        "power": 995.3,
-        "percent": 15.1
-      },
-      {
-        "rank": "4",
-        "person_name": "Eythór Ingólfsson Melsted",
-        "country": "ISL",
-        "power": 202.4,
-        "percent": 3.1
-      },
-      {
-        "rank": "5",
-        "person_name": "Adam Bishop",
-        "country": "GBR",
-        "power": 1627.9,
-        "percent": 24.7
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Pavlo Kordiyaka",
-        "country": "UKR",
-        "score": 57.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Oleksii Novikov",
-        "country": "UKR",
-        "score": 53.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Aivars Šmaukstelis",
-        "country": "LAT",
-        "score": 51.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Eythór Ingólfsson Melsted",
-        "country": "ISL",
-        "score": 45.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Adam Bishop",
-        "country": "GBR",
-        "score": 41.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Shane Flowers",
-        "country": "GBR",
-        "score": 37
-      },
-      {
-        "rank": "7",
-        "person_name": "Pa O'Dwyer",
-        "country": "IRL",
-        "score": 36.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Konstantine Janashia",
-        "country": "GEO",
-        "score": 30.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Dennis Kohlruss",
-        "country": "GER",
-        "score": 26
-      },
-      {
-        "rank": "10",
-        "person_name": "Paul Smith",
-        "country": "GBR",
-        "score": 25.5
-      },
-      {
-        "rank": "11",
-        "person_name": "Gavin Bilton",
-        "country": "GBR",
-        "score": 17.5
-      },
-      {
-        "rank": "12",
-        "person_name": "Jean-Stephen Coraboeuf",
-        "country": "FRA",
-        "score": 16.5
-      },
-      {
-        "rank": "13",
-        "person_name": "Graham Hicks",
-        "country": "GBR",
-        "score": 8
-      }
-    ],
-    "difficulty_score": 114.9,
-    "competition_rank": 91
-  },
-  {
-    "contest_id": 1150,
-    "contest_name": "2022 Europe's Strongest Man",
-    "details": "Leeds, England, 2022-04-02",
-    "tier": "TIER_3",
-    "tier_multiplier": 2.0,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 12,
-    "raw_difficulty": 6569.846608783576,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Oleksii Novikov",
-        "country": "UKR",
-        "power": 650.9,
-        "percent": 9.9
-      },
-      {
-        "rank": "2",
-        "person_name": "Luke Stoltman",
-        "country": "GBR",
-        "power": 1617.1,
-        "percent": 24.6
-      },
-      {
-        "rank": "3",
-        "person_name": "Konstantine Janashia",
-        "country": "GEO",
-        "power": 110.4,
-        "percent": 1.7
-      },
-      {
-        "rank": "4",
-        "person_name": "Pavlo Kordiyaka",
-        "country": "UKR",
-        "power": 3105.8,
-        "percent": 47.3
-      },
-      {
-        "rank": "5",
-        "person_name": "Shane Flowers",
-        "country": "GBR",
-        "power": 1085.7,
-        "percent": 16.5
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Oleksii Novikov",
-        "country": "UKR",
-        "score": 52
-      },
-      {
-        "rank": "2",
-        "person_name": "Luke Stoltman",
-        "country": "GBR",
-        "score": 48
-      },
-      {
-        "rank": "3",
-        "person_name": "Konstantine Janashia",
-        "country": "GEO",
-        "score": 38.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Pavlo Kordiyaka",
-        "country": "UKR",
-        "score": 37
-      },
-      {
-        "rank": "5",
-        "person_name": "Shane Flowers",
-        "country": "GBR",
-        "score": 36.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Aivars Šmaukstelis",
-        "country": "LAT",
-        "score": 33
-      },
-      {
-        "rank": "7",
-        "person_name": "Eythór Ingólfsson Melsted",
-        "country": "ISL",
-        "score": 29
-      },
-      {
-        "rank": "8",
-        "person_name": "Marius Lalas",
-        "country": "LTU",
-        "score": 28.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Kelvin de Ruiter",
-        "country": "NED",
-        "score": 23
-      },
-      {
-        "rank": "10",
-        "person_name": "Pa O'Dwyer",
-        "country": "IRL",
-        "score": 20
-      },
-      {
-        "rank": "11",
-        "person_name": "Gavin Bilton",
-        "country": "GBR",
-        "score": 19.5
-      },
-      {
-        "rank": "12",
-        "person_name": "Rauno Heinla",
-        "country": "EST",
-        "score": 13
-      }
-    ],
-    "difficulty_score": 114.6,
-    "competition_rank": 92
-  },
-  {
     "contest_id": 1450,
     "contest_name": "2023 World Strongman Championships",
     "details": "Talsi, Latvia, 2023-10-14",
@@ -11377,7 +11123,7 @@
       }
     ],
     "difficulty_score": 114.4,
-    "competition_rank": 93
+    "competition_rank": 91
   },
   {
     "contest_id": 1709,
@@ -11489,6 +11235,260 @@
       }
     ],
     "difficulty_score": 111.7,
+    "competition_rank": 92
+  },
+  {
+    "contest_id": 1363,
+    "contest_name": "2023 Europe's Strongest Man",
+    "details": "Leeds, England, 2023-04-01",
+    "tier": "TIER_3",
+    "tier_multiplier": 2.0,
+    "recency_multiplier": 0.5,
+    "division": "men",
+    "total_competitors": 13,
+    "raw_difficulty": 6454.667190163491,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Pavlo Kordiyaka",
+        "country": "UKR",
+        "power": 3105.8,
+        "percent": 48.1
+      },
+      {
+        "rank": "2",
+        "person_name": "Oleksii Novikov",
+        "country": "UKR",
+        "power": 532.6,
+        "percent": 8.3
+      },
+      {
+        "rank": "3",
+        "person_name": "Aivars Šmaukstelis",
+        "country": "LAT",
+        "power": 995.3,
+        "percent": 15.4
+      },
+      {
+        "rank": "4",
+        "person_name": "Eythór Ingólfsson Melsted",
+        "country": "ISL",
+        "power": 193.1,
+        "percent": 3.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Adam Bishop",
+        "country": "GBR",
+        "power": 1627.9,
+        "percent": 25.2
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Pavlo Kordiyaka",
+        "country": "UKR",
+        "score": 57.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Oleksii Novikov",
+        "country": "UKR",
+        "score": 53.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Aivars Šmaukstelis",
+        "country": "LAT",
+        "score": 51.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Eythór Ingólfsson Melsted",
+        "country": "ISL",
+        "score": 45.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Adam Bishop",
+        "country": "GBR",
+        "score": 41.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Shane Flowers",
+        "country": "GBR",
+        "score": 37
+      },
+      {
+        "rank": "7",
+        "person_name": "Pa O'Dwyer",
+        "country": "IRL",
+        "score": 36.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Konstantine Janashia",
+        "country": "GEO",
+        "score": 30.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Dennis Kohlruss",
+        "country": "GER",
+        "score": 26
+      },
+      {
+        "rank": "10",
+        "person_name": "Paul Smith",
+        "country": "GBR",
+        "score": 25.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Gavin Bilton",
+        "country": "GBR",
+        "score": 17.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Jean-Stephen Coraboeuf",
+        "country": "FRA",
+        "score": 16.5
+      },
+      {
+        "rank": "13",
+        "person_name": "Graham Hicks",
+        "country": "GBR",
+        "score": 8
+      }
+    ],
+    "difficulty_score": 111.6,
+    "competition_rank": 93
+  },
+  {
+    "contest_id": 1150,
+    "contest_name": "2022 Europe's Strongest Man",
+    "details": "Leeds, England, 2022-04-02",
+    "tier": "TIER_3",
+    "tier_multiplier": 2.0,
+    "recency_multiplier": 0.25,
+    "division": "men",
+    "total_competitors": 12,
+    "raw_difficulty": 6451.5793682873145,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Oleksii Novikov",
+        "country": "UKR",
+        "power": 532.6,
+        "percent": 8.3
+      },
+      {
+        "rank": "2",
+        "person_name": "Luke Stoltman",
+        "country": "GBR",
+        "power": 1617.1,
+        "percent": 25.1
+      },
+      {
+        "rank": "3",
+        "person_name": "Konstantine Janashia",
+        "country": "GEO",
+        "power": 110.4,
+        "percent": 1.7
+      },
+      {
+        "rank": "4",
+        "person_name": "Pavlo Kordiyaka",
+        "country": "UKR",
+        "power": 3105.8,
+        "percent": 48.1
+      },
+      {
+        "rank": "5",
+        "person_name": "Shane Flowers",
+        "country": "GBR",
+        "power": 1085.7,
+        "percent": 16.8
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Oleksii Novikov",
+        "country": "UKR",
+        "score": 52
+      },
+      {
+        "rank": "2",
+        "person_name": "Luke Stoltman",
+        "country": "GBR",
+        "score": 48
+      },
+      {
+        "rank": "3",
+        "person_name": "Konstantine Janashia",
+        "country": "GEO",
+        "score": 38.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Pavlo Kordiyaka",
+        "country": "UKR",
+        "score": 37
+      },
+      {
+        "rank": "5",
+        "person_name": "Shane Flowers",
+        "country": "GBR",
+        "score": 36.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Aivars Šmaukstelis",
+        "country": "LAT",
+        "score": 33
+      },
+      {
+        "rank": "7",
+        "person_name": "Eythór Ingólfsson Melsted",
+        "country": "ISL",
+        "score": 29
+      },
+      {
+        "rank": "8",
+        "person_name": "Marius Lalas",
+        "country": "LTU",
+        "score": 28.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Kelvin de Ruiter",
+        "country": "NED",
+        "score": 23
+      },
+      {
+        "rank": "10",
+        "person_name": "Pa O'Dwyer",
+        "country": "IRL",
+        "score": 20
+      },
+      {
+        "rank": "11",
+        "person_name": "Gavin Bilton",
+        "country": "GBR",
+        "score": 19.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Rauno Heinla",
+        "country": "EST",
+        "score": 13
+      }
+    ],
+    "difficulty_score": 111.5,
     "competition_rank": 94
   },
   {
@@ -12530,118 +12530,6 @@
     "competition_rank": 103
   },
   {
-    "contest_id": 1145,
-    "contest_name": "2022 Arnold Strongman Classic",
-    "details": "Columbus, Ohio, 2022-03-04 to 2022-03-05",
-    "tier": "TIER_1",
-    "tier_multiplier": 5.0,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 6058.025584199655,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Martins Licis",
-        "country": "USA",
-        "power": 2698.1,
-        "percent": 44.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Oleksii Novikov",
-        "country": "UKR",
-        "power": 650.9,
-        "percent": 10.7
-      },
-      {
-        "rank": "3",
-        "person_name": "Luke Stoltman",
-        "country": "GBR",
-        "power": 1617.1,
-        "percent": 26.7
-      },
-      {
-        "rank": "3",
-        "person_name": "Bobby Thompson",
-        "country": "USA",
-        "power": 823.7,
-        "percent": 13.6
-      },
-      {
-        "rank": "5",
-        "person_name": "Rob Kearney",
-        "country": "USA",
-        "power": 268.3,
-        "percent": 4.4
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Martins Licis",
-        "country": "USA",
-        "score": 41
-      },
-      {
-        "rank": "2",
-        "person_name": "Oleksii Novikov",
-        "country": "UKR",
-        "score": 37.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Luke Stoltman",
-        "country": "GBR",
-        "score": 30.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Bobby Thompson",
-        "country": "USA",
-        "score": 30.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Rob Kearney",
-        "country": "USA",
-        "score": 28.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Maxime Boudreault",
-        "country": "CAN",
-        "score": 27
-      },
-      {
-        "rank": "7",
-        "person_name": "Trey Mitchell",
-        "country": "USA",
-        "score": 21.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Tom Stoltman",
-        "country": "GBR",
-        "score": 21.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Evgeny Markov",
-        "country": "RUS",
-        "score": 21
-      },
-      {
-        "rank": "10",
-        "person_name": "Jean-François Caron",
-        "country": "CAN",
-        "score": 14
-      }
-    ],
-    "difficulty_score": 101.4,
-    "competition_rank": 104
-  },
-  {
     "contest_id": 1385,
     "contest_name": "2023 SCL Poland",
     "details": "Sopot, Poland, 2023-08-26",
@@ -12763,107 +12651,119 @@
       }
     ],
     "difficulty_score": 99.3,
-    "competition_rank": 105
+    "competition_rank": 104
   },
   {
-    "contest_id": 2095,
-    "contest_name": "2025 Africa's Strongest Man",
-    "details": "Marikana, South Africa, 2025-10-25 to 2025-10-26",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 3.0,
+    "contest_id": 1145,
+    "contest_name": "2022 Arnold Strongman Classic",
+    "details": "Columbus, Ohio, 2022-03-04 to 2022-03-05",
+    "tier": "TIER_1",
+    "tier_multiplier": 5.0,
+    "recency_multiplier": 0.25,
     "division": "men",
-    "total_competitors": 8,
-    "raw_difficulty": 5912.706218636508,
+    "total_competitors": 10,
+    "raw_difficulty": 5919.195339022567,
     "top_5_finishers": [
       {
         "rank": "1",
-        "person_name": "Jaco Schoonwinkel",
-        "country": "RSA",
-        "power": 1588.6,
-        "percent": 26.9
+        "person_name": "Martins Licis",
+        "country": "USA",
+        "power": 2685.6,
+        "percent": 45.4
       },
       {
         "rank": "2",
-        "person_name": "Evans Nana Aryee",
-        "country": "GHA",
-        "power": 2520.9,
-        "percent": 42.6
+        "person_name": "Oleksii Novikov",
+        "country": "UKR",
+        "power": 532.6,
+        "percent": 9.0
       },
       {
         "rank": "3",
-        "person_name": "Dean Shelley",
-        "country": "RSA",
-        "power": 472.1,
-        "percent": 8.0
+        "person_name": "Luke Stoltman",
+        "country": "GBR",
+        "power": 1617.1,
+        "percent": 27.3
       },
       {
-        "rank": "4",
-        "person_name": "Armand Goosen",
-        "country": "RSA",
-        "power": 1020.8,
-        "percent": 17.3
+        "rank": "3",
+        "person_name": "Bobby Thompson",
+        "country": "USA",
+        "power": 822.9,
+        "percent": 13.9
       },
       {
         "rank": "5",
-        "person_name": "Walid Hammoud",
-        "country": "ALG",
-        "power": 310.2,
-        "percent": 5.2
+        "person_name": "Rob Kearney",
+        "country": "USA",
+        "power": 261.1,
+        "percent": 4.4
       }
     ],
     "results": [
       {
         "rank": "1",
-        "person_name": "Jaco Schoonwinkel",
-        "country": "RSA",
-        "score": 58
-      },
-      {
-        "rank": "2",
-        "person_name": "Evans Nana Aryee",
-        "country": "GHA",
-        "score": 51
-      },
-      {
-        "rank": "3",
-        "person_name": "Dean Shelley",
-        "country": "RSA",
-        "score": 42.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Armand Goosen",
-        "country": "RSA",
+        "person_name": "Martins Licis",
+        "country": "USA",
         "score": 41
       },
       {
+        "rank": "2",
+        "person_name": "Oleksii Novikov",
+        "country": "UKR",
+        "score": 37.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Luke Stoltman",
+        "country": "GBR",
+        "score": 30.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Bobby Thompson",
+        "country": "USA",
+        "score": 30.5
+      },
+      {
         "rank": "5",
-        "person_name": "Walid Hammoud",
-        "country": "ALG",
-        "score": 27
+        "person_name": "Rob Kearney",
+        "country": "USA",
+        "score": 28.5
       },
       {
         "rank": "6",
-        "person_name": "Juan Fourie",
-        "country": "RSA",
-        "score": 23.5
+        "person_name": "Maxime Boudreault",
+        "country": "CAN",
+        "score": 27
       },
       {
         "rank": "7",
-        "person_name": "Kelin Mills",
-        "country": "RSA",
-        "score": 20
+        "person_name": "Trey Mitchell",
+        "country": "USA",
+        "score": 21.5
       },
       {
-        "rank": "8",
-        "person_name": "Prince Emmanuel Lartey",
-        "country": "GHA",
-        "score": 13
+        "rank": "7",
+        "person_name": "Tom Stoltman",
+        "country": "GBR",
+        "score": 21.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Evgeny Markov",
+        "country": "RUS",
+        "score": 21
+      },
+      {
+        "rank": "10",
+        "person_name": "Jean-François Caron",
+        "country": "CAN",
+        "score": 14
       }
     ],
-    "difficulty_score": 97.8,
-    "competition_rank": 106
+    "difficulty_score": 98.0,
+    "competition_rank": 105
   },
   {
     "contest_id": 1383,
@@ -12987,7 +12887,7 @@
       }
     ],
     "difficulty_score": 97.1,
-    "competition_rank": 107
+    "competition_rank": 106
   },
   {
     "contest_id": 1589,
@@ -13087,6 +12987,106 @@
       }
     ],
     "difficulty_score": 97.1,
+    "competition_rank": 107
+  },
+  {
+    "contest_id": 2095,
+    "contest_name": "2025 Africa's Strongest Man",
+    "details": "Marikana, South Africa, 2025-10-25 to 2025-10-26",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 3.0,
+    "division": "men",
+    "total_competitors": 8,
+    "raw_difficulty": 5881.573638568295,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Jaco Schoonwinkel",
+        "country": "RSA",
+        "power": 1588.6,
+        "percent": 27.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Evans Nana Aryee",
+        "country": "GHA",
+        "power": 2520.9,
+        "percent": 42.9
+      },
+      {
+        "rank": "3",
+        "person_name": "Dean Shelley",
+        "country": "RSA",
+        "power": 444.9,
+        "percent": 7.6
+      },
+      {
+        "rank": "4",
+        "person_name": "Armand Goosen",
+        "country": "RSA",
+        "power": 1016.9,
+        "percent": 17.3
+      },
+      {
+        "rank": "5",
+        "person_name": "Walid Hammoud",
+        "country": "ALG",
+        "power": 310.2,
+        "percent": 5.3
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jaco Schoonwinkel",
+        "country": "RSA",
+        "score": 58
+      },
+      {
+        "rank": "2",
+        "person_name": "Evans Nana Aryee",
+        "country": "GHA",
+        "score": 51
+      },
+      {
+        "rank": "3",
+        "person_name": "Dean Shelley",
+        "country": "RSA",
+        "score": 42.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Armand Goosen",
+        "country": "RSA",
+        "score": 41
+      },
+      {
+        "rank": "5",
+        "person_name": "Walid Hammoud",
+        "country": "ALG",
+        "score": 27
+      },
+      {
+        "rank": "6",
+        "person_name": "Juan Fourie",
+        "country": "RSA",
+        "score": 23.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Kelin Mills",
+        "country": "RSA",
+        "score": 20
+      },
+      {
+        "rank": "8",
+        "person_name": "Prince Emmanuel Lartey",
+        "country": "GHA",
+        "score": 13
+      }
+    ],
+    "difficulty_score": 97.0,
     "competition_rank": 108
   },
   {
@@ -13234,14 +13234,14 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 5768.334668848607,
+    "raw_difficulty": 5761.055107343706,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Lucas Hatton",
         "country": "USA",
         "power": 4183.1,
-        "percent": 72.5
+        "percent": 72.6
       },
       {
         "rank": "2",
@@ -13254,8 +13254,8 @@
         "rank": "3",
         "person_name": "Rob Kearney",
         "country": "USA",
-        "power": 268.3,
-        "percent": 4.7
+        "power": 261.1,
+        "percent": 4.5
       },
       {
         "rank": "4",
@@ -13346,7 +13346,7 @@
         "score": 5
       }
     ],
-    "difficulty_score": 94.2,
+    "difficulty_score": 94.1,
     "competition_rank": 110
   },
   {
@@ -14426,14 +14426,14 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 5323.533222688038,
+    "raw_difficulty": 5317.7973398229215,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Austin Andrade",
         "country": "MEX",
         "power": 3611.5,
-        "percent": 67.8
+        "percent": 67.9
       },
       {
         "rank": "2",
@@ -14460,8 +14460,8 @@
         "rank": "5",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 646.2,
-        "percent": 12.1
+        "power": 640.4,
+        "percent": 12.0
       }
     ],
     "results": [
@@ -14538,7 +14538,7 @@
         "score": 0
       }
     ],
-    "difficulty_score": 83.6,
+    "difficulty_score": 83.4,
     "competition_rank": 120
   },
   {
@@ -15034,7 +15034,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 5130.422642112143,
+    "raw_difficulty": 5124.686759247026,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -15061,8 +15061,8 @@
         "rank": "4",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 646.2,
-        "percent": 12.6
+        "power": 640.4,
+        "percent": 12.5
       },
       {
         "rank": "5",
@@ -15140,7 +15140,7 @@
         "score": 18
       }
     ],
-    "difficulty_score": 79.0,
+    "difficulty_score": 78.9,
     "competition_rank": 125
   },
   {
@@ -15512,7 +15512,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 5077.458813903749,
+    "raw_difficulty": 5071.722931038633,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -15546,8 +15546,8 @@
         "rank": "5",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 646.2,
-        "percent": 12.7
+        "power": 640.4,
+        "percent": 12.6
       }
     ],
     "results": [
@@ -15624,7 +15624,7 @@
         "score": 9
       }
     ],
-    "difficulty_score": 77.8,
+    "difficulty_score": 77.7,
     "competition_rank": 129
   },
   {
@@ -16324,142 +16324,6 @@
     "competition_rank": 135
   },
   {
-    "contest_id": 1273,
-    "contest_name": "2022 Magnús Ver Magnússon Strongman Classic",
-    "details": "Iceland, 2022-11-18 to 2022-11-20",
-    "tier": "TIER_2",
-    "tier_multiplier": 3.0,
-    "recency_multiplier": 0.5,
-    "division": "men",
-    "total_competitors": 14,
-    "raw_difficulty": 4884.919733503313,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Rongo Keene",
-        "country": "AUS",
-        "power": 501.5,
-        "percent": 10.3
-      },
-      {
-        "rank": "2",
-        "person_name": "Maxime Boudreault",
-        "country": "CAN",
-        "power": 1025.0,
-        "percent": 21.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Eythór Ingólfsson Melsted",
-        "country": "ISL",
-        "power": 202.4,
-        "percent": 4.1
-      },
-      {
-        "rank": "4",
-        "person_name": "Vilius Jokužys",
-        "country": "LTU",
-        "power": 1504.4,
-        "percent": 30.8
-      },
-      {
-        "rank": "5",
-        "person_name": "Colten Sloan",
-        "country": "CAN",
-        "power": 1651.6,
-        "percent": 33.8
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Rongo Keene",
-        "country": "AUS",
-        "score": 87.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Maxime Boudreault",
-        "country": "CAN",
-        "score": 81.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Eythór Ingólfsson Melsted",
-        "country": "ISL",
-        "score": 79
-      },
-      {
-        "rank": "4",
-        "person_name": "Vilius Jokužys",
-        "country": "LTU",
-        "score": 72.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Colten Sloan",
-        "country": "CAN",
-        "score": 68.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Stefán Karel Torfason",
-        "country": "ISL",
-        "score": 65.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Ervin Toots",
-        "country": "EST",
-        "score": 65.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Mika Törrö",
-        "country": "FIN",
-        "score": 56.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Jacob Finerty",
-        "country": "USA",
-        "score": 54.5
-      },
-      {
-        "rank": "10",
-        "person_name": "James Jeffers",
-        "country": "CAN",
-        "score": 51.5
-      },
-      {
-        "rank": "11",
-        "person_name": "Kristján Jón Haraldsson",
-        "country": "ISL",
-        "score": 50
-      },
-      {
-        "rank": "12",
-        "person_name": "Kim Ujarak Lorentzen",
-        "country": "GRL",
-        "score": 46.5
-      },
-      {
-        "rank": "13",
-        "person_name": "Pierre Motal",
-        "country": "FRA",
-        "score": 33.5
-      },
-      {
-        "rank": "14",
-        "person_name": "Ryan England",
-        "country": "GBR",
-        "score": 26.5
-      }
-    ],
-    "difficulty_score": 73.4,
-    "competition_rank": 136
-  },
-  {
     "contest_id": 1343,
     "contest_name": "2022 Shaw Classic Open (Men)",
     "details": "Loveland, Colorado, 2022-08-13 to 2022-08-14",
@@ -16605,6 +16469,142 @@
       }
     ],
     "difficulty_score": 73.3,
+    "competition_rank": 136
+  },
+  {
+    "contest_id": 1273,
+    "contest_name": "2022 Magnús Ver Magnússon Strongman Classic",
+    "details": "Iceland, 2022-11-18 to 2022-11-20",
+    "tier": "TIER_2",
+    "tier_multiplier": 3.0,
+    "recency_multiplier": 0.5,
+    "division": "men",
+    "total_competitors": 14,
+    "raw_difficulty": 4875.615432780796,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Rongo Keene",
+        "country": "AUS",
+        "power": 501.5,
+        "percent": 10.3
+      },
+      {
+        "rank": "2",
+        "person_name": "Maxime Boudreault",
+        "country": "CAN",
+        "power": 1025.0,
+        "percent": 21.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Eythór Ingólfsson Melsted",
+        "country": "ISL",
+        "power": 193.1,
+        "percent": 4.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Vilius Jokužys",
+        "country": "LTU",
+        "power": 1504.4,
+        "percent": 30.9
+      },
+      {
+        "rank": "5",
+        "person_name": "Colten Sloan",
+        "country": "CAN",
+        "power": 1651.6,
+        "percent": 33.9
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Rongo Keene",
+        "country": "AUS",
+        "score": 87.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Maxime Boudreault",
+        "country": "CAN",
+        "score": 81.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Eythór Ingólfsson Melsted",
+        "country": "ISL",
+        "score": 79
+      },
+      {
+        "rank": "4",
+        "person_name": "Vilius Jokužys",
+        "country": "LTU",
+        "score": 72.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Colten Sloan",
+        "country": "CAN",
+        "score": 68.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Stefán Karel Torfason",
+        "country": "ISL",
+        "score": 65.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Ervin Toots",
+        "country": "EST",
+        "score": 65.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Mika Törrö",
+        "country": "FIN",
+        "score": 56.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Jacob Finerty",
+        "country": "USA",
+        "score": 54.5
+      },
+      {
+        "rank": "10",
+        "person_name": "James Jeffers",
+        "country": "CAN",
+        "score": 51.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Kristján Jón Haraldsson",
+        "country": "ISL",
+        "score": 50
+      },
+      {
+        "rank": "12",
+        "person_name": "Kim Ujarak Lorentzen",
+        "country": "GRL",
+        "score": 46.5
+      },
+      {
+        "rank": "13",
+        "person_name": "Pierre Motal",
+        "country": "FRA",
+        "score": 33.5
+      },
+      {
+        "rank": "14",
+        "person_name": "Ryan England",
+        "country": "GBR",
+        "score": 26.5
+      }
+    ],
+    "difficulty_score": 73.2,
     "competition_rank": 137
   },
   {
@@ -16952,14 +16952,14 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 4811.442528341549,
+    "raw_difficulty": 4805.706645476433,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 646.2,
-        "percent": 13.4
+        "power": 640.4,
+        "percent": 13.3
       },
       {
         "rank": "2",
@@ -16987,7 +16987,7 @@
         "person_name": "Adam Roszkowski",
         "country": "POL",
         "power": 1613.1,
-        "percent": 33.5
+        "percent": 33.6
       }
     ],
     "results": [
@@ -17064,7 +17064,7 @@
         "score": 16
       }
     ],
-    "difficulty_score": 71.8,
+    "difficulty_score": 71.7,
     "competition_rank": 141
   },
   {
@@ -17076,21 +17076,21 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 4799.8181278333805,
+    "raw_difficulty": 4794.082244968264,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Oskar Ziółkowski",
         "country": "POL",
         "power": 1135.1,
-        "percent": 23.6
+        "percent": 23.7
       },
       {
         "rank": "2",
         "person_name": "Aivars Šmaukstelis",
         "country": "LAT",
         "power": 995.3,
-        "percent": 20.7
+        "percent": 20.8
       },
       {
         "rank": "3",
@@ -17110,8 +17110,8 @@
         "rank": "5",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 646.2,
-        "percent": 13.5
+        "power": 640.4,
+        "percent": 13.4
       }
     ],
     "results": [
@@ -17188,7 +17188,7 @@
         "score": 10
       }
     ],
-    "difficulty_score": 71.5,
+    "difficulty_score": 71.4,
     "competition_rank": 142
   },
   {
@@ -19790,7 +19790,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 4357.191128306754,
+    "raw_difficulty": 4351.455245441637,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -19803,8 +19803,8 @@
         "rank": "2",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 646.2,
-        "percent": 14.8
+        "power": 640.4,
+        "percent": 14.7
       },
       {
         "rank": "3",
@@ -19890,7 +19890,7 @@
         "score": 13.5
       }
     ],
-    "difficulty_score": 61.9,
+    "difficulty_score": 61.7,
     "competition_rank": 165
   },
   {
@@ -21332,136 +21332,6 @@
     "competition_rank": 178
   },
   {
-    "contest_id": 1506,
-    "contest_name": "2024 SCL Hungary",
-    "details": "Budapest, Hungary, 2024-04-27",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 1.0,
-    "division": "men",
-    "total_competitors": 13,
-    "raw_difficulty": 4120.16312975883,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Adam Roszkowski",
-        "country": "POL",
-        "power": 1613.1,
-        "percent": 39.2
-      },
-      {
-        "rank": "2",
-        "person_name": "Frédérick Rhéaume",
-        "country": "CAN",
-        "power": 519.6,
-        "percent": 12.6
-      },
-      {
-        "rank": "3",
-        "person_name": "Péter Juhász",
-        "country": "HUN",
-        "power": 1218.2,
-        "percent": 29.6
-      },
-      {
-        "rank": "4",
-        "person_name": "Mitch Flowers",
-        "country": "GBR",
-        "power": 123.1,
-        "percent": 3.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Andrea Invernizzi",
-        "country": "ITA",
-        "power": 646.2,
-        "percent": 15.7
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Adam Roszkowski",
-        "country": "POL",
-        "score": 58
-      },
-      {
-        "rank": "2",
-        "person_name": "Frédérick Rhéaume",
-        "country": "CAN",
-        "score": 54
-      },
-      {
-        "rank": "3",
-        "person_name": "Péter Juhász",
-        "country": "HUN",
-        "score": 53
-      },
-      {
-        "rank": "4",
-        "person_name": "Mitch Flowers",
-        "country": "GBR",
-        "score": 45
-      },
-      {
-        "rank": "5",
-        "person_name": "Andrea Invernizzi",
-        "country": "ITA",
-        "score": 39.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Kevin Hazeleger",
-        "country": "NED",
-        "score": 38.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Alex Cristolovean",
-        "country": "ROU",
-        "score": 31.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Mika Törrö",
-        "country": "FIN",
-        "score": 28
-      },
-      {
-        "rank": "9",
-        "person_name": "Zdeněk Vávra",
-        "country": "CZE",
-        "score": 25.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Alex Véró",
-        "country": "HUN",
-        "score": 23
-      },
-      {
-        "rank": "11",
-        "person_name": "Hristo Muskov",
-        "country": "BUL",
-        "score": 22
-      },
-      {
-        "rank": "12",
-        "person_name": "Jesper Hansson",
-        "country": "SWE",
-        "score": 20
-      },
-      {
-        "rank": "13",
-        "person_name": "Damir Stroil",
-        "country": "BIH",
-        "score": 14
-      }
-    ],
-    "difficulty_score": 56.9,
-    "competition_rank": 179
-  },
-  {
     "contest_id": 2611,
     "contest_name": "2026 Devon's Strongest Man",
     "details": "Devon, Canada, 2026-06-06 to 2026-06-07",
@@ -21553,6 +21423,136 @@
       }
     ],
     "difficulty_score": 56.9,
+    "competition_rank": 179
+  },
+  {
+    "contest_id": 1506,
+    "contest_name": "2024 SCL Hungary",
+    "details": "Budapest, Hungary, 2024-04-27",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 1.0,
+    "division": "men",
+    "total_competitors": 13,
+    "raw_difficulty": 4114.427246893714,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Adam Roszkowski",
+        "country": "POL",
+        "power": 1613.1,
+        "percent": 39.2
+      },
+      {
+        "rank": "2",
+        "person_name": "Frédérick Rhéaume",
+        "country": "CAN",
+        "power": 519.6,
+        "percent": 12.6
+      },
+      {
+        "rank": "3",
+        "person_name": "Péter Juhász",
+        "country": "HUN",
+        "power": 1218.2,
+        "percent": 29.6
+      },
+      {
+        "rank": "4",
+        "person_name": "Mitch Flowers",
+        "country": "GBR",
+        "power": 123.1,
+        "percent": 3.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Andrea Invernizzi",
+        "country": "ITA",
+        "power": 640.4,
+        "percent": 15.6
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Adam Roszkowski",
+        "country": "POL",
+        "score": 58
+      },
+      {
+        "rank": "2",
+        "person_name": "Frédérick Rhéaume",
+        "country": "CAN",
+        "score": 54
+      },
+      {
+        "rank": "3",
+        "person_name": "Péter Juhász",
+        "country": "HUN",
+        "score": 53
+      },
+      {
+        "rank": "4",
+        "person_name": "Mitch Flowers",
+        "country": "GBR",
+        "score": 45
+      },
+      {
+        "rank": "5",
+        "person_name": "Andrea Invernizzi",
+        "country": "ITA",
+        "score": 39.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Kevin Hazeleger",
+        "country": "NED",
+        "score": 38.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Alex Cristolovean",
+        "country": "ROU",
+        "score": 31.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Mika Törrö",
+        "country": "FIN",
+        "score": 28
+      },
+      {
+        "rank": "9",
+        "person_name": "Zdeněk Vávra",
+        "country": "CZE",
+        "score": 25.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Alex Véró",
+        "country": "HUN",
+        "score": 23
+      },
+      {
+        "rank": "11",
+        "person_name": "Hristo Muskov",
+        "country": "BUL",
+        "score": 22
+      },
+      {
+        "rank": "12",
+        "person_name": "Jesper Hansson",
+        "country": "SWE",
+        "score": 20
+      },
+      {
+        "rank": "13",
+        "person_name": "Damir Stroil",
+        "country": "BIH",
+        "score": 14
+      }
+    ],
+    "difficulty_score": 56.8,
     "competition_rank": 180
   },
   {
@@ -22302,7 +22302,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 4042.976555757585,
+    "raw_difficulty": 4037.240672892469,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -22336,8 +22336,8 @@
         "rank": "5",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 646.2,
-        "percent": 16.0
+        "power": 640.4,
+        "percent": 15.9
       }
     ],
     "results": [
@@ -22414,7 +22414,7 @@
         "score": 0
       }
     ],
-    "difficulty_score": 55.3,
+    "difficulty_score": 55.2,
     "competition_rank": 187
   },
   {
@@ -24576,6 +24576,118 @@
     "competition_rank": 206
   },
   {
+    "contest_id": 2589,
+    "contest_name": "2025 Lietuvos galiūnų čempionato",
+    "details": "Kupiškis, Lithuania, 2025-06-07",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 3.0,
+    "division": "men",
+    "total_competitors": 10,
+    "raw_difficulty": 3786.54049330191,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "power": 802.6,
+        "percent": 21.2
+      },
+      {
+        "rank": "2",
+        "person_name": "Modestas Struckus",
+        "country": "LTU",
+        "power": 1019.8,
+        "percent": 26.9
+      },
+      {
+        "rank": "3",
+        "person_name": "Saulius Skikas",
+        "country": "LTU",
+        "power": 551.6,
+        "percent": 14.6
+      },
+      {
+        "rank": "4",
+        "person_name": "Robertas Bartkevičius",
+        "country": "LTU",
+        "power": 695.8,
+        "percent": 18.4
+      },
+      {
+        "rank": "5",
+        "person_name": "Vytenis Pauža",
+        "country": "LTU",
+        "power": 716.7,
+        "percent": 18.9
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "score": 56
+      },
+      {
+        "rank": "2",
+        "person_name": "Modestas Struckus",
+        "country": "LTU",
+        "score": 53
+      },
+      {
+        "rank": "3",
+        "person_name": "Saulius Skikas",
+        "country": "LTU",
+        "score": 44
+      },
+      {
+        "rank": "4",
+        "person_name": "Robertas Bartkevičius",
+        "country": "LTU",
+        "score": 40.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Vytenis Pauža",
+        "country": "LTU",
+        "score": 37.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Donatas Maskolaitis",
+        "country": "LTU",
+        "score": 28.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Tomas Šliupas",
+        "country": "LTU",
+        "score": 19
+      },
+      {
+        "rank": "8",
+        "person_name": "Liutauras Kazlauskas",
+        "country": "LTU",
+        "score": 13
+      },
+      {
+        "rank": "9",
+        "person_name": "Augustinas Motiejūnas",
+        "country": "LTU",
+        "score": 10.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Ramūnas Liebus",
+        "country": "LTU",
+        "score": 8
+      }
+    ],
+    "difficulty_score": 50.1,
+    "competition_rank": 207
+  },
+  {
     "contest_id": 1495,
     "contest_name": "2023 Arnold Europe",
     "details": "Madrid, Spain, 2023-10-14",
@@ -24584,42 +24696,42 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 29,
-    "raw_difficulty": 3797.7963035200682,
+    "raw_difficulty": 3769.384779537452,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Nicolas Cambi",
         "country": "ITA",
-        "power": 674.5,
-        "percent": 17.8
+        "power": 646.1,
+        "percent": 17.1
       },
       {
         "rank": "2",
         "person_name": "Henrik Hildeskor",
         "country": "NOR",
         "power": 914.6,
-        "percent": 24.1
+        "percent": 24.3
       },
       {
         "rank": "3",
         "person_name": "Anders Aslak",
         "country": "DEN",
         "power": 559.3,
-        "percent": 14.7
+        "percent": 14.8
       },
       {
         "rank": "4",
         "person_name": "Tomas Šliupas",
         "country": "LTU",
         "power": 1216.5,
-        "percent": 32.0
+        "percent": 32.3
       },
       {
         "rank": "5",
         "person_name": "Avtandil Karmazanashvili",
         "country": "GEO",
         "power": 432.9,
-        "percent": 11.4
+        "percent": 11.5
       }
     ],
     "results": [
@@ -24798,119 +24910,7 @@
         "score": 3
       }
     ],
-    "difficulty_score": 50.3,
-    "competition_rank": 207
-  },
-  {
-    "contest_id": 2589,
-    "contest_name": "2025 Lietuvos galiūnų čempionato",
-    "details": "Kupiškis, Lithuania, 2025-06-07",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 3.0,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 3786.54049330191,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Audrius Jokūbaitis",
-        "country": "LTU",
-        "power": 802.6,
-        "percent": 21.2
-      },
-      {
-        "rank": "2",
-        "person_name": "Modestas Struckus",
-        "country": "LTU",
-        "power": 1019.8,
-        "percent": 26.9
-      },
-      {
-        "rank": "3",
-        "person_name": "Saulius Skikas",
-        "country": "LTU",
-        "power": 551.6,
-        "percent": 14.6
-      },
-      {
-        "rank": "4",
-        "person_name": "Robertas Bartkevičius",
-        "country": "LTU",
-        "power": 695.8,
-        "percent": 18.4
-      },
-      {
-        "rank": "5",
-        "person_name": "Vytenis Pauža",
-        "country": "LTU",
-        "power": 716.7,
-        "percent": 18.9
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Audrius Jokūbaitis",
-        "country": "LTU",
-        "score": 56
-      },
-      {
-        "rank": "2",
-        "person_name": "Modestas Struckus",
-        "country": "LTU",
-        "score": 53
-      },
-      {
-        "rank": "3",
-        "person_name": "Saulius Skikas",
-        "country": "LTU",
-        "score": 44
-      },
-      {
-        "rank": "4",
-        "person_name": "Robertas Bartkevičius",
-        "country": "LTU",
-        "score": 40.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Vytenis Pauža",
-        "country": "LTU",
-        "score": 37.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Donatas Maskolaitis",
-        "country": "LTU",
-        "score": 28.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Tomas Šliupas",
-        "country": "LTU",
-        "score": 19
-      },
-      {
-        "rank": "8",
-        "person_name": "Liutauras Kazlauskas",
-        "country": "LTU",
-        "score": 13
-      },
-      {
-        "rank": "9",
-        "person_name": "Augustinas Motiejūnas",
-        "country": "LTU",
-        "score": 10.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Ramūnas Liebus",
-        "country": "LTU",
-        "score": 8
-      }
-    ],
-    "difficulty_score": 50.1,
+    "difficulty_score": 49.8,
     "competition_rank": 208
   },
   {
@@ -25416,7 +25416,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 13,
-    "raw_difficulty": 3730.32314422751,
+    "raw_difficulty": 3724.5872613623933,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -25443,8 +25443,8 @@
         "rank": "4",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 646.2,
-        "percent": 17.3
+        "power": 640.4,
+        "percent": 17.2
       },
       {
         "rank": "5",
@@ -25534,7 +25534,7 @@
         "score": 1
       }
     ],
-    "difficulty_score": 49.0,
+    "difficulty_score": 48.9,
     "competition_rank": 214
   },
   {
@@ -27078,160 +27078,6 @@
     "competition_rank": 227
   },
   {
-    "contest_id": 1432,
-    "contest_name": "2023 Pahlavon Mahmud Strongman Grand Prix",
-    "details": "Khiva, Uzbekistan, 2023-06-09 to 2023-06-10",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 0.5,
-    "division": "men",
-    "total_competitors": 17,
-    "raw_difficulty": 3600.327209433435,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Reza Gheitasi",
-        "country": "IRI",
-        "power": 468.2,
-        "percent": 13.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Audrius Jokūbaitis",
-        "country": "LTU",
-        "power": 802.6,
-        "percent": 22.3
-      },
-      {
-        "rank": "3",
-        "person_name": "Pavlo Nakonechnyy",
-        "country": "UKR",
-        "power": 253.9,
-        "percent": 7.1
-      },
-      {
-        "rank": "4",
-        "person_name": "Vilius Jokužys",
-        "country": "ISL",
-        "power": 1504.4,
-        "percent": 41.8
-      },
-      {
-        "rank": "5",
-        "person_name": "Didzis Zariņš",
-        "country": "LAT",
-        "power": 571.2,
-        "percent": 15.9
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Reza Gheitasi",
-        "country": "IRI",
-        "score": 101.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Audrius Jokūbaitis",
-        "country": "LTU",
-        "score": 96.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Pavlo Nakonechnyy",
-        "country": "UKR",
-        "score": 95
-      },
-      {
-        "rank": "4",
-        "person_name": "Vilius Jokužys",
-        "country": "ISL",
-        "score": 90
-      },
-      {
-        "rank": "5",
-        "person_name": "Didzis Zariņš",
-        "country": "LAT",
-        "score": 89
-      },
-      {
-        "rank": "6",
-        "person_name": "Macauley Tinker",
-        "country": "AUS",
-        "score": 85.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Håkon Heitmann Kollerød",
-        "country": "NOR",
-        "score": 83.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Cim Johansson",
-        "country": "SWE",
-        "score": 83
-      },
-      {
-        "rank": "9",
-        "person_name": "Muhammad Ali Tokhtamatov",
-        "country": "KYR",
-        "score": 67
-      },
-      {
-        "rank": "10",
-        "person_name": "Avazjon Khaydarov",
-        "country": "UZB",
-        "score": 58
-      },
-      {
-        "rank": "11",
-        "person_name": "Ashish Dayma",
-        "country": "IND",
-        "score": 53
-      },
-      {
-        "rank": "12",
-        "person_name": "Lukáš Svoboda",
-        "country": "CZE",
-        "score": 52
-      },
-      {
-        "rank": "13",
-        "person_name": "Dilmurod Qurbonov",
-        "country": "UZB",
-        "score": 30
-      },
-      {
-        "rank": "14",
-        "person_name": "Arsen Ulfanov",
-        "country": "KAZ",
-        "score": 25
-      },
-      {
-        "rank": "15",
-        "person_name": "Navruz Arabov",
-        "country": "TJK",
-        "score": 11
-      },
-      {
-        "rank": "16",
-        "person_name": "Robert Cyrwus",
-        "country": "POL",
-        "score": 3
-      },
-      {
-        "rank": "17",
-        "person_name": "Ibrahim Eid",
-        "country": "EGY",
-        "score": 0
-      }
-    ],
-    "difficulty_score": 46.5,
-    "competition_rank": 228
-  },
-  {
     "contest_id": 1904,
     "contest_name": "2025 Czechia's Strongest Man",
     "details": "Aš, Czech Republic, 2025-05-17",
@@ -27359,6 +27205,160 @@
       }
     ],
     "difficulty_score": 46.1,
+    "competition_rank": 228
+  },
+  {
+    "contest_id": 1432,
+    "contest_name": "2023 Pahlavon Mahmud Strongman Grand Prix",
+    "details": "Khiva, Uzbekistan, 2023-06-09 to 2023-06-10",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 0.5,
+    "division": "men",
+    "total_competitors": 17,
+    "raw_difficulty": 3564.273251866274,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Reza Gheitasi",
+        "country": "IRI",
+        "power": 468.2,
+        "percent": 13.1
+      },
+      {
+        "rank": "2",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "power": 802.6,
+        "percent": 22.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Pavlo Nakonechnyy",
+        "country": "UKR",
+        "power": 217.9,
+        "percent": 6.1
+      },
+      {
+        "rank": "4",
+        "person_name": "Vilius Jokužys",
+        "country": "ISL",
+        "power": 1504.4,
+        "percent": 42.2
+      },
+      {
+        "rank": "5",
+        "person_name": "Didzis Zariņš",
+        "country": "LAT",
+        "power": 571.2,
+        "percent": 16.0
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Reza Gheitasi",
+        "country": "IRI",
+        "score": 101.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "score": 96.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Pavlo Nakonechnyy",
+        "country": "UKR",
+        "score": 95
+      },
+      {
+        "rank": "4",
+        "person_name": "Vilius Jokužys",
+        "country": "ISL",
+        "score": 90
+      },
+      {
+        "rank": "5",
+        "person_name": "Didzis Zariņš",
+        "country": "LAT",
+        "score": 89
+      },
+      {
+        "rank": "6",
+        "person_name": "Macauley Tinker",
+        "country": "AUS",
+        "score": 85.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Håkon Heitmann Kollerød",
+        "country": "NOR",
+        "score": 83.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Cim Johansson",
+        "country": "SWE",
+        "score": 83
+      },
+      {
+        "rank": "9",
+        "person_name": "Muhammad Ali Tokhtamatov",
+        "country": "KYR",
+        "score": 67
+      },
+      {
+        "rank": "10",
+        "person_name": "Avazjon Khaydarov",
+        "country": "UZB",
+        "score": 58
+      },
+      {
+        "rank": "11",
+        "person_name": "Ashish Dayma",
+        "country": "IND",
+        "score": 53
+      },
+      {
+        "rank": "12",
+        "person_name": "Lukáš Svoboda",
+        "country": "CZE",
+        "score": 52
+      },
+      {
+        "rank": "13",
+        "person_name": "Dilmurod Qurbonov",
+        "country": "UZB",
+        "score": 30
+      },
+      {
+        "rank": "14",
+        "person_name": "Arsen Ulfanov",
+        "country": "KAZ",
+        "score": 25
+      },
+      {
+        "rank": "15",
+        "person_name": "Navruz Arabov",
+        "country": "TJK",
+        "score": 11
+      },
+      {
+        "rank": "16",
+        "person_name": "Robert Cyrwus",
+        "country": "POL",
+        "score": 3
+      },
+      {
+        "rank": "17",
+        "person_name": "Ibrahim Eid",
+        "country": "EGY",
+        "score": 0
+      }
+    ],
+    "difficulty_score": 45.8,
     "competition_rank": 229
   },
   {
@@ -38540,106 +38540,6 @@
     "competition_rank": 328
   },
   {
-    "contest_id": 2808,
-    "contest_name": "2026 South Africa's Strongest Man",
-    "details": "Hartbeespoort, South Africa, 2026-08-01",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 5.0,
-    "division": "men",
-    "total_competitors": 8,
-    "raw_difficulty": 2752.2456496151262,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Armand Goosen",
-        "country": "RSA",
-        "power": 1020.8,
-        "percent": 37.1
-      },
-      {
-        "rank": "2",
-        "person_name": "Ben Bucarizza",
-        "country": "RSA",
-        "power": 402.3,
-        "percent": 14.6
-      },
-      {
-        "rank": "3",
-        "person_name": "Jacque de Jager",
-        "country": "RSA",
-        "power": 665.4,
-        "percent": 24.2
-      },
-      {
-        "rank": "4",
-        "person_name": "David Bezuidenhout",
-        "country": "RSA",
-        "power": 370.3,
-        "percent": 13.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Juan Fourie",
-        "country": "RSA",
-        "power": 293.5,
-        "percent": 10.7
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Armand Goosen",
-        "country": "RSA",
-        "score": 35
-      },
-      {
-        "rank": "2",
-        "person_name": "Ben Bucarizza",
-        "country": "RSA",
-        "score": 34
-      },
-      {
-        "rank": "3",
-        "person_name": "Jacque de Jager",
-        "country": "RSA",
-        "score": 25
-      },
-      {
-        "rank": "4",
-        "person_name": "David Bezuidenhout",
-        "country": "RSA",
-        "score": 21
-      },
-      {
-        "rank": "5",
-        "person_name": "Juan Fourie",
-        "country": "RSA",
-        "score": 20
-      },
-      {
-        "rank": "6",
-        "person_name": "Jacques Boshoff",
-        "country": "RSA",
-        "score": 18
-      },
-      {
-        "rank": "7",
-        "person_name": "Xolani Nkutha",
-        "country": "RSA",
-        "score": 16
-      },
-      {
-        "rank": "8",
-        "person_name": "Keagan Potgieter",
-        "country": "RSA",
-        "score": 5
-      }
-    ],
-    "difficulty_score": 31.1,
-    "competition_rank": 329
-  },
-  {
     "contest_id": 2801,
     "contest_name": "2026 Black Sea Open Cup",
     "details": "Batumi, Georgia, 2026-07-25",
@@ -38755,6 +38655,106 @@
       }
     ],
     "difficulty_score": 31.0,
+    "competition_rank": 329
+  },
+  {
+    "contest_id": 2808,
+    "contest_name": "2026 South Africa's Strongest Man",
+    "details": "Hartbeespoort, South Africa, 2026-08-01",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 5.0,
+    "division": "men",
+    "total_competitors": 8,
+    "raw_difficulty": 2748.3710969544127,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Armand Goosen",
+        "country": "RSA",
+        "power": 1016.9,
+        "percent": 37.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Ben Bucarizza",
+        "country": "RSA",
+        "power": 402.3,
+        "percent": 14.6
+      },
+      {
+        "rank": "3",
+        "person_name": "Jacque de Jager",
+        "country": "RSA",
+        "power": 665.4,
+        "percent": 24.2
+      },
+      {
+        "rank": "4",
+        "person_name": "David Bezuidenhout",
+        "country": "RSA",
+        "power": 370.3,
+        "percent": 13.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Juan Fourie",
+        "country": "RSA",
+        "power": 293.5,
+        "percent": 10.7
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Armand Goosen",
+        "country": "RSA",
+        "score": 35
+      },
+      {
+        "rank": "2",
+        "person_name": "Ben Bucarizza",
+        "country": "RSA",
+        "score": 34
+      },
+      {
+        "rank": "3",
+        "person_name": "Jacque de Jager",
+        "country": "RSA",
+        "score": 25
+      },
+      {
+        "rank": "4",
+        "person_name": "David Bezuidenhout",
+        "country": "RSA",
+        "score": 21
+      },
+      {
+        "rank": "5",
+        "person_name": "Juan Fourie",
+        "country": "RSA",
+        "score": 20
+      },
+      {
+        "rank": "6",
+        "person_name": "Jacques Boshoff",
+        "country": "RSA",
+        "score": 18
+      },
+      {
+        "rank": "7",
+        "person_name": "Xolani Nkutha",
+        "country": "RSA",
+        "score": 16
+      },
+      {
+        "rank": "8",
+        "person_name": "Keagan Potgieter",
+        "country": "RSA",
+        "score": 5
+      }
+    ],
+    "difficulty_score": 31.0,
     "competition_rank": 330
   },
   {
@@ -38844,130 +38844,6 @@
     ],
     "difficulty_score": 30.9,
     "competition_rank": 331
-  },
-  {
-    "contest_id": 1641,
-    "contest_name": "2025 SCL World's Strongest Latino",
-    "details": "Esposende, Portugal, 2025-08-02",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 3.0,
-    "division": "men",
-    "total_competitors": 12,
-    "raw_difficulty": 2736.655789628224,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Andrea Invernizzi",
-        "country": "ITA",
-        "power": 646.2,
-        "percent": 23.6
-      },
-      {
-        "rank": "2",
-        "person_name": "Gianluca Ardenghi",
-        "country": "ARG",
-        "power": 617.1,
-        "percent": 22.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Alexandre Hulin",
-        "country": "FRA",
-        "power": 433.9,
-        "percent": 15.9
-      },
-      {
-        "rank": "4",
-        "person_name": "Uriel Gutiérrez",
-        "country": "MEX",
-        "power": 860.6,
-        "percent": 31.4
-      },
-      {
-        "rank": "5",
-        "person_name": "Flávio Nunes",
-        "country": "BRA",
-        "power": 178.8,
-        "percent": 6.5
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Andrea Invernizzi",
-        "country": "ITA",
-        "score": 52
-      },
-      {
-        "rank": "2",
-        "person_name": "Gianluca Ardenghi",
-        "country": "ARG",
-        "score": 47
-      },
-      {
-        "rank": "3",
-        "person_name": "Alexandre Hulin",
-        "country": "FRA",
-        "score": 44
-      },
-      {
-        "rank": "4",
-        "person_name": "Uriel Gutiérrez",
-        "country": "MEX",
-        "score": 43
-      },
-      {
-        "rank": "5",
-        "person_name": "Flávio Nunes",
-        "country": "BRA",
-        "score": 38.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Diogo Mota",
-        "country": "POR",
-        "score": 31
-      },
-      {
-        "rank": "7",
-        "person_name": "Adel Esteves",
-        "country": "FRA",
-        "score": 30
-      },
-      {
-        "rank": "8",
-        "person_name": "Walid Hammoud",
-        "country": "FRA",
-        "score": 26
-      },
-      {
-        "rank": "9",
-        "person_name": "Lucas Rogerio",
-        "country": "BRA",
-        "score": 23
-      },
-      {
-        "rank": "10",
-        "person_name": "Jean-François Dubois",
-        "country": "VEN",
-        "score": 21.5
-      },
-      {
-        "rank": "11",
-        "person_name": "Juan Ferrer",
-        "country": "ESP",
-        "score": 16
-      },
-      {
-        "rank": "12",
-        "person_name": "Daniel Aroca",
-        "country": "ESP",
-        "score": 4
-      }
-    ],
-    "difficulty_score": 30.8,
-    "competition_rank": 332
   },
   {
     "contest_id": 1912,
@@ -39061,6 +38937,130 @@
       }
     ],
     "difficulty_score": 30.8,
+    "competition_rank": 332
+  },
+  {
+    "contest_id": 1641,
+    "contest_name": "2025 SCL World's Strongest Latino",
+    "details": "Esposende, Portugal, 2025-08-02",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 3.0,
+    "division": "men",
+    "total_competitors": 12,
+    "raw_difficulty": 2730.9199067631075,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Andrea Invernizzi",
+        "country": "ITA",
+        "power": 640.4,
+        "percent": 23.4
+      },
+      {
+        "rank": "2",
+        "person_name": "Gianluca Ardenghi",
+        "country": "ARG",
+        "power": 617.1,
+        "percent": 22.6
+      },
+      {
+        "rank": "3",
+        "person_name": "Alexandre Hulin",
+        "country": "FRA",
+        "power": 433.9,
+        "percent": 15.9
+      },
+      {
+        "rank": "4",
+        "person_name": "Uriel Gutiérrez",
+        "country": "MEX",
+        "power": 860.6,
+        "percent": 31.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Flávio Nunes",
+        "country": "BRA",
+        "power": 178.8,
+        "percent": 6.5
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Andrea Invernizzi",
+        "country": "ITA",
+        "score": 52
+      },
+      {
+        "rank": "2",
+        "person_name": "Gianluca Ardenghi",
+        "country": "ARG",
+        "score": 47
+      },
+      {
+        "rank": "3",
+        "person_name": "Alexandre Hulin",
+        "country": "FRA",
+        "score": 44
+      },
+      {
+        "rank": "4",
+        "person_name": "Uriel Gutiérrez",
+        "country": "MEX",
+        "score": 43
+      },
+      {
+        "rank": "5",
+        "person_name": "Flávio Nunes",
+        "country": "BRA",
+        "score": 38.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Diogo Mota",
+        "country": "POR",
+        "score": 31
+      },
+      {
+        "rank": "7",
+        "person_name": "Adel Esteves",
+        "country": "FRA",
+        "score": 30
+      },
+      {
+        "rank": "8",
+        "person_name": "Walid Hammoud",
+        "country": "FRA",
+        "score": 26
+      },
+      {
+        "rank": "9",
+        "person_name": "Lucas Rogerio",
+        "country": "BRA",
+        "score": 23
+      },
+      {
+        "rank": "10",
+        "person_name": "Jean-François Dubois",
+        "country": "VEN",
+        "score": 21.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Juan Ferrer",
+        "country": "ESP",
+        "score": 16
+      },
+      {
+        "rank": "12",
+        "person_name": "Daniel Aroca",
+        "country": "ESP",
+        "score": 4
+      }
+    ],
+    "difficulty_score": 30.7,
     "competition_rank": 333
   },
   {
@@ -39196,35 +39196,35 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 2687.6867352066547,
+    "raw_difficulty": 2681.950852341538,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Nathan Goltry",
         "country": "USA",
         "power": 130.1,
-        "percent": 4.8
+        "percent": 4.9
       },
       {
         "rank": "2",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 646.2,
-        "percent": 24.0
+        "power": 640.4,
+        "percent": 23.9
       },
       {
         "rank": "3",
         "person_name": "Aivars Šmaukstelis",
         "country": "LAT",
         "power": 995.3,
-        "percent": 37.0
+        "percent": 37.1
       },
       {
         "rank": "4",
         "person_name": "Kane Francis",
         "country": "GBR",
         "power": 532.8,
-        "percent": 19.8
+        "percent": 19.9
       },
       {
         "rank": "5",
@@ -39308,7 +39308,7 @@
         "score": 6
       }
     ],
-    "difficulty_score": 30.0,
+    "difficulty_score": 29.9,
     "competition_rank": 335
   },
   {
@@ -40460,106 +40460,6 @@
     "competition_rank": 346
   },
   {
-    "contest_id": 2510,
-    "contest_name": "2025 South Africa's Strongest Man",
-    "details": "South Africa, 2025-07-05",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 3.0,
-    "division": "men",
-    "total_competitors": 8,
-    "raw_difficulty": 2619.2755777511743,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Kelin Mills",
-        "country": "RSA",
-        "power": 622.9,
-        "percent": 23.8
-      },
-      {
-        "rank": "2",
-        "person_name": "Dean Shelley",
-        "country": "RSA",
-        "power": 472.1,
-        "percent": 18.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Armand Goosen",
-        "country": "RSA",
-        "power": 1020.8,
-        "percent": 39.0
-      },
-      {
-        "rank": "4",
-        "person_name": "David Bezuidenhout",
-        "country": "RSA",
-        "power": 370.3,
-        "percent": 14.1
-      },
-      {
-        "rank": "5",
-        "person_name": "Majaya David Mberi",
-        "country": "ZAM",
-        "power": 133.2,
-        "percent": 5.1
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Kelin Mills",
-        "country": "RSA",
-        "score": 0
-      },
-      {
-        "rank": "2",
-        "person_name": "Dean Shelley",
-        "country": "RSA",
-        "score": 0
-      },
-      {
-        "rank": "3",
-        "person_name": "Armand Goosen",
-        "country": "RSA",
-        "score": 0
-      },
-      {
-        "rank": "4",
-        "person_name": "David Bezuidenhout",
-        "country": "RSA",
-        "score": 0
-      },
-      {
-        "rank": "5",
-        "person_name": "Majaya David Mberi",
-        "country": "ZAM",
-        "score": 0
-      },
-      {
-        "rank": "6",
-        "person_name": "Jan Botha",
-        "country": "RSA",
-        "score": 0
-      },
-      {
-        "rank": "7",
-        "person_name": "Jacques Boshoff",
-        "country": "RSA",
-        "score": 0
-      },
-      {
-        "rank": "8",
-        "person_name": "Juan Fourie",
-        "country": "RSA",
-        "score": 0
-      }
-    ],
-    "difficulty_score": 28.8,
-    "competition_rank": 347
-  },
-  {
     "contest_id": 2803,
     "contest_name": "2026 Harlem European Strongman Cup",
     "details": "Mrągowo, Poland, 2026-07-11",
@@ -40645,7 +40545,7 @@
       }
     ],
     "difficulty_score": 28.5,
-    "competition_rank": 348
+    "competition_rank": 347
   },
   {
     "contest_id": 2895,
@@ -40739,119 +40639,7 @@
       }
     ],
     "difficulty_score": 28.5,
-    "competition_rank": 349
-  },
-  {
-    "contest_id": 1105,
-    "contest_name": "2021 Africa's Strongest Man",
-    "details": "Mossel Bay, South Africa, 2021-11-27 to 2021-11-28",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 2590.0528632231417,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Thobelani Mabaso",
-        "country": "RSA",
-        "power": 25.0,
-        "percent": 1.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Jaco Schoonwinkel",
-        "country": "RSA",
-        "power": 1588.6,
-        "percent": 61.3
-      },
-      {
-        "rank": "3",
-        "person_name": "Ben Bucarizza",
-        "country": "RSA",
-        "power": 402.3,
-        "percent": 15.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Chris van der Linde",
-        "country": "RSA",
-        "power": 102.0,
-        "percent": 3.9
-      },
-      {
-        "rank": "5",
-        "person_name": "Dean Shelley",
-        "country": "RSA",
-        "power": 472.1,
-        "percent": 18.2
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Thobelani Mabaso",
-        "country": "RSA",
-        "score": 49.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Jaco Schoonwinkel",
-        "country": "RSA",
-        "score": 49
-      },
-      {
-        "rank": "3",
-        "person_name": "Ben Bucarizza",
-        "country": "RSA",
-        "score": 41.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Chris van der Linde",
-        "country": "RSA",
-        "score": 39
-      },
-      {
-        "rank": "5",
-        "person_name": "Dean Shelley",
-        "country": "RSA",
-        "score": 35
-      },
-      {
-        "rank": "6",
-        "person_name": "Terence Bosman",
-        "country": "RSA",
-        "score": 31.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Greg Poolman",
-        "country": "RSA",
-        "score": 30
-      },
-      {
-        "rank": "8",
-        "person_name": "Victor Ampofo",
-        "country": "GHA",
-        "score": 25
-      },
-      {
-        "rank": "9",
-        "person_name": "Tewie Labuschagne",
-        "country": "RSA",
-        "score": 16.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Richard Banda",
-        "country": "ZAM",
-        "score": 3
-      }
-    ],
-    "difficulty_score": 28.4,
-    "competition_rank": 350
+    "competition_rank": 348
   },
   {
     "contest_id": 2009,
@@ -41053,7 +40841,7 @@
       }
     ],
     "difficulty_score": 28.4,
-    "competition_rank": 351
+    "competition_rank": 349
   },
   {
     "contest_id": 2814,
@@ -41165,7 +40953,107 @@
       }
     ],
     "difficulty_score": 28.4,
-    "competition_rank": 352
+    "competition_rank": 350
+  },
+  {
+    "contest_id": 2510,
+    "contest_name": "2025 South Africa's Strongest Man",
+    "details": "South Africa, 2025-07-05",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 3.0,
+    "division": "men",
+    "total_competitors": 8,
+    "raw_difficulty": 2588.1429976829613,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Kelin Mills",
+        "country": "RSA",
+        "power": 622.9,
+        "percent": 24.1
+      },
+      {
+        "rank": "2",
+        "person_name": "Dean Shelley",
+        "country": "RSA",
+        "power": 444.9,
+        "percent": 17.2
+      },
+      {
+        "rank": "3",
+        "person_name": "Armand Goosen",
+        "country": "RSA",
+        "power": 1016.9,
+        "percent": 39.3
+      },
+      {
+        "rank": "4",
+        "person_name": "David Bezuidenhout",
+        "country": "RSA",
+        "power": 370.3,
+        "percent": 14.3
+      },
+      {
+        "rank": "5",
+        "person_name": "Majaya David Mberi",
+        "country": "ZAM",
+        "power": 133.2,
+        "percent": 5.1
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Kelin Mills",
+        "country": "RSA",
+        "score": 0
+      },
+      {
+        "rank": "2",
+        "person_name": "Dean Shelley",
+        "country": "RSA",
+        "score": 0
+      },
+      {
+        "rank": "3",
+        "person_name": "Armand Goosen",
+        "country": "RSA",
+        "score": 0
+      },
+      {
+        "rank": "4",
+        "person_name": "David Bezuidenhout",
+        "country": "RSA",
+        "score": 0
+      },
+      {
+        "rank": "5",
+        "person_name": "Majaya David Mberi",
+        "country": "ZAM",
+        "score": 0
+      },
+      {
+        "rank": "6",
+        "person_name": "Jan Botha",
+        "country": "RSA",
+        "score": 0
+      },
+      {
+        "rank": "7",
+        "person_name": "Jacques Boshoff",
+        "country": "RSA",
+        "score": 0
+      },
+      {
+        "rank": "8",
+        "person_name": "Juan Fourie",
+        "country": "RSA",
+        "score": 0
+      }
+    ],
+    "difficulty_score": 28.3,
+    "competition_rank": 351
   },
   {
     "contest_id": 2850,
@@ -41283,7 +41171,7 @@
       }
     ],
     "difficulty_score": 28.3,
-    "competition_rank": 353
+    "competition_rank": 352
   },
   {
     "contest_id": 1591,
@@ -41383,7 +41271,7 @@
       }
     ],
     "difficulty_score": 28.2,
-    "competition_rank": 354
+    "competition_rank": 353
   },
   {
     "contest_id": 2005,
@@ -41483,7 +41371,7 @@
       }
     ],
     "difficulty_score": 28.1,
-    "competition_rank": 355
+    "competition_rank": 354
   },
   {
     "contest_id": 2817,
@@ -41613,7 +41501,7 @@
       }
     ],
     "difficulty_score": 28.1,
-    "competition_rank": 356
+    "competition_rank": 355
   },
   {
     "contest_id": 1304,
@@ -41749,7 +41637,7 @@
       }
     ],
     "difficulty_score": 28.0,
-    "competition_rank": 357
+    "competition_rank": 356
   },
   {
     "contest_id": 1311,
@@ -41873,7 +41761,7 @@
       }
     ],
     "difficulty_score": 27.7,
-    "competition_rank": 358
+    "competition_rank": 357
   },
   {
     "contest_id": 1710,
@@ -41979,7 +41867,7 @@
       }
     ],
     "difficulty_score": 27.7,
-    "competition_rank": 359
+    "competition_rank": 358
   },
   {
     "contest_id": 2014,
@@ -42139,7 +42027,7 @@
       }
     ],
     "difficulty_score": 27.6,
-    "competition_rank": 360
+    "competition_rank": 359
   },
   {
     "contest_id": 1545,
@@ -42275,7 +42163,7 @@
       }
     ],
     "difficulty_score": 27.5,
-    "competition_rank": 361
+    "competition_rank": 360
   },
   {
     "contest_id": 3059,
@@ -42399,6 +42287,118 @@
       }
     ],
     "difficulty_score": 27.5,
+    "competition_rank": 361
+  },
+  {
+    "contest_id": 1105,
+    "contest_name": "2021 Africa's Strongest Man",
+    "details": "Mossel Bay, South Africa, 2021-11-27 to 2021-11-28",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 0.25,
+    "division": "men",
+    "total_competitors": 10,
+    "raw_difficulty": 2533.7603287552015,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Thobelani Mabaso",
+        "country": "RSA",
+        "power": 25.0,
+        "percent": 1.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jaco Schoonwinkel",
+        "country": "RSA",
+        "power": 1588.6,
+        "percent": 62.7
+      },
+      {
+        "rank": "3",
+        "person_name": "Ben Bucarizza",
+        "country": "RSA",
+        "power": 402.3,
+        "percent": 15.9
+      },
+      {
+        "rank": "4",
+        "person_name": "Chris van der Linde",
+        "country": "RSA",
+        "power": 73.0,
+        "percent": 2.9
+      },
+      {
+        "rank": "5",
+        "person_name": "Dean Shelley",
+        "country": "RSA",
+        "power": 444.9,
+        "percent": 17.6
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Thobelani Mabaso",
+        "country": "RSA",
+        "score": 49.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Jaco Schoonwinkel",
+        "country": "RSA",
+        "score": 49
+      },
+      {
+        "rank": "3",
+        "person_name": "Ben Bucarizza",
+        "country": "RSA",
+        "score": 41.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Chris van der Linde",
+        "country": "RSA",
+        "score": 39
+      },
+      {
+        "rank": "5",
+        "person_name": "Dean Shelley",
+        "country": "RSA",
+        "score": 35
+      },
+      {
+        "rank": "6",
+        "person_name": "Terence Bosman",
+        "country": "RSA",
+        "score": 31.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Greg Poolman",
+        "country": "RSA",
+        "score": 30
+      },
+      {
+        "rank": "8",
+        "person_name": "Victor Ampofo",
+        "country": "GHA",
+        "score": 25
+      },
+      {
+        "rank": "9",
+        "person_name": "Tewie Labuschagne",
+        "country": "RSA",
+        "score": 16.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Richard Banda",
+        "country": "ZAM",
+        "score": 3
+      }
+    ],
+    "difficulty_score": 27.4,
     "competition_rank": 362
   },
   {
@@ -45286,94 +45286,6 @@
     "competition_rank": 387
   },
   {
-    "contest_id": 1494,
-    "contest_name": "2023 Italy's Strongest Man",
-    "details": "Vicopisano, Italy, 2023-10-28",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 1.0,
-    "division": "men",
-    "total_competitors": 6,
-    "raw_difficulty": 2263.7520154881286,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Nicolas Cambi",
-        "country": "ITA",
-        "power": 674.5,
-        "percent": 29.8
-      },
-      {
-        "rank": "2",
-        "person_name": "Andrea Invernizzi",
-        "country": "ITA",
-        "power": 646.2,
-        "percent": 28.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Alessandro Castelli",
-        "country": "ITA",
-        "power": 100.5,
-        "percent": 4.4
-      },
-      {
-        "rank": "4",
-        "person_name": "Emanuele Greco",
-        "country": "ITA",
-        "power": 210.9,
-        "percent": 9.3
-      },
-      {
-        "rank": "5",
-        "person_name": "Paolo Acquaviva",
-        "country": "ITA",
-        "power": 631.7,
-        "percent": 27.9
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Nicolas Cambi",
-        "country": "ITA",
-        "score": 27.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Andrea Invernizzi",
-        "country": "ITA",
-        "score": 25
-      },
-      {
-        "rank": "3",
-        "person_name": "Alessandro Castelli",
-        "country": "ITA",
-        "score": 16.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Emanuele Greco",
-        "country": "ITA",
-        "score": 16
-      },
-      {
-        "rank": "5",
-        "person_name": "Paolo Acquaviva",
-        "country": "ITA",
-        "score": 13
-      },
-      {
-        "rank": "6",
-        "person_name": "Emanuele Condoleo",
-        "country": "ITA",
-        "score": 5
-      }
-    ],
-    "difficulty_score": 23.2,
-    "competition_rank": 388
-  },
-  {
     "contest_id": 2098,
     "contest_name": "2025 Sword of Matúš Čák",
     "details": "Beckov, Slovakia, 2025-11-08",
@@ -45465,7 +45377,7 @@
       }
     ],
     "difficulty_score": 23.2,
-    "competition_rank": 389
+    "competition_rank": 388
   },
   {
     "contest_id": 2516,
@@ -45565,7 +45477,7 @@
       }
     ],
     "difficulty_score": 23.2,
-    "competition_rank": 390
+    "competition_rank": 389
   },
   {
     "contest_id": 1708,
@@ -45677,7 +45589,7 @@
       }
     ],
     "difficulty_score": 23.1,
-    "competition_rank": 391
+    "competition_rank": 390
   },
   {
     "contest_id": 1306,
@@ -45801,7 +45713,7 @@
       }
     ],
     "difficulty_score": 23.0,
-    "competition_rank": 392
+    "competition_rank": 391
   },
   {
     "contest_id": 1397,
@@ -45925,7 +45837,7 @@
       }
     ],
     "difficulty_score": 22.9,
-    "competition_rank": 393
+    "competition_rank": 392
   },
   {
     "contest_id": 2497,
@@ -46025,7 +45937,7 @@
       }
     ],
     "difficulty_score": 22.7,
-    "competition_rank": 394
+    "competition_rank": 393
   },
   {
     "contest_id": 2487,
@@ -46149,7 +46061,7 @@
       }
     ],
     "difficulty_score": 22.2,
-    "competition_rank": 395
+    "competition_rank": 394
   },
   {
     "contest_id": 2010,
@@ -46249,7 +46161,7 @@
       }
     ],
     "difficulty_score": 22.1,
-    "competition_rank": 396
+    "competition_rank": 395
   },
   {
     "contest_id": 1043,
@@ -46373,7 +46285,7 @@
       }
     ],
     "difficulty_score": 22.0,
-    "competition_rank": 397
+    "competition_rank": 396
   },
   {
     "contest_id": 2584,
@@ -46485,7 +46397,7 @@
       }
     ],
     "difficulty_score": 22.0,
-    "competition_rank": 398
+    "competition_rank": 397
   },
   {
     "contest_id": 2849,
@@ -46597,7 +46509,7 @@
       }
     ],
     "difficulty_score": 22.0,
-    "competition_rank": 399
+    "competition_rank": 398
   },
   {
     "contest_id": 1720,
@@ -46697,6 +46609,94 @@
       }
     ],
     "difficulty_score": 21.9,
+    "competition_rank": 399
+  },
+  {
+    "contest_id": 1494,
+    "contest_name": "2023 Italy's Strongest Man",
+    "details": "Vicopisano, Italy, 2023-10-28",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 0.5,
+    "division": "men",
+    "total_competitors": 6,
+    "raw_difficulty": 2172.6285616766136,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Nicolas Cambi",
+        "country": "ITA",
+        "power": 646.1,
+        "percent": 29.7
+      },
+      {
+        "rank": "2",
+        "person_name": "Andrea Invernizzi",
+        "country": "ITA",
+        "power": 640.4,
+        "percent": 29.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Alessandro Castelli",
+        "country": "ITA",
+        "power": 70.1,
+        "percent": 3.2
+      },
+      {
+        "rank": "4",
+        "person_name": "Emanuele Greco",
+        "country": "ITA",
+        "power": 194.3,
+        "percent": 8.9
+      },
+      {
+        "rank": "5",
+        "person_name": "Paolo Acquaviva",
+        "country": "ITA",
+        "power": 621.6,
+        "percent": 28.6
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Nicolas Cambi",
+        "country": "ITA",
+        "score": 27.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Andrea Invernizzi",
+        "country": "ITA",
+        "score": 25
+      },
+      {
+        "rank": "3",
+        "person_name": "Alessandro Castelli",
+        "country": "ITA",
+        "score": 16.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Emanuele Greco",
+        "country": "ITA",
+        "score": 16
+      },
+      {
+        "rank": "5",
+        "person_name": "Paolo Acquaviva",
+        "country": "ITA",
+        "score": 13
+      },
+      {
+        "rank": "6",
+        "person_name": "Emanuele Condoleo",
+        "country": "ITA",
+        "score": 5
+      }
+    ],
+    "difficulty_score": 21.8,
     "competition_rank": 400
   },
   {
@@ -48280,6 +48280,100 @@
     "competition_rank": 414
   },
   {
+    "contest_id": 2598,
+    "contest_name": "2026 Strongman Zalău",
+    "details": "Zalău, Romania, 2026-05-30",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 5.0,
+    "division": "men",
+    "total_competitors": 7,
+    "raw_difficulty": 1995.5839151543555,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Robert Marian Topîrceanu",
+        "country": "ROU",
+        "power": 528.1,
+        "percent": 26.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Péter Juhász",
+        "country": "HUN",
+        "power": 1218.2,
+        "percent": 61.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Alex Cristolovean",
+        "country": "ROU",
+        "power": 128.6,
+        "percent": 6.4
+      },
+      {
+        "rank": "4",
+        "person_name": "Marius Dobai",
+        "country": "ROU",
+        "power": 74.7,
+        "percent": 3.7
+      },
+      {
+        "rank": "5",
+        "person_name": "Sebastian Lapujan",
+        "country": "ROU",
+        "power": 46.0,
+        "percent": 2.3
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Robert Marian Topîrceanu",
+        "country": "ROU",
+        "score": 33
+      },
+      {
+        "rank": "2",
+        "person_name": "Péter Juhász",
+        "country": "HUN",
+        "score": 32
+      },
+      {
+        "rank": "3",
+        "person_name": "Alex Cristolovean",
+        "country": "ROU",
+        "score": 20
+      },
+      {
+        "rank": "4",
+        "person_name": "Marius Dobai",
+        "country": "ROU",
+        "score": 18
+      },
+      {
+        "rank": "5",
+        "person_name": "Sebastian Lapujan",
+        "country": "ROU",
+        "score": 15
+      },
+      {
+        "rank": "6",
+        "person_name": "Vlad Voinea",
+        "country": "ROU",
+        "score": 12
+      },
+      {
+        "rank": "7",
+        "person_name": "Vlăduț Angheloiu",
+        "country": "ROU",
+        "score": 10
+      }
+    ],
+    "difficulty_score": 19.2,
+    "competition_rank": 415
+  },
+  {
     "contest_id": 1128,
     "contest_name": "2021 Magnús Ver Magnússon Strongman Classic",
     "details": "Iceland, 2021-11-18 to 2021-11-20",
@@ -48288,35 +48382,35 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 14,
-    "raw_difficulty": 1996.483748003319,
+    "raw_difficulty": 1987.179447280802,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Maxime Boudreault",
         "country": "CAN",
         "power": 1025.0,
-        "percent": 51.3
+        "percent": 51.6
       },
       {
         "rank": "2",
         "person_name": "Eythór Ingólfsson Melsted",
         "country": "ISL",
-        "power": 202.4,
-        "percent": 10.1
+        "power": 193.1,
+        "percent": 9.7
       },
       {
         "rank": "3",
         "person_name": "Sami Ahola",
         "country": "FIN",
         "power": 108.4,
-        "percent": 5.4
+        "percent": 5.5
       },
       {
         "rank": "4",
         "person_name": "Kristján Jón Haraldsson",
         "country": "ISL",
         "power": 618.5,
-        "percent": 31.0
+        "percent": 31.1
       },
       {
         "rank": "5",
@@ -48412,102 +48506,90 @@
         "score": 11
       }
     ],
-    "difficulty_score": 19.2,
-    "competition_rank": 415
+    "difficulty_score": 19.1,
+    "competition_rank": 416
   },
   {
-    "contest_id": 2598,
-    "contest_name": "2026 Strongman Zalău",
-    "details": "Zalău, Romania, 2026-05-30",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
+    "contest_id": 2755,
+    "contest_name": "2026 Belgium's Strongest Man",
+    "details": "Herentals, Belgium, 2026-09-20",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
     "recency_multiplier": 5.0,
     "division": "men",
-    "total_competitors": 7,
-    "raw_difficulty": 1995.5839151543555,
+    "total_competitors": 5,
+    "raw_difficulty": 1977.2068175352213,
     "top_5_finishers": [
       {
         "rank": "1",
-        "person_name": "Robert Marian Topîrceanu",
-        "country": "ROU",
-        "power": 528.1,
-        "percent": 26.5
+        "person_name": "Mike De Clerck",
+        "country": "BEL",
+        "power": 500.0,
+        "percent": 25.3
       },
       {
         "rank": "2",
-        "person_name": "Péter Juhász",
-        "country": "HUN",
-        "power": 1218.2,
-        "percent": 61.0
+        "person_name": "Stijn van Bogaert",
+        "country": "BEL",
+        "power": 599.9,
+        "percent": 30.3
       },
       {
         "rank": "3",
-        "person_name": "Alex Cristolovean",
-        "country": "ROU",
-        "power": 128.6,
-        "percent": 6.4
+        "person_name": "Kevin Tancré",
+        "country": "BEL",
+        "power": 360.2,
+        "percent": 18.2
       },
       {
         "rank": "4",
-        "person_name": "Marius Dobai",
-        "country": "ROU",
-        "power": 74.7,
-        "percent": 3.7
+        "person_name": "Arjan Boghaert",
+        "country": "BEL",
+        "power": 333.2,
+        "percent": 16.9
       },
       {
         "rank": "5",
-        "person_name": "Sebastian Lapujan",
-        "country": "ROU",
-        "power": 46.0,
-        "percent": 2.3
+        "person_name": "Glenn Van Dierendonck",
+        "country": "BEL",
+        "power": 183.9,
+        "percent": 9.3
       }
     ],
     "results": [
       {
         "rank": "1",
-        "person_name": "Robert Marian Topîrceanu",
-        "country": "ROU",
-        "score": 33
+        "person_name": "Mike De Clerck",
+        "country": "BEL",
+        "score": 22.0
       },
       {
         "rank": "2",
-        "person_name": "Péter Juhász",
-        "country": "HUN",
-        "score": 32
+        "person_name": "Stijn van Bogaert",
+        "country": "BEL",
+        "score": 16.5
       },
       {
         "rank": "3",
-        "person_name": "Alex Cristolovean",
-        "country": "ROU",
-        "score": 20
+        "person_name": "Kevin Tancré",
+        "country": "BEL",
+        "score": 14.0
       },
       {
         "rank": "4",
-        "person_name": "Marius Dobai",
-        "country": "ROU",
-        "score": 18
+        "person_name": "Arjan Boghaert",
+        "country": "BEL",
+        "score": 13.5
       },
       {
         "rank": "5",
-        "person_name": "Sebastian Lapujan",
-        "country": "ROU",
-        "score": 15
-      },
-      {
-        "rank": "6",
-        "person_name": "Vlad Voinea",
-        "country": "ROU",
-        "score": 12
-      },
-      {
-        "rank": "7",
-        "person_name": "Vlăduț Angheloiu",
-        "country": "ROU",
-        "score": 10
+        "person_name": "Glenn Van Dierendonck",
+        "country": "BEL",
+        "score": 7.0
       }
     ],
-    "difficulty_score": 19.2,
-    "competition_rank": 416
+    "difficulty_score": 18.9,
+    "competition_rank": 417
   },
   {
     "contest_id": 1439,
@@ -48518,14 +48600,14 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 1973.3261557007995,
+    "raw_difficulty": 1967.590272835683,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Kane Francis",
         "country": "GBR",
         "power": 532.8,
-        "percent": 27.0
+        "percent": 27.1
       },
       {
         "rank": "2",
@@ -48545,8 +48627,8 @@
         "rank": "4",
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
-        "power": 646.2,
-        "percent": 32.7
+        "power": 640.4,
+        "percent": 32.5
       },
       {
         "rank": "5",
@@ -48630,89 +48712,7 @@
         "score": 6
       }
     ],
-    "difficulty_score": 18.9,
-    "competition_rank": 417
-  },
-  {
-    "contest_id": 2755,
-    "contest_name": "2026 Belgium's Strongest Man",
-    "details": "Herentals, Belgium, 2026-09-20",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 5.0,
-    "division": "men",
-    "total_competitors": 5,
-    "raw_difficulty": 1977.2068175352213,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Mike De Clerck",
-        "country": "BEL",
-        "power": 500.0,
-        "percent": 25.3
-      },
-      {
-        "rank": "2",
-        "person_name": "Stijn van Bogaert",
-        "country": "BEL",
-        "power": 599.9,
-        "percent": 30.3
-      },
-      {
-        "rank": "3",
-        "person_name": "Kevin Tancré",
-        "country": "BEL",
-        "power": 360.2,
-        "percent": 18.2
-      },
-      {
-        "rank": "4",
-        "person_name": "Arjan Boghaert",
-        "country": "BEL",
-        "power": 333.2,
-        "percent": 16.9
-      },
-      {
-        "rank": "5",
-        "person_name": "Glenn Van Dierendonck",
-        "country": "BEL",
-        "power": 183.9,
-        "percent": 9.3
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Mike De Clerck",
-        "country": "BEL",
-        "score": 22.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Stijn van Bogaert",
-        "country": "BEL",
-        "score": 16.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Kevin Tancré",
-        "country": "BEL",
-        "score": 14.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Arjan Boghaert",
-        "country": "BEL",
-        "score": 13.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Glenn Van Dierendonck",
-        "country": "BEL",
-        "score": 7.0
-      }
-    ],
-    "difficulty_score": 18.9,
+    "difficulty_score": 18.8,
     "competition_rank": 418
   },
   {
@@ -53014,88 +53014,6 @@
     "competition_rank": 456
   },
   {
-    "contest_id": 1974,
-    "contest_name": "2022 Italy's Strongest Man",
-    "details": "Vicopisano, Italy, 2022-10-22",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 5,
-    "raw_difficulty": 1608.7252699003934,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Andrea Invernizzi",
-        "country": "ITA",
-        "power": 646.2,
-        "percent": 40.2
-      },
-      {
-        "rank": "2",
-        "person_name": "Matteo Toninelli",
-        "country": "ITA",
-        "power": 19.5,
-        "percent": 1.2
-      },
-      {
-        "rank": "3",
-        "person_name": "Paolo Acquaviva",
-        "country": "ITA",
-        "power": 631.7,
-        "percent": 39.3
-      },
-      {
-        "rank": "4",
-        "person_name": "Alessandro Castelli",
-        "country": "ITA",
-        "power": 100.5,
-        "percent": 6.2
-      },
-      {
-        "rank": "5",
-        "person_name": "Emanuele Greco",
-        "country": "ITA",
-        "power": 210.9,
-        "percent": 13.1
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Andrea Invernizzi",
-        "country": "ITA",
-        "score": 19.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Matteo Toninelli",
-        "country": "ITA",
-        "score": 17
-      },
-      {
-        "rank": "3",
-        "person_name": "Paolo Acquaviva",
-        "country": "ITA",
-        "score": 14
-      },
-      {
-        "rank": "4",
-        "person_name": "Alessandro Castelli",
-        "country": "ITA",
-        "score": 13.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Emanuele Greco",
-        "country": "ITA",
-        "score": 10
-      }
-    ],
-    "difficulty_score": 13.9,
-    "competition_rank": 457
-  },
-  {
     "contest_id": 3065,
     "contest_name": "2026 U120 Norway's Strongest Man",
     "details": "Larvik, Norway, 2026-09-04 to 2026-09-05",
@@ -53193,7 +53111,7 @@
       }
     ],
     "difficulty_score": 13.9,
-    "competition_rank": 458
+    "competition_rank": 457
   },
   {
     "contest_id": 1781,
@@ -53323,7 +53241,7 @@
       }
     ],
     "difficulty_score": 13.8,
-    "competition_rank": 459
+    "competition_rank": 458
   },
   {
     "contest_id": 1966,
@@ -53423,7 +53341,7 @@
       }
     ],
     "difficulty_score": 13.7,
-    "competition_rank": 460
+    "competition_rank": 459
   },
   {
     "contest_id": 2007,
@@ -53535,7 +53453,7 @@
       }
     ],
     "difficulty_score": 13.7,
-    "competition_rank": 461
+    "competition_rank": 460
   },
   {
     "contest_id": 2811,
@@ -53623,7 +53541,7 @@
       }
     ],
     "difficulty_score": 13.6,
-    "competition_rank": 462
+    "competition_rank": 461
   },
   {
     "contest_id": 3042,
@@ -53705,7 +53623,7 @@
       }
     ],
     "difficulty_score": 13.6,
-    "competition_rank": 463
+    "competition_rank": 462
   },
   {
     "contest_id": 2548,
@@ -53823,7 +53741,7 @@
       }
     ],
     "difficulty_score": 13.3,
-    "competition_rank": 464
+    "competition_rank": 463
   },
   {
     "contest_id": 1348,
@@ -53935,7 +53853,7 @@
       }
     ],
     "difficulty_score": 13.2,
-    "competition_rank": 465
+    "competition_rank": 464
   },
   {
     "contest_id": 1955,
@@ -54023,7 +53941,7 @@
       }
     ],
     "difficulty_score": 13.2,
-    "competition_rank": 466
+    "competition_rank": 465
   },
   {
     "contest_id": 1970,
@@ -54123,7 +54041,7 @@
       }
     ],
     "difficulty_score": 13.2,
-    "competition_rank": 467
+    "competition_rank": 466
   },
   {
     "contest_id": 1547,
@@ -54202,6 +54120,88 @@
         "person_name": "Bogdan Vuković",
         "country": "SRB",
         "score": 3.5
+      }
+    ],
+    "difficulty_score": 13.1,
+    "competition_rank": 467
+  },
+  {
+    "contest_id": 1974,
+    "contest_name": "2022 Italy's Strongest Man",
+    "details": "Vicopisano, Italy, 2022-10-22",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 0.25,
+    "division": "men",
+    "total_competitors": 5,
+    "raw_difficulty": 1546.013340071495,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Andrea Invernizzi",
+        "country": "ITA",
+        "power": 640.4,
+        "percent": 41.4
+      },
+      {
+        "rank": "2",
+        "person_name": "Matteo Toninelli",
+        "country": "ITA",
+        "power": 19.5,
+        "percent": 1.3
+      },
+      {
+        "rank": "3",
+        "person_name": "Paolo Acquaviva",
+        "country": "ITA",
+        "power": 621.6,
+        "percent": 40.2
+      },
+      {
+        "rank": "4",
+        "person_name": "Alessandro Castelli",
+        "country": "ITA",
+        "power": 70.1,
+        "percent": 4.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Emanuele Greco",
+        "country": "ITA",
+        "power": 194.3,
+        "percent": 12.6
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Andrea Invernizzi",
+        "country": "ITA",
+        "score": 19.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Matteo Toninelli",
+        "country": "ITA",
+        "score": 17
+      },
+      {
+        "rank": "3",
+        "person_name": "Paolo Acquaviva",
+        "country": "ITA",
+        "score": 14
+      },
+      {
+        "rank": "4",
+        "person_name": "Alessandro Castelli",
+        "country": "ITA",
+        "score": 13.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Emanuele Greco",
+        "country": "ITA",
+        "score": 10
       }
     ],
     "difficulty_score": 13.1,
@@ -54684,124 +54684,6 @@
     "competition_rank": 473
   },
   {
-    "contest_id": 1609,
-    "contest_name": "2024 Extinct Games (Men)",
-    "details": "Singapore, 2024-10-04",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 1.0,
-    "division": "men",
-    "total_competitors": 11,
-    "raw_difficulty": 1442.8183340155263,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Anderson Aguiar",
-        "country": "BRA",
-        "power": 107.7,
-        "percent": 7.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Faleono Tasi",
-        "country": "NZL",
-        "power": 277.6,
-        "percent": 19.2
-      },
-      {
-        "rank": "3",
-        "person_name": "David Ramplee",
-        "country": "GBR",
-        "power": 23.0,
-        "percent": 1.6
-      },
-      {
-        "rank": "4",
-        "person_name": "Vijit Sood",
-        "country": "AUS",
-        "power": 13.8,
-        "percent": 1.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Armand Goosen",
-        "country": "RSA",
-        "power": 1020.8,
-        "percent": 70.8
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Anderson Aguiar",
-        "country": "BRA",
-        "score": 50
-      },
-      {
-        "rank": "2",
-        "person_name": "Faleono Tasi",
-        "country": "NZL",
-        "score": 39
-      },
-      {
-        "rank": "3",
-        "person_name": "David Ramplee",
-        "country": "GBR",
-        "score": 33.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Vijit Sood",
-        "country": "AUS",
-        "score": 31.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Armand Goosen",
-        "country": "RSA",
-        "score": 29
-      },
-      {
-        "rank": "6",
-        "person_name": "Adam Marshall",
-        "country": "GBR",
-        "score": 18
-      },
-      {
-        "rank": "7",
-        "person_name": "Wayne Kennedy",
-        "country": "GBR",
-        "score": 17.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Walid Hammoud",
-        "country": "FRA",
-        "score": 17
-      },
-      {
-        "rank": "9",
-        "person_name": "Aurélien Le Jeune",
-        "country": "FRA",
-        "score": 14.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Andy Black",
-        "country": "GBR",
-        "score": 13.5
-      },
-      {
-        "rank": "11",
-        "person_name": "Yuma Hata",
-        "country": "JPN",
-        "score": 11.5
-      }
-    ],
-    "difficulty_score": 11.8,
-    "competition_rank": 474
-  },
-  {
     "contest_id": 2799,
     "contest_name": "2026 Strongman Eurocup",
     "details": "Novi Kozarci, Serbia, 2026-07-25",
@@ -54905,7 +54787,7 @@
       }
     ],
     "difficulty_score": 11.8,
-    "competition_rank": 475
+    "competition_rank": 474
   },
   {
     "contest_id": 1307,
@@ -55035,7 +54917,7 @@
       }
     ],
     "difficulty_score": 11.7,
-    "competition_rank": 476
+    "competition_rank": 475
   },
   {
     "contest_id": 1413,
@@ -55150,6 +55032,124 @@
         "person_name": "Tom Glessing",
         "country": "NOR",
         "score": 10
+      }
+    ],
+    "difficulty_score": 11.7,
+    "competition_rank": 476
+  },
+  {
+    "contest_id": 1609,
+    "contest_name": "2024 Extinct Games (Men)",
+    "details": "Singapore, 2024-10-04",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 1.0,
+    "division": "men",
+    "total_competitors": 11,
+    "raw_difficulty": 1438.9437813548127,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Anderson Aguiar",
+        "country": "BRA",
+        "power": 107.7,
+        "percent": 7.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Faleono Tasi",
+        "country": "NZL",
+        "power": 277.6,
+        "percent": 19.3
+      },
+      {
+        "rank": "3",
+        "person_name": "David Ramplee",
+        "country": "GBR",
+        "power": 23.0,
+        "percent": 1.6
+      },
+      {
+        "rank": "4",
+        "person_name": "Vijit Sood",
+        "country": "AUS",
+        "power": 13.8,
+        "percent": 1.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Armand Goosen",
+        "country": "RSA",
+        "power": 1016.9,
+        "percent": 70.7
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Anderson Aguiar",
+        "country": "BRA",
+        "score": 50
+      },
+      {
+        "rank": "2",
+        "person_name": "Faleono Tasi",
+        "country": "NZL",
+        "score": 39
+      },
+      {
+        "rank": "3",
+        "person_name": "David Ramplee",
+        "country": "GBR",
+        "score": 33.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Vijit Sood",
+        "country": "AUS",
+        "score": 31.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Armand Goosen",
+        "country": "RSA",
+        "score": 29
+      },
+      {
+        "rank": "6",
+        "person_name": "Adam Marshall",
+        "country": "GBR",
+        "score": 18
+      },
+      {
+        "rank": "7",
+        "person_name": "Wayne Kennedy",
+        "country": "GBR",
+        "score": 17.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Walid Hammoud",
+        "country": "FRA",
+        "score": 17
+      },
+      {
+        "rank": "9",
+        "person_name": "Aurélien Le Jeune",
+        "country": "FRA",
+        "score": 14.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Andy Black",
+        "country": "GBR",
+        "score": 13.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Yuma Hata",
+        "country": "JPN",
+        "score": 11.5
       }
     ],
     "difficulty_score": 11.7,
@@ -56760,160 +56760,6 @@
     "competition_rank": 491
   },
   {
-    "contest_id": 2583,
-    "contest_name": "2026 Santa Monica Classic",
-    "details": "Santa Monica, California, 2026-06-27 to 2026-06-28",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 5.0,
-    "division": "men",
-    "total_competitors": 17,
-    "raw_difficulty": 1261.5617537795245,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Amari Beal",
-        "country": "USA",
-        "power": 125.0,
-        "percent": 9.9
-      },
-      {
-        "rank": "2",
-        "person_name": "Ethen Erickson",
-        "country": "USA",
-        "power": 139.9,
-        "percent": 11.1
-      },
-      {
-        "rank": "3",
-        "person_name": "Nicolas Cambi",
-        "country": "ITA",
-        "power": 674.5,
-        "percent": 53.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Marc Sanchez",
-        "country": "PHI",
-        "power": 237.1,
-        "percent": 18.8
-      },
-      {
-        "rank": "5",
-        "person_name": "D.J. Doggett",
-        "country": "NGR",
-        "power": 85.1,
-        "percent": 6.7
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Amari Beal",
-        "country": "USA",
-        "score": 82
-      },
-      {
-        "rank": "2",
-        "person_name": "Ethen Erickson",
-        "country": "USA",
-        "score": 77
-      },
-      {
-        "rank": "3",
-        "person_name": "Nicolas Cambi",
-        "country": "ITA",
-        "score": 76
-      },
-      {
-        "rank": "4",
-        "person_name": "Marc Sanchez",
-        "country": "PHI",
-        "score": 70
-      },
-      {
-        "rank": "5",
-        "person_name": "D.J. Doggett",
-        "country": "NGR",
-        "score": 67.5
-      },
-      {
-        "rank": "6",
-        "person_name": "John Alimo",
-        "country": "USA",
-        "score": 67
-      },
-      {
-        "rank": "7",
-        "person_name": "Jonathan Kilen",
-        "country": "USA",
-        "score": 65.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Uriel Gutiérrez",
-        "country": "MEX",
-        "score": 60
-      },
-      {
-        "rank": "8",
-        "person_name": "Matthew McKeegan",
-        "country": "IRL",
-        "score": 60
-      },
-      {
-        "rank": "10",
-        "person_name": "Steven  Spencer",
-        "country": "USA",
-        "score": 46
-      },
-      {
-        "rank": "11",
-        "person_name": "Makaio Espinoza",
-        "country": "USA",
-        "score": 39
-      },
-      {
-        "rank": "12",
-        "person_name": "Nick Gentile",
-        "country": "USA",
-        "score": 38.5
-      },
-      {
-        "rank": "13",
-        "person_name": "Cole Bolton",
-        "country": "USA",
-        "score": 38
-      },
-      {
-        "rank": "14",
-        "person_name": "Malachi Klaus",
-        "country": "USA",
-        "score": 35.5
-      },
-      {
-        "rank": "15",
-        "person_name": "Kim Ujarak Lorentzen",
-        "country": "GRL",
-        "score": 31
-      },
-      {
-        "rank": "16",
-        "person_name": "Chase Provost",
-        "country": "USA",
-        "score": 18.5
-      },
-      {
-        "rank": "17",
-        "person_name": "Alexis Reyes",
-        "country": "USA",
-        "score": 2.5
-      }
-    ],
-    "difficulty_score": 9.6,
-    "competition_rank": 492
-  },
-  {
     "contest_id": 1329,
     "contest_name": "2022 Pahlavon Mahmud Strongman Grand Prix",
     "details": "Khiva, Uzbekistan, 2022-06-04 to 2022-06-05",
@@ -57059,7 +56905,7 @@
       }
     ],
     "difficulty_score": 9.5,
-    "competition_rank": 493
+    "competition_rank": 492
   },
   {
     "contest_id": 2047,
@@ -57177,7 +57023,7 @@
       }
     ],
     "difficulty_score": 9.5,
-    "competition_rank": 494
+    "competition_rank": 493
   },
   {
     "contest_id": 2653,
@@ -57271,7 +57117,7 @@
       }
     ],
     "difficulty_score": 9.5,
-    "competition_rank": 495
+    "competition_rank": 494
   },
   {
     "contest_id": 3040,
@@ -57365,6 +57211,160 @@
       }
     ],
     "difficulty_score": 9.5,
+    "competition_rank": 495
+  },
+  {
+    "contest_id": 2583,
+    "contest_name": "2026 Santa Monica Classic",
+    "details": "Santa Monica, California, 2026-06-27 to 2026-06-28",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 5.0,
+    "division": "men",
+    "total_competitors": 17,
+    "raw_difficulty": 1233.150229796908,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Amari Beal",
+        "country": "USA",
+        "power": 125.0,
+        "percent": 10.1
+      },
+      {
+        "rank": "2",
+        "person_name": "Ethen Erickson",
+        "country": "USA",
+        "power": 139.9,
+        "percent": 11.3
+      },
+      {
+        "rank": "3",
+        "person_name": "Nicolas Cambi",
+        "country": "ITA",
+        "power": 646.1,
+        "percent": 52.4
+      },
+      {
+        "rank": "4",
+        "person_name": "Marc Sanchez",
+        "country": "PHI",
+        "power": 237.1,
+        "percent": 19.2
+      },
+      {
+        "rank": "5",
+        "person_name": "D.J. Doggett",
+        "country": "NGR",
+        "power": 85.1,
+        "percent": 6.9
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Amari Beal",
+        "country": "USA",
+        "score": 82
+      },
+      {
+        "rank": "2",
+        "person_name": "Ethen Erickson",
+        "country": "USA",
+        "score": 77
+      },
+      {
+        "rank": "3",
+        "person_name": "Nicolas Cambi",
+        "country": "ITA",
+        "score": 76
+      },
+      {
+        "rank": "4",
+        "person_name": "Marc Sanchez",
+        "country": "PHI",
+        "score": 70
+      },
+      {
+        "rank": "5",
+        "person_name": "D.J. Doggett",
+        "country": "NGR",
+        "score": 67.5
+      },
+      {
+        "rank": "6",
+        "person_name": "John Alimo",
+        "country": "USA",
+        "score": 67
+      },
+      {
+        "rank": "7",
+        "person_name": "Jonathan Kilen",
+        "country": "USA",
+        "score": 65.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Uriel Gutiérrez",
+        "country": "MEX",
+        "score": 60
+      },
+      {
+        "rank": "8",
+        "person_name": "Matthew McKeegan",
+        "country": "IRL",
+        "score": 60
+      },
+      {
+        "rank": "10",
+        "person_name": "Steven  Spencer",
+        "country": "USA",
+        "score": 46
+      },
+      {
+        "rank": "11",
+        "person_name": "Makaio Espinoza",
+        "country": "USA",
+        "score": 39
+      },
+      {
+        "rank": "12",
+        "person_name": "Nick Gentile",
+        "country": "USA",
+        "score": 38.5
+      },
+      {
+        "rank": "13",
+        "person_name": "Cole Bolton",
+        "country": "USA",
+        "score": 38
+      },
+      {
+        "rank": "14",
+        "person_name": "Malachi Klaus",
+        "country": "USA",
+        "score": 35.5
+      },
+      {
+        "rank": "15",
+        "person_name": "Kim Ujarak Lorentzen",
+        "country": "GRL",
+        "score": 31
+      },
+      {
+        "rank": "16",
+        "person_name": "Chase Provost",
+        "country": "USA",
+        "score": 18.5
+      },
+      {
+        "rank": "17",
+        "person_name": "Alexis Reyes",
+        "country": "USA",
+        "score": 2.5
+      }
+    ],
+    "difficulty_score": 9.3,
     "competition_rank": 496
   },
   {
