@@ -160576,18 +160576,12 @@
     "contest_name": "2026 Strongman Mania",
     "details": "NorrkÃ¶ping, Sweden, 2026-11-07 to 2026-11-08",
     "url": "https://strongmanarchives.com/contests/2561/2026-strongman-mania",
-    "total_competitors": 9,
+    "total_competitors": 10,
     "results": [
       {
         "rank": "-",
         "person_name": "Evans Nana Aryee",
         "country": "GHA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Ben Glasscock",
-        "country": "GBR",
         "score": 0.0
       },
       {
@@ -160624,6 +160618,18 @@
         "rank": "-",
         "person_name": "Jonathan Partanen",
         "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tom Place",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Oleh Pylypiak",
+        "country": "UKR",
         "score": 0.0
       },
       {
@@ -189418,8 +189424,20 @@
     "contest_name": "2026 Strongest Woman in Iceland",
     "details": "KÃ³pavogur, Iceland, 2026-11-07",
     "url": "https://strongmanarchives.com/contests/3053/2026-strongest-woman-in-iceland",
-    "total_competitors": 2,
+    "total_competitors": 7,
     "results": [
+      {
+        "rank": "-",
+        "person_name": "Birna Ármey",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Hafdís Birta",
+        "country": "ISL",
+        "score": 0.0
+      },
       {
         "rank": "-",
         "person_name": "Svala Björgvinsdóttir",
@@ -189428,7 +189446,25 @@
       },
       {
         "rank": "-",
+        "person_name": "Sigrún Jóhannsdóttir",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
         "person_name": "Erika Jónsdóttir",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Lucie Martinsdóttir Stefaníková",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Berglind Rós Bergsdóttir",
         "country": "ISL",
         "score": 0.0
       }
@@ -191177,6 +191213,1449 @@
         "person_name": "Milan Šuľan",
         "country": "SVK",
         "score": 13.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3087,
+    "contest_name": "2026 B.F.S.A Strongman Cup",
+    "details": "Burgas, Bulgaria, 2026-10-24",
+    "url": "https://strongmanarchives.com/contests/3087/2026-b-f-s-a-strongman-cup",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Borislav Bonev",
+        "country": "BUL",
+        "score": 38.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Stanimir Todorov",
+        "country": "BUL",
+        "score": 32.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Vlăduț Angheloiu",
+        "country": "ROU",
+        "score": 31.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Ivan Mryankov",
+        "country": "BUL",
+        "score": 25.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Hristiyan Delchev",
+        "country": "BUL",
+        "score": 22.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Vasil Nakov",
+        "country": "BUL",
+        "score": 13.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Dimitar Dimitrov",
+        "country": "BUL",
+        "score": 5.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3088,
+    "contest_name": "2018 STP International Polish Championship",
+    "details": "GrybÃ³w, Poland, 2018-06-03",
+    "url": "https://strongmanarchives.com/contests/3088/2018-stp-international-polish-championship",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tomasz Kowal",
+        "country": "POL",
+        "score": 39.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Sebastian Kraus",
+        "country": "GER",
+        "score": 30.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Jarosław Nowacki",
+        "country": "POL",
+        "score": 30.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Igor Barczykowski",
+        "country": "POL",
+        "score": 22.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Oskars Martuzāns",
+        "country": "LAT",
+        "score": 19.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Romek Velt",
+        "country": "EST",
+        "score": 11.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3089,
+    "contest_name": "2017 STP International Polish Championship",
+    "details": "Szczawnica, Poland, 2017-08-13",
+    "url": "https://strongmanarchives.com/contests/3089/2017-stp-international-polish-championship",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tomasz Kowal",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jarosław Nowacki",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Igor Barczykowski",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Romek Velt",
+        "country": "EST",
+        "score": 0.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Oleksandr Lashyn",
+        "country": "UKR",
+        "score": 0.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Sten Karro",
+        "country": "EST",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3090,
+    "contest_name": "2016 STP European Championship",
+    "details": "Krynica-Zdroj, Poland, 2016-08-07",
+    "url": "https://strongmanarchives.com/contests/3090/2016-stp-european-championship",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tomasz Kowal",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jarosław Nowacki",
+        "country": "POL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Oleksandr Lashyn",
+        "country": "UKR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3091,
+    "contest_name": "2021 STP International Polish Championship",
+    "details": "Podegrodzie, Poland, 2021-09-12",
+    "url": "https://strongmanarchives.com/contests/3091/2021-stp-international-polish-championship",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Audrius Jokūbaitis",
+        "country": "LTU",
+        "score": 30.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Didzis Zariņš",
+        "country": "LAT",
+        "score": 28.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Grzegorz Szymański",
+        "country": "POL",
+        "score": 22.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Jakub Szczechowski",
+        "country": "POL",
+        "score": 17.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Mariusz Pachut",
+        "country": "POL",
+        "score": 16.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Szymon Holesiński",
+        "country": "POL",
+        "score": 12.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3092,
+    "contest_name": "2022 STP International Polish Cup",
+    "details": "Podegrodzie, Poland, 2022-08-07",
+    "url": "https://strongmanarchives.com/contests/3092/2022-stp-international-polish-cup",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Adam Roszkowski",
+        "country": "POL",
+        "score": 33.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Maroš Štefaňák",
+        "country": "SVK",
+        "score": 28.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Krystian Makowiecki",
+        "country": "POL",
+        "score": 24.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Marek Czajkowski",
+        "country": "POL",
+        "score": 16.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Milan Šuľan",
+        "country": "SVK",
+        "score": 16.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Jan Pělucha",
+        "country": "CZE",
+        "score": 9.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3093,
+    "contest_name": "2022 STP International Polish Cup",
+    "details": "Nowy TomyÅl, Poland, 2022-07-24",
+    "url": "https://strongmanarchives.com/contests/3093/2022-stp-international-polish-cup",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Maroš Štefaňák",
+        "country": "SVK",
+        "score": 28.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Marek Czajkowski",
+        "country": "POL",
+        "score": 27.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Adam Roszkowski",
+        "country": "POL",
+        "score": 25.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Jakub Szczechowski",
+        "country": "POL",
+        "score": 21.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Szymon Holesiński",
+        "country": "POL",
+        "score": 17.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Krystian Makowiecki",
+        "country": "POL",
+        "score": 8.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3094,
+    "contest_name": "2022 STP International Polish Cup",
+    "details": "Krotoszyn, Poland, 2022-07-03",
+    "url": "https://strongmanarchives.com/contests/3094/2022-stp-international-polish-cup",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Marek Czajkowski",
+        "country": "POL",
+        "score": 28.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Grzegorz Łaniewski",
+        "country": "POL",
+        "score": 27.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Maroš Štefaňák",
+        "country": "SVK",
+        "score": 25.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Adam Roszkowski",
+        "country": "POL",
+        "score": 19.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Krystian Makowiecki",
+        "country": "POL",
+        "score": 14.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Szymon Holesiński",
+        "country": "POL",
+        "score": 9.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3095,
+    "contest_name": "2026 Official Strongman Finland",
+    "details": "HÃ¤meenlinna, Finland, 2026-11-28",
+    "url": "https://strongmanarchives.com/contests/3095/2026-official-strongman-finland",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Anders Aslak",
+        "country": "DEN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Emil Eriksen",
+        "country": "DEN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jesper Hansson",
+        "country": "SWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Vilius Jokužys",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jack Forgacs",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Markus Tank",
+        "country": "EST",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3098,
+    "contest_name": "2022 STP Polish Cup",
+    "details": "MiÄdzyzdroje, Poland, 2022-08-20",
+    "url": "https://strongmanarchives.com/contests/3098/2022-stp-polish-cup",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Marek Czajkowski",
+        "country": "POL",
+        "score": 26.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Tomasz Bator",
+        "country": "POL",
+        "score": 26.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Dariusz Wejer",
+        "country": "POL",
+        "score": 23.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Paweł Piskorz",
+        "country": "POL",
+        "score": 20.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Krystian Makowiecki",
+        "country": "POL",
+        "score": 16.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Bartłomiej Tarapata",
+        "country": "POL",
+        "score": 15.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3099,
+    "contest_name": "2023 STP International Polish Championship",
+    "details": "Podegrodzie, Poland, 2023-08-13",
+    "url": "https://strongmanarchives.com/contests/3099/2023-stp-international-polish-championship",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Krystian Makowiecki",
+        "country": "POL",
+        "score": 37.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Paweł Piskorz",
+        "country": "POL",
+        "score": 32.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Bartłomiej Tarapata",
+        "country": "POL",
+        "score": 26.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Milan Šuľan",
+        "country": "SVK",
+        "score": 24.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Kacper Orzechowski",
+        "country": "POL",
+        "score": 18.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Mariusz Pachut",
+        "country": "POL",
+        "score": 8.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Zdeněk Vávra",
+        "country": "CZE",
+        "score": 5.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3100,
+    "contest_name": "2023 STP International Polish Championship",
+    "details": "SuwaÅki, Poland, 2023-08-06",
+    "url": "https://strongmanarchives.com/contests/3100/2023-stp-international-polish-championship",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Krystian Makowiecki",
+        "country": "POL",
+        "score": 25.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Paweł Piskorz",
+        "country": "POL",
+        "score": 24.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Bartłomiej Tarapata",
+        "country": "POL",
+        "score": 24.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Kacper Orzechowski",
+        "country": "POL",
+        "score": 21.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Mariusz Pachut",
+        "country": "POL",
+        "score": 18.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Milan Šuľan",
+        "country": "SVK",
+        "score": 13.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3101,
+    "contest_name": "2023 STP International Polish Cup",
+    "details": "Opole, Poland, 2023-07-23",
+    "url": "https://strongmanarchives.com/contests/3101/2023-stp-international-polish-cup",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Bartłomiej Tarapata",
+        "country": "POL",
+        "score": 24.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Krystian Makowiecki",
+        "country": "POL",
+        "score": 23.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Mariusz Pachut",
+        "country": "POL",
+        "score": 22.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Paweł Piskorz",
+        "country": "POL",
+        "score": 22.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Kacper Orzechowski",
+        "country": "POL",
+        "score": 19.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Milan Šuľan",
+        "country": "SVK",
+        "score": 15.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3102,
+    "contest_name": "2023 STP International Polish Cup",
+    "details": "Jarocin, Poland, 2023-08-27",
+    "url": "https://strongmanarchives.com/contests/3102/2023-stp-international-polish-cup",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Bartłomiej Tarapata",
+        "country": "POL",
+        "score": 32.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Paweł Piskorz",
+        "country": "POL",
+        "score": 27.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Krystian Makowiecki",
+        "country": "POL",
+        "score": 20.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Zdeněk Vávra",
+        "country": "CZE",
+        "score": 18.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Kacper Orzechowski",
+        "country": "POL",
+        "score": 17.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Milan Šuľan",
+        "country": "SVK",
+        "score": 8.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3103,
+    "contest_name": "2026 Scotland's Strongest Woman",
+    "details": "Dunfermline, Scotland, 2026-05-02",
+    "url": "https://strongmanarchives.com/contests/3103/2026-scotlands-strongest-woman",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Nicola Bennett",
+        "country": "SCO",
+        "score": 25.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Rachel Greener",
+        "country": "SCO",
+        "score": 25.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Laura Baxter",
+        "country": "SCO",
+        "score": 23.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Heather Holden",
+        "country": "SCO",
+        "score": 16.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Jen Baxter",
+        "country": "SCO",
+        "score": 10.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Rowan McNeil",
+        "country": "SCO",
+        "score": 4.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3104,
+    "contest_name": "2026 U64 Scotland's Strongest Woman",
+    "details": "Dumfries, Scotland, 2026-02-21 to 2026-02-22",
+    "url": "https://strongmanarchives.com/contests/3104/2026-u64-scotlands-strongest-woman",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Elizabeth Guild",
+        "country": "SCO",
+        "score": 14.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Demi Dee",
+        "country": "SCO",
+        "score": 10.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Immie Williamson",
+        "country": "SCO",
+        "score": 6.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3105,
+    "contest_name": "2026 U73 Scotland's Strongest Woman",
+    "details": "Dumfries, Scotland, 2026-02-21 to 2026-02-22",
+    "url": "https://strongmanarchives.com/contests/3105/2026-u73-scotlands-strongest-woman",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Diane Gaughan",
+        "country": "SCO",
+        "score": 5.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3106,
+    "contest_name": "2026 U82 Scotland's Strongest Woman",
+    "details": "Dumfries, Scotland, 2026-02-21 to 2026-02-22",
+    "url": "https://strongmanarchives.com/contests/3106/2026-u82-scotlands-strongest-woman",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Heather Holden",
+        "country": "SCO",
+        "score": 13.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Shauna Moar",
+        "country": "SCO",
+        "score": 9.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Christie Herbert",
+        "country": "SCO",
+        "score": 8.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3107,
+    "contest_name": "2026 Wales' Strongest Woman",
+    "details": "Cardiff, Wales, 2026-03-08",
+    "url": "https://strongmanarchives.com/contests/3107/2026-wales-strongest-woman",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Sam Taylor",
+        "country": "WAL",
+        "score": 20.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Melanie Smith",
+        "country": "WAL",
+        "score": 14.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Emily  Davies",
+        "country": "WAL",
+        "score": 9.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Vikki Eades",
+        "country": "WAL",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3108,
+    "contest_name": "2026 Masters Wales' Strongest Woman",
+    "details": "Cardiff, Wales, 2026-03-08",
+    "url": "https://strongmanarchives.com/contests/3108/2026-masters-wales-strongest-woman",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Carys Parry",
+        "country": "WAL",
+        "score": 24.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Hannah Roberts",
+        "country": "WAL",
+        "score": 18.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Michelle  Denyer",
+        "country": "WAL",
+        "score": 15.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Kym Elson",
+        "country": "WAL",
+        "score": 13.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Catrin Watts-Allen",
+        "country": "WAL",
+        "score": 5.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3109,
+    "contest_name": "2026 U57 Wales' Strongest Woman",
+    "details": "Cardiff, Wales, 2026-03-08",
+    "url": "https://strongmanarchives.com/contests/3109/2026-u57-wales-strongest-woman",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Melanie  Hall",
+        "country": "WAL",
+        "score": 8.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Kirsty Robathan-Smith",
+        "country": "WAL",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3110,
+    "contest_name": "2026 U64 Wales' Strongest Woman",
+    "details": "Cardiff, Wales, 2026-03-08",
+    "url": "https://strongmanarchives.com/contests/3110/2026-u64-wales-strongest-woman",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Eirian  Davies",
+        "country": "WAL",
+        "score": 8.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jolene Lewis",
+        "country": "WAL",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3111,
+    "contest_name": "2026 U73 Wales' Strongest Woman",
+    "details": "Cardiff, Wales, 2026-03-08",
+    "url": "https://strongmanarchives.com/contests/3111/2026-u73-wales-strongest-woman",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "April Granelli",
+        "country": "WAL",
+        "score": 10.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Bethany Fitt",
+        "country": "WAL",
+        "score": 5.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3112,
+    "contest_name": "2026 U82 Wales' Strongest Woman",
+    "details": "Cardiff, Wales, 2026-03-08",
+    "url": "https://strongmanarchives.com/contests/3112/2026-u82-wales-strongest-woman",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Lisa-Marie Hassall",
+        "country": "WAL",
+        "score": 5.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3113,
+    "contest_name": "2026 Ireland's Strongest Woman",
+    "details": "Dublin, Ireland, 2026-02-28",
+    "url": "https://strongmanarchives.com/contests/3113/2026-irelands-strongest-woman",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Gemma Moore",
+        "country": "IRL",
+        "score": 15.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Kayla Mann",
+        "country": "IRL",
+        "score": 6.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Sharon Williamson",
+        "country": "IRL",
+        "score": 6.5
+      }
+    ]
+  },
+  {
+    "contest_id": 3114,
+    "contest_name": "2026 Masters Ireland's Strongest Woman",
+    "details": "Dublin, Ireland, 2026-02-28",
+    "url": "https://strongmanarchives.com/contests/3114/2026-masters-irelands-strongest-woman",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Ayshea Ullah",
+        "country": "IRL",
+        "score": 10.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Michelle Pilkington",
+        "country": "IRL",
+        "score": 2.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3115,
+    "contest_name": "2026 Masters U73 Ireland's Strongest Woman",
+    "details": "Dublin, Ireland, 2026-02-28",
+    "url": "https://strongmanarchives.com/contests/3115/2026-masters-u73-irelands-strongest-woman",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Claire Dolan",
+        "country": "IRL",
+        "score": 4.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3116,
+    "contest_name": "2026 U64 Ireland's Strongest Woman",
+    "details": "Dublin, Ireland, 2026-02-28",
+    "url": "https://strongmanarchives.com/contests/3116/2026-u64-irelands-strongest-woman",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Eilis McGrath",
+        "country": "IRL",
+        "score": 16.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jessica Andrews",
+        "country": "IRL",
+        "score": 14.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Linda  Long",
+        "country": "NIR",
+        "score": 11.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Coleen Wells",
+        "country": "IRL",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3117,
+    "contest_name": "2026 U73 Ireland's Strongest Woman",
+    "details": "Dublin, Ireland, 2026-02-28",
+    "url": "https://strongmanarchives.com/contests/3117/2026-u73-irelands-strongest-woman",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mary  Egan",
+        "country": "IRL",
+        "score": 10.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Mairead McCormack",
+        "country": "IRL",
+        "score": 3.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3118,
+    "contest_name": "2026 U82 Ireland's Strongest Woman",
+    "details": "Dublin, Ireland, 2026-02-28",
+    "url": "https://strongmanarchives.com/contests/3118/2026-u82-irelands-strongest-woman",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tirzah Foster",
+        "country": "IRL",
+        "score": 4.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3120,
+    "contest_name": "2026 Middle East's Strongest Man",
+    "details": "Dubai, United Arab Emirates, 2026-10-31",
+    "url": "https://strongmanarchives.com/contests/3120/2026-middle-easts-strongest-man",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Youssef Al Fardan",
+        "country": "UAE",
+        "score": 22.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Nicholas Rowe",
+        "country": "GBR",
+        "score": 18.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Ahmed Almoosa",
+        "country": "BRN",
+        "score": 15.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Daniel Atallah",
+        "country": "LBN",
+        "score": 11.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Shahzad Shajahan",
+        "country": "IND",
+        "score": 4.5
+      }
+    ]
+  },
+  {
+    "contest_id": 3121,
+    "contest_name": "2026 Middle East's Strongest Woman",
+    "details": "Dubai, United Arab Emirates, 2026-10-31",
+    "url": "https://strongmanarchives.com/contests/3121/2026-middle-easts-strongest-woman",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Scarlett Harvey",
+        "country": "GBR",
+        "score": 15.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Carine Tata",
+        "country": "CMR",
+        "score": 10.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Afaf Habshy",
+        "country": "EGY",
+        "score": 5.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3122,
+    "contest_name": "2026 U90 Middle East's Strongest Man",
+    "details": "Dubai, United Arab Emirates, 2026-10-31",
+    "url": "https://strongmanarchives.com/contests/3122/2026-u90-middle-easts-strongest-man",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Khalid  Abdo",
+        "country": "BRN",
+        "score": 32.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Ahmed Tammam",
+        "country": "EGY",
+        "score": 31.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Khalid Saleh",
+        "country": "BRN",
+        "score": 21.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Mohamad Meheich",
+        "country": "LBN",
+        "score": 19.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Duij Ali Mohammed",
+        "country": "BRN",
+        "score": 12.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Luqman Murad",
+        "country": "BRN",
+        "score": 10.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Baseel Fazili",
+        "country": "CAN",
+        "score": 7.5
+      }
+    ]
+  },
+  {
+    "contest_id": 3123,
+    "contest_name": "2026 U105 Middle East's Strongest Man",
+    "details": "Dubai, United Arab Emirates, 2026-10-31",
+    "url": "https://strongmanarchives.com/contests/3123/2026-u105-middle-easts-strongest-man",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mohamad Al Ayoubi",
+        "country": "LBN",
+        "score": 14.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Khaled Loutfi",
+        "country": "EGY",
+        "score": 8.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Abdullah Jahwar",
+        "country": "SYR",
+        "score": 3.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3124,
+    "contest_name": "2026 U80 Wales' Strongest Man",
+    "details": "Tredegar, Wales, 2026-03-28",
+    "url": "https://strongmanarchives.com/contests/3124/2026-u80-wales-strongest-man",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Luke Phillips",
+        "country": "WAL",
+        "score": 23.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Dan  Foligno",
+        "country": "WAL",
+        "score": 18.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Dan Lock",
+        "country": "WAL",
+        "score": 13.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Liam Knowles",
+        "country": "WAL",
+        "score": 5.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3125,
+    "contest_name": "2026 U90 Wales' Strongest Man",
+    "details": "Tredegar, Wales, 2026-03-28",
+    "url": "https://strongmanarchives.com/contests/3125/2026-u90-wales-strongest-man",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Ashley Walker",
+        "country": "WAL",
+        "score": 23.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Morgan Phipps",
+        "country": "WAL",
+        "score": 23.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Gareth Evans",
+        "country": "WAL",
+        "score": 17.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Richard Williams",
+        "country": "WAL",
+        "score": 13.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Craig James",
+        "country": "WAL",
+        "score": 12.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3126,
+    "contest_name": "2026 U105 Wales' Strongest Man",
+    "details": "Tredegar, Wales, 2026-03-28",
+    "url": "https://strongmanarchives.com/contests/3126/2026-u105-wales-strongest-man",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Ryan Miles",
+        "country": "WAL",
+        "score": 25.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Luke Davies",
+        "country": "WAL",
+        "score": 21.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Dwayne Ibbertson",
+        "country": "WAL",
+        "score": 18.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Harley Burrow",
+        "country": "WAL",
+        "score": 15.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Sean Murphy",
+        "country": "WAL",
+        "score": 3.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3127,
+    "contest_name": "2026 Masters 50+ Ireland's Strongest Man",
+    "details": "Derry, Northern Ireland, 2026-03-07",
+    "url": "https://strongmanarchives.com/contests/3127/2026-masters-50-irelands-strongest-man",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Thomas Cawley",
+        "country": "IRL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Andrew Russell",
+        "country": "IRL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Alastair McClelland",
+        "country": "IRL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3128,
+    "contest_name": "2026 Masters Ireland's Strongest Man",
+    "details": "Derry, Northern Ireland, 2026-03-07",
+    "url": "https://strongmanarchives.com/contests/3128/2026-masters-irelands-strongest-man",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Aidan Kennedy",
+        "country": "IRL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "PJ  Kennedy",
+        "country": "IRL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Alan Martin",
+        "country": "IRL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3129,
+    "contest_name": "2026 U120 Ireland's Strongest Man",
+    "details": "Derry, Northern Ireland, 2026-03-07",
+    "url": "https://strongmanarchives.com/contests/3129/2026-u120-irelands-strongest-man",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Gavin McNamee",
+        "country": "IRL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Matt  Pollard",
+        "country": "NIR",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "James Mawhinney",
+        "country": "IRL",
+        "score": 0.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Kyle McGowan",
+        "country": "IRL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3130,
+    "contest_name": "2026 U105 Ireland's Strongest Man",
+    "details": "Derry, Northern Ireland, 2026-03-07",
+    "url": "https://strongmanarchives.com/contests/3130/2026-u105-irelands-strongest-man",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Gavin McNamee",
+        "country": "IRL",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Darren Simpson",
+        "country": "IRL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Kyle Scott",
+        "country": "NIR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3131,
+    "contest_name": "2026 U90 Ireland's Strongest Man",
+    "details": "Derry, Northern Ireland, 2026-03-07",
+    "url": "https://strongmanarchives.com/contests/3131/2026-u90-irelands-strongest-man",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Thomas Kelly",
+        "country": "NIR",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Darren McGirr",
+        "country": "IRL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Callum Gibson",
+        "country": "IRL",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3132,
+    "contest_name": "2026 U80 Ireland's Strongest Man",
+    "details": "Derry, Northern Ireland, 2026-03-07",
+    "url": "https://strongmanarchives.com/contests/3132/2026-u80-irelands-strongest-man",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Lee Kelly",
+        "country": "NIR",
+        "score": 0.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Sean Cassidy",
+        "country": "IRL",
+        "score": 0.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Adam  Beattie",
+        "country": "NIR",
+        "score": 0.0
       }
     ]
   }
