@@ -234,8 +234,15 @@ def run_full_recalculation():
             promo = parse_promotion(cname)
 
             date_match = re.search(r'(\d{4}-\d{2}-\d{2})', details)
-            date_str = date_match.group(1) if date_match else "2024-06-01"
-            year_val = int(date_str[:4]) if len(date_str) >= 4 else 2024
+            if date_match:
+                date_str = date_match.group(1)
+            else:
+                year_match = re.search(r'\b(20\d\d)\b', cname) or re.search(r'\b(20\d\d)\b', details)
+                if year_match:
+                    date_str = f"{year_match.group(1)}-06-01"
+                else:
+                    date_str = f"{CURRENT_DATE.year}-06-01"
+            year_val = int(date_str[:4]) if len(date_str) >= 4 else CURRENT_DATE.year
 
             for res in contest.get('results', []):
                 pname = res.get('person_name', '').strip()

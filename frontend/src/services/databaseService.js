@@ -119,6 +119,7 @@ const athleteMeta = {
   "Mitchell Hooper": { country: "Canada", countryCode: "CA", flagEmoji: "🇨🇦", heightCm: 191, weightKg: 145 },
   "Tom Stoltman": { country: "United Kingdom", countryCode: "GB", flagEmoji: "🇬🇧", heightCm: 203, weightKg: 180 },
   "Hafthor Björnsson": { country: "Iceland", countryCode: "IS", flagEmoji: "🇮🇸", heightCm: 206, weightKg: 195 },
+  "Hafthór Júlíus Björnsson": { country: "Iceland", countryCode: "IS", flagEmoji: "🇮🇸", heightCm: 206, weightKg: 195 },
   "Evan Singleton": { country: "United States", countryCode: "US", flagEmoji: "🇺🇸", heightCm: 198, weightKg: 160 },
   "Trey Mitchell": { country: "United States", countryCode: "US", flagEmoji: "🇺🇸", heightCm: 193, weightKg: 155 },
   "Mateusz Kieliszkowski": { country: "Poland", countryCode: "PL", flagEmoji: "🇵🇱", heightCm: 195, weightKg: 150 },
@@ -158,6 +159,19 @@ const athleteMeta = {
   "Jaco Schoonwinkel": { country: "South Africa", countryCode: "ZA", flagEmoji: "🇿🇦", heightCm: 193, weightKg: 152 },
   "Jesper Hansson": { country: "Sweden", countryCode: "SE", flagEmoji: "🇸🇪", heightCm: 194, weightKg: 148 },
   "Péter Juhász": { country: "Hungary", countryCode: "HU", flagEmoji: "🇭🇺", heightCm: 191, weightKg: 145 },
+  // Leading Strongwomen
+  "Angelica Jardine": { country: "United States", countryCode: "US", flagEmoji: "🇺🇸", heightCm: 173, weightKg: 88 },
+  "Inez Carrasquillo": { country: "Puerto Rico", countryCode: "PUR", flagEmoji: "🇵🇷", heightCm: 178, weightKg: 130 },
+  "Lucy Underdown": { country: "United Kingdom", countryCode: "GB", flagEmoji: "🇬🇧", heightCm: 175, weightKg: 120 },
+  "Olga Liashchuk": { country: "Ukraine", countryCode: "UA", flagEmoji: "🇺🇦", heightCm: 173, weightKg: 95 },
+  "Rebecca Roberts": { country: "United Kingdom", countryCode: "GB", flagEmoji: "🇬🇧", heightCm: 190, weightKg: 135 },
+  "Andrea Thompson": { country: "United Kingdom", countryCode: "GB", flagEmoji: "🇬🇧", heightCm: 173, weightKg: 110 },
+  "Jackie Osczevski": { country: "Canada", countryCode: "CA", flagEmoji: "🇨🇦", heightCm: 175, weightKg: 95 },
+  "Jennifer Lyle": { country: "United States", countryCode: "US", flagEmoji: "🇺🇸", heightCm: 170, weightKg: 85 },
+  "Katie Blunden": { country: "Australia", countryCode: "AU", flagEmoji: "🇦🇺", heightCm: 172, weightKg: 90 },
+  "Victoria Long": { country: "United States", countryCode: "US", flagEmoji: "🇺🇸", heightCm: 180, weightKg: 130 },
+  "Hannah Linzay": { country: "United States", countryCode: "US", flagEmoji: "🇺🇸", heightCm: 173, weightKg: 90 },
+  "Donna Moore": { country: "United Kingdom", countryCode: "GB", flagEmoji: "🇬🇧", heightCm: 178, weightKg: 115 },
 };
 
 // Derive country from name for SCL athletes using known nationalities 

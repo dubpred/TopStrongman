@@ -134112,7 +134112,7 @@
     "contest_id": 2078,
     "contest_name": "2026 Giants Live Strongman Open",
     "details": "Birmingham, England, 2026-09-05",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2078",
+    "url": "https://strongmanarchives.com/contests/2078/2026-giants-live-strongman-open",
     "total_competitors": 12,
     "results": [
       {
@@ -134193,7 +134193,7 @@
     "contest_id": 2079,
     "contest_name": "2026 Giants Live World Tour Finals",
     "details": "Glasgow, Scotland, 2026-10-17",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2079",
+    "url": "https://strongmanarchives.com/contests/2079/2026-giants-live-world-tour-finals",
     "total_competitors": 12,
     "results": [
       {
@@ -137250,7 +137250,7 @@
     "contest_id": 2130,
     "contest_name": "2007 Finland's Strongest Man",
     "details": "Turku, Finland, 2007",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2130",
+    "url": "https://strongmanarchives.com/contests/2130/2007-finlands-strongest-man",
     "total_competitors": 14,
     "results": [
       {
@@ -148752,62 +148752,62 @@
     "contest_id": 2336,
     "contest_name": "2026 Rogue Invitational (Men)",
     "details": "Aberdeen, Scotland, 2026-10-23 to 2026-10-24",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2336",
+    "url": "https://strongmanarchives.com/contests/2336/2026-rogue-invitational-men",
     "total_competitors": 9,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Austin Andrade",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Thomas Evans",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Ondřej Fojtů",
-        "country": "CZE",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Paddy Haynes",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Mitchell Hooper",
-        "country": "CAN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Pavlo Kordiyaka",
-        "country": "UKR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Martins Licis",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Trey Mitchell",
         "country": "USA",
-        "score": 0.0
+        "score": 46.0
       },
       {
-        "rank": "-",
+        "rank": "2",
+        "person_name": "Martins Licis",
+        "country": "LAT",
+        "score": 45.0
+      },
+      {
+        "rank": "3",
         "person_name": "Rayno Nel",
         "country": "RSA",
-        "score": 0.0
+        "score": 44.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Ondřej Fojtů",
+        "country": "CZE",
+        "score": 37.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Paddy Haynes",
+        "country": "GBR",
+        "score": 36.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Mitchell Hooper",
+        "country": "CAN",
+        "score": 33.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Pavlo Kordiyaka",
+        "country": "UKR",
+        "score": 30.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Austin Andrade",
+        "country": "USA",
+        "score": 26.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Thomas Evans",
+        "country": "USA",
+        "score": 26.5
       }
     ]
   },
@@ -148815,62 +148815,62 @@
     "contest_id": 2337,
     "contest_name": "2026 Rogue Invitational (Women)",
     "details": "Aberdeen, Scotland, 2026-10-23 to 2026-10-24",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2337",
+    "url": "https://strongmanarchives.com/contests/2337/2026-rogue-invitational-women",
     "total_competitors": 9,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Katie Blunden",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Inez Carrasquillo",
-        "country": "PUR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Grace Hilbourne",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Angelica Jardine",
         "country": "USA",
-        "score": 0.0
+        "score": 53.0
       },
       {
-        "rank": "-",
-        "person_name": "Jennifer Lyle",
-        "country": "USA",
-        "score": 0.0
+        "rank": "2",
+        "person_name": "Inez Carrasquillo",
+        "country": "PUR",
+        "score": 52.0
       },
       {
-        "rank": "-",
-        "person_name": "Jackie Osczevski",
-        "country": "CAN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Rebecca Roberts",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Andrea Thompson",
-        "country": "GBR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Lucy Underdown",
         "country": "GBR",
-        "score": 0.0
+        "score": 42.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Rebecca Roberts",
+        "country": "GBR",
+        "score": 38.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Jennifer Lyle",
+        "country": "USA",
+        "score": 36.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Andrea Thompson",
+        "country": "GBR",
+        "score": 34.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Jackie Osczevski",
+        "country": "CAN",
+        "score": 28.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Katie Blunden",
+        "country": "AUS",
+        "score": 20.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Grace Hilbourne",
+        "country": "GBR",
+        "score": 11.0
       }
     ]
   },
@@ -149613,7 +149613,7 @@
     "contest_id": 2351,
     "contest_name": "2026 SCL World's Strongest Viking",
     "details": "Turenki, Finland, 2026-08-22",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2351",
+    "url": "https://strongmanarchives.com/contests/2351/2026-scl-worlds-strongest-viking",
     "total_competitors": 12,
     "results": [
       {
@@ -154701,7 +154701,7 @@
     "contest_id": 2459,
     "contest_name": "2026 Summit of Strength (Men)",
     "details": "Rotherham, England, 2026-09-26",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2459",
+    "url": "https://strongmanarchives.com/contests/2459/2026-summit-of-strength-men",
     "total_competitors": 10,
     "results": [
       {
@@ -154770,7 +154770,7 @@
     "contest_id": 2460,
     "contest_name": "2026 Summit of Strength (Women)",
     "details": "Rotherham, England, 2026-09-26",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2460",
+    "url": "https://strongmanarchives.com/contests/2460/2026-summit-of-strength-women",
     "total_competitors": 7,
     "results": [
       {
@@ -160575,7 +160575,7 @@
     "contest_id": 2561,
     "contest_name": "2026 Strongman Mania",
     "details": "NorrkÃ¶ping, Sweden, 2026-11-07 to 2026-11-08",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2561",
+    "url": "https://strongmanarchives.com/contests/2561/2026-strongman-mania",
     "total_competitors": 9,
     "results": [
       {
@@ -172470,7 +172470,7 @@
     "contest_id": 2755,
     "contest_name": "2026 Belgium's Strongest Man",
     "details": "Herentals, Belgium, 2026-09-20",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2755",
+    "url": "https://strongmanarchives.com/contests/2755/2026-belgiums-strongest-man",
     "total_competitors": 5,
     "results": [
       {
@@ -179481,7 +179481,7 @@
     "contest_id": 2874,
     "contest_name": "2026 Harlem European Strongman Cup",
     "details": "KÅobuck, Poland, 2026-06-07",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2874",
+    "url": "https://strongmanarchives.com/contests/2874/2026-harlem-european-strongman-cup",
     "total_competitors": 6,
     "results": [
       {
@@ -179526,7 +179526,7 @@
     "contest_id": 2875,
     "contest_name": "2012 Holland's Got Power",
     "details": "Hoofddorp, Netherlands, 2012-06-10",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2875",
+    "url": "https://strongmanarchives.com/contests/2875/2012-hollands-got-power",
     "total_competitors": 10,
     "results": [
       {
@@ -179595,7 +179595,7 @@
     "contest_id": 2876,
     "contest_name": "2026 Tenka Musou (Men)",
     "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2876",
+    "url": "https://strongmanarchives.com/contests/2876/2026-tenka-musou-men",
     "total_competitors": 10,
     "results": [
       {
@@ -179664,7 +179664,7 @@
     "contest_id": 2877,
     "contest_name": "2026 Tenka Musou (Women)",
     "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2877",
+    "url": "https://strongmanarchives.com/contests/2877/2026-tenka-musou-women",
     "total_competitors": 4,
     "results": [
       {
@@ -179697,7 +179697,7 @@
     "contest_id": 2878,
     "contest_name": "2026 U80 Tenka Musou",
     "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2878",
+    "url": "https://strongmanarchives.com/contests/2878/2026-u80-tenka-musou",
     "total_competitors": 12,
     "results": [
       {
@@ -179778,7 +179778,7 @@
     "contest_id": 2879,
     "contest_name": "2026 U90 Tenka Musou",
     "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2879",
+    "url": "https://strongmanarchives.com/contests/2879/2026-u90-tenka-musou",
     "total_competitors": 9,
     "results": [
       {
@@ -179841,7 +179841,7 @@
     "contest_id": 2880,
     "contest_name": "2026 U105 Tenka Musou",
     "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2880",
+    "url": "https://strongmanarchives.com/contests/2880/2026-u105-tenka-musou",
     "total_competitors": 9,
     "results": [
       {
@@ -179904,7 +179904,7 @@
     "contest_id": 2881,
     "contest_name": "2026 M50+ Tenka Musou (Men)",
     "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2881",
+    "url": "https://strongmanarchives.com/contests/2881/2026-m50-tenka-musou-men",
     "total_competitors": 2,
     "results": [
       {
@@ -179925,7 +179925,7 @@
     "contest_id": 2882,
     "contest_name": "2026 M40+ U105 Tenka Musou",
     "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2882",
+    "url": "https://strongmanarchives.com/contests/2882/2026-m40-u105-tenka-musou",
     "total_competitors": 2,
     "results": [
       {
@@ -179946,7 +179946,7 @@
     "contest_id": 2883,
     "contest_name": "2026 U64 Tenka Musou",
     "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2883",
+    "url": "https://strongmanarchives.com/contests/2883/2026-u64-tenka-musou",
     "total_competitors": 7,
     "results": [
       {
@@ -179997,7 +179997,7 @@
     "contest_id": 2884,
     "contest_name": "2026 U73 Tenka Musou",
     "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2884",
+    "url": "https://strongmanarchives.com/contests/2884/2026-u73-tenka-musou",
     "total_competitors": 3,
     "results": [
       {
@@ -180024,7 +180024,7 @@
     "contest_id": 2885,
     "contest_name": "2026 M40+ Tenka Musou (Women)",
     "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2885",
+    "url": "https://strongmanarchives.com/contests/2885/2026-m40-tenka-musou-women",
     "total_competitors": 2,
     "results": [
       {
@@ -180045,7 +180045,7 @@
     "contest_id": 2886,
     "contest_name": "2026 M50+ Tenka Musou (Women)",
     "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2886",
+    "url": "https://strongmanarchives.com/contests/2886/2026-m50-tenka-musou-women",
     "total_competitors": 1,
     "results": [
       {
@@ -180060,7 +180060,7 @@
     "contest_id": 2889,
     "contest_name": "2026 M40+ U73 Tenka Musou",
     "details": "Kobe, Japan, 2026-03-21 to 2026-03-22",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2889",
+    "url": "https://strongmanarchives.com/contests/2889/2026-m40-u73-tenka-musou",
     "total_competitors": 2,
     "results": [
       {
@@ -180081,7 +180081,7 @@
     "contest_id": 2890,
     "contest_name": "2026 Harlem European Strongman Cup",
     "details": "BiaÅystok, Poland, 2026-08-23",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2890",
+    "url": "https://strongmanarchives.com/contests/2890/2026-harlem-european-strongman-cup",
     "total_competitors": 7,
     "results": [
       {
@@ -180132,7 +180132,7 @@
     "contest_id": 2891,
     "contest_name": "2026 Natural World's Strongest Man",
     "details": "Paisley, Scotland, 2026-08-22",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2891",
+    "url": "https://strongmanarchives.com/contests/2891/2026-natural-worlds-strongest-man",
     "total_competitors": 19,
     "results": [
       {
@@ -180255,7 +180255,7 @@
     "contest_id": 2892,
     "contest_name": "2020 Canada's Strongest Woman",
     "details": "Quebec City, Canada, 2020-10-03",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2892",
+    "url": "https://strongmanarchives.com/contests/2892/2020-canadas-strongest-woman",
     "total_competitors": 5,
     "results": [
       {
@@ -180294,7 +180294,7 @@
     "contest_id": 2893,
     "contest_name": "2022 Western Canada's Strongest Woman",
     "details": "Fort McMurray, Canada, 2022-06-11",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2893",
+    "url": "https://strongmanarchives.com/contests/2893/2022-western-canadas-strongest-woman",
     "total_competitors": 5,
     "results": [
       {
@@ -180333,7 +180333,7 @@
     "contest_id": 2894,
     "contest_name": "2026 Slavic Cup",
     "details": "KrÃ¡sno nad Kysucou, Slovakia, 2026-08-29",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2894",
+    "url": "https://strongmanarchives.com/contests/2894/2026-slavic-cup",
     "total_competitors": 8,
     "results": [
       {
@@ -180390,7 +180390,7 @@
     "contest_id": 2895,
     "contest_name": "2026 Strongman Carei",
     "details": "Carei, Romania, 2026-08-29",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2895",
+    "url": "https://strongmanarchives.com/contests/2895/2026-strongman-carei",
     "total_competitors": 7,
     "results": [
       {
@@ -180431,7 +180431,7 @@
       },
       {
         "rank": "7",
-        "person_name": "Cracium Calin",
+        "person_name": "Craciun Calin",
         "country": "MDA",
         "score": 7.5
       }
@@ -180441,7 +180441,7 @@
     "contest_id": 2896,
     "contest_name": "2019 Strongman Carei",
     "details": "Carei, Romania, 2019-08-03",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2896",
+    "url": "https://strongmanarchives.com/contests/2896/2019-strongman-carei",
     "total_competitors": 3,
     "results": [
       {
@@ -180468,7 +180468,7 @@
     "contest_id": 2897,
     "contest_name": "2017 Strongman Carei",
     "details": "Carei, Romania, 2017-08-10",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2897",
+    "url": "https://strongmanarchives.com/contests/2897/2017-strongman-carei",
     "total_competitors": 3,
     "results": [
       {
@@ -180495,7 +180495,7 @@
     "contest_id": 2898,
     "contest_name": "2023 Strongman Carei",
     "details": "Carei, Romania, 2023-08-06",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2898",
+    "url": "https://strongmanarchives.com/contests/2898/2023-strongman-carei",
     "total_competitors": 3,
     "results": [
       {
@@ -180522,7 +180522,7 @@
     "contest_id": 2899,
     "contest_name": "2020 Strongman Carei",
     "details": "Carei, Romania, 2020-09-19",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2899",
+    "url": "https://strongmanarchives.com/contests/2899/2020-strongman-carei",
     "total_competitors": 3,
     "results": [
       {
@@ -180549,7 +180549,7 @@
     "contest_id": 2900,
     "contest_name": "2026 Final Strongman Cup",
     "details": "Kwidzyn, Poland, 2026-08-30",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2900",
+    "url": "https://strongmanarchives.com/contests/2900/2026-final-strongman-cup",
     "total_competitors": 6,
     "results": [
       {
@@ -180594,7 +180594,7 @@
     "contest_id": 2901,
     "contest_name": "2026 Harlem European Strongman Cup",
     "details": "InowrocÅaw, Poland, 2026-08-30",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2901",
+    "url": "https://strongmanarchives.com/contests/2901/2026-harlem-european-strongman-cup",
     "total_competitors": 7,
     "results": [
       {
@@ -180645,7 +180645,7 @@
     "contest_id": 2902,
     "contest_name": "2026 Moldova's Strongest Man",
     "details": "ChiÈinÄu, Moldova, 2026-08-30",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2902",
+    "url": "https://strongmanarchives.com/contests/2902/2026-moldovas-strongest-man",
     "total_competitors": 10,
     "results": [
       {
@@ -180714,7 +180714,7 @@
     "contest_id": 2903,
     "contest_name": "2026 Finland's Strongest Man",
     "details": "Lappeenranta, Finland, 2026-08-29 to 2026-08-30",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2903",
+    "url": "https://strongmanarchives.com/contests/2903/2026-finlands-strongest-man",
     "total_competitors": 12,
     "results": [
       {
@@ -180795,7 +180795,7 @@
     "contest_id": 2904,
     "contest_name": "2025 Official Strongman Ireland's Strongest Man",
     "details": "Antrim, Northern Ireland, 2025-10-11",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2904",
+    "url": "https://strongmanarchives.com/contests/2904/2025-official-strongman-irelands-strongest-man",
     "total_competitors": 5,
     "results": [
       {
@@ -180833,8 +180833,8 @@
   {
     "contest_id": 2905,
     "contest_name": "2026 Official Strongman Ireland's Strongest Man",
-    "details": "Belfast, Ireland, 2026-08-29",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2905",
+    "details": "Belfast, Northern Ireland, 2026-08-29",
+    "url": "https://strongmanarchives.com/contests/2905/2026-official-strongman-irelands-strongest-man",
     "total_competitors": 17,
     "results": [
       {
@@ -180945,7 +180945,7 @@
     "contest_id": 2906,
     "contest_name": "2023 Official Strongman Ireland's Strongest Man",
     "details": "Ballymoney, Northern Ireland, 2023-11-04",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2906",
+    "url": "https://strongmanarchives.com/contests/2906/2023-official-strongman-irelands-strongest-man",
     "total_competitors": 10,
     "results": [
       {
@@ -181014,7 +181014,7 @@
     "contest_id": 2907,
     "contest_name": "2025 Strongest Woman In Canada",
     "details": "Calgary, Canada, 2025-10-03",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2907",
+    "url": "https://strongmanarchives.com/contests/2907/2025-strongest-woman-in-canada",
     "total_competitors": 8,
     "results": [
       {
@@ -181071,7 +181071,7 @@
     "contest_id": 2908,
     "contest_name": "2022 Strongest Woman In Canada",
     "details": "Thunder Bay, Canada, 2022-10-22",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2908",
+    "url": "https://strongmanarchives.com/contests/2908/2022-strongest-woman-in-canada",
     "total_competitors": 9,
     "results": [
       {
@@ -181134,7 +181134,7 @@
     "contest_id": 2909,
     "contest_name": "2023 Strongest Woman In Canada",
     "details": "Winnipeg, Canada, 2023-10-20",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2909",
+    "url": "https://strongmanarchives.com/contests/2909/2023-strongest-woman-in-canada",
     "total_competitors": 10,
     "results": [
       {
@@ -181203,7 +181203,7 @@
     "contest_id": 2910,
     "contest_name": "2024 Strongest Woman In Canada",
     "details": "Moncton, Canada, 2024-10-11",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2910",
+    "url": "https://strongmanarchives.com/contests/2910/2024-strongest-woman-in-canada",
     "total_competitors": 11,
     "results": [
       {
@@ -181228,19 +181228,19 @@
         "rank": "4",
         "person_name": "Josée De Lachevrotière",
         "country": "CAN",
-        "score": 36.5
+        "score": 39.5
       },
       {
         "rank": "5",
         "person_name": "Joscelyne O'Brien",
         "country": "CAN",
-        "score": 31.5
+        "score": 32.5
       },
       {
         "rank": "6",
         "person_name": "Stephanie Bisignano",
         "country": "CAN",
-        "score": 28.0
+        "score": 25.0
       },
       {
         "rank": "7",
@@ -181252,7 +181252,7 @@
         "rank": "8",
         "person_name": "Lisa Wills",
         "country": "CAN",
-        "score": 23.5
+        "score": 22.5
       },
       {
         "rank": "9",
@@ -181278,7 +181278,7 @@
     "contest_id": 2911,
     "contest_name": "2025 Western Canada's Strongest Woman",
     "details": "Okotoks, Canada, 2025-08-23",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2911",
+    "url": "https://strongmanarchives.com/contests/2911/2025-western-canadas-strongest-woman",
     "total_competitors": 12,
     "results": [
       {
@@ -181359,7 +181359,7 @@
     "contest_id": 2912,
     "contest_name": "2024 Western Canada's Strongest Woman",
     "details": "Okotoks, Canada, 2024-08-03",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2912",
+    "url": "https://strongmanarchives.com/contests/2912/2024-western-canadas-strongest-woman",
     "total_competitors": 11,
     "results": [
       {
@@ -181434,7 +181434,7 @@
     "contest_id": 2913,
     "contest_name": "2026 Central European Strongman Cup",
     "details": "TrebiÅ¡ov, Slovakia, 2026-08-15",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2913",
+    "url": "https://strongmanarchives.com/contests/2913/2026-central-european-strongman-cup",
     "total_competitors": 5,
     "results": [
       {
@@ -181473,7 +181473,7 @@
     "contest_id": 2914,
     "contest_name": "2016 Canada's Strongest Woman",
     "details": "Regina, Canada, 2016-09-25",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2914",
+    "url": "https://strongmanarchives.com/contests/2914/2016-canadas-strongest-woman",
     "total_competitors": 5,
     "results": [
       {
@@ -181512,7 +181512,7 @@
     "contest_id": 2915,
     "contest_name": "2016 U80 Canada's Strongest Woman",
     "details": "Regina, Canada, 2016-09-25",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2915",
+    "url": "https://strongmanarchives.com/contests/2915/2016-u80-canadas-strongest-woman",
     "total_competitors": 4,
     "results": [
       {
@@ -181545,7 +181545,7 @@
     "contest_id": 2916,
     "contest_name": "2016 U70 Canada's Strongest Woman",
     "details": "Regina, Canada, 2016-09-25",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2916",
+    "url": "https://strongmanarchives.com/contests/2916/2016-u70-canadas-strongest-woman",
     "total_competitors": 5,
     "results": [
       {
@@ -181584,7 +181584,7 @@
     "contest_id": 2917,
     "contest_name": "2021 Canada's Strongest Woman",
     "details": "Regina, Canada, 2021-08-14",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2917",
+    "url": "https://strongmanarchives.com/contests/2917/2021-canadas-strongest-woman",
     "total_competitors": 6,
     "results": [
       {
@@ -181629,7 +181629,7 @@
     "contest_id": 2918,
     "contest_name": "2024 Official Strongman Ireland's Strongest Man",
     "details": "Ballymoney, Northern Ireland, 2024-10-05",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2918",
+    "url": "https://strongmanarchives.com/contests/2918/2024-official-strongman-irelands-strongest-man",
     "total_competitors": 8,
     "results": [
       {
@@ -181686,7 +181686,7 @@
     "contest_id": 2919,
     "contest_name": "2017 Canada's Strongest Woman",
     "details": "Bathurst, Canada, 2017-09-23",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2919",
+    "url": "https://strongmanarchives.com/contests/2919/2017-canadas-strongest-woman",
     "total_competitors": 10,
     "results": [
       {
@@ -181755,7 +181755,7 @@
     "contest_id": 2920,
     "contest_name": "2017 U80 Canada's Strongest Woman",
     "details": "Bathurst, Canada, 2017-09-23",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2920",
+    "url": "https://strongmanarchives.com/contests/2920/2017-u80-canadas-strongest-woman",
     "total_competitors": 7,
     "results": [
       {
@@ -181806,7 +181806,7 @@
     "contest_id": 2921,
     "contest_name": "2017 U70 Canada's Strongest Woman",
     "details": "Bathurst, Canada, 2017-09-23",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2921",
+    "url": "https://strongmanarchives.com/contests/2921/2017-u70-canadas-strongest-woman",
     "total_competitors": 9,
     "results": [
       {
@@ -181869,7 +181869,7 @@
     "contest_id": 2922,
     "contest_name": "2017 U60 Canada's Strongest Woman",
     "details": "Bathurst, Canada, 2017-09-23",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2922",
+    "url": "https://strongmanarchives.com/contests/2922/2017-u60-canadas-strongest-woman",
     "total_competitors": 5,
     "results": [
       {
@@ -181908,7 +181908,7 @@
     "contest_id": 2923,
     "contest_name": "2007 The Strongest Man in Spain",
     "details": "Borriol, Spain, 2007",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2923",
+    "url": "https://strongmanarchives.com/contests/2923/2007-the-strongest-man-in-spain",
     "total_competitors": 10,
     "results": [
       {
@@ -181977,7 +181977,7 @@
     "contest_id": 2924,
     "contest_name": "2019 Sweden's Rawest",
     "details": "Ystad, Sweden, 2019",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2924",
+    "url": "https://strongmanarchives.com/contests/2924/2019-swedens-rawest",
     "total_competitors": 9,
     "results": [
       {
@@ -182040,7 +182040,7 @@
     "contest_id": 2925,
     "contest_name": "2018 Sweden's Rawest",
     "details": "Ystad, Sweden, 2018",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2925",
+    "url": "https://strongmanarchives.com/contests/2925/2018-swedens-rawest",
     "total_competitors": 8,
     "results": [
       {
@@ -182097,7 +182097,7 @@
     "contest_id": 2926,
     "contest_name": "2021 Sweden's Rawest",
     "details": "Ystad, Sweden, 2021",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2926",
+    "url": "https://strongmanarchives.com/contests/2926/2021-swedens-rawest",
     "total_competitors": 8,
     "results": [
       {
@@ -182154,7 +182154,7 @@
     "contest_id": 2927,
     "contest_name": "2020 Sweden's Rawest",
     "details": "Ystad, Sweden, 2020-07-11",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2927",
+    "url": "https://strongmanarchives.com/contests/2927/2020-swedens-rawest",
     "total_competitors": 3,
     "results": [
       {
@@ -182181,7 +182181,7 @@
     "contest_id": 2928,
     "contest_name": "1999 FitnessVolt Classic",
     "details": "Igotcha, Maine, 1999-12-31",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2928",
+    "url": "https://strongmanarchives.com/contests/2928/1999-fitnessvolt-classic",
     "total_competitors": 7,
     "results": [
       {
@@ -182232,7 +182232,7 @@
     "contest_id": 2929,
     "contest_name": "2000 Strength Results Classic",
     "details": "Igotchu, Maine, 2000-12-31",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2929",
+    "url": "https://strongmanarchives.com/contests/2929/2000-strength-results-classic",
     "total_competitors": 7,
     "results": [
       {
@@ -182283,7 +182283,7 @@
     "contest_id": 2930,
     "contest_name": "2022 Sweden's Rawest",
     "details": "Ystad, Sweden, 2022-07-16",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2930",
+    "url": "https://strongmanarchives.com/contests/2930/2022-swedens-rawest",
     "total_competitors": 6,
     "results": [
       {
@@ -182325,10 +182325,79 @@
     ]
   },
   {
+    "contest_id": 2931,
+    "contest_name": "2018 Canada's Strongest Woman",
+    "details": "Plantagenet, Canada, 2018-09-15 to 2018-09-16",
+    "url": "https://strongmanarchives.com/contests/2931/2018-canadas-strongest-woman",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tracey Halladay",
+        "country": "CAN",
+        "score": 62.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Émilie Morin",
+        "country": "CAN",
+        "score": 55.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Taunia Stevens",
+        "country": "CAN",
+        "score": 36.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Amanda Tafelmeyer",
+        "country": "CAN",
+        "score": 35.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Jessica Theaker",
+        "country": "CAN",
+        "score": 34.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Samantha Belliveau",
+        "country": "CAN",
+        "score": 29.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Brittany Brecht",
+        "country": "CAN",
+        "score": 22.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Kristen Thomas",
+        "country": "CAN",
+        "score": 18.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Robyn Koolen",
+        "country": "CAN",
+        "score": 15.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Bailey Deschene",
+        "country": "CAN",
+        "score": 13.0
+      }
+    ]
+  },
+  {
     "contest_id": 2932,
     "contest_name": "2019 Canada's Strongest Woman",
     "details": "Plantagenet, Canada, 2019-09-14 to 2019-09-15",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2932",
+    "url": "https://strongmanarchives.com/contests/2932/2019-canadas-strongest-woman",
     "total_competitors": 8,
     "results": [
       {
@@ -182385,7 +182454,7 @@
     "contest_id": 2933,
     "contest_name": "2026 Lietuvos galiÅ«nÅ³ Äempionato",
     "details": "Utena, Lithuania, 2026-08-29",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2933",
+    "url": "https://strongmanarchives.com/contests/2933/2026-lietuvos-galiunu-cempionato",
     "total_competitors": 8,
     "results": [
       {
@@ -182442,7 +182511,7 @@
     "contest_id": 2934,
     "contest_name": "2026 Harlem European Strongman Cup",
     "details": "AugustÃ³w, Poland, 2026-09-06",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2934",
+    "url": "https://strongmanarchives.com/contests/2934/2026-harlem-european-strongman-cup",
     "total_competitors": 6,
     "results": [
       {
@@ -182487,7 +182556,7 @@
     "contest_id": 2935,
     "contest_name": "2026 B.F.S.A Strongman Cup",
     "details": "Cherven Bryag, Bulgaria, 2026-09-06",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2935",
+    "url": "https://strongmanarchives.com/contests/2935/2026-b-f-s-a-strongman-cup",
     "total_competitors": 7,
     "results": [
       {
@@ -182538,7 +182607,7 @@
     "contest_id": 2936,
     "contest_name": "2016 Strongman Carei",
     "details": "Carei, Romania, 2016-08-06",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2936",
+    "url": "https://strongmanarchives.com/contests/2936/2016-strongman-carei",
     "total_competitors": 3,
     "results": [
       {
@@ -182565,7 +182634,7 @@
     "contest_id": 2937,
     "contest_name": "2026 Lithuania's Strongest Man",
     "details": "KazlÅ³ RÅ«da, Lithuania, 2026-09-05",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2937",
+    "url": "https://strongmanarchives.com/contests/2937/2026-lithuanias-strongest-man",
     "total_competitors": 6,
     "results": [
       {
@@ -182610,7 +182679,7 @@
     "contest_id": 2938,
     "contest_name": "2026 Moscow Sports Night",
     "details": "Moscow, Russia, 2026-09-05",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2938",
+    "url": "https://strongmanarchives.com/contests/2938/2026-moscow-sports-night",
     "total_competitors": 6,
     "results": [
       {
@@ -182655,7 +182724,7 @@
     "contest_id": 2939,
     "contest_name": "2026 Strongest Woman In Canada",
     "details": "Quebec City, Canada, 2026-09-26 to 2026-09-27",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2939",
+    "url": "https://strongmanarchives.com/contests/2939/2026-strongest-woman-in-canada",
     "total_competitors": 8,
     "results": [
       {
@@ -182712,7 +182781,7 @@
     "contest_id": 2940,
     "contest_name": "2026 St. Olaf's Strongman Championship",
     "details": "Savonlinna, Finaland, 2026-09-04 to 2026-09-05",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2940",
+    "url": "https://strongmanarchives.com/contests/2940/2026-st-olafs-strongman-championship",
     "total_competitors": 8,
     "results": [
       {
@@ -182769,7 +182838,7 @@
     "contest_id": 2941,
     "contest_name": "2019 U82 Strongest Woman in the World",
     "details": "Palmer, Alaska, 2019-08-25",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2941",
+    "url": "https://strongmanarchives.com/contests/2941/2019-u82-strongest-woman-in-the-world",
     "total_competitors": 2,
     "results": [
       {
@@ -182790,7 +182859,7 @@
     "contest_id": 2942,
     "contest_name": "2019 U64 Strongest Woman in the World",
     "details": "Palmer, Alaska, 2019-08-25",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2942",
+    "url": "https://strongmanarchives.com/contests/2942/2019-u64-strongest-woman-in-the-world",
     "total_competitors": 5,
     "results": [
       {
@@ -182829,7 +182898,7 @@
     "contest_id": 2943,
     "contest_name": "2018 U82 Strongest Woman in the World",
     "details": "Vinstra, Norway, 2018-07-26 to 2018-07-27",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2943",
+    "url": "https://strongmanarchives.com/contests/2943/2018-u82-strongest-woman-in-the-world",
     "total_competitors": 9,
     "results": [
       {
@@ -182892,7 +182961,7 @@
     "contest_id": 2944,
     "contest_name": "2018 U64 Strongest Woman in the World",
     "details": "Vinstra, Norway, 2018-07-26 to 2018-07-27",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2944",
+    "url": "https://strongmanarchives.com/contests/2944/2018-u64-strongest-woman-in-the-world",
     "total_competitors": 7,
     "results": [
       {
@@ -182943,7 +183012,7 @@
     "contest_id": 2945,
     "contest_name": "2026 Open Cup ZajeÄar",
     "details": "ZajeÄar, Serbia, 2026-09-13",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2945",
+    "url": "https://strongmanarchives.com/contests/2945/2026-open-cup-zajecar",
     "total_competitors": 9,
     "results": [
       {
@@ -183006,7 +183075,7 @@
     "contest_id": 2946,
     "contest_name": "2026 Russia's Strongest Man",
     "details": "Podolsk, Russia, 2026-09-12",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2946",
+    "url": "https://strongmanarchives.com/contests/2946/2026-russias-strongest-man",
     "total_competitors": 7,
     "results": [
       {
@@ -183057,7 +183126,7 @@
     "contest_id": 2947,
     "contest_name": "2026 Official Strongman Wales' Strongest Man",
     "details": "Cardiff, Wales, 2026-10-11",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2947",
+    "url": "https://strongmanarchives.com/contests/2947/2026-official-strongman-wales-strongest-man",
     "total_competitors": 12,
     "results": [
       {
@@ -183088,13 +183157,13 @@
         "rank": "5",
         "person_name": "Luke Sperduti",
         "country": "WAL",
-        "score": 38.5
+        "score": 39.5
       },
       {
         "rank": "6",
         "person_name": "James Francis",
         "country": "WAL",
-        "score": 30.5
+        "score": 31.5
       },
       {
         "rank": "7",
@@ -183104,19 +183173,19 @@
       },
       {
         "rank": "8",
-        "person_name": "Ben Pascoe",
-        "country": "WAL",
-        "score": 23.5
-      },
-      {
-        "rank": "9",
         "person_name": "Liam Rodgers",
         "country": "WAL",
         "score": 22.5
       },
       {
-        "rank": "10",
+        "rank": "9",
         "person_name": "John Thompson",
+        "country": "WAL",
+        "score": 21.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Ben Pascoe",
         "country": "WAL",
         "score": 20.5
       },
@@ -183138,7 +183207,7 @@
     "contest_id": 2948,
     "contest_name": "2026 Official Strongman Scotland's Strongest Man",
     "details": "Glasgow, Scotland, 2026-09-19",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2948",
+    "url": "https://strongmanarchives.com/contests/2948/2026-official-strongman-scotlands-strongest-man",
     "total_competitors": 26,
     "results": [
       {
@@ -183303,7 +183372,7 @@
     "contest_id": 2949,
     "contest_name": "2026 European Strongman Cup",
     "details": "PanevÄÅ¾ys, Lithuania, 2026-09-13",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2949",
+    "url": "https://strongmanarchives.com/contests/2949/2026-european-strongman-cup",
     "total_competitors": 8,
     "results": [
       {
@@ -183358,9 +183427,9 @@
   },
   {
     "contest_id": 2950,
-    "contest_name": "2026 M50+ New Zealand's Strongest Woman",
+    "contest_name": "2026 Masters 50+ New Zealand's Strongest Woman",
     "details": "Christchurch, New Zealand, 2026-09-19",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2950",
+    "url": "https://strongmanarchives.com/contests/2950/2026-masters-50-new-zealands-strongest-woman",
     "total_competitors": 1,
     "results": [
       {
@@ -183375,7 +183444,7 @@
     "contest_id": 2951,
     "contest_name": "2026 Masters New Zealand's Strongest Woman",
     "details": "Christchurch, New Zealand, 2026-09-19",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2951",
+    "url": "https://strongmanarchives.com/contests/2951/2026-masters-new-zealands-strongest-woman",
     "total_competitors": 3,
     "results": [
       {
@@ -183402,7 +183471,7 @@
     "contest_id": 2952,
     "contest_name": "2026 U64 New Zealand's Strongest Woman",
     "details": "Christchurch, New Zealand, 2026-09-19",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2952",
+    "url": "https://strongmanarchives.com/contests/2952/2026-u64-new-zealands-strongest-woman",
     "total_competitors": 2,
     "results": [
       {
@@ -183423,7 +183492,7 @@
     "contest_id": 2953,
     "contest_name": "2026 U73 New Zealand's Strongest Woman",
     "details": "Christchurch, New Zealand, 2026-09-19",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2953",
+    "url": "https://strongmanarchives.com/contests/2953/2026-u73-new-zealands-strongest-woman",
     "total_competitors": 3,
     "results": [
       {
@@ -183450,7 +183519,7 @@
     "contest_id": 2954,
     "contest_name": "2026 U82 New Zealand's Strongest Woman",
     "details": "Christchurch, New Zealand, 2026-09-19",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2954",
+    "url": "https://strongmanarchives.com/contests/2954/2026-u82-new-zealands-strongest-woman",
     "total_competitors": 1,
     "results": [
       {
@@ -183465,7 +183534,7 @@
     "contest_id": 2955,
     "contest_name": "2026 New Zealand's Strongest Woman",
     "details": "Christchurch, New Zealand, 2026-09-19",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2955",
+    "url": "https://strongmanarchives.com/contests/2955/2026-new-zealands-strongest-woman",
     "total_competitors": 6,
     "results": [
       {
@@ -183508,9 +183577,9 @@
   },
   {
     "contest_id": 2956,
-    "contest_name": "2026 M50+ New Zealand's Strongest Man",
+    "contest_name": "2026 Masters 50+ New Zealand's Strongest Man",
     "details": "Christchurch, New Zealand, 2026-09-19",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2956",
+    "url": "https://strongmanarchives.com/contests/2956/2026-masters-50-new-zealands-strongest-man",
     "total_competitors": 2,
     "results": [
       {
@@ -183531,7 +183600,7 @@
     "contest_id": 2957,
     "contest_name": "2026 Masters New Zealand's Strongest Man",
     "details": "Christchurch, New Zealand, 2026-09-19",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2957",
+    "url": "https://strongmanarchives.com/contests/2957/2026-masters-new-zealands-strongest-man",
     "total_competitors": 5,
     "results": [
       {
@@ -183570,7 +183639,7 @@
     "contest_id": 2958,
     "contest_name": "2026 U80 New Zealand's Strongest Man",
     "details": "Christchurch, New Zealand, 2026-09-19",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2958",
+    "url": "https://strongmanarchives.com/contests/2958/2026-u80-new-zealands-strongest-man",
     "total_competitors": 9,
     "results": [
       {
@@ -183633,7 +183702,7 @@
     "contest_id": 2959,
     "contest_name": "2026 U90 New Zealand's Strongest Man",
     "details": "Christchurch, New Zealand, 2026-09-19",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2959",
+    "url": "https://strongmanarchives.com/contests/2959/2026-u90-new-zealands-strongest-man",
     "total_competitors": 5,
     "results": [
       {
@@ -183672,7 +183741,7 @@
     "contest_id": 2960,
     "contest_name": "2026 U105 New Zealand's Strongest Man",
     "details": "Christchurch, New Zealand, 2026-09-19",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2960",
+    "url": "https://strongmanarchives.com/contests/2960/2026-u105-new-zealands-strongest-man",
     "total_competitors": 7,
     "results": [
       {
@@ -183723,7 +183792,7 @@
     "contest_id": 2961,
     "contest_name": "2026 U120 New Zealand's Strongest Man",
     "details": "Christchurch, New Zealand, 2026-09-19",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2961",
+    "url": "https://strongmanarchives.com/contests/2961/2026-u120-new-zealands-strongest-man",
     "total_competitors": 4,
     "results": [
       {
@@ -183756,7 +183825,7 @@
     "contest_id": 2962,
     "contest_name": "2026 New Zealand's Strongest Man",
     "details": "Christchurch, New Zealand, 2026-09-19",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2962",
+    "url": "https://strongmanarchives.com/contests/2962/2026-new-zealands-strongest-man",
     "total_competitors": 8,
     "results": [
       {
@@ -183813,7 +183882,7 @@
     "contest_id": 2963,
     "contest_name": "2025 U105 America's Strongest Man",
     "details": "Las Vegas, Nevada, 2025-10-10 to 2025-10-11",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2963",
+    "url": "https://strongmanarchives.com/contests/2963/2025-u105-americas-strongest-man",
     "total_competitors": 14,
     "results": [
       {
@@ -183906,7 +183975,7 @@
     "contest_id": 2964,
     "contest_name": "2026 America's Strongest Man",
     "details": "Las Vegas, Nevada, 2026-09-25 to 2026-09-26",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2964",
+    "url": "https://strongmanarchives.com/contests/2964/2026-americas-strongest-man",
     "total_competitors": 12,
     "results": [
       {
@@ -183987,7 +184056,7 @@
     "contest_id": 2965,
     "contest_name": "2026 America's Strongest Woman",
     "details": "Las Vegas, Nevada, 2026-09-25 to 2026-09-26",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2965",
+    "url": "https://strongmanarchives.com/contests/2965/2026-americas-strongest-woman",
     "total_competitors": 7,
     "results": [
       {
@@ -184038,7 +184107,7 @@
     "contest_id": 2966,
     "contest_name": "2026 U105 America's Strongest Man",
     "details": "Las Vegas, Nevada, 2026-09-25 to 2026-09-26",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2966",
+    "url": "https://strongmanarchives.com/contests/2966/2026-u105-americas-strongest-man",
     "total_competitors": 6,
     "results": [
       {
@@ -184083,7 +184152,7 @@
     "contest_id": 2967,
     "contest_name": "2026 U73 America's Strongest Woman",
     "details": "Las Vegas, Nevada, 2026-09-25 to 2026-09-26",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2967",
+    "url": "https://strongmanarchives.com/contests/2967/2026-u73-americas-strongest-woman",
     "total_competitors": 6,
     "results": [
       {
@@ -184128,7 +184197,7 @@
     "contest_id": 2968,
     "contest_name": "2026 U82 America's Strongest Woman",
     "details": "Las Vegas, Nevada, 2026-09-25 to 2026-09-26",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2968",
+    "url": "https://strongmanarchives.com/contests/2968/2026-u82-americas-strongest-woman",
     "total_competitors": 3,
     "results": [
       {
@@ -184155,7 +184224,7 @@
     "contest_id": 2969,
     "contest_name": "2026 U90 America's Strongest Man",
     "details": "Las Vegas, Nevada, 2026-09-25 to 2026-09-26",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2969",
+    "url": "https://strongmanarchives.com/contests/2969/2026-u90-americas-strongest-man",
     "total_competitors": 7,
     "results": [
       {
@@ -184206,7 +184275,7 @@
     "contest_id": 2970,
     "contest_name": "2026 European Strongman Championship",
     "details": "Semmering, Austria, 2026-09-26",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2970",
+    "url": "https://strongmanarchives.com/contests/2970/2026-european-strongman-championship",
     "total_competitors": 4,
     "results": [
       {
@@ -184239,7 +184308,7 @@
     "contest_id": 2971,
     "contest_name": "2026 PSL U73kg Championship",
     "details": "Salt Lake City, Utah, 2026-09-26",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2971",
+    "url": "https://strongmanarchives.com/contests/2971/2026-psl-u73kg-championship",
     "total_competitors": 8,
     "results": [
       {
@@ -184296,7 +184365,7 @@
     "contest_id": 2972,
     "contest_name": "2026 U64 America's Strongest Woman",
     "details": "Pittsburgh, Pennsylvania , 2026-05-17",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2972",
+    "url": "https://strongmanarchives.com/contests/2972/2026-u64-americas-strongest-woman",
     "total_competitors": 3,
     "results": [
       {
@@ -184323,7 +184392,7 @@
     "contest_id": 2973,
     "contest_name": "2026 U80 America's Strongest Man",
     "details": "Pittsburgh, Pennsylvania, 2026-05-17",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2973",
+    "url": "https://strongmanarchives.com/contests/2973/2026-u80-americas-strongest-man",
     "total_competitors": 7,
     "results": [
       {
@@ -184374,7 +184443,7 @@
     "contest_id": 2974,
     "contest_name": "2025 U82 America's Strongest Woman",
     "details": "Beaver Falls, Pennsylvania, 2025-07-19",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2974",
+    "url": "https://strongmanarchives.com/contests/2974/2025-u82-americas-strongest-woman",
     "total_competitors": 3,
     "results": [
       {
@@ -184401,7 +184470,7 @@
     "contest_id": 2975,
     "contest_name": "2026 Sword of MatÃºÅ¡ ÄÃ¡k",
     "details": "TrenÄÃ­n, Slovakia, 2026-09-26",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2975",
+    "url": "https://strongmanarchives.com/contests/2975/2026-sword-of-matus-cak",
     "total_competitors": 5,
     "results": [
       {
@@ -184440,7 +184509,7 @@
     "contest_id": 2976,
     "contest_name": "2026 PSL Trophy",
     "details": "DunajskÃ¡ Streda, Slovakia, 2026-09-25",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2976",
+    "url": "https://strongmanarchives.com/contests/2976/2026-psl-trophy",
     "total_competitors": 9,
     "results": [
       {
@@ -184503,7 +184572,7 @@
     "contest_id": 2977,
     "contest_name": "2023 Masters 50+ OSG European Championships",
     "details": "London, England, 2023-08-11 to 2023-08-13",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2977",
+    "url": "https://strongmanarchives.com/contests/2977/2023-masters-50-osg-european-championships",
     "total_competitors": 4,
     "results": [
       {
@@ -184536,7 +184605,7 @@
     "contest_id": 2978,
     "contest_name": "2024 Masters 50+ OSG European Championships",
     "details": "York, England, 2024-08-17 to 2024-08-18",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2978",
+    "url": "https://strongmanarchives.com/contests/2978/2024-masters-50-osg-european-championships",
     "total_competitors": 9,
     "results": [
       {
@@ -184599,37 +184668,37 @@
     "contest_id": 2979,
     "contest_name": "2024 Masters OSG European Championships (Women)",
     "details": "York, England, 2024-08-17 to 2024-08-18",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2979",
+    "url": "https://strongmanarchives.com/contests/2979/2024-masters-osg-european-championships-women",
     "total_competitors": 10,
     "results": [
       {
         "rank": "1",
         "person_name": "Naomi Hadley",
-        "country": "ENG",
+        "country": "GBR",
         "score": 45.0
       },
       {
         "rank": "2",
         "person_name": "Michaela Pearson",
-        "country": "ENG",
+        "country": "GBR",
         "score": 40.5
       },
       {
         "rank": "3",
         "person_name": "Claire Myler",
-        "country": "WAL",
+        "country": "GBR",
         "score": 40.5
       },
       {
         "rank": "4",
         "person_name": "Andrea Seed",
-        "country": "ENG",
+        "country": "GBR",
         "score": 39.5
       },
       {
         "rank": "5",
         "person_name": "Meg Robson-Austin",
-        "country": "ENG",
+        "country": "GBR",
         "score": 24.0
       },
       {
@@ -184641,25 +184710,25 @@
       {
         "rank": "7",
         "person_name": "Sally Brierley",
-        "country": "ENG",
+        "country": "GBR",
         "score": 14.5
       },
       {
         "rank": "8",
         "person_name": "Emma Calder-Crone",
-        "country": "ENG",
+        "country": "GBR",
         "score": 14.0
       },
       {
         "rank": "9",
         "person_name": "Jo Warburton",
-        "country": "ENG",
+        "country": "GBR",
         "score": 13.5
       },
       {
         "rank": "10",
         "person_name": "Nikki Ellerington",
-        "country": "ENG",
+        "country": "GBR",
         "score": 7.5
       }
     ]
@@ -184668,7 +184737,7 @@
     "contest_id": 2980,
     "contest_name": "2024 Masters OSG European Championships (Men)",
     "details": "York, England, 2024-08-17 to 2024-08-18",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2980",
+    "url": "https://strongmanarchives.com/contests/2980/2024-masters-osg-european-championships-men",
     "total_competitors": 12,
     "results": [
       {
@@ -184692,7 +184761,7 @@
       {
         "rank": "4",
         "person_name": "Glen Cutler",
-        "country": "ENG",
+        "country": "GBR",
         "score": 38.0
       },
       {
@@ -184710,19 +184779,19 @@
       {
         "rank": "7",
         "person_name": "Mike Arkwright",
-        "country": "ENG",
+        "country": "GBR",
         "score": 27.5
       },
       {
         "rank": "8",
         "person_name": "Ryan Gray",
-        "country": "ENG",
+        "country": "GBR",
         "score": 27.0
       },
       {
         "rank": "9",
         "person_name": "Keoghan Litchfield",
-        "country": "ENG",
+        "country": "GBR",
         "score": 20.0
       },
       {
@@ -184734,7 +184803,7 @@
       {
         "rank": "11",
         "person_name": "Kiel Dewar",
-        "country": "ENG",
+        "country": "GBR",
         "score": 12.5
       },
       {
@@ -184749,19 +184818,19 @@
     "contest_id": 2981,
     "contest_name": "2023 Masters OSG European Championships (Women)",
     "details": "London, England, 2023-08-11 to 2023-08-13",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2981",
+    "url": "https://strongmanarchives.com/contests/2981/2023-masters-osg-european-championships-women",
     "total_competitors": 11,
     "results": [
       {
         "rank": "1",
         "person_name": "Naomi Hadley",
-        "country": "ENG",
+        "country": "GBR",
         "score": 61.0
       },
       {
         "rank": "2",
         "person_name": "Claire Myler",
-        "country": "WAL",
+        "country": "GBR",
         "score": 55.0
       },
       {
@@ -184779,7 +184848,7 @@
       {
         "rank": "5",
         "person_name": "Meg Robson-Austin",
-        "country": "ENG",
+        "country": "GBR",
         "score": 37.5
       },
       {
@@ -184791,7 +184860,7 @@
       {
         "rank": "7",
         "person_name": "Gail McComiskey",
-        "country": "NIR",
+        "country": "GBR",
         "score": 27.0
       },
       {
@@ -184803,7 +184872,7 @@
       {
         "rank": "9",
         "person_name": "Carly Mear",
-        "country": "ENG",
+        "country": "GBR",
         "score": 19.0
       },
       {
@@ -184815,7 +184884,7 @@
       {
         "rank": "11",
         "person_name": "Lynsey King",
-        "country": "SCO",
+        "country": "GBR",
         "score": 7.0
       }
     ]
@@ -184824,7 +184893,7 @@
     "contest_id": 2982,
     "contest_name": "2023 Masters OSG European Championships (Men)",
     "details": "London, England, 2023-08-11 to 2023-08-13",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2982",
+    "url": "https://strongmanarchives.com/contests/2982/2023-masters-osg-european-championships-men",
     "total_competitors": 11,
     "results": [
       {
@@ -184899,7 +184968,7 @@
     "contest_id": 2983,
     "contest_name": "2023 U73 OSG European Championships",
     "details": "London, England, 2023-08-11 to 2023-08-13",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2983",
+    "url": "https://strongmanarchives.com/contests/2983/2023-u73-osg-european-championships",
     "total_competitors": 7,
     "results": [
       {
@@ -184950,7 +185019,7 @@
     "contest_id": 2984,
     "contest_name": "2023 U82 OSG European Championships",
     "details": "London, England, 2023-08-11 to 2023-08-13",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2984",
+    "url": "https://strongmanarchives.com/contests/2984/2023-u82-osg-european-championships",
     "total_competitors": 10,
     "results": [
       {
@@ -184967,7 +185036,7 @@
       },
       {
         "rank": "3",
-        "person_name": "Aneta Brzakova",
+        "person_name": "Anetka Brzáková",
         "country": "GBR",
         "score": 44.5
       },
@@ -185009,7 +185078,7 @@
       },
       {
         "rank": "10",
-        "person_name": "Jade  Hoare",
+        "person_name": "Jade Harkin",
         "country": "IRL",
         "score": 11.0
       }
@@ -185019,7 +185088,7 @@
     "contest_id": 2985,
     "contest_name": "2023 U64 OSG European Championships",
     "details": "London, England, 2023-08-11 to 2023-08-13",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2985",
+    "url": "https://strongmanarchives.com/contests/2985/2023-u64-osg-european-championships",
     "total_competitors": 12,
     "results": [
       {
@@ -185042,7 +185111,7 @@
       },
       {
         "rank": "4",
-        "person_name": "Shannon Peters",
+        "person_name": "Shannon Reece",
         "country": "GBR",
         "score": 41.0
       },
@@ -185066,7 +185135,7 @@
       },
       {
         "rank": "8",
-        "person_name": "Molly Wagstaff",
+        "person_name": "Mollie Wagstaff",
         "country": "GBR",
         "score": 37.0
       },
@@ -185100,7 +185169,7 @@
     "contest_id": 2986,
     "contest_name": "2023 U80 OSG European Championships",
     "details": "London, England, 2023-08-11 to 2023-08-13",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2986",
+    "url": "https://strongmanarchives.com/contests/2986/2023-u80-osg-european-championships",
     "total_competitors": 10,
     "results": [
       {
@@ -185169,7 +185238,7 @@
     "contest_id": 2987,
     "contest_name": "2023 U90 OSG European Championships",
     "details": "London, England, 2023-08-11 to 2023-08-13",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2987",
+    "url": "https://strongmanarchives.com/contests/2987/2023-u90-osg-european-championships",
     "total_competitors": 16,
     "results": [
       {
@@ -185274,7 +185343,7 @@
     "contest_id": 2988,
     "contest_name": "2023 U105 OSG European Championships",
     "details": "London, England, 2023-08-11 to 2023-08-13",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2988",
+    "url": "https://strongmanarchives.com/contests/2988/2023-u105-osg-european-championships",
     "total_competitors": 13,
     "results": [
       {
@@ -185361,7 +185430,7 @@
     "contest_id": 2989,
     "contest_name": "2024 U64 OSG European Championships",
     "details": "York, England, 2024-08-17 to 2024-08-18",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2989",
+    "url": "https://strongmanarchives.com/contests/2989/2024-u64-osg-european-championships",
     "total_competitors": 13,
     "results": [
       {
@@ -185396,7 +185465,7 @@
       },
       {
         "rank": "6",
-        "person_name": "Bronwen Price",
+        "person_name": "Bronwen Hodge",
         "country": "GBR",
         "score": 33.0
       },
@@ -185438,7 +185507,7 @@
       },
       {
         "rank": "13",
-        "person_name": "Melanie  Cuff",
+        "person_name": "Melanie  Hall",
         "country": "GBR",
         "score": 11.5
       }
@@ -185448,7 +185517,7 @@
     "contest_id": 2990,
     "contest_name": "2024 U73 OSG European Championships",
     "details": "York, England, 2024-08-17 to 2024-08-18",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2990",
+    "url": "https://strongmanarchives.com/contests/2990/2024-u73-osg-european-championships",
     "total_competitors": 12,
     "results": [
       {
@@ -185483,7 +185552,7 @@
       },
       {
         "rank": "6",
-        "person_name": "Molly Wagstaff",
+        "person_name": "Mollie Wagstaff",
         "country": "GBR",
         "score": 31.0
       },
@@ -185529,7 +185598,7 @@
     "contest_id": 2991,
     "contest_name": "2024 U82 OSG European Championships",
     "details": "York, England, 2024-08-17 to 2024-08-18",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2991",
+    "url": "https://strongmanarchives.com/contests/2991/2024-u82-osg-european-championships",
     "total_competitors": 11,
     "results": [
       {
@@ -185604,7 +185673,7 @@
     "contest_id": 2992,
     "contest_name": "2024 U80 OSG European Championships",
     "details": "York, England, 2024-08-17 to 2024-08-18",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2992",
+    "url": "https://strongmanarchives.com/contests/2992/2024-u80-osg-european-championships",
     "total_competitors": 12,
     "results": [
       {
@@ -185675,7 +185744,7 @@
       },
       {
         "rank": "12",
-        "person_name": "Petr Merglesky",
+        "person_name": "Petr Mergleský",
         "country": "CZE",
         "score": 10.5
       }
@@ -185685,7 +185754,7 @@
     "contest_id": 2993,
     "contest_name": "2024 U90 OSG European Championships",
     "details": "York, England, 2024-08-17 to 2024-08-18",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2993",
+    "url": "https://strongmanarchives.com/contests/2993/2024-u90-osg-european-championships",
     "total_competitors": 14,
     "results": [
       {
@@ -185778,7 +185847,7 @@
     "contest_id": 2994,
     "contest_name": "2024 U105 OSG European Championships",
     "details": "York, England, 2024-08-17 to 2024-08-18",
-    "url": "https://strongmanarchives.com/viewContest.php?id=2994",
+    "url": "https://strongmanarchives.com/contests/2994/2024-u105-osg-european-championships",
     "total_competitors": 12,
     "results": [
       {
@@ -185813,7 +185882,7 @@
       },
       {
         "rank": "6",
-        "person_name": "Norbert Svarc",
+        "person_name": "Norbert Švarc",
         "country": "CZE",
         "score": 33.0
       },
@@ -185859,7 +185928,7 @@
     "contest_id": 3001,
     "contest_name": "2026 OSG European Championships (Men)",
     "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3001",
+    "url": "https://strongmanarchives.com/contests/3001/2026-osg-european-championships-men",
     "total_competitors": 10,
     "results": [
       {
@@ -185928,7 +185997,7 @@
     "contest_id": 3002,
     "contest_name": "2026 OSG European Championships (Women)",
     "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3002",
+    "url": "https://strongmanarchives.com/contests/3002/2026-osg-european-championships-women",
     "total_competitors": 12,
     "results": [
       {
@@ -186009,7 +186078,7 @@
     "contest_id": 3003,
     "contest_name": "2026 U105 OSG European Championships",
     "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3003",
+    "url": "https://strongmanarchives.com/contests/3003/2026-u105-osg-european-championships",
     "total_competitors": 18,
     "results": [
       {
@@ -186126,7 +186195,7 @@
     "contest_id": 3004,
     "contest_name": "2026 U90 OSG European Championships",
     "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3004",
+    "url": "https://strongmanarchives.com/contests/3004/2026-u90-osg-european-championships",
     "total_competitors": 21,
     "results": [
       {
@@ -186261,7 +186330,7 @@
     "contest_id": 3005,
     "contest_name": "2026 U80 OSG European Championships",
     "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3005",
+    "url": "https://strongmanarchives.com/contests/3005/2026-u80-osg-european-championships",
     "total_competitors": 23,
     "results": [
       {
@@ -186408,7 +186477,7 @@
     "contest_id": 3006,
     "contest_name": "2026 Masters OSG European Championships (Men)",
     "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3006",
+    "url": "https://strongmanarchives.com/contests/3006/2026-masters-osg-european-championships-men",
     "total_competitors": 16,
     "results": [
       {
@@ -186513,7 +186582,7 @@
     "contest_id": 3007,
     "contest_name": "2026 Masters 50+ OSG European Championships",
     "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3007",
+    "url": "https://strongmanarchives.com/contests/3007/2026-masters-50-osg-european-championships",
     "total_competitors": 13,
     "results": [
       {
@@ -186600,7 +186669,7 @@
     "contest_id": 3008,
     "contest_name": "2026 U64 OSG European Championships",
     "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3008",
+    "url": "https://strongmanarchives.com/contests/3008/2026-u64-osg-european-championships",
     "total_competitors": 13,
     "results": [
       {
@@ -186687,7 +186756,7 @@
     "contest_id": 3009,
     "contest_name": "2026 U73 OSG European Championships",
     "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3009",
+    "url": "https://strongmanarchives.com/contests/3009/2026-u73-osg-european-championships",
     "total_competitors": 15,
     "results": [
       {
@@ -186786,7 +186855,7 @@
     "contest_id": 3010,
     "contest_name": "2026 U82 OSG European Championships",
     "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3010",
+    "url": "https://strongmanarchives.com/contests/3010/2026-u82-osg-european-championships",
     "total_competitors": 12,
     "results": [
       {
@@ -186867,7 +186936,7 @@
     "contest_id": 3011,
     "contest_name": "2026 Masters OSG European Championships (Women)",
     "details": "Harrogate, England, 2026-10-03 to 2026-10-04",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3011",
+    "url": "https://strongmanarchives.com/contests/3011/2026-masters-osg-european-championships-women",
     "total_competitors": 9,
     "results": [
       {
@@ -186930,7 +186999,7 @@
     "contest_id": 3012,
     "contest_name": "2022 Alberta's Strongest Man",
     "details": "Edmonton, Canada, 2022-07-22 to 2022-07-23",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3012",
+    "url": "https://strongmanarchives.com/contests/3012/2022-albertas-strongest-man",
     "total_competitors": 8,
     "results": [
       {
@@ -186973,13 +187042,13 @@
         "rank": "7",
         "person_name": "Brandon Blachford",
         "country": "CAN",
-        "score": 16.5
+        "score": 13.5
       },
       {
         "rank": "8",
         "person_name": "Ken Kidder",
         "country": "CAN",
-        "score": 9.5
+        "score": 8.5
       }
     ]
   },
@@ -186987,7 +187056,7 @@
     "contest_id": 3013,
     "contest_name": "2022 Alberta's Strongest Woman",
     "details": "Edmonton, Canada, 2022-07-22 to 2022-07-23",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3013",
+    "url": "https://strongmanarchives.com/contests/3013/2022-albertas-strongest-woman",
     "total_competitors": 6,
     "results": [
       {
@@ -187010,7 +187079,7 @@
       },
       {
         "rank": "4",
-        "person_name": "Kerry Gantly",
+        "person_name": "Kerri Gantly",
         "country": "CAN",
         "score": 18.0
       },
@@ -187024,7 +187093,109 @@
         "rank": "6",
         "person_name": "Olivia Hoyem",
         "country": "CAN",
-        "score": 7.0
+        "score": 6.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3014,
+    "contest_name": "2023 Queen of the Klondike",
+    "details": "Edmonton, Canada, 2023-07-21 to 2023-07-22",
+    "url": "https://strongmanarchives.com/contests/3014/2023-queen-of-the-klondike",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Angela Houle",
+        "country": "CAN",
+        "score": 18.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Therese Zoltan",
+        "country": "CAN",
+        "score": 17.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Kerri Gantly",
+        "country": "CAN",
+        "score": 16.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Jessica Pietrzyk",
+        "country": "CAN",
+        "score": 6.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3015,
+    "contest_name": "2023 King of the Klondike",
+    "details": "Edmonton, Canada, 2022-07-21 to 2023-07-22",
+    "url": "https://strongmanarchives.com/contests/3015/2023-king-of-the-klondike",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tristain Hoath",
+        "country": "CAN",
+        "score": 50.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Leif Palsen",
+        "country": "CAN",
+        "score": 39.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Larson Hehr",
+        "country": "CAN",
+        "score": 37.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Ben Borger",
+        "country": "CAN",
+        "score": 34.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Alex Crisby",
+        "country": "CAN",
+        "score": 33.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Darcy Flaska",
+        "country": "CAN",
+        "score": 32.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Brent Lazanik",
+        "country": "CAN",
+        "score": 23.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Trevor Kulchyski",
+        "country": "CAN",
+        "score": 13.5
+      },
+      {
+        "rank": "9",
+        "person_name": "William Murray",
+        "country": "CAN",
+        "score": 13.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Doug Jones",
+        "country": "CAN",
+        "score": 13.0
       }
     ]
   },
@@ -187032,7 +187203,7 @@
     "contest_id": 3016,
     "contest_name": "2024 Queen of the Klondike",
     "details": "Edmonton, Canada, 2024-07-20 to 2024-07-21",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3016",
+    "url": "https://strongmanarchives.com/contests/3016/2024-queen-of-the-klondike",
     "total_competitors": 8,
     "results": [
       {
@@ -187089,7 +187260,7 @@
     "contest_id": 3017,
     "contest_name": "2026 B.F.S.A Strongman Cup",
     "details": "Koprivshtitsa, Bulgaria, 2026-09-19",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3017",
+    "url": "https://strongmanarchives.com/contests/3017/2026-b-f-s-a-strongman-cup",
     "total_competitors": 6,
     "results": [
       {
@@ -187134,7 +187305,7 @@
     "contest_id": 3018,
     "contest_name": "2021 Masters 50+ World's Strongest Man",
     "details": "Daytona Beach, Florida, 2021-11-12 to 2021-11-14",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3018",
+    "url": "https://strongmanarchives.com/contests/3018/2021-masters-50-worlds-strongest-man",
     "total_competitors": 10,
     "results": [
       {
@@ -187203,7 +187374,7 @@
     "contest_id": 3019,
     "contest_name": "2022 Masters 50+ World's Strongest Man",
     "details": "Daytona Beach, Florida, 2022-11-12 to 2022-11-13",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3019",
+    "url": "https://strongmanarchives.com/contests/3019/2022-masters-50-worlds-strongest-man",
     "total_competitors": 10,
     "results": [
       {
@@ -187272,7 +187443,7 @@
     "contest_id": 3020,
     "contest_name": "2023 Masters 50+ World's Strongest Man",
     "details": "Charleston, West Virginia, 2023-12-01 to 2023-12-03",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3020",
+    "url": "https://strongmanarchives.com/contests/3020/2023-masters-50-worlds-strongest-man",
     "total_competitors": 10,
     "results": [
       {
@@ -187341,7 +187512,7 @@
     "contest_id": 3021,
     "contest_name": "2024 Masters 50+ World's Strongest Man",
     "details": "Madison, Wisconsin, 2024-12-06 to 2024-12-08",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3021",
+    "url": "https://strongmanarchives.com/contests/3021/2024-masters-50-worlds-strongest-man",
     "total_competitors": 11,
     "results": [
       {
@@ -187416,7 +187587,7 @@
     "contest_id": 3022,
     "contest_name": "2025 Masters 50+ World's Strongest Man",
     "details": "Arlington, Texas, 2025-11-21 to 2025-11-23",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3022",
+    "url": "https://strongmanarchives.com/contests/3022/2025-masters-50-worlds-strongest-man",
     "total_competitors": 10,
     "results": [
       {
@@ -187485,7 +187656,7 @@
     "contest_id": 3023,
     "contest_name": "2023 Masters 50+ World's Strongest Woman",
     "details": "Charleston, West Virginia, 2023-12-01 to 2023-12-03",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3023",
+    "url": "https://strongmanarchives.com/contests/3023/2023-masters-50-worlds-strongest-woman",
     "total_competitors": 10,
     "results": [
       {
@@ -187554,7 +187725,7 @@
     "contest_id": 3025,
     "contest_name": "2025 Masters 50+ World's Strongest Woman",
     "details": "Arlington, Texas, 2025-11-21 to 2025-11-23",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3025",
+    "url": "https://strongmanarchives.com/contests/3025/2025-masters-50-worlds-strongest-woman",
     "total_competitors": 10,
     "results": [
       {
@@ -187623,7 +187794,7 @@
     "contest_id": 3026,
     "contest_name": "2024 Masters 50+ World's Strongest Woman",
     "details": "Madison, Wisconsin, 2024-12-06 to 2024-12-08",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3026",
+    "url": "https://strongmanarchives.com/contests/3026/2024-masters-50-worlds-strongest-woman",
     "total_competitors": 10,
     "results": [
       {
@@ -187692,7 +187863,7 @@
     "contest_id": 3027,
     "contest_name": "2024 Masters U105 World's Strongest Man",
     "details": "Madison, Wisconsin, 2024-12-06 to 2024-12-08",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3027",
+    "url": "https://strongmanarchives.com/contests/3027/2024-masters-u105-worlds-strongest-man",
     "total_competitors": 10,
     "results": [
       {
@@ -187761,7 +187932,7 @@
     "contest_id": 3028,
     "contest_name": "2024 Masters U73 World's Strongest Woman",
     "details": "Madison, Wisconsin, 2024-12-06 to 2024-12-08",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3028",
+    "url": "https://strongmanarchives.com/contests/3028/2024-masters-u73-worlds-strongest-woman",
     "total_competitors": 10,
     "results": [
       {
@@ -187830,7 +188001,7 @@
     "contest_id": 3029,
     "contest_name": "2025 Masters U105 World's Strongest Man",
     "details": "Arlington, Texas, 2025-11-21 to 2025-11-23",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3029",
+    "url": "https://strongmanarchives.com/contests/3029/2025-masters-u105-worlds-strongest-man",
     "total_competitors": 11,
     "results": [
       {
@@ -187905,7 +188076,7 @@
     "contest_id": 3030,
     "contest_name": "2025 Masters U73 World's Strongest Woman",
     "details": "Arlington, Texas, 2025-11-23 to 2025-11-23",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3030",
+    "url": "https://strongmanarchives.com/contests/3030/2025-masters-u73-worlds-strongest-woman",
     "total_competitors": 11,
     "results": [
       {
@@ -187980,7 +188151,7 @@
     "contest_id": 3031,
     "contest_name": "2019 Masters OSG European Championships (Men)",
     "details": "Rotherham, England, 2019-08-04",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3031",
+    "url": "https://strongmanarchives.com/contests/3031/2019-masters-osg-european-championships-men",
     "total_competitors": 6,
     "results": [
       {
@@ -188025,7 +188196,7 @@
     "contest_id": 3032,
     "contest_name": "2019 Masters OSG European Championships (Women)",
     "details": "Rotherham, England, 2019-08-04",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3032",
+    "url": "https://strongmanarchives.com/contests/3032/2019-masters-osg-european-championships-women",
     "total_competitors": 6,
     "results": [
       {
@@ -188070,7 +188241,7 @@
     "contest_id": 3033,
     "contest_name": "2019 OSG European Championships (Men)",
     "details": "Rotherham, England, 2019-08-04",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3033",
+    "url": "https://strongmanarchives.com/contests/3033/2019-osg-european-championships-men",
     "total_competitors": 10,
     "results": [
       {
@@ -188139,7 +188310,7 @@
     "contest_id": 3034,
     "contest_name": "2019 OSG European Championships (Women)",
     "details": "Rotherham, England, 2019-08-04",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3034",
+    "url": "https://strongmanarchives.com/contests/3034/2019-osg-european-championships-women",
     "total_competitors": 3,
     "results": [
       {
@@ -188166,7 +188337,7 @@
     "contest_id": 3035,
     "contest_name": "2019 U64 OSG European Championships",
     "details": "Rotherham, England, 2019-08-04",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3035",
+    "url": "https://strongmanarchives.com/contests/3035/2019-u64-osg-european-championships",
     "total_competitors": 10,
     "results": [
       {
@@ -188235,7 +188406,7 @@
     "contest_id": 3036,
     "contest_name": "2019 U82 OSG European Championships",
     "details": "Rotherham, England, 2019-08-04",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3036",
+    "url": "https://strongmanarchives.com/contests/3036/2019-u82-osg-european-championships",
     "total_competitors": 10,
     "results": [
       {
@@ -188304,7 +188475,7 @@
     "contest_id": 3037,
     "contest_name": "2019 U105 OSG European Championships",
     "details": "Rotherham, England, 2019-08-04",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3037",
+    "url": "https://strongmanarchives.com/contests/3037/2019-u105-osg-european-championships",
     "total_competitors": 8,
     "results": [
       {
@@ -188361,7 +188532,7 @@
     "contest_id": 3038,
     "contest_name": "2019 U90 OSG European Championships",
     "details": "Rotherham, England, 2019-08-04",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3038",
+    "url": "https://strongmanarchives.com/contests/3038/2019-u90-osg-european-championships",
     "total_competitors": 12,
     "results": [
       {
@@ -188442,7 +188613,7 @@
     "contest_id": 3039,
     "contest_name": "2019 U80 OSG European Championships",
     "details": "Rotherham, England, 2019-08-04",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3039",
+    "url": "https://strongmanarchives.com/contests/3039/2019-u80-osg-european-championships",
     "total_competitors": 11,
     "results": [
       {
@@ -188517,50 +188688,50 @@
     "contest_id": 3040,
     "contest_name": "2026 B.F.S.A Strongman Cup",
     "details": "Nova Zagora, Bulgaria, 2026-10-11",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3040",
+    "url": "https://strongmanarchives.com/contests/3040/2026-b-f-s-a-strongman-cup",
     "total_competitors": 7,
     "results": [
       {
         "rank": "1",
         "person_name": "Robert Marian Topîrceanu",
         "country": "ROU",
-        "score": 0.0
+        "score": 40.0
       },
       {
         "rank": "2",
         "person_name": "Stanimir Todorov",
         "country": "BUL",
-        "score": 0.0
+        "score": 35.0
       },
       {
         "rank": "3",
         "person_name": "Tihomir Traykov",
         "country": "BUL",
-        "score": 0.0
+        "score": 25.0
       },
       {
         "rank": "4",
         "person_name": "Hristiyan Delchev",
         "country": "BUL",
-        "score": 0.0
+        "score": 23.0
       },
       {
         "rank": "5",
         "person_name": "Denis Hristov",
         "country": "BUL",
-        "score": 0.0
+        "score": 20.0
       },
       {
         "rank": "6",
         "person_name": "Ivan Mryankov",
         "country": "BUL",
-        "score": 0.0
+        "score": 17.0
       },
       {
         "rank": "7",
         "person_name": "Vasil Nakov",
         "country": "BUL",
-        "score": 0.0
+        "score": 8.0
       }
     ]
   },
@@ -188568,7 +188739,7 @@
     "contest_id": 3041,
     "contest_name": "2026 BÃ¡novskÃ½ SilÃ¡k",
     "details": "BÃ¡novce nad Bebravou, Slovakia, 2026-09-20",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3041",
+    "url": "https://strongmanarchives.com/contests/3041/2026-banovsky-silak",
     "total_competitors": 7,
     "results": [
       {
@@ -188619,7 +188790,7 @@
     "contest_id": 3042,
     "contest_name": "2026 Pojedynek GigantÃ³w Novum Groszek",
     "details": "Zakliczyn, Poland, 2026-10-11",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3042",
+    "url": "https://strongmanarchives.com/contests/3042/2026-pojedynek-gigantow-novum-groszek",
     "total_competitors": 5,
     "results": [
       {
@@ -188658,7 +188829,7 @@
     "contest_id": 3043,
     "contest_name": "2018 OSG European Championships (Women)",
     "details": "Lisburn, Northern Ireland, 2018-11-03",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3043",
+    "url": "https://strongmanarchives.com/contests/3043/2018-osg-european-championships-women",
     "total_competitors": 3,
     "results": [
       {
@@ -188685,7 +188856,7 @@
     "contest_id": 3044,
     "contest_name": "2018 Masters OSG European Championships (Men)",
     "details": "Lisburn, Northern Ireland, 2018-11-03",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3044",
+    "url": "https://strongmanarchives.com/contests/3044/2018-masters-osg-european-championships-men",
     "total_competitors": 2,
     "results": [
       {
@@ -188706,7 +188877,7 @@
     "contest_id": 3045,
     "contest_name": "2018 Masters OSG European Championships (Women)",
     "details": "Lisburn, Northern Ireland, 2018-11-03",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3045",
+    "url": "https://strongmanarchives.com/contests/3045/2018-masters-osg-european-championships-women",
     "total_competitors": 3,
     "results": [
       {
@@ -188733,7 +188904,7 @@
     "contest_id": 3046,
     "contest_name": "2018 U64 OSG European Championships",
     "details": "Lisburn, Northern Ireland, 2018-11-03",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3046",
+    "url": "https://strongmanarchives.com/contests/3046/2018-u64-osg-european-championships",
     "total_competitors": 2,
     "results": [
       {
@@ -188754,7 +188925,7 @@
     "contest_id": 3047,
     "contest_name": "2018 U82 OSG European Championships",
     "details": "Lisburn, Northern Ireland, 2018-11-03",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3047",
+    "url": "https://strongmanarchives.com/contests/3047/2018-u82-osg-european-championships",
     "total_competitors": 14,
     "results": [
       {
@@ -188847,7 +189018,7 @@
     "contest_id": 3048,
     "contest_name": "2018 OSG European Championships (Men)",
     "details": "Lisburn, Northern Ireland, 2018-11-03",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3048",
+    "url": "https://strongmanarchives.com/contests/3048/2018-osg-european-championships-men",
     "total_competitors": 10,
     "results": [
       {
@@ -188916,7 +189087,7 @@
     "contest_id": 3049,
     "contest_name": "2018 U105 OSG European Championships",
     "details": "Lisburn, Northern Ireland, 2018-11-03",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3049",
+    "url": "https://strongmanarchives.com/contests/3049/2018-u105-osg-european-championships",
     "total_competitors": 16,
     "results": [
       {
@@ -189021,7 +189192,7 @@
     "contest_id": 3050,
     "contest_name": "2018 U90 OSG European Championships",
     "details": "Lisburn, Northern Ireland, 2018-11-03",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3050",
+    "url": "https://strongmanarchives.com/contests/3050/2018-u90-osg-european-championships",
     "total_competitors": 13,
     "results": [
       {
@@ -189108,7 +189279,7 @@
     "contest_id": 3051,
     "contest_name": "2018 U80 OSG European Championships",
     "details": "Lisburn, Northern Ireland, 2018-11-03",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3051",
+    "url": "https://strongmanarchives.com/contests/3051/2018-u80-osg-european-championships",
     "total_competitors": 10,
     "results": [
       {
@@ -189177,7 +189348,7 @@
     "contest_id": 3052,
     "contest_name": "2013 STP European Championship",
     "details": "RadzionkÃ³w, Poland, 2013",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3052",
+    "url": "https://strongmanarchives.com/contests/3052/2013-stp-european-championship",
     "total_competitors": 10,
     "results": [
       {
@@ -189246,7 +189417,7 @@
     "contest_id": 3053,
     "contest_name": "2026 Strongest Woman in Iceland",
     "details": "KÃ³pavogur, Iceland, 2026-11-07",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3053",
+    "url": "https://strongmanarchives.com/contests/3053/2026-strongest-woman-in-iceland",
     "total_competitors": 2,
     "results": [
       {
@@ -189267,68 +189438,68 @@
     "contest_id": 3054,
     "contest_name": "2026 Sweden's Strongest Man",
     "details": "MalmÃ¶, Sweden, 2026-10-24",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3054",
+    "url": "https://strongmanarchives.com/contests/3054/2026-swedens-strongest-man",
     "total_competitors": 10,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Harley Andersson",
-        "country": "SWE",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Maximilian Eckhardt",
-        "country": "SWE",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Cim Johansson",
         "country": "SWE",
-        "score": 0.0
+        "score": 53.5
       },
       {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Fredrik Johansson",
         "country": "SWE",
-        "score": 0.0
+        "score": 48.0
       },
       {
-        "rank": "-",
-        "person_name": "Jacob Larsson",
-        "country": "SWE",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Henrik Norberg",
-        "country": "SWE",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Nils Nordström",
-        "country": "SWE",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jonathan Partanen",
-        "country": "SWE",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jonas Tinnerholm",
-        "country": "SWE",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Anton Wasser",
         "country": "SWE",
-        "score": 0.0
+        "score": 40.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Maximilian Eckhardt",
+        "country": "SWE",
+        "score": 37.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Harley Andersson",
+        "country": "SWE",
+        "score": 36.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Jonathan Partanen",
+        "country": "SWE",
+        "score": 31.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Jacob Larsson",
+        "country": "SWE",
+        "score": 31.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Jonas Tinnerholm",
+        "country": "SWE",
+        "score": 26.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Henrik Norberg",
+        "country": "SWE",
+        "score": 15.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Nils Nordström",
+        "country": "SWE",
+        "score": 6.0
       }
     ]
   },
@@ -189336,7 +189507,7 @@
     "contest_id": 3055,
     "contest_name": "2022 Arnold UK Pro Strongwoman",
     "details": "Birmingham, England, 2022-09-23",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3055",
+    "url": "https://strongmanarchives.com/contests/3055/2022-arnold-uk-pro-strongwoman",
     "total_competitors": 6,
     "results": [
       {
@@ -189381,7 +189552,7 @@
     "contest_id": 3056,
     "contest_name": "2022 U82 Arnold UK Pro Strongwoman",
     "details": "Birmingham, England, 2022-09-23",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3056",
+    "url": "https://strongmanarchives.com/contests/3056/2022-u82-arnold-uk-pro-strongwoman",
     "total_competitors": 6,
     "results": [
       {
@@ -189426,7 +189597,7 @@
     "contest_id": 3057,
     "contest_name": "2022 U73 Arnold UK Pro Strongwoman",
     "details": "Birmingham, England, 2022-09-23",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3057",
+    "url": "https://strongmanarchives.com/contests/3057/2022-u73-arnold-uk-pro-strongwoman",
     "total_competitors": 6,
     "results": [
       {
@@ -189471,7 +189642,7 @@
     "contest_id": 3058,
     "contest_name": "2022 U64 Arnold UK Pro Strongwoman",
     "details": "Birmingham, England, 2022-09-23",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3058",
+    "url": "https://strongmanarchives.com/contests/3058/2022-u64-arnold-uk-pro-strongwoman",
     "total_competitors": 6,
     "results": [
       {
@@ -189516,7 +189687,7 @@
     "contest_id": 3059,
     "contest_name": "2026 Norway's Strongest Man",
     "details": "Larvik, Norway, 2026-09-04 to 2026-09-05",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3059",
+    "url": "https://strongmanarchives.com/contests/3059/2026-norways-strongest-man",
     "total_competitors": 12,
     "results": [
       {
@@ -189597,7 +189768,7 @@
     "contest_id": 3060,
     "contest_name": "2026 Norway's Strongest Woman",
     "details": "Larvik, Norway, 2026-09-04 to 2026-09-05",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3060",
+    "url": "https://strongmanarchives.com/contests/3060/2026-norways-strongest-woman",
     "total_competitors": 4,
     "results": [
       {
@@ -189630,7 +189801,7 @@
     "contest_id": 3061,
     "contest_name": "2014 STP European Championship",
     "details": "Krynica-ZdrÃ³j, Poland, 2014-06-21",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3061",
+    "url": "https://strongmanarchives.com/contests/3061/2014-stp-european-championship",
     "total_competitors": 6,
     "results": [
       {
@@ -189675,7 +189846,7 @@
     "contest_id": 3062,
     "contest_name": "2014 STP European Championship",
     "details": "Nowy SÄcz, Poland, 2014-08-31",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3062",
+    "url": "https://strongmanarchives.com/contests/3062/2014-stp-european-championship",
     "total_competitors": 6,
     "results": [
       {
@@ -189720,8 +189891,8 @@
     "contest_id": 3063,
     "contest_name": "2015 STP European Championship",
     "details": "ZÄbki, Poland, 2015-06-21",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3063",
-    "total_competitors": 6,
+    "url": "https://strongmanarchives.com/contests/3063/2015-stp-european-championship",
+    "total_competitors": 7,
     "results": [
       {
         "rank": "1",
@@ -189749,6 +189920,12 @@
       },
       {
         "rank": "5",
+        "person_name": "Ivars Grahoļskis",
+        "country": "LAT",
+        "score": 0.0
+      },
+      {
+        "rank": "5",
         "person_name": "Iwan Groholski",
         "country": "POL",
         "score": 0.0
@@ -189765,7 +189942,7 @@
     "contest_id": 3064,
     "contest_name": "2026 Masters Norway's Strongest Man",
     "details": "Larvik, Norway, 2026-09-04 to 2026-09-05",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3064",
+    "url": "https://strongmanarchives.com/contests/3064/2026-masters-norways-strongest-man",
     "total_competitors": 8,
     "results": [
       {
@@ -189822,7 +189999,7 @@
     "contest_id": 3065,
     "contest_name": "2026 U120 Norway's Strongest Man",
     "details": "Larvik, Norway, 2026-09-04 to 2026-09-05",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3065",
+    "url": "https://strongmanarchives.com/contests/3065/2026-u120-norways-strongest-man",
     "total_competitors": 8,
     "results": [
       {
@@ -189879,7 +190056,7 @@
     "contest_id": 3066,
     "contest_name": "2026 U105 Norway's Strongest Man",
     "details": "Larvik, Norway, 2026-09-04 to 2026-09-05",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3066",
+    "url": "https://strongmanarchives.com/contests/3066/2026-u105-norways-strongest-man",
     "total_competitors": 9,
     "results": [
       {
@@ -189942,7 +190119,7 @@
     "contest_id": 3067,
     "contest_name": "2026 U90 Norway's Strongest Man",
     "details": "Larvik, Norway, 2026-09-04 to 2026-09-05",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3067",
+    "url": "https://strongmanarchives.com/contests/3067/2026-u90-norways-strongest-man",
     "total_competitors": 9,
     "results": [
       {
@@ -190005,7 +190182,7 @@
     "contest_id": 3068,
     "contest_name": "2026 U80 Norway's Strongest Man",
     "details": "Larvik, Norway, 2026-09-04 to 2026-09-05",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3068",
+    "url": "https://strongmanarchives.com/contests/3068/2026-u80-norways-strongest-man",
     "total_competitors": 5,
     "results": [
       {
@@ -190044,7 +190221,7 @@
     "contest_id": 3069,
     "contest_name": "2026 U64 Norway's Strongest Woman",
     "details": "Larvik, Norway, 2026-09-04 to 2026-09-05",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3069",
+    "url": "https://strongmanarchives.com/contests/3069/2026-u64-norways-strongest-woman",
     "total_competitors": 5,
     "results": [
       {
@@ -190083,7 +190260,7 @@
     "contest_id": 3070,
     "contest_name": "2026 U73 Norway's Strongest Woman",
     "details": "Larvik, Norway, 2026-09-04 to 2026-09-05",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3070",
+    "url": "https://strongmanarchives.com/contests/3070/2026-u73-norways-strongest-woman",
     "total_competitors": 5,
     "results": [
       {
@@ -190122,44 +190299,44 @@
     "contest_id": 3071,
     "contest_name": "2026 Masters Australia's Strongest Man",
     "details": "Sydney, Australia, 2026-05-01",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3071",
+    "url": "https://strongmanarchives.com/contests/3071/2026-masters-australias-strongest-man",
     "total_competitors": 6,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Michael Blackwood",
         "country": "AUS",
-        "score": 0.0
+        "score": 28.0
       },
       {
-        "rank": "-",
-        "person_name": "David Broomham",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "2",
         "person_name": "David Forth",
         "country": "AUS",
-        "score": 0.0
+        "score": 19.0
       },
       {
-        "rank": "-",
-        "person_name": "Jeff Rudd",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Jarron  Stewart",
         "country": "AUS",
-        "score": 0.0
+        "score": 18.0
       },
       {
-        "rank": "-",
+        "rank": "4",
+        "person_name": "Jeff Rudd",
+        "country": "AUS",
+        "score": 13.0
+      },
+      {
+        "rank": "5",
         "person_name": "Dave Wood",
         "country": "AUS",
-        "score": 0.0
+        "score": 8.0
+      },
+      {
+        "rank": "6",
+        "person_name": "David Broomham",
+        "country": "AUS",
+        "score": 5.0
       }
     ]
   },
@@ -190167,32 +190344,32 @@
     "contest_id": 3072,
     "contest_name": "2026 Masters U105 Australia's Strongest Man",
     "details": "Sydney, Australia, 2026-05-01",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3072",
+    "url": "https://strongmanarchives.com/contests/3072/2026-masters-u105-australias-strongest-man",
     "total_competitors": 4,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Sam Falkinder",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Arron Lightburn",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Paul Mammone",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Luke  Parsons",
         "country": "AUS",
-        "score": 0.0
+        "score": 15.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Arron Lightburn",
+        "country": "AUS",
+        "score": 13.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Sam Falkinder",
+        "country": "AUS",
+        "score": 13.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Paul Mammone",
+        "country": "AUS",
+        "score": 8.5
       }
     ]
   },
@@ -190200,50 +190377,50 @@
     "contest_id": 3073,
     "contest_name": "2026 Masters Australia's Strongest Woman",
     "details": "Sydney, Australia, 2026-05-01",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3073",
+    "url": "https://strongmanarchives.com/contests/3073/2026-masters-australias-strongest-woman",
     "total_competitors": 7,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Kirsten Bromley",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Hayley Galea",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jane Laidler",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Evelyn Langkilde",
-        "country": "SAM",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Alli Lavery",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Matala Sula-Siaosi",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Red Windle",
         "country": "AUS",
-        "score": 0.0
+        "score": 32.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Kirsten Bromley",
+        "country": "AUS",
+        "score": 32.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Hayley Galea",
+        "country": "AUS",
+        "score": 19.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Matala Sula-Siaosi",
+        "country": "AUS",
+        "score": 19.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Evelyn Langkilde",
+        "country": "SAM",
+        "score": 15.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Alli Lavery",
+        "country": "AUS",
+        "score": 12.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Jane Laidler",
+        "country": "AUS",
+        "score": 10.5
       }
     ]
   },
@@ -190251,50 +190428,50 @@
     "contest_id": 3074,
     "contest_name": "2026 Masters U73 Australia's Strongest Woman",
     "details": "Sydney, Australia, 2026-05-01",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3074",
+    "url": "https://strongmanarchives.com/contests/3074/2026-masters-u73-australias-strongest-woman",
     "total_competitors": 7,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Sarah  Burns",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Jessica Cameron",
         "country": "AUS",
-        "score": 0.0
+        "score": 34.0
       },
       {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Kylie Davis",
         "country": "AUS",
-        "score": 0.0
+        "score": 29.0
       },
       {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Nardia Styles",
         "country": "AUS",
-        "score": 0.0
+        "score": 21.0
       },
       {
-        "rank": "-",
-        "person_name": "Candice Thompson",
+        "rank": "4",
+        "person_name": "Sarah  Burns",
         "country": "AUS",
-        "score": 0.0
+        "score": 19.0
       },
       {
-        "rank": "-",
-        "person_name": "Courtney Thurgar",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "5",
         "person_name": "Sarah Woodham",
         "country": "AUS",
-        "score": 0.0
+        "score": 16.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Candice Thompson",
+        "country": "AUS",
+        "score": 12.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Courtney Thurgar",
+        "country": "AUS",
+        "score": 7.5
       }
     ]
   },
@@ -190302,74 +190479,74 @@
     "contest_id": 3075,
     "contest_name": "2026 U64 Australia's Strongest Woman",
     "details": "Sydney, Australia, 2026-05-02",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3075",
+    "url": "https://strongmanarchives.com/contests/3075/2026-u64-australias-strongest-woman",
     "total_competitors": 11,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Jessica Bassett",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Sarah Devery",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Camilla Fogagnolo",
         "country": "AUS",
-        "score": 0.0
+        "score": 55.0
       },
       {
-        "rank": "-",
-        "person_name": "Josie Hamor",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Christina  Lim",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Frances Lolohea",
         "country": "AUS",
-        "score": 0.0
+        "score": 43.0
       },
       {
-        "rank": "-",
-        "person_name": "Temecca Meade",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Flo Naish",
         "country": "AUS",
-        "score": 0.0
+        "score": 39.0
       },
       {
-        "rank": "-",
+        "rank": "4",
+        "person_name": "Josie Hamor",
+        "country": "AUS",
+        "score": 38.0
+      },
+      {
+        "rank": "5",
         "person_name": "Tanita Northcott",
         "country": "AUS",
-        "score": 0.0
+        "score": 37.0
       },
       {
-        "rank": "-",
-        "person_name": "Alexis Pisani",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "6",
         "person_name": "Kayla Watkins",
         "country": "AUS",
-        "score": 0.0
+        "score": 34.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Temecca Meade",
+        "country": "AUS",
+        "score": 23.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Jessica Bassett",
+        "country": "AUS",
+        "score": 19.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Sarah Devery",
+        "country": "AUS",
+        "score": 19.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Christina  Lim",
+        "country": "AUS",
+        "score": 13.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Alexis Pisani",
+        "country": "AUS",
+        "score": 5.0
       }
     ]
   },
@@ -190377,80 +190554,80 @@
     "contest_id": 3076,
     "contest_name": "2026 U73 Australia's Strongest Woman",
     "details": "Sydney, Australia, 2026-05-01",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3076",
+    "url": "https://strongmanarchives.com/contests/3076/2026-u73-australias-strongest-woman",
     "total_competitors": 12,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Annaliese  Bevan",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Elissa Black",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jessica Cameron",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Hayley Collicoat",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Caroline Eaton",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Camilla Fogagnolo",
         "country": "AUS",
-        "score": 0.0
+        "score": 56.0
       },
       {
-        "rank": "-",
-        "person_name": "Madeline Heath",
+        "rank": "2",
+        "person_name": "Annaliese  Bevan",
         "country": "AUS",
-        "score": 0.0
+        "score": 45.0
       },
       {
-        "rank": "-",
-        "person_name": "Jessica Houston",
+        "rank": "3",
+        "person_name": "Jessica Cameron",
         "country": "AUS",
-        "score": 0.0
+        "score": 44.0
       },
       {
-        "rank": "-",
-        "person_name": "Sammy Johnston",
+        "rank": "4",
+        "person_name": "Caroline Eaton",
         "country": "AUS",
-        "score": 0.0
+        "score": 40.0
       },
       {
-        "rank": "-",
-        "person_name": "Natalie Koopman",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "5",
         "person_name": "Lauren Mcmillen",
         "country": "AUS",
-        "score": 0.0
+        "score": 39.0
       },
       {
-        "rank": "-",
+        "rank": "6",
+        "person_name": "Jessica Houston",
+        "country": "AUS",
+        "score": 38.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Natalie Koopman",
+        "country": "AUS",
+        "score": 37.0
+      },
+      {
+        "rank": "8",
         "person_name": "Kerryn Taylor",
         "country": "AUS",
-        "score": 0.0
+        "score": 30.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Sammy Johnston",
+        "country": "AUS",
+        "score": 22.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Elissa Black",
+        "country": "AUS",
+        "score": 18.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Madeline Heath",
+        "country": "AUS",
+        "score": 13.0
+      },
+      {
+        "rank": "12",
+        "person_name": "Hayley Collicoat",
+        "country": "AUS",
+        "score": 5.0
       }
     ]
   },
@@ -190458,56 +190635,56 @@
     "contest_id": 3077,
     "contest_name": "2026 U82 Australia's Strongest Woman",
     "details": "Sydney, Australia, 2026-05-01",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3077",
+    "url": "https://strongmanarchives.com/contests/3077/2026-u82-australias-strongest-woman",
     "total_competitors": 8,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Liz Aitken",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Ellira Bassett",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Emma Breebaart",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Sarah Hallifax",
         "country": "AUS",
-        "score": 0.0
+        "score": 39.0
       },
       {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Simone Jones",
         "country": "AUS",
-        "score": 0.0
+        "score": 36.0
       },
       {
-        "rank": "-",
-        "person_name": "Sally Kubler",
+        "rank": "3",
+        "person_name": "Liz Aitken",
         "country": "AUS",
-        "score": 0.0
+        "score": 30.0
       },
       {
-        "rank": "-",
+        "rank": "4",
+        "person_name": "Ellira Bassett",
+        "country": "AUS",
+        "score": 19.0
+      },
+      {
+        "rank": "5",
         "person_name": "Donna McKenzie",
         "country": "AUS",
-        "score": 0.0
+        "score": 18.0
       },
       {
-        "rank": "-",
+        "rank": "6",
+        "person_name": "Emma Breebaart",
+        "country": "AUS",
+        "score": 14.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Sally Kubler",
+        "country": "AUS",
+        "score": 13.0
+      },
+      {
+        "rank": "8",
         "person_name": "Rachel Spencer",
         "country": "AUS",
-        "score": 0.0
+        "score": 11.0
       }
     ]
   },
@@ -190515,66 +190692,66 @@
     "contest_id": 3078,
     "contest_name": "2026 U80 Australia's Strongest Man",
     "details": "Sydney, Australia, 2026-05-02",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3078",
+    "url": "https://strongmanarchives.com/contests/3078/2026-u80-australias-strongest-man",
     "total_competitors": 10,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Jack Aulsebrook",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Harry Bartlett",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jacob Charsley",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Alex Emery",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Murray Joyce",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Nathan Mercieca",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Trevor Talent",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Zemmeon Walker",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Alec Wallace",
         "country": "AUS",
-        "score": 0.0
+        "score": 40.0
       },
       {
-        "rank": "-",
+        "rank": "2",
+        "person_name": "Murray Joyce",
+        "country": "AUS",
+        "score": 34.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Nathan Mercieca",
+        "country": "AUS",
+        "score": 30.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Jacob Charsley",
+        "country": "AUS",
+        "score": 28.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Jack Aulsebrook",
+        "country": "AUS",
+        "score": 28.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Harry Bartlett",
+        "country": "AUS",
+        "score": 19.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Trevor Talent",
+        "country": "AUS",
+        "score": 18.0
+      },
+      {
+        "rank": "8",
         "person_name": "Spiro Xepapas",
+        "country": "AUS",
+        "score": 15.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Zemmeon Walker",
+        "country": "AUS",
+        "score": 12.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Alex Emery",
         "country": "AUS",
         "score": 0.0
       }
@@ -190584,56 +190761,56 @@
     "contest_id": 3079,
     "contest_name": "2026 U90 Australia's Strongest Man",
     "details": "Sydney, Australia, 2026-05-01",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3079",
+    "url": "https://strongmanarchives.com/contests/3079/2026-u90-australias-strongest-man",
     "total_competitors": 8,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Matthew  Bylsma",
         "country": "AUS",
-        "score": 0.0
+        "score": 35.0
       },
       {
-        "rank": "-",
-        "person_name": "Logan Day",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Joseph Eaton",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Luke Gough",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "2",
         "person_name": "Daniel Guirey",
         "country": "AUS",
-        "score": 0.0
+        "score": 32.0
       },
       {
-        "rank": "-",
+        "rank": "3",
+        "person_name": "Logan Day",
+        "country": "AUS",
+        "score": 24.0
+      },
+      {
+        "rank": "4",
         "person_name": "Luke Keiger",
         "country": "AUS",
-        "score": 0.0
+        "score": 22.0
       },
       {
-        "rank": "-",
-        "person_name": "Marcus Nicol",
+        "rank": "5",
+        "person_name": "Luke Gough",
         "country": "AUS",
-        "score": 0.0
+        "score": 17.0
       },
       {
-        "rank": "-",
+        "rank": "6",
+        "person_name": "Joseph Eaton",
+        "country": "AUS",
+        "score": 17.0
+      },
+      {
+        "rank": "7",
         "person_name": "Dean Paterson",
         "country": "AUS",
-        "score": 0.0
+        "score": 16.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Marcus Nicol",
+        "country": "AUS",
+        "score": 14.0
       }
     ]
   },
@@ -190641,83 +190818,83 @@
     "contest_id": 3080,
     "contest_name": "2026 U105 Australia's Strongest Man",
     "details": "Sydney, Australia, 2026-05-01",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3080",
+    "url": "https://strongmanarchives.com/contests/3080/2026-u105-australias-strongest-man",
     "total_competitors": 13,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Izzy Barrett",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jordan Boyce",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Paul Cullen",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "James De Graaf",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Adam Fullgrabe",
         "country": "AUS",
-        "score": 0.0
+        "score": 59.0
       },
       {
-        "rank": "-",
-        "person_name": "Harley Hughes",
+        "rank": "2",
+        "person_name": "Jordan Boyce",
         "country": "AUS",
-        "score": 0.0
+        "score": 46.5
       },
       {
-        "rank": "-",
-        "person_name": "James Leyshon",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Justin Longdon",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jake Meguerditchian",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Brice Purton",
-        "country": "AUS",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Cam Taylor",
         "country": "AUS",
-        "score": 0.0
+        "score": 45.0
       },
       {
-        "rank": "-",
+        "rank": "4",
+        "person_name": "James Leyshon",
+        "country": "AUS",
+        "score": 44.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Izzy Barrett",
+        "country": "AUS",
+        "score": 43.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Paul Cullen",
+        "country": "AUS",
+        "score": 42.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Brice Purton",
+        "country": "AUS",
+        "score": 38.0
+      },
+      {
+        "rank": "8",
+        "person_name": "James De Graaf",
+        "country": "AUS",
+        "score": 35.0
+      },
+      {
+        "rank": "9",
         "person_name": "Charl Van Niekerk",
         "country": "AUS",
-        "score": 0.0
+        "score": 31.0
       },
       {
-        "rank": "-",
+        "rank": "10",
+        "person_name": "Jake Meguerditchian",
+        "country": "AUS",
+        "score": 28.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Harley Hughes",
+        "country": "AUS",
+        "score": 22.0
+      },
+      {
+        "rank": "12",
+        "person_name": "Justin Longdon",
+        "country": "AUS",
+        "score": 16.0
+      },
+      {
+        "rank": "13",
         "person_name": "Ash Vincent",
         "country": "AUS",
         "score": 0.0
@@ -190726,9 +190903,9 @@
   },
   {
     "contest_id": 3081,
-    "contest_name": "2026 PSL Round 10",
+    "contest_name": "2026 PSL Round X",
     "details": "RimavskÃ¡ Sobota, Slovakia, 2026-10-17",
-    "url": "https://strongmanarchives.com/viewContest.php?id=3081",
+    "url": "https://strongmanarchives.com/contests/3081/2026-psl-round-x",
     "total_competitors": 9,
     "results": [
       {
@@ -190784,6 +190961,222 @@
         "person_name": "Milan Šuľan",
         "country": "SVK",
         "score": 3.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3082,
+    "contest_name": "2026 PSL Silver Round III",
+    "details": "Budapest, Hungary, 2026-10-18",
+    "url": "https://strongmanarchives.com/contests/3082/2026-psl-silver-round-iii",
+    "total_competitors": 11,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Alex Bakos",
+        "country": "HUN",
+        "score": 48.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Vlăduț Angheloiu",
+        "country": "ROU",
+        "score": 45.0
+      },
+      {
+        "rank": "3",
+        "person_name": "György Várszegi",
+        "country": "HUN",
+        "score": 42.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Péter Tóth",
+        "country": "HUN",
+        "score": 38.0
+      },
+      {
+        "rank": "5",
+        "person_name": "András Gadó",
+        "country": "HUN",
+        "score": 38.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Martin Szabo",
+        "country": "CZE",
+        "score": 36.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Pintér Balázs",
+        "country": "HUN",
+        "score": 26.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Josef Hájek",
+        "country": "CZE",
+        "score": 23.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Márk Basahidi",
+        "country": "HUN",
+        "score": 15.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Roland Farkas",
+        "country": "HUN",
+        "score": 11.5
+      },
+      {
+        "rank": "11",
+        "person_name": "István Mester",
+        "country": "HUN",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3083,
+    "contest_name": "2025 STP European Championship",
+    "details": "Krynica-Zdroj, Poland, 2025-07-13",
+    "url": "https://strongmanarchives.com/contests/3083/2025-stp-european-championship",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Bartłomiej Tarapata",
+        "country": "POL",
+        "score": 44.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Szymon Wójtowicz",
+        "country": "POL",
+        "score": 44.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Damian Paczuski",
+        "country": "POL",
+        "score": 32.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Márius Babkovič",
+        "country": "SVK",
+        "score": 30.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Bogdan Vuković",
+        "country": "SRB",
+        "score": 18.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Tamás Kurcz",
+        "country": "HUN",
+        "score": 9.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Petr Pastýřík",
+        "country": "CZE",
+        "score": 7.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3084,
+    "contest_name": "2018 STP European Championship",
+    "details": "Kalisz, Poland, 2018-07-01",
+    "url": "https://strongmanarchives.com/contests/3084/2018-stp-european-championship",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jarosław Nowacki",
+        "country": "POL",
+        "score": 33.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Sebastian Kraus",
+        "country": "GER",
+        "score": 29.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Tomasz Kowal",
+        "country": "POL",
+        "score": 22.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Oskars Martuzāns",
+        "country": "LAT",
+        "score": 19.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Igor Barczykowski",
+        "country": "POL",
+        "score": 15.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Romek Velt",
+        "country": "EST",
+        "score": 8.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3085,
+    "contest_name": "2023 STP International Polish Cup",
+    "details": "Gubinek, Poland, 2023",
+    "url": "https://strongmanarchives.com/contests/3085/2023-stp-international-polish-cup",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Bartłomiej Tarapata",
+        "country": "POL",
+        "score": 28.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Paweł Piskorz",
+        "country": "POL",
+        "score": 23.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Kacper Orzechowski",
+        "country": "POL",
+        "score": 22.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Mariusz Pachut",
+        "country": "POL",
+        "score": 22.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Krystian Makowiecki",
+        "country": "POL",
+        "score": 18.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Milan Šuľan",
+        "country": "SVK",
+        "score": 13.0
       }
     ]
   }

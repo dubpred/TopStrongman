@@ -100,13 +100,27 @@ def scrape_contest(session, contest_id):
     Returns contest dict if valid and non-empty, otherwise None.
     """
     contest_url = f"{BASE_URL}{contest_id}"
-    try:
-        r_page = session.get(contest_url, timeout=10)
-    except Exception as e:
-        logging.warning(f"[ID {contest_id}] Network error fetching page: {e}")
+    r_page = None
+    for attempt in range(4):
+        try:
+            r_page = session.get(contest_url, timeout=12)
+            if r_page.status_code == 200:
+                break
+            elif r_page.status_code in [429, 500, 502, 503, 504]:
+                time.sleep(0.5 * (attempt + 1))
+            else:
+                break
+        except Exception as e:
+            if attempt == 3:
+                logging.warning(f"[ID {contest_id}] Network error fetching page: {e}")
+                return None
+            time.sleep(0.5 * (attempt + 1))
+
+    if not r_page or r_page.status_code != 200:
         return None
 
-    if r_page.status_code != 200 or "viewContest.php" not in r_page.url:
+    # Strongman Archives redirects valid contests to /contests/{id}/{slug} or keeps viewContest.php
+    if "viewContest.php" not in r_page.url and "/contests/" not in r_page.url:
         return None
 
     soup = BeautifulSoup(r_page.content, 'html.parser')
@@ -117,7 +131,9 @@ def scrape_contest(session, contest_id):
 
     if not contest_name and soup.title and soup.title.string:
         t = soup.title.string.strip()
-        contest_name = t.replace("Strongman Archives - ", "").strip()
+        t_clean = t.replace("Strongman Archives - ", "").strip()
+        if t_clean:
+            contest_name = t_clean
 
     details_line = ""
     table0 = soup.find('table')
@@ -131,7 +147,7 @@ def scrape_contest(session, contest_id):
                 details_line = lines[1]
 
     if not contest_name or contest_name == '#':
-        contest_name = f"Contest #{contest_id}"
+        return None
 
     if is_excluded_contest(contest_name):
         logging.info(f"[ID {contest_id}] Excluded single-lift contest: {contest_name}")
@@ -141,21 +157,31 @@ def scrape_contest(session, contest_id):
     post_headers = {
         'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
         'X-Requested-With': 'XMLHttpRequest',
-        'Referer': contest_url
+        'Referer': r_page.url or contest_url
     }
     
-    try:
-        r_ajax = session.post(
-            AJAX_URL,
-            data=f"contestID={contest_id}&unitDisplay=metric",
-            headers=post_headers,
-            timeout=10
-        )
-    except Exception as e:
-        logging.warning(f"[ID {contest_id}] Error fetching AJAX results: {e}")
-        return None
+    r_ajax = None
+    for attempt in range(4):
+        try:
+            r_ajax = session.post(
+                AJAX_URL,
+                data=f"contestID={contest_id}&unitDisplay=metric",
+                headers=post_headers,
+                timeout=12
+            )
+            if r_ajax.status_code == 200:
+                break
+            elif r_ajax.status_code in [429, 500, 502, 503, 504]:
+                time.sleep(0.5 * (attempt + 1))
+            else:
+                break
+        except Exception as e:
+            if attempt == 3:
+                logging.warning(f"[ID {contest_id}] Error fetching AJAX results: {e}")
+                return None
+            time.sleep(0.5 * (attempt + 1))
 
-    if r_ajax.status_code != 200:
+    if not r_ajax or r_ajax.status_code != 200:
         return None
 
     competitors = []
@@ -201,7 +227,7 @@ def scrape_contest(session, contest_id):
         "contest_id": contest_id,
         "contest_name": contest_name,
         "details": details_line,
-        "url": contest_url,
+        "url": r_page.url or contest_url,
         "total_competitors": len(competitors),
         "results": competitors
     }
@@ -229,6 +255,22 @@ def main():
 
     session = requests.Session()
     session.headers.update(headers)
+
+    # Specific contest IDs passed via CLI arguments
+    cli_ids = [int(arg) for arg in sys.argv[1:] if arg.isdigit()]
+    if cli_ids:
+        logging.info(f"Targeting {len(cli_ids)} specific contest ID(s) from CLI: {cli_ids}")
+        for cid in cli_ids:
+            cdata = scrape_contest(session, cid)
+            if cdata:
+                dataset_map[cid] = cdata
+                logging.info(f"★ [ID {cid}] Ingested: '{cdata['contest_name']}' ({cdata['total_competitors']} competitors)")
+            else:
+                logging.warning(f"✗ [ID {cid}] Failed to fetch or invalid contest.")
+            time.sleep(REQUEST_DELAY_SEC)
+        save_data(list(dataset_map.values()), JSON_FILE)
+        logging.info("CLI targeted scraping complete.")
+        return
 
     # -------------------------------------------------------------
     # PHASE 1: Re-scrape all pending / upcoming competitions
