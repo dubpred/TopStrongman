@@ -189418,7 +189418,7 @@
     "contest_name": "2026 Strongest Woman in Iceland",
     "details": "KÃ³pavogur, Iceland, 2026-11-07",
     "url": "https://strongmanarchives.com/contests/3053/2026-strongest-woman-in-iceland",
-    "total_competitors": 7,
+    "total_competitors": 9,
     "results": [
       {
         "rank": "-",
@@ -189435,6 +189435,18 @@
       {
         "rank": "-",
         "person_name": "Svala Björgvinsdóttir",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Hildur Inga Rós Gudmundsdóttir",
+        "country": "ISL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Anna Björk Hjaltadóttir",
         "country": "ISL",
         "score": 0.0
       },
@@ -193052,6 +193064,1248 @@
         "person_name": "Mário Karička",
         "country": "SVK",
         "score": 10.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3150,
+    "contest_name": "2026 U57 Britain's Strongest Woman",
+    "details": "Bolton, England, 2026-05-17",
+    "url": "https://strongmanarchives.com/contests/3150/2026-u57-britains-strongest-woman",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Melanie  Hall",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Sarah Jones",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tamsin Ribton-Turner",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kirsty Robathan-Smith",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3151,
+    "contest_name": "2026 U64 Britain's Strongest Woman",
+    "details": "Bolton, England, 2026-05-17",
+    "url": "https://strongmanarchives.com/contests/3151/2026-u64-britains-strongest-woman",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Jessica Andrews",
+        "country": "IRL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kate Connolly",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Elizabeth Guild",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Rachel Jackson",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Linda  Long",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Zoe Noon",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Emily Norley",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tiffany Peters",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Shannon Smith",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3152,
+    "contest_name": "2026 U73 Britain's Strongest Woman",
+    "details": "Bolton, England, 2026-05-17",
+    "url": "https://strongmanarchives.com/contests/3152/2026-u73-britains-strongest-woman",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Donna Buckley",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Laura Campbell",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Rebecca Cumpsty",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Diane Gaughan",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "April Granelli",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Christie Herbert",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Amber Joseph",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Elizabeth Seeds",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Cathy Watson",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3153,
+    "contest_name": "2026 U82 Britain's Strongest Woman",
+    "details": "Bolton, England, 2026-05-17",
+    "url": "https://strongmanarchives.com/contests/3153/2026-u82-britains-strongest-woman",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Nicola Bennett",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Heather Holden",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Shauna Moar",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Donna Moore",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3154,
+    "contest_name": "2025 U64 Britain's Strongest Woman",
+    "details": "Bolton, England, 2025-05-25",
+    "url": "https://strongmanarchives.com/contests/3154/2025-u64-britains-strongest-woman",
+    "total_competitors": 13,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Rosie Abercrombie",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jessica Andrews",
+        "country": "IRL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kate Connolly",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tatiana Cousins",
+        "country": "SVK",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Maeve Frawley",
+        "country": "IRL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Elizabeth Guild",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Melanie  Hall",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Siobhan Houldridge",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Vikki Jankowska",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Emily Norley",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tamsin Ribton-Turner",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kirsty Robathan-Smith",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Shannon Smith",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3155,
+    "contest_name": "2025 U73 Britain's Strongest Woman",
+    "details": "Bolton, England, 2025-05-25",
+    "url": "https://strongmanarchives.com/contests/3155/2025-u73-britains-strongest-woman",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Nicola Buchan",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Eliza Bull",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Nikki Ellerington",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "April Granelli",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Heather Holden",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Laura Hollywood",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Elizabeth Seeds",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Cathy Watson",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3156,
+    "contest_name": "2025 U82 Britain's Strongest Woman",
+    "details": "Bolton, England, 2025-05-25",
+    "url": "https://strongmanarchives.com/contests/3156/2025-u82-britains-strongest-woman",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Jade Crouch",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Nadine Guy",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Pandora Holladay",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Shauna Moar",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Donna Moore",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3157,
+    "contest_name": "2024 U64 Britain's Strongest Woman",
+    "details": "Birmingham, England, 2024-11-02",
+    "url": "https://strongmanarchives.com/contests/3157/2024-u64-britains-strongest-woman",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Tatiana Cousins",
+        "country": "SVK",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Elizabeth Guild",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kim Ogden",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tiffany Peters",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kirsty Robathan-Smith",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3158,
+    "contest_name": "2024 U73 Britain's Strongest Woman",
+    "details": "Birmingham, England, 2024-11-02",
+    "url": "https://strongmanarchives.com/contests/3158/2024-u73-britains-strongest-woman",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Alexandra Alexa",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Nicola Bennett",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Nicola Buchan",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Eliza Bull",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Diane Gaughan",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Heather Holden",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Laura Hollywood",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jess Tait",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3159,
+    "contest_name": "2024 U82 Britain's Strongest Woman",
+    "details": "Birmingham, England, 2024-11-02",
+    "url": "https://strongmanarchives.com/contests/3159/2024-u82-britains-strongest-woman",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Leanne Coghlan",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jade Crouch",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Rachael Greathead",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Pandora Holladay",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Shauna Moar",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jo Spence",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Rebecca Worgan",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3160,
+    "contest_name": "2024 Masters 50+ Britain's Strongest Man",
+    "details": "Birmingham, England, 2024-11-03",
+    "url": "https://strongmanarchives.com/contests/3160/2024-masters-50-britains-strongest-man",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Gareth Barber",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Richard Birchmore",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Andrew Burns",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "John Else",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Mark Felix",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ivan Murphy",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "George Netherway",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Alan O'Connor",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Gareth Wallace",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3161,
+    "contest_name": "2024 Masters Britain's Strongest Woman",
+    "details": "Birmingham, England, 2024-11-03",
+    "url": "https://strongmanarchives.com/contests/3161/2024-masters-britains-strongest-woman",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Katie Abbott",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Claire Dolan",
+        "country": "IRL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Abi Durrans",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Naomi Hadley",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Lucy Hardwick",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kathryn Owen",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Rebecca Patterson",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Michaela Pearson",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Sam Taylor",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3162,
+    "contest_name": "2025 U80 Britain's Strongest Man",
+    "details": "Bolton, England, 2025-05-24",
+    "url": "https://strongmanarchives.com/contests/3162/2025-u80-britains-strongest-man",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Connor Cowens",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Lawrence Gallagher",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Lee Kelly",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Joe Kennedy",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "George Latham",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "James Lynch",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Finlay Mercer",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Matthew Nice",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3163,
+    "contest_name": "2025 U90 Britain's Strongest Man",
+    "details": "Bolton, England, 2025-05-24",
+    "url": "https://strongmanarchives.com/contests/3163/2025-u90-britains-strongest-man",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Jack Buchanan",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tom  Butts",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jonathan Gray",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Morgan Phipps",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Connor Smith",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "David Todd",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ashley Walker",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Richard Williams",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3164,
+    "contest_name": "2025 U105 Britain's Strongest Man",
+    "details": "Bolton, England, 2025-05-24",
+    "url": "https://strongmanarchives.com/contests/3164/2025-u105-britains-strongest-man",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Gavin Bruce",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Marcus Collins",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Grant Gourlay",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Craig Hughes",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Dwayne Ibbertson",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Darren McGirr",
+        "country": "IRL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Matthew McKeegan",
+        "country": "IRL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tom Owens",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Josh Walton",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kyle Young",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3165,
+    "contest_name": "2026 U70 Britain's Strongest Man",
+    "details": "Bolton, England, 2026-05-16",
+    "url": "https://strongmanarchives.com/contests/3165/2026-u70-britains-strongest-man",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Sonny Nash",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Matt Smallacombe",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3166,
+    "contest_name": "2026 U80 Britain's Strongest Man",
+    "details": "Bolton, England, 2026-05-16",
+    "url": "https://strongmanarchives.com/contests/3166/2026-u80-britains-strongest-man",
+    "total_competitors": 12,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Danny Ashcroft",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Adam  Beattie",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Dan  Foligno",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Lawrence Gallagher",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Max Glover-West",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Corey Hamblet",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Thomas Hulme",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Fergus Jamieson",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Lee Kelly",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Dean McVie",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Craig Mulheron",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jackson Work",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3167,
+    "contest_name": "2026 U90 Britain's Strongest Man",
+    "details": "Bolton, England, 2026-05-16",
+    "url": "https://strongmanarchives.com/contests/3167/2026-u90-britains-strongest-man",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Daniel Bedford",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jordan  Cutts",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ian Easterbrook",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "James Garton",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Callum Gibson",
+        "country": "IRL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Matt Holley",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Josh Lancaster",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Darren McGirr",
+        "country": "IRL",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Harry Rogers",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3168,
+    "contest_name": "2026 U105 Britain's Strongest Man",
+    "details": "Bolton, England, 2026-05-16",
+    "url": "https://strongmanarchives.com/contests/3168/2026-u105-britains-strongest-man",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Sam Addison",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Stuart Basford",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Gavin Bruce",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Grant Gourlay",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "David Kent",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Graeme Lamont",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Tom Owens",
+        "country": "GBR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Ben Watson",
+        "country": "GBR",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3169,
+    "contest_name": "2025 Africa's Strongest Woman",
+    "details": "Marikana, South Africa, 2025-10-25 to 2025-10-26",
+    "url": "https://strongmanarchives.com/contests/3169/2025-africas-strongest-woman",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Charllotte Charway",
+        "country": "GHA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Loveness Chibuye",
+        "country": "ZAM",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Vimbai Goba",
+        "country": "ZWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Regina Jonga",
+        "country": "ZWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Chido Maenzanise",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Kavuyi Mubanga",
+        "country": "ZAM",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Veané Nel",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Naomi Zimba",
+        "country": "ZAM",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3170,
+    "contest_name": "2025 U80 Africa's Strongest Man",
+    "details": "Marikana, South Africa, 2025-10-25 to 2025-10-26",
+    "url": "https://strongmanarchives.com/contests/3170/2025-u80-africas-strongest-man",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Shazzar Abana Chisompola",
+        "country": "ZAM",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Dillan Davel",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Nicholas Makou",
+        "country": "RSA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3171,
+    "contest_name": "2025 U90 Africa's Strongest Man",
+    "details": "Marikana, South Africa, 2025-10-25 to 2025-10-26",
+    "url": "https://strongmanarchives.com/contests/3171/2025-u90-africas-strongest-man",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Michael Geldenhuys",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Sam Mumba",
+        "country": "ZAM",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3172,
+    "contest_name": "2025 U105 Africa's Strongest Man",
+    "details": "Marikana, South Africa, 2025-10-25 to 2025-10-26",
+    "url": "https://strongmanarchives.com/contests/3172/2025-u105-africas-strongest-man",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Ettien Britz",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Trevor Chingosho",
+        "country": "ZWE",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Gift Habeenzu",
+        "country": "ZAM",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Phillip Kademaunga",
+        "country": "ZAM",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Musonda Mutale",
+        "country": "ZAM",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jamin Kavula Mutombo",
+        "country": "COD",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Frikkie Page",
+        "country": "RSA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3173,
+    "contest_name": "2025 Masters Africa's Strongest Man",
+    "details": "Marikana, South Africa, 2025-10-25 to 2025-10-26",
+    "url": "https://strongmanarchives.com/contests/3173/2025-masters-africas-strongest-man",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Cesar Da Silva",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jacques Du Plessis",
+        "country": "RSA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Cedric Kayumba",
+        "country": "COD",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Leon Le Roux",
+        "country": "RSA",
+        "score": 0.0
       }
     ]
   }

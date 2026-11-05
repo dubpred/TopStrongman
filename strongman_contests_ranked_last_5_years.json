@@ -8566,7 +8566,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 7959.33760317427,
+    "raw_difficulty": 7957.029568535883,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -8593,7 +8593,7 @@
         "rank": "4",
         "person_name": "Ervin Toots",
         "country": "EST",
-        "power": 198.8,
+        "power": 196.5,
         "percent": 2.5
       },
       {
@@ -8672,7 +8672,7 @@
         "score": 10
       }
     ],
-    "difficulty_score": 159.6,
+    "difficulty_score": 159.5,
     "competition_rank": 71
   },
   {
@@ -14084,13 +14084,13 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 5430.067928289699,
+    "raw_difficulty": 5429.36368361279,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Fredrik Johansson",
         "country": "SWE",
-        "power": 1126.6,
+        "power": 1125.9,
         "percent": 20.7
       },
       {
@@ -16532,7 +16532,7 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 4922.481706683255,
+    "raw_difficulty": 4921.560244577032,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -16545,7 +16545,7 @@
         "rank": "2",
         "person_name": "Fredrik Johansson",
         "country": "SWE",
-        "power": 1126.6,
+        "power": 1125.9,
         "percent": 22.9
       },
       {
@@ -16566,7 +16566,7 @@
         "rank": "5",
         "person_name": "Jacob Larsson",
         "country": "SWE",
-        "power": 577.9,
+        "power": 577.7,
         "percent": 11.7
       }
     ],
@@ -17146,7 +17146,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 4805.706645476433,
+    "raw_difficulty": 4803.398610838046,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -17160,7 +17160,7 @@
         "person_name": "Péter Juhász",
         "country": "HUN",
         "power": 1218.2,
-        "percent": 25.3
+        "percent": 25.4
       },
       {
         "rank": "3",
@@ -17173,7 +17173,7 @@
         "rank": "4",
         "person_name": "Ervin Toots",
         "country": "EST",
-        "power": 198.8,
+        "power": 196.5,
         "percent": 4.1
       },
       {
@@ -17258,7 +17258,7 @@
         "score": 16
       }
     ],
-    "difficulty_score": 74.9,
+    "difficulty_score": 74.8,
     "competition_rank": 143
   },
   {
@@ -21146,7 +21146,7 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 4250.813281492523,
+    "raw_difficulty": 4249.798266868249,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -21159,7 +21159,7 @@
         "rank": "2",
         "person_name": "Anton Wasser",
         "country": "SWE",
-        "power": 819.1,
+        "power": 818.1,
         "percent": 19.3
       },
       {
@@ -21558,7 +21558,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 4184.4946534072305,
+    "raw_difficulty": 4183.790408730321,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -21578,7 +21578,7 @@
         "rank": "3",
         "person_name": "Fredrik Johansson",
         "country": "SWE",
-        "power": 1126.6,
+        "power": 1125.9,
         "percent": 26.9
       },
       {
@@ -22750,7 +22750,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 4037.240672892469,
+    "raw_difficulty": 4034.1252044306616,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -22763,7 +22763,7 @@
         "rank": "2",
         "person_name": "Fatih Karaca",
         "country": "TUR",
-        "power": 144.2,
+        "power": 143.4,
         "percent": 3.6
       },
       {
@@ -22771,13 +22771,13 @@
         "person_name": "Evans Nana Aryee",
         "country": "GHA",
         "power": 2520.9,
-        "percent": 62.4
+        "percent": 62.5
       },
       {
         "rank": "4",
         "person_name": "Ervin Toots",
         "country": "EST",
-        "power": 198.8,
+        "power": 196.5,
         "percent": 4.9
       },
       {
@@ -24578,7 +24578,7 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 8,
-    "raw_difficulty": 3815.2727934301697,
+    "raw_difficulty": 3815.055576000857,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -24605,7 +24605,7 @@
         "rank": "4",
         "person_name": "Jacob Larsson",
         "country": "SWE",
-        "power": 577.9,
+        "power": 577.7,
         "percent": 15.1
       },
       {
@@ -25514,118 +25514,6 @@
     "competition_rank": 214
   },
   {
-    "contest_id": 2099,
-    "contest_name": "2025 Sweden's Strongest Man",
-    "details": "Malmö, Sweden, 2025-10-25",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 3.0,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 3730.5909446128107,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Cim Johansson",
-        "country": "SWE",
-        "power": 849.4,
-        "percent": 22.8
-      },
-      {
-        "rank": "2",
-        "person_name": "Jacob Larsson",
-        "country": "SWE",
-        "power": 577.9,
-        "percent": 15.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Harley Andersson",
-        "country": "SWE",
-        "power": 357.6,
-        "percent": 9.6
-      },
-      {
-        "rank": "4",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "power": 1126.6,
-        "percent": 30.2
-      },
-      {
-        "rank": "5",
-        "person_name": "Anton Wasser",
-        "country": "SWE",
-        "power": 819.1,
-        "percent": 22.0
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Cim Johansson",
-        "country": "SWE",
-        "score": 58
-      },
-      {
-        "rank": "2",
-        "person_name": "Jacob Larsson",
-        "country": "SWE",
-        "score": 52.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Harley Andersson",
-        "country": "SWE",
-        "score": 48
-      },
-      {
-        "rank": "4",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "score": 46.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Anton Wasser",
-        "country": "SWE",
-        "score": 44
-      },
-      {
-        "rank": "6",
-        "person_name": "Fredrik Svensson",
-        "country": "SWE",
-        "score": 31.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Emil Johnsson",
-        "country": "SWE",
-        "score": 28.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Maximilian Eckhardt",
-        "country": "SWE",
-        "score": 27.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Jonathan Partanen",
-        "country": "SWE",
-        "score": 25.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Marcus Yngvesson",
-        "country": "SWE",
-        "score": 17
-      }
-    ],
-    "difficulty_score": 51.2,
-    "competition_rank": 215
-  },
-  {
     "contest_id": 1379,
     "contest_name": "2023 SCL Serbia",
     "details": "Zrenjanin, Serbia, 2023-05-20",
@@ -25634,7 +25522,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 13,
-    "raw_difficulty": 3724.5872613623933,
+    "raw_difficulty": 3723.779827538973,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -25647,7 +25535,7 @@
         "rank": "2",
         "person_name": "Fatih Karaca",
         "country": "TUR",
-        "power": 144.2,
+        "power": 143.4,
         "percent": 3.9
       },
       {
@@ -25750,6 +25638,118 @@
         "person_name": "Ervin Toots",
         "country": "EST",
         "score": 1
+      }
+    ],
+    "difficulty_score": 51.1,
+    "competition_rank": 215
+  },
+  {
+    "contest_id": 2099,
+    "contest_name": "2025 Sweden's Strongest Man",
+    "details": "Malmö, Sweden, 2025-10-25",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 3.0,
+    "division": "men",
+    "total_competitors": 10,
+    "raw_difficulty": 3725.5864281802724,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Cim Johansson",
+        "country": "SWE",
+        "power": 849.4,
+        "percent": 22.8
+      },
+      {
+        "rank": "2",
+        "person_name": "Jacob Larsson",
+        "country": "SWE",
+        "power": 577.7,
+        "percent": 15.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Harley Andersson",
+        "country": "SWE",
+        "power": 354.5,
+        "percent": 9.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "power": 1125.9,
+        "percent": 30.2
+      },
+      {
+        "rank": "5",
+        "person_name": "Anton Wasser",
+        "country": "SWE",
+        "power": 818.1,
+        "percent": 22.0
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Cim Johansson",
+        "country": "SWE",
+        "score": 58
+      },
+      {
+        "rank": "2",
+        "person_name": "Jacob Larsson",
+        "country": "SWE",
+        "score": 52.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Harley Andersson",
+        "country": "SWE",
+        "score": 48
+      },
+      {
+        "rank": "4",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "score": 46.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Anton Wasser",
+        "country": "SWE",
+        "score": 44
+      },
+      {
+        "rank": "6",
+        "person_name": "Fredrik Svensson",
+        "country": "SWE",
+        "score": 31.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Emil Johnsson",
+        "country": "SWE",
+        "score": 28.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Maximilian Eckhardt",
+        "country": "SWE",
+        "score": 27.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Jonathan Partanen",
+        "country": "SWE",
+        "score": 25.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Marcus Yngvesson",
+        "country": "SWE",
+        "score": 17
       }
     ],
     "difficulty_score": 51.1,
@@ -28654,7 +28654,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 8,
-    "raw_difficulty": 3451.620595412391,
+    "raw_difficulty": 3451.403377983078,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -28674,7 +28674,7 @@
         "rank": "3",
         "person_name": "Jacob Larsson",
         "country": "SWE",
-        "power": 577.9,
+        "power": 577.7,
         "percent": 16.7
       },
       {
@@ -28846,118 +28846,6 @@
     "competition_rank": 243
   },
   {
-    "contest_id": 3054,
-    "contest_name": "2026 Sweden's Strongest Man",
-    "details": "MalmÃ¶, Sweden, 2026-10-24",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 5.0,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 3435.578490383293,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Cim Johansson",
-        "country": "SWE",
-        "power": 849.4,
-        "percent": 24.7
-      },
-      {
-        "rank": "2",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "power": 1126.6,
-        "percent": 32.8
-      },
-      {
-        "rank": "3",
-        "person_name": "Anton Wasser",
-        "country": "SWE",
-        "power": 819.1,
-        "percent": 23.8
-      },
-      {
-        "rank": "4",
-        "person_name": "Maximilian Eckhardt",
-        "country": "SWE",
-        "power": 282.9,
-        "percent": 8.2
-      },
-      {
-        "rank": "5",
-        "person_name": "Harley Andersson",
-        "country": "SWE",
-        "power": 357.6,
-        "percent": 10.4
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Cim Johansson",
-        "country": "SWE",
-        "score": 53.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "score": 48.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Anton Wasser",
-        "country": "SWE",
-        "score": 40.0
-      },
-      {
-        "rank": "4",
-        "person_name": "Maximilian Eckhardt",
-        "country": "SWE",
-        "score": 37.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Harley Andersson",
-        "country": "SWE",
-        "score": 36.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Jonathan Partanen",
-        "country": "SWE",
-        "score": 31.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Jacob Larsson",
-        "country": "SWE",
-        "score": 31.0
-      },
-      {
-        "rank": "8",
-        "person_name": "Jonas Tinnerholm",
-        "country": "SWE",
-        "score": 26.0
-      },
-      {
-        "rank": "9",
-        "person_name": "Henrik Norberg",
-        "country": "SWE",
-        "score": 15.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Nils Nordström",
-        "country": "SWE",
-        "score": 6.0
-      }
-    ],
-    "difficulty_score": 45.3,
-    "competition_rank": 244
-  },
-  {
     "contest_id": 2186,
     "contest_name": "2023 Magnús Classic Gimli",
     "details": "Gimli, Canada, 2023-08-05",
@@ -29052,6 +28940,118 @@
         "person_name": "Conner Gordon",
         "country": "USA",
         "score": 15.5
+      }
+    ],
+    "difficulty_score": 45.2,
+    "competition_rank": 244
+  },
+  {
+    "contest_id": 3054,
+    "contest_name": "2026 Sweden's Strongest Man",
+    "details": "MalmÃ¶, Sweden, 2026-10-24",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 5.0,
+    "division": "men",
+    "total_competitors": 10,
+    "raw_difficulty": 3430.7911913800676,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Cim Johansson",
+        "country": "SWE",
+        "power": 849.4,
+        "percent": 24.8
+      },
+      {
+        "rank": "2",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "power": 1125.9,
+        "percent": 32.8
+      },
+      {
+        "rank": "3",
+        "person_name": "Anton Wasser",
+        "country": "SWE",
+        "power": 818.1,
+        "percent": 23.8
+      },
+      {
+        "rank": "4",
+        "person_name": "Maximilian Eckhardt",
+        "country": "SWE",
+        "power": 282.9,
+        "percent": 8.2
+      },
+      {
+        "rank": "5",
+        "person_name": "Harley Andersson",
+        "country": "SWE",
+        "power": 354.5,
+        "percent": 10.3
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Cim Johansson",
+        "country": "SWE",
+        "score": 53.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "score": 48.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Anton Wasser",
+        "country": "SWE",
+        "score": 40.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Maximilian Eckhardt",
+        "country": "SWE",
+        "score": 37.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Harley Andersson",
+        "country": "SWE",
+        "score": 36.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Jonathan Partanen",
+        "country": "SWE",
+        "score": 31.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Jacob Larsson",
+        "country": "SWE",
+        "score": 31.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Jonas Tinnerholm",
+        "country": "SWE",
+        "score": 26.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Henrik Norberg",
+        "country": "SWE",
+        "score": 15.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Nils Nordström",
+        "country": "SWE",
+        "score": 6.0
       }
     ],
     "difficulty_score": 45.2,
@@ -31568,14 +31568,14 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 14,
-    "raw_difficulty": 3217.5557664425064,
+    "raw_difficulty": 3215.2477318041197,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Aivars Šmaukstelis",
         "country": "LAT",
         "power": 995.3,
-        "percent": 30.9
+        "percent": 31.0
       },
       {
         "rank": "2",
@@ -31602,8 +31602,8 @@
         "rank": "5",
         "person_name": "Ervin Toots",
         "country": "EST",
-        "power": 198.8,
-        "percent": 6.2
+        "power": 196.5,
+        "percent": 6.1
       }
     ],
     "results": [
@@ -35422,14 +35422,14 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 2914.973534495743,
+    "raw_difficulty": 2914.4938548402693,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Kelvin de Ruiter",
         "country": "NED",
         "power": 383.3,
-        "percent": 13.1
+        "percent": 13.2
       },
       {
         "rank": "2",
@@ -35456,7 +35456,7 @@
         "rank": "5",
         "person_name": "Sebastian Kurek",
         "country": "POL",
-        "power": 40.3,
+        "power": 39.8,
         "percent": 1.4
       }
     ],
@@ -39738,7 +39738,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 2679.770950126053,
+    "raw_difficulty": 2677.462915487666,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -39772,8 +39772,8 @@
         "rank": "5",
         "person_name": "Ervin Toots",
         "country": "EST",
-        "power": 198.8,
-        "percent": 7.4
+        "power": 196.5,
+        "percent": 7.3
       }
     ],
     "results": [
@@ -39838,7 +39838,7 @@
         "score": 0
       }
     ],
-    "difficulty_score": 31.2,
+    "difficulty_score": 31.1,
     "competition_rank": 340
   },
   {
@@ -41710,130 +41710,6 @@
     "competition_rank": 357
   },
   {
-    "contest_id": 1311,
-    "contest_name": "2022 SCL World Finals",
-    "details": "Alanya, Turkey, 2022-11-05 to 2022-11-06",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.5,
-    "division": "men",
-    "total_competitors": 12,
-    "raw_difficulty": 2550.152512235401,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Aivars Šmaukstelis",
-        "country": "LAT",
-        "power": 995.3,
-        "percent": 39.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Ervin Toots",
-        "country": "EST",
-        "power": 198.8,
-        "percent": 7.8
-      },
-      {
-        "rank": "3",
-        "person_name": "Kane Francis",
-        "country": "GBR",
-        "power": 532.8,
-        "percent": 20.9
-      },
-      {
-        "rank": "4",
-        "person_name": "Mika Törrö",
-        "country": "FIN",
-        "power": 740.2,
-        "percent": 29.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Roberto Rodríguez",
-        "country": "ESP",
-        "power": 83.0,
-        "percent": 3.3
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Aivars Šmaukstelis",
-        "country": "LAT",
-        "score": 74
-      },
-      {
-        "rank": "2",
-        "person_name": "Ervin Toots",
-        "country": "EST",
-        "score": 63.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Kane Francis",
-        "country": "GBR",
-        "score": 62.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Mika Törrö",
-        "country": "FIN",
-        "score": 55.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Roberto Rodríguez",
-        "country": "ESP",
-        "score": 54
-      },
-      {
-        "rank": "6",
-        "person_name": "Péter Juhász",
-        "country": "HUN",
-        "score": 49.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Kelvin de Ruiter",
-        "country": "NED",
-        "score": 46.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Dainis Zageris",
-        "country": "LAT",
-        "score": 40
-      },
-      {
-        "rank": "9",
-        "person_name": "Fatih Karaca",
-        "country": "TUR",
-        "score": 36.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Sebastian Kurek",
-        "country": "POL",
-        "score": 24
-      },
-      {
-        "rank": "11",
-        "person_name": "Evans Nana Aryee",
-        "country": "GHA",
-        "score": 23
-      },
-      {
-        "rank": "12",
-        "person_name": "Bora Güner",
-        "country": "TUR",
-        "score": 12
-      }
-    ],
-    "difficulty_score": 28.9,
-    "competition_rank": 358
-  },
-  {
     "contest_id": 1710,
     "contest_name": "2025 Armory City Cup",
     "details": "Tula, Russia, 2025-05-24",
@@ -41937,143 +41813,131 @@
       }
     ],
     "difficulty_score": 28.9,
-    "competition_rank": 359
+    "competition_rank": 358
   },
   {
-    "contest_id": 1304,
-    "contest_name": "2022 SCL Holland",
-    "details": "Doetinchem, Netherlands, 2022-06-18",
+    "contest_id": 1311,
+    "contest_name": "2022 SCL World Finals",
+    "details": "Alanya, Turkey, 2022-11-05 to 2022-11-06",
     "tier": "TIER_4",
     "tier_multiplier": 1.0,
     "recency_multiplier": 0.25,
     "division": "men",
-    "total_competitors": 14,
-    "raw_difficulty": 2542.9039459646524,
+    "total_competitors": 12,
+    "raw_difficulty": 2543.457689294497,
     "top_5_finishers": [
       {
         "rank": "1",
-        "person_name": "Kelvin de Ruiter",
-        "country": "NED",
-        "power": 383.3,
-        "percent": 15.1
+        "person_name": "Aivars Šmaukstelis",
+        "country": "LAT",
+        "power": 995.3,
+        "percent": 39.1
       },
       {
         "rank": "2",
-        "person_name": "Roberto Rodríguez",
-        "country": "ESP",
-        "power": 83.0,
-        "percent": 3.3
+        "person_name": "Ervin Toots",
+        "country": "EST",
+        "power": 196.5,
+        "percent": 7.7
       },
       {
         "rank": "3",
-        "person_name": "Gavin Bilton",
+        "person_name": "Kane Francis",
         "country": "GBR",
-        "power": 1338.3,
-        "percent": 52.6
+        "power": 532.8,
+        "percent": 20.9
       },
       {
         "rank": "4",
-        "person_name": "Dennis Kohlruss",
-        "country": "GER",
-        "power": 486.9,
-        "percent": 19.1
+        "person_name": "Mika Törrö",
+        "country": "FIN",
+        "power": 740.2,
+        "percent": 29.1
       },
       {
         "rank": "5",
-        "person_name": "George Sulaiman",
-        "country": "NED",
-        "power": 251.3,
-        "percent": 9.9
+        "person_name": "Roberto Rodríguez",
+        "country": "ESP",
+        "power": 78.6,
+        "percent": 3.1
       }
     ],
     "results": [
       {
         "rank": "1",
-        "person_name": "Kelvin de Ruiter",
-        "country": "NED",
-        "score": 67
+        "person_name": "Aivars Šmaukstelis",
+        "country": "LAT",
+        "score": 74
       },
       {
         "rank": "2",
-        "person_name": "Roberto Rodríguez",
-        "country": "ESP",
+        "person_name": "Ervin Toots",
+        "country": "EST",
         "score": 63.5
       },
       {
         "rank": "3",
-        "person_name": "Gavin Bilton",
+        "person_name": "Kane Francis",
         "country": "GBR",
-        "score": 63
+        "score": 62.5
       },
       {
         "rank": "4",
-        "person_name": "Dennis Kohlruss",
-        "country": "GER",
-        "score": 57
+        "person_name": "Mika Törrö",
+        "country": "FIN",
+        "score": 55.5
       },
       {
         "rank": "5",
-        "person_name": "George Sulaiman",
-        "country": "NED",
-        "score": 53.5
+        "person_name": "Roberto Rodríguez",
+        "country": "ESP",
+        "score": 54
       },
       {
         "rank": "6",
-        "person_name": "Ilya Khazov",
-        "country": "CYP",
-        "score": 51.5
+        "person_name": "Péter Juhász",
+        "country": "HUN",
+        "score": 49.5
       },
       {
         "rank": "7",
-        "person_name": "Johan Espenkrona",
-        "country": "SWE",
-        "score": 51.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Aurélien Le Jeune",
-        "country": "FRA",
+        "person_name": "Kelvin de Ruiter",
+        "country": "NED",
         "score": 46.5
       },
       {
+        "rank": "8",
+        "person_name": "Dainis Zageris",
+        "country": "LAT",
+        "score": 40
+      },
+      {
         "rank": "9",
-        "person_name": "Sean O'Hagan",
-        "country": "IRL",
-        "score": 46
+        "person_name": "Fatih Karaca",
+        "country": "TUR",
+        "score": 36.5
       },
       {
         "rank": "10",
-        "person_name": "Angelo van der Pas",
-        "country": "NED",
-        "score": 34.5
+        "person_name": "Sebastian Kurek",
+        "country": "POL",
+        "score": 24
       },
       {
         "rank": "11",
-        "person_name": "Johan Langhorst",
-        "country": "NED",
-        "score": 33
+        "person_name": "Evans Nana Aryee",
+        "country": "GHA",
+        "score": 23
       },
       {
         "rank": "12",
-        "person_name": "Anders Aslak",
-        "country": "DEN",
-        "score": 21.5
-      },
-      {
-        "rank": "13",
-        "person_name": "Ervin Toots",
-        "country": "EST",
-        "score": 19.5
-      },
-      {
-        "rank": "14",
-        "person_name": "Sebastian Kurek",
-        "country": "POL",
+        "person_name": "Bora Güner",
+        "country": "TUR",
         "score": 12
       }
     ],
     "difficulty_score": 28.8,
-    "competition_rank": 360
+    "competition_rank": 359
   },
   {
     "contest_id": 2014,
@@ -42233,7 +42097,7 @@
       }
     ],
     "difficulty_score": 28.8,
-    "competition_rank": 361
+    "competition_rank": 360
   },
   {
     "contest_id": 3059,
@@ -42357,6 +42221,142 @@
       }
     ],
     "difficulty_score": 28.8,
+    "competition_rank": 361
+  },
+  {
+    "contest_id": 1304,
+    "contest_name": "2022 SCL Holland",
+    "details": "Doetinchem, Netherlands, 2022-06-18",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 0.25,
+    "division": "men",
+    "total_competitors": 14,
+    "raw_difficulty": 2538.517157662135,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Kelvin de Ruiter",
+        "country": "NED",
+        "power": 383.3,
+        "percent": 15.1
+      },
+      {
+        "rank": "2",
+        "person_name": "Roberto Rodríguez",
+        "country": "ESP",
+        "power": 78.6,
+        "percent": 3.1
+      },
+      {
+        "rank": "3",
+        "person_name": "Gavin Bilton",
+        "country": "GBR",
+        "power": 1338.3,
+        "percent": 52.7
+      },
+      {
+        "rank": "4",
+        "person_name": "Dennis Kohlruss",
+        "country": "GER",
+        "power": 486.9,
+        "percent": 19.2
+      },
+      {
+        "rank": "5",
+        "person_name": "George Sulaiman",
+        "country": "NED",
+        "power": 251.3,
+        "percent": 9.9
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Kelvin de Ruiter",
+        "country": "NED",
+        "score": 67
+      },
+      {
+        "rank": "2",
+        "person_name": "Roberto Rodríguez",
+        "country": "ESP",
+        "score": 63.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Gavin Bilton",
+        "country": "GBR",
+        "score": 63
+      },
+      {
+        "rank": "4",
+        "person_name": "Dennis Kohlruss",
+        "country": "GER",
+        "score": 57
+      },
+      {
+        "rank": "5",
+        "person_name": "George Sulaiman",
+        "country": "NED",
+        "score": 53.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Ilya Khazov",
+        "country": "CYP",
+        "score": 51.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Johan Espenkrona",
+        "country": "SWE",
+        "score": 51.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Aurélien Le Jeune",
+        "country": "FRA",
+        "score": 46.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Sean O'Hagan",
+        "country": "IRL",
+        "score": 46
+      },
+      {
+        "rank": "10",
+        "person_name": "Angelo van der Pas",
+        "country": "NED",
+        "score": 34.5
+      },
+      {
+        "rank": "11",
+        "person_name": "Johan Langhorst",
+        "country": "NED",
+        "score": 33
+      },
+      {
+        "rank": "12",
+        "person_name": "Anders Aslak",
+        "country": "DEN",
+        "score": 21.5
+      },
+      {
+        "rank": "13",
+        "person_name": "Ervin Toots",
+        "country": "EST",
+        "score": 19.5
+      },
+      {
+        "rank": "14",
+        "person_name": "Sebastian Kurek",
+        "country": "POL",
+        "score": 12
+      }
+    ],
+    "difficulty_score": 28.7,
     "competition_rank": 362
   },
   {
@@ -43034,13 +43034,13 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 2516.907546079353,
+    "raw_difficulty": 2513.1352617004027,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Fredrik Johansson",
         "country": "SWE",
-        "power": 1126.6,
+        "power": 1125.9,
         "percent": 44.8
       },
       {
@@ -43048,14 +43048,14 @@
         "person_name": "Marcus Yngvesson",
         "country": "SWE",
         "power": 129.6,
-        "percent": 5.1
+        "percent": 5.2
       },
       {
         "rank": "3",
         "person_name": "Cim Johansson",
         "country": "SWE",
         "power": 849.4,
-        "percent": 33.7
+        "percent": 33.8
       },
       {
         "rank": "4",
@@ -43068,8 +43068,8 @@
         "rank": "5",
         "person_name": "Harley Andersson",
         "country": "SWE",
-        "power": 357.6,
-        "percent": 14.2
+        "power": 354.5,
+        "percent": 14.1
       }
     ],
     "results": [
@@ -43134,7 +43134,7 @@
         "score": 11
       }
     ],
-    "difficulty_score": 28.4,
+    "difficulty_score": 28.3,
     "competition_rank": 369
   },
   {
@@ -44544,7 +44544,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 2333.050583130089,
+    "raw_difficulty": 2330.7425484917017,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -44557,8 +44557,8 @@
         "rank": "2",
         "person_name": "Ervin Toots",
         "country": "EST",
-        "power": 198.8,
-        "percent": 8.5
+        "power": 196.5,
+        "percent": 8.4
       },
       {
         "rank": "3",
@@ -44572,7 +44572,7 @@
         "person_name": "Mika Törrö",
         "country": "FIN",
         "power": 740.2,
-        "percent": 31.7
+        "percent": 31.8
       },
       {
         "rank": "5",
@@ -45462,118 +45462,6 @@
     "competition_rank": 389
   },
   {
-    "contest_id": 1606,
-    "contest_name": "2024 Sweden's Strongest Man",
-    "details": "Malmö, Sweden, 2024-10-19",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 1.0,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 2291.249304221432,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "power": 1126.6,
-        "percent": 49.2
-      },
-      {
-        "rank": "2",
-        "person_name": "Cim Johansson",
-        "country": "SWE",
-        "power": 849.4,
-        "percent": 37.1
-      },
-      {
-        "rank": "3",
-        "person_name": "Marcus Yngvesson",
-        "country": "SWE",
-        "power": 129.6,
-        "percent": 5.7
-      },
-      {
-        "rank": "4",
-        "person_name": "Joachim Kvick",
-        "country": "SWE",
-        "power": 148.8,
-        "percent": 6.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Anton Larsson",
-        "country": "SWE",
-        "power": 36.8,
-        "percent": 1.6
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "score": 58
-      },
-      {
-        "rank": "2",
-        "person_name": "Cim Johansson",
-        "country": "SWE",
-        "score": 53.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Marcus Yngvesson",
-        "country": "SWE",
-        "score": 49
-      },
-      {
-        "rank": "4",
-        "person_name": "Joachim Kvick",
-        "country": "SWE",
-        "score": 47
-      },
-      {
-        "rank": "5",
-        "person_name": "Anton Larsson",
-        "country": "SWE",
-        "score": 39.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Fredrik Svensson",
-        "country": "SWE",
-        "score": 32
-      },
-      {
-        "rank": "7",
-        "person_name": "Anton Wasser",
-        "country": "SWE",
-        "score": 30
-      },
-      {
-        "rank": "8",
-        "person_name": "Jacob Larsson",
-        "country": "SWE",
-        "score": 25
-      },
-      {
-        "rank": "9",
-        "person_name": "Jonathan Partanen",
-        "country": "SWE",
-        "score": 23
-      },
-      {
-        "rank": "10",
-        "person_name": "Jonas Tinnerholm",
-        "country": "SWE",
-        "score": 11
-      }
-    ],
-    "difficulty_score": 24.6,
-    "competition_rank": 390
-  },
-  {
     "contest_id": 1164,
     "contest_name": "2021 Megatron",
     "details": "Steinmauern, Germany, 2021-12-10",
@@ -45680,6 +45568,118 @@
         "person_name": "Johan Langhorst",
         "country": "NED",
         "score": 52
+      }
+    ],
+    "difficulty_score": 24.5,
+    "competition_rank": 390
+  },
+  {
+    "contest_id": 1606,
+    "contest_name": "2024 Sweden's Strongest Man",
+    "details": "Malmö, Sweden, 2024-10-19",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 1.0,
+    "division": "men",
+    "total_competitors": 10,
+    "raw_difficulty": 2280.2628921773853,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "power": 1125.9,
+        "percent": 49.4
+      },
+      {
+        "rank": "2",
+        "person_name": "Cim Johansson",
+        "country": "SWE",
+        "power": 849.4,
+        "percent": 37.3
+      },
+      {
+        "rank": "3",
+        "person_name": "Marcus Yngvesson",
+        "country": "SWE",
+        "power": 129.6,
+        "percent": 5.7
+      },
+      {
+        "rank": "4",
+        "person_name": "Joachim Kvick",
+        "country": "SWE",
+        "power": 138.6,
+        "percent": 6.1
+      },
+      {
+        "rank": "5",
+        "person_name": "Anton Larsson",
+        "country": "SWE",
+        "power": 36.8,
+        "percent": 1.6
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "score": 58
+      },
+      {
+        "rank": "2",
+        "person_name": "Cim Johansson",
+        "country": "SWE",
+        "score": 53.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Marcus Yngvesson",
+        "country": "SWE",
+        "score": 49
+      },
+      {
+        "rank": "4",
+        "person_name": "Joachim Kvick",
+        "country": "SWE",
+        "score": 47
+      },
+      {
+        "rank": "5",
+        "person_name": "Anton Larsson",
+        "country": "SWE",
+        "score": 39.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Fredrik Svensson",
+        "country": "SWE",
+        "score": 32
+      },
+      {
+        "rank": "7",
+        "person_name": "Anton Wasser",
+        "country": "SWE",
+        "score": 30
+      },
+      {
+        "rank": "8",
+        "person_name": "Jacob Larsson",
+        "country": "SWE",
+        "score": 25
+      },
+      {
+        "rank": "9",
+        "person_name": "Jonathan Partanen",
+        "country": "SWE",
+        "score": 23
+      },
+      {
+        "rank": "10",
+        "person_name": "Jonas Tinnerholm",
+        "country": "SWE",
+        "score": 11
       }
     ],
     "difficulty_score": 24.5,
@@ -46088,21 +46088,21 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 2255.780966511779,
+    "raw_difficulty": 2251.3941782092616,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Oskar Ziółkowski",
         "country": "POL",
         "power": 1135.1,
-        "percent": 50.3
+        "percent": 50.4
       },
       {
         "rank": "2",
         "person_name": "Aivars Šmaukstelis",
         "country": "LAT",
         "power": 995.3,
-        "percent": 44.1
+        "percent": 44.2
       },
       {
         "rank": "3",
@@ -46115,8 +46115,8 @@
         "rank": "4",
         "person_name": "Roberto Rodríguez",
         "country": "ESP",
-        "power": 83.0,
-        "percent": 3.7
+        "power": 78.6,
+        "percent": 3.5
       },
       {
         "rank": "5",
@@ -46200,7 +46200,7 @@
         "score": 22.5
       }
     ],
-    "difficulty_score": 24.1,
+    "difficulty_score": 24.0,
     "competition_rank": 396
   },
   {
@@ -47014,14 +47014,14 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 2184.7875764190076,
+    "raw_difficulty": 2182.398184696564,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Kelvin de Ruiter",
         "country": "NED",
         "power": 383.3,
-        "percent": 17.5
+        "percent": 17.6
       },
       {
         "rank": "2",
@@ -47048,8 +47048,8 @@
         "rank": "5",
         "person_name": "Dainis Zageris",
         "country": "LAT",
-        "power": 44.0,
-        "percent": 2.0
+        "power": 41.6,
+        "percent": 1.9
       }
     ],
     "results": [
@@ -48670,14 +48670,14 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 9,
-    "raw_difficulty": 2034.782849271234,
+    "raw_difficulty": 2029.9163813132427,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Aivars Šmaukstelis",
         "country": "LAT",
         "power": 995.3,
-        "percent": 48.9
+        "percent": 49.0
       },
       {
         "rank": "2",
@@ -48690,21 +48690,21 @@
         "rank": "3",
         "person_name": "Roberto Rodríguez",
         "country": "ESP",
-        "power": 83.0,
-        "percent": 4.1
+        "power": 78.6,
+        "percent": 3.9
       },
       {
         "rank": "4",
         "person_name": "Kelvin de Ruiter",
         "country": "NED",
         "power": 383.3,
-        "percent": 18.8
+        "percent": 18.9
       },
       {
         "rank": "5",
         "person_name": "Sebastian Kurek",
         "country": "POL",
-        "power": 40.3,
+        "power": 39.8,
         "percent": 2.0
       }
     ],
@@ -49518,7 +49518,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 1967.590272835683,
+    "raw_difficulty": 1965.2822381972962,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -49531,8 +49531,8 @@
         "rank": "2",
         "person_name": "Ervin Toots",
         "country": "EST",
-        "power": 198.8,
-        "percent": 10.1
+        "power": 196.5,
+        "percent": 10.0
       },
       {
         "rank": "3",
@@ -49546,14 +49546,14 @@
         "person_name": "Andrea Invernizzi",
         "country": "ITA",
         "power": 640.4,
-        "percent": 32.5
+        "percent": 32.6
       },
       {
         "rank": "5",
         "person_name": "Dennis Kohlruss",
         "country": "GER",
         "power": 486.9,
-        "percent": 24.7
+        "percent": 24.8
       }
     ],
     "results": [
@@ -50834,7 +50834,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 1875.5847558452779,
+    "raw_difficulty": 1873.1953641228342,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -50855,7 +50855,7 @@
         "person_name": "Kelvin de Ruiter",
         "country": "NED",
         "power": 383.3,
-        "percent": 20.4
+        "percent": 20.5
       },
       {
         "rank": "4",
@@ -50868,8 +50868,8 @@
         "rank": "5",
         "person_name": "Dainis Zageris",
         "country": "LAT",
-        "power": 44.0,
-        "percent": 2.3
+        "power": 41.6,
+        "percent": 2.2
       }
     ],
     "results": [
@@ -50946,7 +50946,7 @@
         "score": 22.5
       }
     ],
-    "difficulty_score": 18.3,
+    "difficulty_score": 18.2,
     "competition_rank": 438
   },
   {
@@ -55885,7 +55885,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 1456.0231391529335,
+    "raw_difficulty": 1452.453846507422,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -55905,15 +55905,15 @@
         "rank": "3",
         "person_name": "Fredrik Svensson",
         "country": "SWE",
-        "power": 136.9,
-        "percent": 9.4
+        "power": 134.0,
+        "percent": 9.2
       },
       {
         "rank": "4",
         "person_name": "Fredrik Johansson",
         "country": "SWE",
-        "power": 1126.6,
-        "percent": 77.4
+        "power": 1125.9,
+        "percent": 77.5
       },
       {
         "rank": "5",
@@ -55985,7 +55985,7 @@
         "score": 9.5
       }
     ],
-    "difficulty_score": 12.5,
+    "difficulty_score": 12.4,
     "competition_rank": 487
   },
   {
@@ -56457,28 +56457,28 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 6,
-    "raw_difficulty": 1429.041909211728,
+    "raw_difficulty": 1418.7597418445912,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Joachim Kvick",
         "country": "SWE",
-        "power": 148.8,
-        "percent": 10.4
+        "power": 138.6,
+        "percent": 9.8
       },
       {
         "rank": "2",
         "person_name": "Tiago Aparecido",
         "country": "BRA",
         "power": 698.9,
-        "percent": 48.9
+        "percent": 49.3
       },
       {
         "rank": "3",
         "person_name": "Cristian Quiroga",
         "country": "BOL",
         "power": 495.8,
-        "percent": 34.7
+        "percent": 34.9
       },
       {
         "rank": "4",
@@ -56533,7 +56533,7 @@
         "score": 4
       }
     ],
-    "difficulty_score": 12.1,
+    "difficulty_score": 12.0,
     "competition_rank": 492
   },
   {
@@ -56861,136 +56861,6 @@
     "competition_rank": 495
   },
   {
-    "contest_id": 1307,
-    "contest_name": "2022 SCL Bosnia",
-    "details": "Sarajevo, Bosnia and Herzegovina, 2022-09-03",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 13,
-    "raw_difficulty": 1412.7307491977635,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Dainis Zageris",
-        "country": "LAT",
-        "power": 44.0,
-        "percent": 3.1
-      },
-      {
-        "rank": "2",
-        "person_name": "Rongo Keene",
-        "country": "AUS",
-        "power": 501.5,
-        "percent": 35.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Roberto Rodríguez",
-        "country": "ESP",
-        "power": 83.0,
-        "percent": 5.9
-      },
-      {
-        "rank": "4",
-        "person_name": "George Sulaiman",
-        "country": "NED",
-        "power": 251.3,
-        "percent": 17.8
-      },
-      {
-        "rank": "5",
-        "person_name": "Kane Francis",
-        "country": "GBR",
-        "power": 532.8,
-        "percent": 37.7
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Dainis Zageris",
-        "country": "LAT",
-        "score": 51
-      },
-      {
-        "rank": "2",
-        "person_name": "Rongo Keene",
-        "country": "AUS",
-        "score": 50.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Roberto Rodríguez",
-        "country": "ESP",
-        "score": 50.5
-      },
-      {
-        "rank": "4",
-        "person_name": "George Sulaiman",
-        "country": "NED",
-        "score": 48
-      },
-      {
-        "rank": "5",
-        "person_name": "Kane Francis",
-        "country": "GBR",
-        "score": 43
-      },
-      {
-        "rank": "6",
-        "person_name": "Péter Juhász",
-        "country": "HUN",
-        "score": 39
-      },
-      {
-        "rank": "7",
-        "person_name": "Ervin Toots",
-        "country": "EST",
-        "score": 37.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Fatih Karaca",
-        "country": "TUR",
-        "score": 31
-      },
-      {
-        "rank": "9",
-        "person_name": "Nemanja Tasić",
-        "country": "SRB",
-        "score": 29.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Jeremy Hogg",
-        "country": "NZL",
-        "score": 26
-      },
-      {
-        "rank": "11",
-        "person_name": "Tiago Aparecido",
-        "country": "BRA",
-        "score": 21
-      },
-      {
-        "rank": "12",
-        "person_name": "Marcelo Martínez",
-        "country": "URU",
-        "score": 18
-      },
-      {
-        "rank": "13",
-        "person_name": "Damir Stroil",
-        "country": "BIH",
-        "score": 0
-      }
-    ],
-    "difficulty_score": 11.9,
-    "competition_rank": 496
-  },
-  {
     "contest_id": 1723,
     "contest_name": "2025 Moscow Sports Night",
     "details": "Moscow, Russia, 2025-07-05",
@@ -57088,7 +56958,7 @@
       }
     ],
     "difficulty_score": 11.9,
-    "competition_rank": 497
+    "competition_rank": 496
   },
   {
     "contest_id": 1170,
@@ -57215,6 +57085,136 @@
         "person_name": "Egor Shchokin",
         "country": "RUS",
         "score": 5
+      }
+    ],
+    "difficulty_score": 11.8,
+    "competition_rank": 497
+  },
+  {
+    "contest_id": 1307,
+    "contest_name": "2022 SCL Bosnia",
+    "details": "Sarajevo, Bosnia and Herzegovina, 2022-09-03",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 0.25,
+    "division": "men",
+    "total_competitors": 13,
+    "raw_difficulty": 1405.9545691728026,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Dainis Zageris",
+        "country": "LAT",
+        "power": 41.6,
+        "percent": 3.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Rongo Keene",
+        "country": "AUS",
+        "power": 501.5,
+        "percent": 35.7
+      },
+      {
+        "rank": "3",
+        "person_name": "Roberto Rodríguez",
+        "country": "ESP",
+        "power": 78.6,
+        "percent": 5.6
+      },
+      {
+        "rank": "4",
+        "person_name": "George Sulaiman",
+        "country": "NED",
+        "power": 251.3,
+        "percent": 17.9
+      },
+      {
+        "rank": "5",
+        "person_name": "Kane Francis",
+        "country": "GBR",
+        "power": 532.8,
+        "percent": 37.9
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Dainis Zageris",
+        "country": "LAT",
+        "score": 51
+      },
+      {
+        "rank": "2",
+        "person_name": "Rongo Keene",
+        "country": "AUS",
+        "score": 50.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Roberto Rodríguez",
+        "country": "ESP",
+        "score": 50.5
+      },
+      {
+        "rank": "4",
+        "person_name": "George Sulaiman",
+        "country": "NED",
+        "score": 48
+      },
+      {
+        "rank": "5",
+        "person_name": "Kane Francis",
+        "country": "GBR",
+        "score": 43
+      },
+      {
+        "rank": "6",
+        "person_name": "Péter Juhász",
+        "country": "HUN",
+        "score": 39
+      },
+      {
+        "rank": "7",
+        "person_name": "Ervin Toots",
+        "country": "EST",
+        "score": 37.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Fatih Karaca",
+        "country": "TUR",
+        "score": 31
+      },
+      {
+        "rank": "9",
+        "person_name": "Nemanja Tasić",
+        "country": "SRB",
+        "score": 29.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Jeremy Hogg",
+        "country": "NZL",
+        "score": 26
+      },
+      {
+        "rank": "11",
+        "person_name": "Tiago Aparecido",
+        "country": "BRA",
+        "score": 21
+      },
+      {
+        "rank": "12",
+        "person_name": "Marcelo Martínez",
+        "country": "URU",
+        "score": 18
+      },
+      {
+        "rank": "13",
+        "person_name": "Damir Stroil",
+        "country": "BIH",
+        "score": 0
       }
     ],
     "difficulty_score": 11.8,
@@ -57563,206 +57563,6 @@
     "competition_rank": 501
   },
   {
-    "contest_id": 1351,
-    "contest_name": "2022 Sweden's Strongest Man",
-    "details": "Växjö, Sweden, 2022-11-05",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.5,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 1389.8153301628752,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Andreas Ståhlberg",
-        "country": "SWE",
-        "power": 54.1,
-        "percent": 3.9
-      },
-      {
-        "rank": "2",
-        "person_name": "Johnny Hansson",
-        "country": "SWE",
-        "power": 41.8,
-        "percent": 3.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Joachim Kvick",
-        "country": "SWE",
-        "power": 148.8,
-        "percent": 10.7
-      },
-      {
-        "rank": "4",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "power": 1126.6,
-        "percent": 81.1
-      },
-      {
-        "rank": "5",
-        "person_name": "David Ebbeke",
-        "country": "SWE",
-        "power": 18.4,
-        "percent": 1.3
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Andreas Ståhlberg",
-        "country": "SWE",
-        "score": 46.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Johnny Hansson",
-        "country": "SWE",
-        "score": 43
-      },
-      {
-        "rank": "3",
-        "person_name": "Joachim Kvick",
-        "country": "SWE",
-        "score": 42
-      },
-      {
-        "rank": "4",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "score": 39.5
-      },
-      {
-        "rank": "5",
-        "person_name": "David Ebbeke",
-        "country": "SWE",
-        "score": 35
-      },
-      {
-        "rank": "6",
-        "person_name": "Fredrik Svensson",
-        "country": "SWE",
-        "score": 34.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Harley Andersson",
-        "country": "SWE",
-        "score": 31.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Jacob Larsson",
-        "country": "SWE",
-        "score": 27
-      },
-      {
-        "rank": "9",
-        "person_name": "Anton Wasser",
-        "country": "SWE",
-        "score": 15.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Stefan Bergqvist",
-        "country": "SWE",
-        "score": 7.5
-      }
-    ],
-    "difficulty_score": 11.6,
-    "competition_rank": 502
-  },
-  {
-    "contest_id": 2930,
-    "contest_name": "2022 Sweden's Rawest",
-    "details": "Ystad, Sweden, 2022-07-16",
-    "tier": "TIER_5",
-    "tier_multiplier": 0.25,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 6,
-    "raw_difficulty": 1386.7090604282819,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Kim Ujarak Lorentzen",
-        "country": "GRL",
-        "power": 31.7,
-        "percent": 2.3
-      },
-      {
-        "rank": "2",
-        "person_name": "Andreas Ståhlberg",
-        "country": "SWE",
-        "power": 54.1,
-        "percent": 3.9
-      },
-      {
-        "rank": "3",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "power": 1126.6,
-        "percent": 81.2
-      },
-      {
-        "rank": "4",
-        "person_name": "Fredrik Svensson",
-        "country": "SWE",
-        "power": 136.9,
-        "percent": 9.9
-      },
-      {
-        "rank": "5",
-        "person_name": "Johan Liljeblad",
-        "country": "SWE",
-        "power": 37.4,
-        "percent": 2.7
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Kim Ujarak Lorentzen",
-        "country": "GRL",
-        "score": 22.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Andreas Ståhlberg",
-        "country": "SWE",
-        "score": 21.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "score": 19.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Fredrik Svensson",
-        "country": "SWE",
-        "score": 15.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Johan Liljeblad",
-        "country": "SWE",
-        "score": 12.0
-      },
-      {
-        "rank": "6",
-        "person_name": "Henrik Norberg",
-        "country": "SWE",
-        "score": 7.0
-      }
-    ],
-    "difficulty_score": 11.6,
-    "competition_rank": 503
-  },
-  {
     "contest_id": 2595,
     "contest_name": "2026 PSL Silver Round I",
     "details": "Poprad, Slovakia, 2026-05-31",
@@ -57878,7 +57678,95 @@
       }
     ],
     "difficulty_score": 11.5,
-    "competition_rank": 504
+    "competition_rank": 502
+  },
+  {
+    "contest_id": 2930,
+    "contest_name": "2022 Sweden's Rawest",
+    "details": "Ystad, Sweden, 2022-07-16",
+    "tier": "TIER_5",
+    "tier_multiplier": 0.25,
+    "recency_multiplier": 0.25,
+    "division": "men",
+    "total_competitors": 6,
+    "raw_difficulty": 1358.1397677827702,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Kim Ujarak Lorentzen",
+        "country": "GRL",
+        "power": 31.7,
+        "percent": 2.3
+      },
+      {
+        "rank": "2",
+        "person_name": "Andreas Ståhlberg",
+        "country": "SWE",
+        "power": 29.1,
+        "percent": 2.1
+      },
+      {
+        "rank": "3",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "power": 1125.9,
+        "percent": 82.9
+      },
+      {
+        "rank": "4",
+        "person_name": "Fredrik Svensson",
+        "country": "SWE",
+        "power": 134.0,
+        "percent": 9.9
+      },
+      {
+        "rank": "5",
+        "person_name": "Johan Liljeblad",
+        "country": "SWE",
+        "power": 37.4,
+        "percent": 2.8
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Kim Ujarak Lorentzen",
+        "country": "GRL",
+        "score": 22.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Andreas Ståhlberg",
+        "country": "SWE",
+        "score": 21.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "score": 19.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Fredrik Svensson",
+        "country": "SWE",
+        "score": 15.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Johan Liljeblad",
+        "country": "SWE",
+        "score": 12.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Henrik Norberg",
+        "country": "SWE",
+        "score": 7.0
+      }
+    ],
+    "difficulty_score": 11.2,
+    "competition_rank": 503
   },
   {
     "contest_id": 2627,
@@ -58014,7 +57902,7 @@
       }
     ],
     "difficulty_score": 11.1,
-    "competition_rank": 505
+    "competition_rank": 504
   },
   {
     "contest_id": 3040,
@@ -58108,7 +57996,7 @@
       }
     ],
     "difficulty_score": 11.0,
-    "competition_rank": 506
+    "competition_rank": 505
   },
   {
     "contest_id": 1896,
@@ -58214,6 +58102,118 @@
       }
     ],
     "difficulty_score": 10.9,
+    "competition_rank": 506
+  },
+  {
+    "contest_id": 1351,
+    "contest_name": "2022 Sweden's Strongest Man",
+    "details": "Växjö, Sweden, 2022-11-05",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 0.25,
+    "division": "men",
+    "total_competitors": 10,
+    "raw_difficulty": 1325.1619125127575,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Andreas Ståhlberg",
+        "country": "SWE",
+        "power": 29.1,
+        "percent": 2.2
+      },
+      {
+        "rank": "2",
+        "person_name": "Johnny Hansson",
+        "country": "SWE",
+        "power": 22.3,
+        "percent": 1.7
+      },
+      {
+        "rank": "3",
+        "person_name": "Joachim Kvick",
+        "country": "SWE",
+        "power": 138.6,
+        "percent": 10.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "power": 1125.9,
+        "percent": 85.0
+      },
+      {
+        "rank": "5",
+        "person_name": "David Ebbeke",
+        "country": "SWE",
+        "power": 9.2,
+        "percent": 0.7
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Andreas Ståhlberg",
+        "country": "SWE",
+        "score": 46.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Johnny Hansson",
+        "country": "SWE",
+        "score": 43
+      },
+      {
+        "rank": "3",
+        "person_name": "Joachim Kvick",
+        "country": "SWE",
+        "score": 42
+      },
+      {
+        "rank": "4",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "score": 39.5
+      },
+      {
+        "rank": "5",
+        "person_name": "David Ebbeke",
+        "country": "SWE",
+        "score": 35
+      },
+      {
+        "rank": "6",
+        "person_name": "Fredrik Svensson",
+        "country": "SWE",
+        "score": 34.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Harley Andersson",
+        "country": "SWE",
+        "score": 31.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Jacob Larsson",
+        "country": "SWE",
+        "score": 27
+      },
+      {
+        "rank": "9",
+        "person_name": "Anton Wasser",
+        "country": "SWE",
+        "score": 15.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Stefan Bergqvist",
+        "country": "SWE",
+        "score": 7.5
+      }
+    ],
+    "difficulty_score": 10.8,
     "competition_rank": 507
   },
   {
@@ -61373,28 +61373,28 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 1064.1691529854286,
+    "raw_difficulty": 1061.3814386915678,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "George Sulaiman",
         "country": "NED",
         "power": 251.3,
-        "percent": 23.6
+        "percent": 23.7
       },
       {
         "rank": "2",
         "person_name": "Ervin Toots",
         "country": "EST",
-        "power": 198.8,
-        "percent": 18.7
+        "power": 196.5,
+        "percent": 18.5
       },
       {
         "rank": "3",
         "person_name": "Sebastian Kurek",
         "country": "POL",
-        "power": 40.3,
-        "percent": 3.8
+        "power": 39.8,
+        "percent": 3.7
       },
       {
         "rank": "4",
@@ -61408,7 +61408,7 @@
         "person_name": "Kane Francis",
         "country": "GBR",
         "power": 532.8,
-        "percent": 50.1
+        "percent": 50.2
       }
     ],
     "results": [
@@ -61739,7 +61739,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 1057.1695175396678,
+    "raw_difficulty": 1054.9297840177283,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -61753,28 +61753,28 @@
         "person_name": "Mark Felix",
         "country": "GBR",
         "power": 281.6,
-        "percent": 26.6
+        "percent": 26.7
       },
       {
         "rank": "3",
         "person_name": "Žydrūnas Savickas",
         "country": "LTU",
         "power": 219.0,
-        "percent": 20.7
+        "percent": 20.8
       },
       {
         "rank": "4",
         "person_name": "Stefan Bergqvist",
         "country": "SWE",
-        "power": 146.2,
-        "percent": 13.8
+        "power": 143.9,
+        "percent": 13.6
       },
       {
         "rank": "5",
         "person_name": "Ivan Murphy",
         "country": "GBR",
         "power": 110.4,
-        "percent": 10.4
+        "percent": 10.5
       }
     ],
     "results": [
@@ -63697,7 +63697,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 944.1871518370629,
+    "raw_difficulty": 943.3797180136427,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -63717,8 +63717,8 @@
         "rank": "3",
         "person_name": "Fatih Karaca",
         "country": "TUR",
-        "power": 144.2,
-        "percent": 15.3
+        "power": 143.4,
+        "percent": 15.2
       },
       {
         "rank": "4",
@@ -63732,7 +63732,7 @@
         "person_name": "Ilya Khazov",
         "country": "CYP",
         "power": 250.6,
-        "percent": 26.5
+        "percent": 26.6
       }
     ],
     "results": [
@@ -66303,42 +66303,42 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 14,
-    "raw_difficulty": 283.58719592400774,
+    "raw_difficulty": 280.72214795540583,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Johan Espenkrona",
         "country": "SWE",
         "power": 53.7,
-        "percent": 18.9
+        "percent": 19.1
       },
       {
         "rank": "2",
         "person_name": "Eric Dawson",
         "country": "USA",
         "power": 36.9,
-        "percent": 13.0
+        "percent": 13.1
       },
       {
         "rank": "3",
         "person_name": "Øyvind Skjævesland Gustavsen",
         "country": "NOR",
         "power": 49.5,
-        "percent": 17.5
+        "percent": 17.6
       },
       {
         "rank": "4",
         "person_name": "Veli-Pekka Kauhanen",
         "country": "FIN",
         "power": 6.6,
-        "percent": 2.3
+        "percent": 2.4
       },
       {
         "rank": "5",
         "person_name": "Fredrik Svensson",
         "country": "SWE",
-        "power": 136.9,
-        "percent": 48.3
+        "power": 134.0,
+        "percent": 47.7
       }
     ],
     "results": [
