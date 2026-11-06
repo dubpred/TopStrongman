@@ -81300,6 +81300,54 @@
     "division": "women"
   },
   {
+    "Show_Name": "2026 South Africa's Strongest Woman",
+    "Show_Promotion": "Other",
+    "Date": "2026-07-04",
+    "Year": 2026,
+    "PlacementRank": 1,
+    "Competitor_fName": "Savannah",
+    "Compititor_LName": "van der Heever",
+    "difficulty": 15.9,
+    "country_code": "RSA",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2026 South Africa's Strongest Woman",
+    "Show_Promotion": "Other",
+    "Date": "2026-07-04",
+    "Year": 2026,
+    "PlacementRank": 2,
+    "Competitor_fName": "Veané",
+    "Compititor_LName": "Nel",
+    "difficulty": 15.9,
+    "country_code": "RSA",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2026 South Africa's Strongest Woman",
+    "Show_Promotion": "Other",
+    "Date": "2026-07-04",
+    "Year": 2026,
+    "PlacementRank": 3,
+    "Competitor_fName": "Monique",
+    "Compititor_LName": "Hougaard",
+    "difficulty": 15.9,
+    "country_code": "RSA",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2026 South Africa's Strongest Woman",
+    "Show_Promotion": "Other",
+    "Date": "2026-07-04",
+    "Year": 2026,
+    "PlacementRank": 4,
+    "Competitor_fName": "Louise",
+    "Compititor_LName": "Faber",
+    "difficulty": 15.9,
+    "country_code": "RSA",
+    "division": "women"
+  },
+  {
     "Show_Name": "2026 Wales' Strongest Woman",
     "Show_Promotion": "Other",
     "Date": "2026-03-08",
@@ -81345,54 +81393,6 @@
     "Compititor_LName": "Eades",
     "difficulty": 15.7,
     "country_code": "WAL",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2026 South Africa's Strongest Woman",
-    "Show_Promotion": "Other",
-    "Date": "2026-07-04",
-    "Year": 2026,
-    "PlacementRank": 1,
-    "Competitor_fName": "Savannah",
-    "Compititor_LName": "van der Heever",
-    "difficulty": 13.1,
-    "country_code": "RSA",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2026 South Africa's Strongest Woman",
-    "Show_Promotion": "Other",
-    "Date": "2026-07-04",
-    "Year": 2026,
-    "PlacementRank": 2,
-    "Competitor_fName": "Veané",
-    "Compititor_LName": "Nel",
-    "difficulty": 13.1,
-    "country_code": "RSA",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2026 South Africa's Strongest Woman",
-    "Show_Promotion": "Other",
-    "Date": "2026-07-04",
-    "Year": 2026,
-    "PlacementRank": 3,
-    "Competitor_fName": "Monique",
-    "Compititor_LName": "Hougaard",
-    "difficulty": 13.1,
-    "country_code": "RSA",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2026 South Africa's Strongest Woman",
-    "Show_Promotion": "Other",
-    "Date": "2026-07-04",
-    "Year": 2026,
-    "PlacementRank": 4,
-    "Competitor_fName": "Louise",
-    "Compititor_LName": "Faber",
-    "difficulty": 13.1,
-    "country_code": "RSA",
     "division": "women"
   },
   {
@@ -81537,6 +81537,102 @@
     "Compititor_LName": "Williamson",
     "difficulty": 12.4,
     "country_code": "IRL",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2025 Africa's Strongest Woman",
+    "Show_Promotion": "Other",
+    "Date": "2025-10-25",
+    "Year": 2025,
+    "PlacementRank": 1,
+    "Competitor_fName": "Chido",
+    "Compititor_LName": "Maenzanise",
+    "difficulty": 12.0,
+    "country_code": "RSA",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2025 Africa's Strongest Woman",
+    "Show_Promotion": "Other",
+    "Date": "2025-10-25",
+    "Year": 2025,
+    "PlacementRank": 2,
+    "Competitor_fName": "Veané",
+    "Compititor_LName": "Nel",
+    "difficulty": 12.0,
+    "country_code": "RSA",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2025 Africa's Strongest Woman",
+    "Show_Promotion": "Other",
+    "Date": "2025-10-25",
+    "Year": 2025,
+    "PlacementRank": 3,
+    "Competitor_fName": "Charllotte",
+    "Compititor_LName": "Charway",
+    "difficulty": 12.0,
+    "country_code": "GHA",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2025 Africa's Strongest Woman",
+    "Show_Promotion": "Other",
+    "Date": "2025-10-25",
+    "Year": 2025,
+    "PlacementRank": 4,
+    "Competitor_fName": "Naomi",
+    "Compititor_LName": "Zimba",
+    "difficulty": 12.0,
+    "country_code": "ZAM",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2025 Africa's Strongest Woman",
+    "Show_Promotion": "Other",
+    "Date": "2025-10-25",
+    "Year": 2025,
+    "PlacementRank": 5,
+    "Competitor_fName": "Vimbai",
+    "Compititor_LName": "Goba",
+    "difficulty": 12.0,
+    "country_code": "ZWE",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2025 Africa's Strongest Woman",
+    "Show_Promotion": "Other",
+    "Date": "2025-10-25",
+    "Year": 2025,
+    "PlacementRank": 6,
+    "Competitor_fName": "Regina",
+    "Compititor_LName": "Jonga",
+    "difficulty": 12.0,
+    "country_code": "ZWE",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2025 Africa's Strongest Woman",
+    "Show_Promotion": "Other",
+    "Date": "2025-10-25",
+    "Year": 2025,
+    "PlacementRank": 7,
+    "Competitor_fName": "Loveness",
+    "Compititor_LName": "Chibuye",
+    "difficulty": 12.0,
+    "country_code": "ZAM",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2025 Africa's Strongest Woman",
+    "Show_Promotion": "Other",
+    "Date": "2025-10-25",
+    "Year": 2025,
+    "PlacementRank": 8,
+    "Competitor_fName": "Kavuyi",
+    "Compititor_LName": "Mubanga",
+    "difficulty": 12.0,
+    "country_code": "ZAM",
     "division": "women"
   },
   {
@@ -81876,6 +81972,42 @@
     "division": "women"
   },
   {
+    "Show_Name": "2023 Africa's Strongest Woman",
+    "Show_Promotion": "Other",
+    "Date": "2023-10-28",
+    "Year": 2023,
+    "PlacementRank": 1,
+    "Competitor_fName": "Cherry",
+    "Compititor_LName": "Muchindu",
+    "difficulty": 9.6,
+    "country_code": "ZAM",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2023 Africa's Strongest Woman",
+    "Show_Promotion": "Other",
+    "Date": "2023-10-28",
+    "Year": 2023,
+    "PlacementRank": 2,
+    "Competitor_fName": "Natasha",
+    "Compititor_LName": "Grobler",
+    "difficulty": 9.6,
+    "country_code": "RSA",
+    "division": "women"
+  },
+  {
+    "Show_Name": "2023 Africa's Strongest Woman",
+    "Show_Promotion": "Other",
+    "Date": "2023-10-28",
+    "Year": 2023,
+    "PlacementRank": 3,
+    "Competitor_fName": "Chido",
+    "Compititor_LName": "Maenzanise",
+    "difficulty": 9.6,
+    "country_code": "RSA",
+    "division": "women"
+  },
+  {
     "Show_Name": "2026 Beast of the East (Women)",
     "Show_Promotion": "Other",
     "Date": "2026-05-09",
@@ -82041,42 +82173,6 @@
     "Compititor_LName": "Pederson",
     "difficulty": 7.8,
     "country_code": "CAN",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2023 Africa's Strongest Woman",
-    "Show_Promotion": "Other",
-    "Date": "2023-10-28",
-    "Year": 2023,
-    "PlacementRank": 1,
-    "Competitor_fName": "Cherry",
-    "Compititor_LName": "Muchindu",
-    "difficulty": 6.2,
-    "country_code": "ZAM",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2023 Africa's Strongest Woman",
-    "Show_Promotion": "Other",
-    "Date": "2023-10-28",
-    "Year": 2023,
-    "PlacementRank": 2,
-    "Competitor_fName": "Natasha",
-    "Compititor_LName": "Grobler",
-    "difficulty": 6.2,
-    "country_code": "RSA",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2023 Africa's Strongest Woman",
-    "Show_Promotion": "Other",
-    "Date": "2023-10-28",
-    "Year": 2023,
-    "PlacementRank": 3,
-    "Competitor_fName": "Chido",
-    "Compititor_LName": "Maenzanise",
-    "difficulty": 6.2,
-    "country_code": "RSA",
     "division": "women"
   },
   {
