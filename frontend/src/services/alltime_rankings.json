@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-06T06:13:30.714Z",
-  "totalRankedMen": 4042,
-  "totalRankedWomen": 463,
+  "lastUpdated": "2026-11-07T05:41:25.387Z",
+  "totalRankedMen": 4044,
+  "totalRankedWomen": 465,
   "men": [
     {
       "name": "Žydrūnas Savickas",
@@ -233437,6 +233437,42 @@
       "rank": 3927
     },
     {
+      "name": "Sonny Nash",
+      "firstName": "Sonny",
+      "lastName": "Nash",
+      "country": "GBR",
+      "goatScore": 0,
+      "totalShows": 1,
+      "evaluatedCount": 1,
+      "totalWins": 1,
+      "totalPodiums": 1,
+      "winRate": 100,
+      "podiumRate": 100,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2026",
+      "startYear": 2026,
+      "endYear": 2026,
+      "era": "New Era (2020–Present)",
+      "topShows": [
+        {
+          "contest": "2026 U70 Britain's Strongest Man",
+          "year": 2026,
+          "rank": 1,
+          "difficulty": 0,
+          "points": 0,
+          "basePlacementPts": 0,
+          "bonus": 0
+        }
+      ],
+      "rank": 3928
+    },
+    {
       "name": "Rob Kennedy",
       "firstName": "Rob",
       "lastName": "Kennedy",
@@ -233470,7 +233506,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3928
+      "rank": 3929
     },
     {
       "name": "Craig Bongelli",
@@ -233506,7 +233542,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3929
+      "rank": 3930
     },
     {
       "name": "Johnny Wasiczko",
@@ -233542,7 +233578,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3930
+      "rank": 3931
     },
     {
       "name": "Jacob Miskimens",
@@ -233578,7 +233614,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3931
+      "rank": 3932
     },
     {
       "name": "Joe Stanton",
@@ -233614,7 +233650,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3932
+      "rank": 3933
     },
     {
       "name": "Wayne Tunstall",
@@ -233650,7 +233686,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3933
+      "rank": 3934
     },
     {
       "name": "Zach Gallman",
@@ -233686,7 +233722,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3934
+      "rank": 3935
     },
     {
       "name": "Pat Wilson",
@@ -233722,7 +233758,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3935
+      "rank": 3936
     },
     {
       "name": "Paul Amor",
@@ -233758,7 +233794,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3936
+      "rank": 3937
     },
     {
       "name": "Jordan Foley",
@@ -233794,7 +233830,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3937
+      "rank": 3938
     },
     {
       "name": "Zach Rupp",
@@ -233830,7 +233866,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3938
+      "rank": 3939
     },
     {
       "name": "Tamás Bartalos",
@@ -233866,7 +233902,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3939
+      "rank": 3940
     },
     {
       "name": "Brady Jones",
@@ -233902,7 +233938,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3940
+      "rank": 3941
     },
     {
       "name": "Anki Öberg",
@@ -233938,7 +233974,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3941
+      "rank": 3942
     },
     {
       "name": "Jaana Tanner",
@@ -233974,7 +234010,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3942
+      "rank": 3943
     },
     {
       "name": "Niina Jumppanen",
@@ -234010,7 +234046,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3943
+      "rank": 3944
     },
     {
       "name": "Bryndís Ólafsdóttir",
@@ -234046,7 +234082,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3944
+      "rank": 3945
     },
     {
       "name": "Alina Leisiö",
@@ -234082,7 +234118,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3945
+      "rank": 3946
     },
     {
       "name": "Leena Nurminen",
@@ -234118,7 +234154,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3946
+      "rank": 3947
     },
     {
       "name": "Samantha Belliveau",
@@ -234154,7 +234190,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3947
+      "rank": 3948
     },
     {
       "name": "Nadia Stowers",
@@ -234190,7 +234226,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3948
+      "rank": 3949
     },
     {
       "name": "Jodi Kennedy",
@@ -234226,7 +234262,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3949
+      "rank": 3950
     },
     {
       "name": "Erin Walklet",
@@ -234262,7 +234298,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3950
+      "rank": 3951
     },
     {
       "name": "Rebecca Lorch",
@@ -234298,7 +234334,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3951
+      "rank": 3952
     },
     {
       "name": "Jessica Mitchell",
@@ -234334,7 +234370,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3952
+      "rank": 3953
     },
     {
       "name": "Laura de Berdt Romilly",
@@ -234370,7 +234406,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3953
+      "rank": 3954
     },
     {
       "name": "Gabi Dixson",
@@ -234406,7 +234442,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3954
+      "rank": 3955
     },
     {
       "name": "Julia Hamilton",
@@ -234442,7 +234478,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3955
+      "rank": 3956
     },
     {
       "name": "Stefanie Herod",
@@ -234478,7 +234514,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3956
+      "rank": 3957
     },
     {
       "name": "Cassandra Moore",
@@ -234514,7 +234550,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3957
+      "rank": 3958
     },
     {
       "name": "Julia Tomascheski",
@@ -234550,7 +234586,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3958
+      "rank": 3959
     },
     {
       "name": "Lauren Ryder",
@@ -234586,7 +234622,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3959
+      "rank": 3960
     },
     {
       "name": "Daphne Zhang",
@@ -234622,7 +234658,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3960
+      "rank": 3961
     },
     {
       "name": "Josefine Adele Liverød",
@@ -234658,7 +234694,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3961
+      "rank": 3962
     },
     {
       "name": "Cynthia Martinez",
@@ -234694,7 +234730,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3962
+      "rank": 3963
     },
     {
       "name": "Gina Cravedi",
@@ -234730,7 +234766,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3963
+      "rank": 3964
     },
     {
       "name": "Erin Anderson",
@@ -234766,7 +234802,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3964
+      "rank": 3965
     },
     {
       "name": "Teresa Waterfield",
@@ -234802,7 +234838,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3965
+      "rank": 3966
     },
     {
       "name": "Nicole Recchia",
@@ -234838,7 +234874,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3966
+      "rank": 3967
     },
     {
       "name": "Tatiana Viera",
@@ -234874,7 +234910,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3967
+      "rank": 3968
     },
     {
       "name": "Véronique Cormier",
@@ -234910,7 +234946,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3968
+      "rank": 3969
     },
     {
       "name": "Adam Conti",
@@ -234946,7 +234982,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3969
+      "rank": 3970
     },
     {
       "name": "Josh Reed",
@@ -234982,7 +235018,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3970
+      "rank": 3971
     },
     {
       "name": "Troy Stininger",
@@ -235018,7 +235054,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3971
+      "rank": 3972
     },
     {
       "name": "Matt Garee",
@@ -235054,7 +235090,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3972
+      "rank": 3973
     },
     {
       "name": "Thomas Benjamin",
@@ -235090,7 +235126,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3973
+      "rank": 3974
     },
     {
       "name": "Kevin Mendes",
@@ -235126,7 +235162,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3974
+      "rank": 3975
     },
     {
       "name": "Victor Casado",
@@ -235162,7 +235198,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3975
+      "rank": 3976
     },
     {
       "name": "Jakeb Barnett",
@@ -235198,7 +235234,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3976
+      "rank": 3977
     },
     {
       "name": "Josh Harrelson",
@@ -235234,7 +235270,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3977
+      "rank": 3978
     },
     {
       "name": "Nick Strauss",
@@ -235270,7 +235306,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3978
+      "rank": 3979
     },
     {
       "name": "Harry Walker",
@@ -235306,7 +235342,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3979
+      "rank": 3980
     },
     {
       "name": "Blake Hoffman",
@@ -235342,7 +235378,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3980
+      "rank": 3981
     },
     {
       "name": "Michael Simons",
@@ -235378,7 +235414,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3981
+      "rank": 3982
     },
     {
       "name": "Laurens Prontera",
@@ -235414,7 +235450,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3982
+      "rank": 3983
     },
     {
       "name": "Kevin Tancré",
@@ -235459,7 +235495,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3983
+      "rank": 3984
     },
     {
       "name": "Emilio Mesolaras",
@@ -235495,7 +235531,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3984
+      "rank": 3985
     },
     {
       "name": "Pekka Tompuri",
@@ -235531,7 +235567,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3985
+      "rank": 3986
     },
     {
       "name": "Christian Lindholm",
@@ -235567,7 +235603,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3986
+      "rank": 3987
     },
     {
       "name": "Ville Ruuskanen",
@@ -235603,7 +235639,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3987
+      "rank": 3988
     },
     {
       "name": "Kaveh Vefai",
@@ -235639,7 +235675,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3988
+      "rank": 3989
     },
     {
       "name": "Lauri Härkä",
@@ -235675,7 +235711,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3989
+      "rank": 3990
     },
     {
       "name": "Zach Veeneman",
@@ -235711,7 +235747,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3990
+      "rank": 3991
     },
     {
       "name": "Ross Mackintosh",
@@ -235756,7 +235792,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3991
+      "rank": 3992
     },
     {
       "name": "Dean Patch",
@@ -235792,7 +235828,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3992
+      "rank": 3993
     },
     {
       "name": "Ben Rant",
@@ -235828,7 +235864,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3993
+      "rank": 3994
     },
     {
       "name": "Jiří Bánovský",
@@ -235864,7 +235900,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3994
+      "rank": 3995
     },
     {
       "name": "Adam Csupori",
@@ -235900,7 +235936,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3995
+      "rank": 3996
     },
     {
       "name": "Imrich Švec",
@@ -235936,7 +235972,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3996
+      "rank": 3997
     },
     {
       "name": "Ondrej Magna",
@@ -235972,7 +236008,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3997
+      "rank": 3998
     },
     {
       "name": "Milan Erd",
@@ -236008,7 +236044,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3998
+      "rank": 3999
     },
     {
       "name": "Branislav Kopec",
@@ -236044,7 +236080,7 @@
           "bonus": 0
         }
       ],
-      "rank": 3999
+      "rank": 4000
     },
     {
       "name": "Alexandre Lima",
@@ -236080,7 +236116,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4000
+      "rank": 4001
     },
     {
       "name": "Glenn Van Dierendonck",
@@ -236116,7 +236152,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4001
+      "rank": 4002
     },
     {
       "name": "Sergiu Golban",
@@ -236152,7 +236188,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4002
+      "rank": 4003
     },
     {
       "name": "Jordan Wychulis",
@@ -236188,7 +236224,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4003
+      "rank": 4004
     },
     {
       "name": "Sean Mullican",
@@ -236224,7 +236260,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4004
+      "rank": 4005
     },
     {
       "name": "Kevin Candito",
@@ -236260,7 +236296,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4005
+      "rank": 4006
     },
     {
       "name": "Christopher Otero",
@@ -236296,7 +236332,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4006
+      "rank": 4007
     },
     {
       "name": "Derek Brooks",
@@ -236332,7 +236368,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4007
+      "rank": 4008
     },
     {
       "name": "Joe Korasick",
@@ -236368,7 +236404,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4008
+      "rank": 4009
     },
     {
       "name": "Gabe Deal",
@@ -236404,7 +236440,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4009
+      "rank": 4010
     },
     {
       "name": "Bodie Giron",
@@ -236440,7 +236476,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4010
+      "rank": 4011
     },
     {
       "name": "Skye Olsen",
@@ -236476,7 +236512,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4011
+      "rank": 4012
     },
     {
       "name": "Jaendre van der Berg",
@@ -236512,7 +236548,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4012
+      "rank": 4013
     },
     {
       "name": "Kyle Rosslee",
@@ -236548,7 +236584,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4013
+      "rank": 4014
     },
     {
       "name": "Thuto Ramaele",
@@ -236584,7 +236620,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4014
+      "rank": 4015
     },
     {
       "name": "Ken Uedoi",
@@ -236620,7 +236656,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4015
+      "rank": 4016
     },
     {
       "name": "Keegan Macaulay",
@@ -236656,7 +236692,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4016
+      "rank": 4017
     },
     {
       "name": "Braedan Rupert",
@@ -236692,7 +236728,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4017
+      "rank": 4018
     },
     {
       "name": "Mike Hunt",
@@ -236737,7 +236773,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4018
+      "rank": 4019
     },
     {
       "name": "Sum Ting Wong",
@@ -236782,7 +236818,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4019
+      "rank": 4020
     },
     {
       "name": "Suuk Ma Deek",
@@ -236827,7 +236863,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4020
+      "rank": 4021
     },
     {
       "name": "Ben Dover",
@@ -236872,7 +236908,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4021
+      "rank": 4022
     },
     {
       "name": "Wayne Kerr",
@@ -236917,7 +236953,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4022
+      "rank": 4023
     },
     {
       "name": "Will Drysdale",
@@ -236953,7 +236989,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4023
+      "rank": 4024
     },
     {
       "name": "Nick Cox",
@@ -236989,7 +237025,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4024
+      "rank": 4025
     },
     {
       "name": "Daniel Maslen",
@@ -237025,7 +237061,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4025
+      "rank": 4026
     },
     {
       "name": "Leon Paterson",
@@ -237061,7 +237097,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4026
+      "rank": 4027
     },
     {
       "name": "Dougie Black",
@@ -237097,7 +237133,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4027
+      "rank": 4028
     },
     {
       "name": "Shane Buchan",
@@ -237133,7 +237169,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4028
+      "rank": 4029
     },
     {
       "name": "Bret Gillies",
@@ -237169,7 +237205,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4029
+      "rank": 4030
     },
     {
       "name": "Henrik Prutz",
@@ -237205,7 +237241,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4030
+      "rank": 4031
     },
     {
       "name": "Josh Graham",
@@ -237241,7 +237277,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4031
+      "rank": 4032
     },
     {
       "name": "Nathan Brown",
@@ -237277,7 +237313,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4032
+      "rank": 4033
     },
     {
       "name": "Therese Zoltan",
@@ -237322,7 +237358,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4033
+      "rank": 4034
     },
     {
       "name": "Kerri Gantly",
@@ -237358,7 +237394,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4034
+      "rank": 4035
     },
     {
       "name": "Jessica Pietrzyk",
@@ -237403,7 +237439,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4035
+      "rank": 4036
     },
     {
       "name": "Maria Barwig",
@@ -237439,7 +237475,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4036
+      "rank": 4037
     },
     {
       "name": "Astra Richards",
@@ -237475,7 +237511,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4037
+      "rank": 4038
     },
     {
       "name": "Danielle Elias",
@@ -237511,7 +237547,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4038
+      "rank": 4039
     },
     {
       "name": "Helen Lin",
@@ -237547,7 +237583,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4039
+      "rank": 4040
     },
     {
       "name": "Courtney Hollihan",
@@ -237583,7 +237619,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4040
+      "rank": 4041
     },
     {
       "name": "István Mester",
@@ -237619,7 +237655,7 @@
           "bonus": 0
         }
       ],
-      "rank": 4041
+      "rank": 4042
     },
     {
       "name": "Nicholas Rowe",
@@ -237655,7 +237691,43 @@
           "bonus": 0
         }
       ],
-      "rank": 4042
+      "rank": 4043
+    },
+    {
+      "name": "Matt Smallacombe",
+      "firstName": "Matt",
+      "lastName": "Smallacombe",
+      "country": "GBR",
+      "goatScore": 0,
+      "totalShows": 1,
+      "evaluatedCount": 1,
+      "totalWins": 0,
+      "totalPodiums": 1,
+      "winRate": 0,
+      "podiumRate": 100,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2026",
+      "startYear": 2026,
+      "endYear": 2026,
+      "era": "New Era (2020–Present)",
+      "topShows": [
+        {
+          "contest": "2026 U70 Britain's Strongest Man",
+          "year": 2026,
+          "rank": 2,
+          "difficulty": 0,
+          "points": 0,
+          "basePlacementPts": 0,
+          "bonus": 0
+        }
+      ],
+      "rank": 4044
     }
   ],
   "women": [
@@ -258779,12 +258851,12 @@
       "lastName": " Hall",
       "country": "WAL",
       "goatScore": 0,
-      "totalShows": 1,
-      "evaluatedCount": 1,
+      "totalShows": 2,
+      "evaluatedCount": 2,
       "totalWins": 1,
       "totalPodiums": 1,
-      "winRate": 100,
-      "podiumRate": 100,
+      "winRate": 50,
+      "podiumRate": 50,
       "wsmWins": 0,
       "wsmPodiums": 0,
       "ascWins": 0,
@@ -258805,9 +258877,54 @@
           "points": 0,
           "basePlacementPts": 0,
           "bonus": 0
+        },
+        {
+          "contest": "2026 U57 Britain's Strongest Woman",
+          "year": 2026,
+          "rank": 4,
+          "difficulty": 0,
+          "points": 0,
+          "basePlacementPts": 0,
+          "bonus": 0
         }
       ],
       "rank": 431
+    },
+    {
+      "name": "Tamsin Ribton-Turner",
+      "firstName": "Tamsin",
+      "lastName": "Ribton-Turner",
+      "country": "GBR",
+      "goatScore": 0,
+      "totalShows": 1,
+      "evaluatedCount": 1,
+      "totalWins": 1,
+      "totalPodiums": 1,
+      "winRate": 100,
+      "podiumRate": 100,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2026",
+      "startYear": 2026,
+      "endYear": 2026,
+      "era": "New Era (2020–Present)",
+      "topShows": [
+        {
+          "contest": "2026 U57 Britain's Strongest Woman",
+          "year": 2026,
+          "rank": 1,
+          "difficulty": 0,
+          "points": 0,
+          "basePlacementPts": 0,
+          "bonus": 0
+        }
+      ],
+      "rank": 432
     },
     {
       "name": "Leila Amirbekian",
@@ -258843,7 +258960,7 @@
           "bonus": 0
         }
       ],
-      "rank": 432
+      "rank": 433
     },
     {
       "name": "Victoria Yakovenko",
@@ -258879,7 +258996,7 @@
           "bonus": 0
         }
       ],
-      "rank": 433
+      "rank": 434
     },
     {
       "name": "Nataliya Kuznetsova",
@@ -258915,7 +259032,7 @@
           "bonus": 0
         }
       ],
-      "rank": 434
+      "rank": 435
     },
     {
       "name": "Olga Yaremyuk",
@@ -258951,7 +259068,7 @@
           "bonus": 0
         }
       ],
-      "rank": 435
+      "rank": 436
     },
     {
       "name": "Kseniya Baturina",
@@ -258987,7 +259104,7 @@
           "bonus": 0
         }
       ],
-      "rank": 436
+      "rank": 437
     },
     {
       "name": "Salla Romo",
@@ -259023,7 +259140,7 @@
           "bonus": 0
         }
       ],
-      "rank": 437
+      "rank": 438
     },
     {
       "name": "Annika Karhu",
@@ -259059,7 +259176,7 @@
           "bonus": 0
         }
       ],
-      "rank": 438
+      "rank": 439
     },
     {
       "name": "Sari Paukkunen",
@@ -259095,7 +259212,7 @@
           "bonus": 0
         }
       ],
-      "rank": 439
+      "rank": 440
     },
     {
       "name": "Bea Enholm",
@@ -259131,7 +259248,7 @@
           "bonus": 0
         }
       ],
-      "rank": 440
+      "rank": 441
     },
     {
       "name": "Piia Schulte",
@@ -259167,7 +259284,7 @@
           "bonus": 0
         }
       ],
-      "rank": 441
+      "rank": 442
     },
     {
       "name": "Isabella Caputo",
@@ -259203,7 +259320,7 @@
           "bonus": 0
         }
       ],
-      "rank": 442
+      "rank": 443
     },
     {
       "name": "Esther Waqa",
@@ -259239,7 +259356,7 @@
           "bonus": 0
         }
       ],
-      "rank": 443
+      "rank": 444
     },
     {
       "name": "Christina Ualesi",
@@ -259275,7 +259392,7 @@
           "bonus": 0
         }
       ],
-      "rank": 444
+      "rank": 445
     },
     {
       "name": "Nerisa Utailesolo",
@@ -259320,7 +259437,7 @@
           "bonus": 0
         }
       ],
-      "rank": 445
+      "rank": 446
     },
     {
       "name": "Nime Tupuola",
@@ -259365,7 +259482,7 @@
           "bonus": 0
         }
       ],
-      "rank": 446
+      "rank": 447
     },
     {
       "name": "Rayanna Jackson",
@@ -259401,7 +259518,7 @@
           "bonus": 0
         }
       ],
-      "rank": 447
+      "rank": 448
     },
     {
       "name": "Abigail Rapana",
@@ -259437,7 +259554,7 @@
           "bonus": 0
         }
       ],
-      "rank": 448
+      "rank": 449
     },
     {
       "name": "Monique Hougaard",
@@ -259473,7 +259590,7 @@
           "bonus": 0
         }
       ],
-      "rank": 449
+      "rank": 450
     },
     {
       "name": "Louise Faber",
@@ -259509,7 +259626,7 @@
           "bonus": 0
         }
       ],
-      "rank": 450
+      "rank": 451
     },
     {
       "name": "Peiyin Liou",
@@ -259545,7 +259662,7 @@
           "bonus": 0
         }
       ],
-      "rank": 451
+      "rank": 452
     },
     {
       "name": "Kim Best",
@@ -259581,7 +259698,7 @@
           "bonus": 0
         }
       ],
-      "rank": 452
+      "rank": 453
     },
     {
       "name": "Nicole Gruber",
@@ -259617,7 +259734,7 @@
           "bonus": 0
         }
       ],
-      "rank": 453
+      "rank": 454
     },
     {
       "name": "Kiri Lawrence",
@@ -259653,7 +259770,7 @@
           "bonus": 0
         }
       ],
-      "rank": 454
+      "rank": 455
     },
     {
       "name": "Shiree Walkinshaw",
@@ -259689,7 +259806,7 @@
           "bonus": 0
         }
       ],
-      "rank": 455
+      "rank": 456
     },
     {
       "name": "Shalom Lima",
@@ -259725,7 +259842,7 @@
           "bonus": 0
         }
       ],
-      "rank": 456
+      "rank": 457
     },
     {
       "name": "Nicole Lindsay",
@@ -259761,7 +259878,7 @@
           "bonus": 0
         }
       ],
-      "rank": 457
+      "rank": 458
     },
     {
       "name": "Kirsty Robathan-Smith",
@@ -259769,10 +259886,10 @@
       "lastName": "Robathan-Smith",
       "country": "WAL",
       "goatScore": 0,
-      "totalShows": 1,
-      "evaluatedCount": 1,
+      "totalShows": 2,
+      "evaluatedCount": 2,
       "totalWins": 0,
-      "totalPodiums": 1,
+      "totalPodiums": 2,
       "winRate": 0,
       "podiumRate": 100,
       "wsmWins": 0,
@@ -259795,9 +259912,54 @@
           "points": 0,
           "basePlacementPts": 0,
           "bonus": 0
+        },
+        {
+          "contest": "2026 U57 Britain's Strongest Woman",
+          "year": 2026,
+          "rank": 3,
+          "difficulty": 0,
+          "points": 0,
+          "basePlacementPts": 0,
+          "bonus": 0
         }
       ],
-      "rank": 458
+      "rank": 459
+    },
+    {
+      "name": "Sarah Jones",
+      "firstName": "Sarah",
+      "lastName": "Jones",
+      "country": "GBR",
+      "goatScore": 0,
+      "totalShows": 1,
+      "evaluatedCount": 1,
+      "totalWins": 0,
+      "totalPodiums": 1,
+      "winRate": 0,
+      "podiumRate": 100,
+      "wsmWins": 0,
+      "wsmPodiums": 0,
+      "ascWins": 0,
+      "smoeWins": 0,
+      "rogueWins": 0,
+      "esmWins": 0,
+      "majorTitles": 0,
+      "activeYears": "2026",
+      "startYear": 2026,
+      "endYear": 2026,
+      "era": "New Era (2020–Present)",
+      "topShows": [
+        {
+          "contest": "2026 U57 Britain's Strongest Woman",
+          "year": 2026,
+          "rank": 2,
+          "difficulty": 0,
+          "points": 0,
+          "basePlacementPts": 0,
+          "bonus": 0
+        }
+      ],
+      "rank": 460
     },
     {
       "name": "Naomi Zimba",
@@ -259833,7 +259995,7 @@
           "bonus": 0
         }
       ],
-      "rank": 459
+      "rank": 461
     },
     {
       "name": "Vimbai Goba",
@@ -259869,7 +260031,7 @@
           "bonus": 0
         }
       ],
-      "rank": 460
+      "rank": 462
     },
     {
       "name": "Regina Jonga",
@@ -259905,7 +260067,7 @@
           "bonus": 0
         }
       ],
-      "rank": 461
+      "rank": 463
     },
     {
       "name": "Loveness Chibuye",
@@ -259941,7 +260103,7 @@
           "bonus": 0
         }
       ],
-      "rank": 462
+      "rank": 464
     },
     {
       "name": "Kavuyi Mubanga",
@@ -259977,7 +260139,7 @@
           "bonus": 0
         }
       ],
-      "rank": 463
+      "rank": 465
     }
   ]
 }

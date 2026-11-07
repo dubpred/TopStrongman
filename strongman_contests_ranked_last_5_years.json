@@ -67345,15 +67345,21 @@
   {
     "contest_id": 2561,
     "contest_name": "2026 Strongman Mania",
-    "details": "NorrkÃ¶ping, Sweden, 2026-11-07 to 2026-11-08",
+    "details": "NorrkÃ¶ping, Sweden, 2026-11-07",
     "tier": "TIER_5",
     "tier_multiplier": 0.25,
     "recency_multiplier": 5.0,
     "division": "men",
-    "total_competitors": 9,
+    "total_competitors": 11,
     "raw_difficulty": 0,
     "top_5_finishers": [],
     "results": [
+      {
+        "rank": "-",
+        "person_name": "Anders Aslak",
+        "country": "DEN",
+        "score": 0.0
+      },
       {
         "rank": "-",
         "person_name": "Paddy Haynes",
@@ -67368,12 +67374,6 @@
       },
       {
         "rank": "-",
-        "person_name": "Cim Johansson",
-        "country": "SWE",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
         "person_name": "Fredrik Johansson",
         "country": "SWE",
         "score": 0.0
@@ -67382,6 +67382,12 @@
         "rank": "-",
         "person_name": "Pavlo Kordiyaka",
         "country": "UKR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Jacob Larsson",
+        "country": "SWE",
         "score": 0.0
       },
       {
@@ -67400,6 +67406,12 @@
         "rank": "-",
         "person_name": "Oleh Pylypiak",
         "country": "UKR",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Anton Wasser",
+        "country": "SWE",
         "score": 0.0
       },
       {
