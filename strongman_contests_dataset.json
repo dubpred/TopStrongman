@@ -189430,61 +189430,49 @@
     "contest_name": "2026 Strongest Woman in Iceland",
     "details": "KÃ³pavogur, Iceland, 2026-11-07",
     "url": "https://strongmanarchives.com/contests/3053/2026-strongest-woman-in-iceland",
-    "total_competitors": 9,
+    "total_competitors": 7,
     "results": [
       {
-        "rank": "-",
-        "person_name": "Birna Ármey",
-        "country": "ISL",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Berglind Rós Bergsdóttir",
-        "country": "ISL",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Hafdís Birta",
-        "country": "ISL",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "1",
         "person_name": "Svala Björgvinsdóttir",
         "country": "ISL",
-        "score": 0.0
+        "score": 32.0
       },
       {
-        "rank": "-",
-        "person_name": "Hildur Inga Rós Gudmundsdóttir",
+        "rank": "2",
+        "person_name": "Berglind Rós Bergsdóttir",
         "country": "ISL",
-        "score": 0.0
+        "score": 30.0
       },
       {
-        "rank": "-",
-        "person_name": "Anna Björk Hjaltadóttir",
-        "country": "ISL",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Sigrún Jóhannsdóttir",
-        "country": "ISL",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
+        "rank": "3",
         "person_name": "Erika Jónsdóttir",
         "country": "ISL",
-        "score": 0.0
+        "score": 23.0
       },
       {
-        "rank": "-",
-        "person_name": "Lucie Martinsdóttir Stefaníková",
+        "rank": "4",
+        "person_name": "Anna Björk Hjaltadóttir",
         "country": "ISL",
-        "score": 0.0
+        "score": 21.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Sigrún Jóhannsdóttir",
+        "country": "ISL",
+        "score": 19.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Hildur Inga Rós Gudmundsdóttir",
+        "country": "ISL",
+        "score": 9.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Birna Ármey",
+        "country": "ISL",
+        "score": 3.0
       }
     ]
   },
@@ -194363,6 +194351,363 @@
         "person_name": "Bartłomiej Tarapata",
         "country": "POL",
         "score": 6.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3175,
+    "contest_name": "2026 PSL Final",
+    "details": "SÃ¡rbogÃ¡rd, Hungary, 2026-11-07",
+    "url": "https://strongmanarchives.com/contests/3175/2026-psl-final",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Jan Lacina",
+        "country": "CZE",
+        "score": 58.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Modestas Struckus",
+        "country": "LTU",
+        "score": 52.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Kevin Horváth",
+        "country": "HUN",
+        "score": 49.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Jaroslav Mockovčiak",
+        "country": "SVK",
+        "score": 44.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Damian Paczuski",
+        "country": "POL",
+        "score": 43.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Vojtěch Kučera",
+        "country": "CZE",
+        "score": 37.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Pierre Motal",
+        "country": "FRA",
+        "score": 32.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Giannis Spyrou",
+        "country": "GRE",
+        "score": 26.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Gergő Tatár",
+        "country": "HUN",
+        "score": 25.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Vlăduț Angheloiu",
+        "country": "ROU",
+        "score": 10.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3176,
+    "contest_name": "2026 Zambia's Strongest Man",
+    "details": "Lusaka, Zambia, 2026-10-24 to 2026-10-25",
+    "url": "https://strongmanarchives.com/contests/3176/2026-zambias-strongest-man",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Gift Habeenzu",
+        "country": "ZAM",
+        "score": 22.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jamin Kavula Mutombo",
+        "country": "COD",
+        "score": 20.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Abed Milambo Zomb",
+        "country": "COD",
+        "score": 11.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Thato Tlhomelang",
+        "country": "BOT",
+        "score": 3.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3177,
+    "contest_name": "2026 Zambia's Strongest Woman",
+    "details": "Lusaka, Zambia, 2026-10-24 to 2026-10-25",
+    "url": "https://strongmanarchives.com/contests/3177/2026-zambias-strongest-woman",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Cherry Muchindu",
+        "country": "ZAM",
+        "score": 23.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Natasha Mwalilino",
+        "country": "ZAM",
+        "score": 9.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Ndunda Mutale",
+        "country": "ZAM",
+        "score": 5.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Anne Mwape",
+        "country": "ZAM",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3178,
+    "contest_name": "2026 U73 Zambia's Strongest Woman",
+    "details": "Lusaka, Zambia, 2026-10-24 to 2026-10-25",
+    "url": "https://strongmanarchives.com/contests/3178/2026-u73-zambias-strongest-woman",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Chitemwano Phiri",
+        "country": "ZAM",
+        "score": 20.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Naomi Zimba",
+        "country": "ZAM",
+        "score": 16.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Vimbai Goba",
+        "country": "ZWE",
+        "score": 14.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Regina Jonga",
+        "country": "ZWE",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3179,
+    "contest_name": "2026 U80 Zambia's Strongest Man",
+    "details": "Lusaka, Zambia, 2026-10-24 to 2026-10-25",
+    "url": "https://strongmanarchives.com/contests/3179/2026-u80-zambias-strongest-man",
+    "total_competitors": 11,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Shazzar Abana Chisompola",
+        "country": "ZAM",
+        "score": 62.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Ronnie Sweet",
+        "country": "ZAM",
+        "score": 53.0
+      },
+      {
+        "rank": "3",
+        "person_name": "John Pomba",
+        "country": "COD",
+        "score": 45.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Kilian Mercier",
+        "country": "GER",
+        "score": 45.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Pelony Mubela",
+        "country": "ZAM",
+        "score": 32.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Joshua Sikana",
+        "country": "ZAM",
+        "score": 30.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Zack  Kongolo",
+        "country": "COD",
+        "score": 28.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Nathan Musumbay",
+        "country": "COD",
+        "score": 25.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Joseph Mwansa",
+        "country": "ZAM",
+        "score": 20.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Herve Muhindo",
+        "country": "ZAM",
+        "score": 20.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Clement Mutambo",
+        "country": "ZAM",
+        "score": 10.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3180,
+    "contest_name": "2026 U90 Zambia's Strongest Man",
+    "details": "Lusaka, Zambia, 2026-10-24 to 2026-10-25",
+    "url": "https://strongmanarchives.com/contests/3180/2026-u90-zambias-strongest-man",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Sam Mumba",
+        "country": "ZAM",
+        "score": 35.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Joshua Amatende",
+        "country": "ZAM",
+        "score": 26.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Marcus Diamweta",
+        "country": "COD",
+        "score": 25.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Teddy  Kapend",
+        "country": "COD",
+        "score": 13.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Aaron Phiri",
+        "country": "ZAM",
+        "score": 10.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Simon Chisenga",
+        "country": "ZAM",
+        "score": 7.5
+      }
+    ]
+  },
+  {
+    "contest_id": 3181,
+    "contest_name": "2026 U105 Zambia's Strongest Man",
+    "details": "Lusaka, Zambia, 2026-10-24 to 2026-10-25",
+    "url": "https://strongmanarchives.com/contests/3181/2026-u105-zambias-strongest-man",
+    "total_competitors": 10,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Paul Simbeye",
+        "country": "ZAM",
+        "score": 53.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Musonda Mutale",
+        "country": "ZAM",
+        "score": 52.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Ben Kahozi",
+        "country": "COD",
+        "score": 48.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Heritier Nkatshenza",
+        "country": "COD",
+        "score": 32.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Phillip Kademaunga",
+        "country": "ZAM",
+        "score": 25.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Fally Ukimbwa",
+        "country": "COD",
+        "score": 20.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Scotta Mutanda",
+        "country": "ZAM",
+        "score": 12.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Krypton Tumbi",
+        "country": "COD",
+        "score": 11.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Misheck Kabwe",
+        "country": "ZAM",
+        "score": 5.0
+      },
+      {
+        "rank": "10",
+        "person_name": "Teddy Mwale",
+        "country": "ZAM",
+        "score": 5.0
       }
     ]
   }
