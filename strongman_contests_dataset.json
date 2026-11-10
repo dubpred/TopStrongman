@@ -194710,5 +194710,266 @@
         "score": 5.0
       }
     ]
+  },
+  {
+    "contest_id": 3182,
+    "contest_name": "2026 Italy's Strongest Man",
+    "details": "Pisa, Italy, 2026-10-17",
+    "url": "https://strongmanarchives.com/contests/3182/2026-italys-strongest-man",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Paolo Acquaviva",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Massimiliano Barbato",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Federico Brizzi",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Emanuele Condoleo",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Massimo Antonio Michelon",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Lorenzo Monticelli",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Luca Neri",
+        "country": "ITA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3183,
+    "contest_name": "2026 Italy's Strongest Woman",
+    "details": "Pisa, Italy, 2026-10-17",
+    "url": "https://strongmanarchives.com/contests/3183/2026-italys-strongest-woman",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Isabella Caputo",
+        "country": "ITA",
+        "score": 4.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3184,
+    "contest_name": "2026 U64 Italy's Strongest Woman",
+    "details": "Pisa, Italy, 2026-10-17",
+    "url": "https://strongmanarchives.com/contests/3184/2026-u64-italys-strongest-woman",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Alessandra Menaglio",
+        "country": "ITA",
+        "score": 29.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Lucilla Martini",
+        "country": "ITA",
+        "score": 24.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Caterina Bonanzi",
+        "country": "ITA",
+        "score": 16.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Daniela Zani",
+        "country": "ITA",
+        "score": 15.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Elisa Gasparro",
+        "country": "ITA",
+        "score": 10.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Mavi Gentile",
+        "country": "ITA",
+        "score": 9.5
+      }
+    ]
+  },
+  {
+    "contest_id": 3185,
+    "contest_name": "2026 U80 Italy's Strongest Man",
+    "details": "Pisa, Italy, 2026-10-17",
+    "url": "https://strongmanarchives.com/contests/3185/2026-u80-italys-strongest-man",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Matteo Cardinali",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Riccardo  Graziosi",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Riccardo Latini",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Andrei Vechiu",
+        "country": "ITA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3186,
+    "contest_name": "2026 U90 Italy's Strongest Man",
+    "details": "Pisa, Italy, 2026-10-17",
+    "url": "https://strongmanarchives.com/contests/3186/2026-u90-italys-strongest-man",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Riccardo Brué",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Patrick Corinaldesi",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Yuri Maranta",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Paolo Palumbo",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Alberto Persichilli",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Andrea  Sala",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Davide Zinna",
+        "country": "ITA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3187,
+    "contest_name": "2026 U105 Italy's Strongest Man",
+    "details": "Pisa, Italy, 2026-10-17",
+    "url": "https://strongmanarchives.com/contests/3187/2026-u105-italys-strongest-man",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "-",
+        "person_name": "Gianluca Accettullo",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Alex Angusti",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Antonio Grimaldi",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Lorenzo Libertini",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Alfonso Persico",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Daniele Radice",
+        "country": "ITA",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Alberto Torsello",
+        "country": "ITA",
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3188,
+    "contest_name": "2026 Giants Live Hercules Hold World Record Attempt",
+    "details": "Glasgow, Scotland, 2026-10-17",
+    "url": "https://strongmanarchives.com/contests/3188/2026-giants-live-hercules-hold-world-record-attempt",
+    "total_competitors": 1,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Mark Felix",
+        "country": "GBR",
+        "score": "103.81 s"
+      }
+    ]
   }
 ]
