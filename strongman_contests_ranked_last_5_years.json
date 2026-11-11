@@ -46210,6 +46210,94 @@
     "competition_rank": 396
   },
   {
+    "contest_id": 1494,
+    "contest_name": "2023 Italy's Strongest Man",
+    "details": "Vicopisano, Italy, 2023-10-28",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 0.5,
+    "division": "men",
+    "total_competitors": 6,
+    "raw_difficulty": 2247.258141689331,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Nicolas Cambi",
+        "country": "ITA",
+        "power": 490.3,
+        "percent": 21.8
+      },
+      {
+        "rank": "2",
+        "person_name": "Andrea Invernizzi",
+        "country": "ITA",
+        "power": 640.4,
+        "percent": 28.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Alessandro Castelli",
+        "country": "ITA",
+        "power": 70.1,
+        "percent": 3.1
+      },
+      {
+        "rank": "4",
+        "person_name": "Emanuele Greco",
+        "country": "ITA",
+        "power": 194.3,
+        "percent": 8.6
+      },
+      {
+        "rank": "5",
+        "person_name": "Paolo Acquaviva",
+        "country": "ITA",
+        "power": 852.0,
+        "percent": 37.9
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Nicolas Cambi",
+        "country": "ITA",
+        "score": 27.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Andrea Invernizzi",
+        "country": "ITA",
+        "score": 25
+      },
+      {
+        "rank": "3",
+        "person_name": "Alessandro Castelli",
+        "country": "ITA",
+        "score": 16.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Emanuele Greco",
+        "country": "ITA",
+        "score": 16
+      },
+      {
+        "rank": "5",
+        "person_name": "Paolo Acquaviva",
+        "country": "ITA",
+        "score": 13
+      },
+      {
+        "rank": "6",
+        "person_name": "Emanuele Condoleo",
+        "country": "ITA",
+        "score": 5
+      }
+    ],
+    "difficulty_score": 24.4,
+    "competition_rank": 397
+  },
+  {
     "contest_id": 1782,
     "contest_name": "2022 Rainier Classic Pro-Am (Men)",
     "details": "Burien, Washington, 2022-06-04 to 2022-06-05",
@@ -46337,7 +46425,7 @@
       }
     ],
     "difficulty_score": 24.4,
-    "competition_rank": 397
+    "competition_rank": 398
   },
   {
     "contest_id": 2497,
@@ -46437,7 +46525,7 @@
       }
     ],
     "difficulty_score": 24.2,
-    "competition_rank": 398
+    "competition_rank": 399
   },
   {
     "contest_id": 1306,
@@ -46561,7 +46649,7 @@
       }
     ],
     "difficulty_score": 24.1,
-    "competition_rank": 399
+    "competition_rank": 400
   },
   {
     "contest_id": 1397,
@@ -46685,7 +46773,7 @@
       }
     ],
     "difficulty_score": 24.0,
-    "competition_rank": 400
+    "competition_rank": 401
   },
   {
     "contest_id": 1443,
@@ -46815,7 +46903,7 @@
       }
     ],
     "difficulty_score": 24.0,
-    "competition_rank": 401
+    "competition_rank": 402
   },
   {
     "contest_id": 2487,
@@ -46939,7 +47027,7 @@
       }
     ],
     "difficulty_score": 23.6,
-    "competition_rank": 402
+    "competition_rank": 403
   },
   {
     "contest_id": 2010,
@@ -47039,7 +47127,7 @@
       }
     ],
     "difficulty_score": 23.5,
-    "competition_rank": 403
+    "competition_rank": 404
   },
   {
     "contest_id": 2849,
@@ -47151,7 +47239,7 @@
       }
     ],
     "difficulty_score": 23.5,
-    "competition_rank": 404
+    "competition_rank": 405
   },
   {
     "contest_id": 1720,
@@ -47251,7 +47339,7 @@
       }
     ],
     "difficulty_score": 23.3,
-    "competition_rank": 405
+    "competition_rank": 406
   },
   {
     "contest_id": 2098,
@@ -47345,7 +47433,7 @@
       }
     ],
     "difficulty_score": 23.3,
-    "competition_rank": 406
+    "competition_rank": 407
   },
   {
     "contest_id": 1921,
@@ -47451,7 +47539,7 @@
       }
     ],
     "difficulty_score": 23.2,
-    "competition_rank": 407
+    "competition_rank": 408
   },
   {
     "contest_id": 1699,
@@ -47575,7 +47663,7 @@
       }
     ],
     "difficulty_score": 23.1,
-    "competition_rank": 408
+    "competition_rank": 409
   },
   {
     "contest_id": 1043,
@@ -47699,7 +47787,7 @@
       }
     ],
     "difficulty_score": 23.0,
-    "competition_rank": 409
+    "competition_rank": 410
   },
   {
     "contest_id": 1669,
@@ -47799,7 +47887,7 @@
       }
     ],
     "difficulty_score": 23.0,
-    "competition_rank": 410
+    "competition_rank": 411
   },
   {
     "contest_id": 2584,
@@ -47911,7 +47999,7 @@
       }
     ],
     "difficulty_score": 22.8,
-    "competition_rank": 411
+    "competition_rank": 412
   },
   {
     "contest_id": 2948,
@@ -48119,7 +48207,7 @@
       }
     ],
     "difficulty_score": 22.8,
-    "competition_rank": 412
+    "competition_rank": 413
   },
   {
     "contest_id": 2815,
@@ -48237,7 +48325,7 @@
       }
     ],
     "difficulty_score": 22.5,
-    "competition_rank": 413
+    "competition_rank": 414
   },
   {
     "contest_id": 1952,
@@ -48325,7 +48413,7 @@
       }
     ],
     "difficulty_score": 22.4,
-    "competition_rank": 414
+    "competition_rank": 415
   },
   {
     "contest_id": 2901,
@@ -48419,7 +48507,7 @@
       }
     ],
     "difficulty_score": 22.4,
-    "competition_rank": 415
+    "competition_rank": 416
   },
   {
     "contest_id": 1568,
@@ -48525,7 +48613,7 @@
       }
     ],
     "difficulty_score": 22.0,
-    "competition_rank": 416
+    "competition_rank": 417
   },
   {
     "contest_id": 1942,
@@ -48613,7 +48701,7 @@
       }
     ],
     "difficulty_score": 21.9,
-    "competition_rank": 417
+    "competition_rank": 418
   },
   {
     "contest_id": 3092,
@@ -48701,7 +48789,7 @@
       }
     ],
     "difficulty_score": 21.9,
-    "competition_rank": 418
+    "competition_rank": 419
   },
   {
     "contest_id": 3094,
@@ -48789,7 +48877,7 @@
       }
     ],
     "difficulty_score": 21.5,
-    "competition_rank": 419
+    "competition_rank": 420
   },
   {
     "contest_id": 2551,
@@ -48901,7 +48989,7 @@
       }
     ],
     "difficulty_score": 21.4,
-    "competition_rank": 420
+    "competition_rank": 421
   },
   {
     "contest_id": 2449,
@@ -49013,7 +49101,7 @@
       }
     ],
     "difficulty_score": 21.1,
-    "competition_rank": 421
+    "competition_rank": 422
   },
   {
     "contest_id": 1741,
@@ -49107,7 +49195,7 @@
       }
     ],
     "difficulty_score": 20.4,
-    "competition_rank": 422
+    "competition_rank": 423
   },
   {
     "contest_id": 2598,
@@ -49201,7 +49289,7 @@
       }
     ],
     "difficulty_score": 20.4,
-    "competition_rank": 423
+    "competition_rank": 424
   },
   {
     "contest_id": 1128,
@@ -49337,7 +49425,7 @@
       }
     ],
     "difficulty_score": 20.3,
-    "competition_rank": 424
+    "competition_rank": 425
   },
   {
     "contest_id": 1969,
@@ -49461,7 +49549,7 @@
       }
     ],
     "difficulty_score": 20.1,
-    "competition_rank": 425
+    "competition_rank": 426
   },
   {
     "contest_id": 2755,
@@ -49543,7 +49631,101 @@
       }
     ],
     "difficulty_score": 20.1,
-    "competition_rank": 426
+    "competition_rank": 427
+  },
+  {
+    "contest_id": 3182,
+    "contest_name": "2026 Italy's Strongest Man",
+    "details": "Pisa, Italy, 2026-10-17",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 5.0,
+    "division": "men",
+    "total_competitors": 7,
+    "raw_difficulty": 1976.976965923694,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Paolo Acquaviva",
+        "country": "ITA",
+        "power": 852.0,
+        "percent": 43.1
+      },
+      {
+        "rank": "2",
+        "person_name": "Lorenzo Monticelli",
+        "country": "ITA",
+        "power": 389.4,
+        "percent": 19.7
+      },
+      {
+        "rank": "3",
+        "person_name": "Luca Neri",
+        "country": "ITA",
+        "power": 303.3,
+        "percent": 15.3
+      },
+      {
+        "rank": "4",
+        "person_name": "Emanuele Condoleo",
+        "country": "ITA",
+        "power": 248.4,
+        "percent": 12.6
+      },
+      {
+        "rank": "5",
+        "person_name": "Federico Brizzi",
+        "country": "ITA",
+        "power": 183.9,
+        "percent": 9.3
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Paolo Acquaviva",
+        "country": "ITA",
+        "score": 35.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Lorenzo Monticelli",
+        "country": "ITA",
+        "score": 24.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Luca Neri",
+        "country": "ITA",
+        "score": 24.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Emanuele Condoleo",
+        "country": "ITA",
+        "score": 19.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Federico Brizzi",
+        "country": "ITA",
+        "score": 15.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Massimiliano Barbato",
+        "country": "ITA",
+        "score": 13.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Massimo Antonio Michelon",
+        "country": "ITA",
+        "score": 7.0
+      }
+    ],
+    "difficulty_score": 20.1,
+    "competition_rank": 428
   },
   {
     "contest_id": 1919,
@@ -49715,7 +49897,7 @@
       }
     ],
     "difficulty_score": 20.0,
-    "competition_rank": 427
+    "competition_rank": 429
   },
   {
     "contest_id": 1309,
@@ -49821,7 +50003,7 @@
       }
     ],
     "difficulty_score": 19.9,
-    "competition_rank": 428
+    "competition_rank": 430
   },
   {
     "contest_id": 2744,
@@ -49939,7 +50121,7 @@
       }
     ],
     "difficulty_score": 19.9,
-    "competition_rank": 429
+    "competition_rank": 431
   },
   {
     "contest_id": 2890,
@@ -50033,7 +50215,7 @@
       }
     ],
     "difficulty_score": 19.9,
-    "competition_rank": 430
+    "competition_rank": 432
   },
   {
     "contest_id": 2001,
@@ -50157,7 +50339,7 @@
       }
     ],
     "difficulty_score": 19.7,
-    "competition_rank": 431
+    "competition_rank": 433
   },
   {
     "contest_id": 1569,
@@ -50275,7 +50457,7 @@
       }
     ],
     "difficulty_score": 19.6,
-    "competition_rank": 432
+    "competition_rank": 434
   },
   {
     "contest_id": 1780,
@@ -50411,7 +50593,7 @@
       }
     ],
     "difficulty_score": 19.4,
-    "competition_rank": 433
+    "competition_rank": 435
   },
   {
     "contest_id": 1337,
@@ -50523,7 +50705,7 @@
       }
     ],
     "difficulty_score": 19.3,
-    "competition_rank": 434
+    "competition_rank": 436
   },
   {
     "contest_id": 1944,
@@ -50611,7 +50793,7 @@
       }
     ],
     "difficulty_score": 19.3,
-    "competition_rank": 435
+    "competition_rank": 437
   },
   {
     "contest_id": 1958,
@@ -50765,7 +50947,7 @@
       }
     ],
     "difficulty_score": 19.2,
-    "competition_rank": 436
+    "competition_rank": 438
   },
   {
     "contest_id": 1425,
@@ -50853,7 +51035,7 @@
       }
     ],
     "difficulty_score": 19.0,
-    "competition_rank": 437
+    "competition_rank": 439
   },
   {
     "contest_id": 1305,
@@ -50977,7 +51159,7 @@
       }
     ],
     "difficulty_score": 18.6,
-    "competition_rank": 438
+    "competition_rank": 440
   },
   {
     "contest_id": 1439,
@@ -51101,7 +51283,7 @@
       }
     ],
     "difficulty_score": 18.6,
-    "competition_rank": 439
+    "competition_rank": 441
   },
   {
     "contest_id": 1779,
@@ -51237,7 +51419,7 @@
       }
     ],
     "difficulty_score": 18.6,
-    "competition_rank": 440
+    "competition_rank": 442
   },
   {
     "contest_id": 2634,
@@ -51445,7 +51627,7 @@
       }
     ],
     "difficulty_score": 18.4,
-    "competition_rank": 441
+    "competition_rank": 443
   },
   {
     "contest_id": 2804,
@@ -51563,7 +51745,7 @@
       }
     ],
     "difficulty_score": 18.2,
-    "competition_rank": 442
+    "competition_rank": 444
   },
   {
     "contest_id": 1847,
@@ -51675,7 +51857,7 @@
       }
     ],
     "difficulty_score": 18.1,
-    "competition_rank": 443
+    "competition_rank": 445
   },
   {
     "contest_id": 1671,
@@ -51757,95 +51939,7 @@
       }
     ],
     "difficulty_score": 18.0,
-    "competition_rank": 444
-  },
-  {
-    "contest_id": 1494,
-    "contest_name": "2023 Italy's Strongest Man",
-    "details": "Vicopisano, Italy, 2023-10-28",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.5,
-    "division": "men",
-    "total_competitors": 6,
-    "raw_difficulty": 1816.8684050623328,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Nicolas Cambi",
-        "country": "ITA",
-        "power": 490.3,
-        "percent": 27.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Andrea Invernizzi",
-        "country": "ITA",
-        "power": 640.4,
-        "percent": 35.2
-      },
-      {
-        "rank": "3",
-        "person_name": "Alessandro Castelli",
-        "country": "ITA",
-        "power": 70.1,
-        "percent": 3.9
-      },
-      {
-        "rank": "4",
-        "person_name": "Emanuele Greco",
-        "country": "ITA",
-        "power": 194.3,
-        "percent": 10.7
-      },
-      {
-        "rank": "5",
-        "person_name": "Paolo Acquaviva",
-        "country": "ITA",
-        "power": 421.6,
-        "percent": 23.2
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Nicolas Cambi",
-        "country": "ITA",
-        "score": 27.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Andrea Invernizzi",
-        "country": "ITA",
-        "score": 25
-      },
-      {
-        "rank": "3",
-        "person_name": "Alessandro Castelli",
-        "country": "ITA",
-        "score": 16.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Emanuele Greco",
-        "country": "ITA",
-        "score": 16
-      },
-      {
-        "rank": "5",
-        "person_name": "Paolo Acquaviva",
-        "country": "ITA",
-        "score": 13
-      },
-      {
-        "rank": "6",
-        "person_name": "Emanuele Condoleo",
-        "country": "ITA",
-        "score": 5
-      }
-    ],
-    "difficulty_score": 17.7,
-    "competition_rank": 445
+    "competition_rank": 446
   },
   {
     "contest_id": 1880,
@@ -51933,7 +52027,7 @@
       }
     ],
     "difficulty_score": 17.6,
-    "competition_rank": 446
+    "competition_rank": 447
   },
   {
     "contest_id": 2975,
@@ -52015,7 +52109,7 @@
       }
     ],
     "difficulty_score": 17.6,
-    "competition_rank": 447
+    "competition_rank": 448
   },
   {
     "contest_id": 1607,
@@ -52133,7 +52227,7 @@
       }
     ],
     "difficulty_score": 17.5,
-    "competition_rank": 448
+    "competition_rank": 449
   },
   {
     "contest_id": 1415,
@@ -52245,7 +52339,7 @@
       }
     ],
     "difficulty_score": 17.4,
-    "competition_rank": 449
+    "competition_rank": 450
   },
   {
     "contest_id": 1590,
@@ -52333,7 +52427,7 @@
       }
     ],
     "difficulty_score": 17.3,
-    "competition_rank": 450
+    "competition_rank": 451
   },
   {
     "contest_id": 2581,
@@ -52451,7 +52545,7 @@
       }
     ],
     "difficulty_score": 17.3,
-    "competition_rank": 451
+    "competition_rank": 452
   },
   {
     "contest_id": 1861,
@@ -52545,7 +52639,7 @@
       }
     ],
     "difficulty_score": 17.2,
-    "competition_rank": 452
+    "competition_rank": 453
   },
   {
     "contest_id": 1396,
@@ -52663,7 +52757,89 @@
       }
     ],
     "difficulty_score": 17.1,
-    "competition_rank": 453
+    "competition_rank": 454
+  },
+  {
+    "contest_id": 1974,
+    "contest_name": "2022 Italy's Strongest Man",
+    "details": "Vicopisano, Italy, 2022-10-22",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 0.25,
+    "division": "men",
+    "total_competitors": 5,
+    "raw_difficulty": 1776.4030766984931,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Andrea Invernizzi",
+        "country": "ITA",
+        "power": 640.4,
+        "percent": 36.1
+      },
+      {
+        "rank": "2",
+        "person_name": "Matteo Toninelli",
+        "country": "ITA",
+        "power": 19.5,
+        "percent": 1.1
+      },
+      {
+        "rank": "3",
+        "person_name": "Paolo Acquaviva",
+        "country": "ITA",
+        "power": 852.0,
+        "percent": 48.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Alessandro Castelli",
+        "country": "ITA",
+        "power": 70.1,
+        "percent": 3.9
+      },
+      {
+        "rank": "5",
+        "person_name": "Emanuele Greco",
+        "country": "ITA",
+        "power": 194.3,
+        "percent": 10.9
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Andrea Invernizzi",
+        "country": "ITA",
+        "score": 19.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Matteo Toninelli",
+        "country": "ITA",
+        "score": 17
+      },
+      {
+        "rank": "3",
+        "person_name": "Paolo Acquaviva",
+        "country": "ITA",
+        "score": 14
+      },
+      {
+        "rank": "4",
+        "person_name": "Alessandro Castelli",
+        "country": "ITA",
+        "score": 13.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Emanuele Greco",
+        "country": "ITA",
+        "score": 10
+      }
+    ],
+    "difficulty_score": 17.1,
+    "competition_rank": 455
   },
   {
     "contest_id": 2613,
@@ -52793,7 +52969,7 @@
       }
     ],
     "difficulty_score": 17.1,
-    "competition_rank": 454
+    "competition_rank": 456
   },
   {
     "contest_id": 2048,
@@ -52887,7 +53063,7 @@
       }
     ],
     "difficulty_score": 16.9,
-    "competition_rank": 455
+    "competition_rank": 457
   },
   {
     "contest_id": 2934,
@@ -52975,7 +53151,7 @@
       }
     ],
     "difficulty_score": 16.6,
-    "competition_rank": 456
+    "competition_rank": 458
   },
   {
     "contest_id": 1156,
@@ -53087,7 +53263,7 @@
       }
     ],
     "difficulty_score": 16.4,
-    "competition_rank": 457
+    "competition_rank": 459
   },
   {
     "contest_id": 2535,
@@ -53205,7 +53381,7 @@
       }
     ],
     "difficulty_score": 16.4,
-    "competition_rank": 458
+    "competition_rank": 460
   },
   {
     "contest_id": 2874,
@@ -53293,7 +53469,7 @@
       }
     ],
     "difficulty_score": 16.4,
-    "competition_rank": 459
+    "competition_rank": 461
   },
   {
     "contest_id": 1736,
@@ -53399,7 +53575,7 @@
       }
     ],
     "difficulty_score": 16.3,
-    "competition_rank": 460
+    "competition_rank": 462
   },
   {
     "contest_id": 2625,
@@ -53505,7 +53681,7 @@
       }
     ],
     "difficulty_score": 16.1,
-    "competition_rank": 461
+    "competition_rank": 463
   },
   {
     "contest_id": 3120,
@@ -53587,7 +53763,7 @@
       }
     ],
     "difficulty_score": 15.8,
-    "competition_rank": 462
+    "competition_rank": 464
   },
   {
     "contest_id": 2616,
@@ -53705,7 +53881,7 @@
       }
     ],
     "difficulty_score": 15.7,
-    "competition_rank": 463
+    "competition_rank": 465
   },
   {
     "contest_id": 1447,
@@ -53817,7 +53993,7 @@
       }
     ],
     "difficulty_score": 15.4,
-    "competition_rank": 464
+    "competition_rank": 466
   },
   {
     "contest_id": 2476,
@@ -53917,7 +54093,7 @@
       }
     ],
     "difficulty_score": 15.3,
-    "competition_rank": 465
+    "competition_rank": 467
   },
   {
     "contest_id": 3134,
@@ -54012,7 +54188,7 @@
       }
     ],
     "difficulty_score": 15.2,
-    "competition_rank": 466
+    "competition_rank": 468
   },
   {
     "contest_id": 3065,
@@ -54112,7 +54288,7 @@
       }
     ],
     "difficulty_score": 14.8,
-    "competition_rank": 467
+    "competition_rank": 469
   },
   {
     "contest_id": 1781,
@@ -54242,7 +54418,7 @@
       }
     ],
     "difficulty_score": 14.7,
-    "competition_rank": 468
+    "competition_rank": 470
   },
   {
     "contest_id": 2007,
@@ -54354,7 +54530,7 @@
       }
     ],
     "difficulty_score": 14.7,
-    "competition_rank": 469
+    "competition_rank": 471
   },
   {
     "contest_id": 1955,
@@ -54442,7 +54618,7 @@
       }
     ],
     "difficulty_score": 14.6,
-    "competition_rank": 470
+    "competition_rank": 472
   },
   {
     "contest_id": 3135,
@@ -54530,7 +54706,7 @@
       }
     ],
     "difficulty_score": 14.6,
-    "competition_rank": 471
+    "competition_rank": 473
   },
   {
     "contest_id": 1966,
@@ -54630,7 +54806,7 @@
       }
     ],
     "difficulty_score": 14.5,
-    "competition_rank": 472
+    "competition_rank": 474
   },
   {
     "contest_id": 2811,
@@ -54718,7 +54894,7 @@
       }
     ],
     "difficulty_score": 14.5,
-    "competition_rank": 473
+    "competition_rank": 475
   },
   {
     "contest_id": 3042,
@@ -54800,7 +54976,7 @@
       }
     ],
     "difficulty_score": 14.5,
-    "competition_rank": 474
+    "competition_rank": 476
   },
   {
     "contest_id": 3147,
@@ -54888,7 +55064,7 @@
       }
     ],
     "difficulty_score": 14.5,
-    "competition_rank": 475
+    "competition_rank": 477
   },
   {
     "contest_id": 3083,
@@ -54982,7 +55158,7 @@
       }
     ],
     "difficulty_score": 14.3,
-    "competition_rank": 476
+    "competition_rank": 478
   },
   {
     "contest_id": 1348,
@@ -55094,7 +55270,7 @@
       }
     ],
     "difficulty_score": 14.2,
-    "competition_rank": 477
+    "competition_rank": 479
   },
   {
     "contest_id": 2894,
@@ -55194,7 +55370,7 @@
       }
     ],
     "difficulty_score": 14.2,
-    "competition_rank": 478
+    "competition_rank": 480
   },
   {
     "contest_id": 1941,
@@ -55282,7 +55458,7 @@
       }
     ],
     "difficulty_score": 14.1,
-    "competition_rank": 479
+    "competition_rank": 481
   },
   {
     "contest_id": 1970,
@@ -55382,7 +55558,7 @@
       }
     ],
     "difficulty_score": 14.1,
-    "competition_rank": 480
+    "competition_rank": 482
   },
   {
     "contest_id": 2548,
@@ -55500,7 +55676,7 @@
       }
     ],
     "difficulty_score": 14.0,
-    "competition_rank": 481
+    "competition_rank": 483
   },
   {
     "contest_id": 1547,
@@ -55582,7 +55758,7 @@
       }
     ],
     "difficulty_score": 13.8,
-    "competition_rank": 482
+    "competition_rank": 484
   },
   {
     "contest_id": 2821,
@@ -55688,7 +55864,7 @@
       }
     ],
     "difficulty_score": 13.6,
-    "competition_rank": 483
+    "competition_rank": 485
   },
   {
     "contest_id": 1548,
@@ -55770,7 +55946,7 @@
       }
     ],
     "difficulty_score": 13.5,
-    "competition_rank": 484
+    "competition_rank": 486
   },
   {
     "contest_id": 2711,
@@ -55858,7 +56034,7 @@
       }
     ],
     "difficulty_score": 13.5,
-    "competition_rank": 485
+    "competition_rank": 487
   },
   {
     "contest_id": 2495,
@@ -55970,7 +56146,7 @@
       }
     ],
     "difficulty_score": 13.2,
-    "competition_rank": 486
+    "competition_rank": 488
   },
   {
     "contest_id": 3102,
@@ -56058,7 +56234,7 @@
       }
     ],
     "difficulty_score": 13.1,
-    "competition_rank": 487
+    "competition_rank": 489
   },
   {
     "contest_id": 3133,
@@ -56146,7 +56322,7 @@
       }
     ],
     "difficulty_score": 13.1,
-    "competition_rank": 488
+    "competition_rank": 490
   },
   {
     "contest_id": 1123,
@@ -56258,7 +56434,7 @@
       }
     ],
     "difficulty_score": 12.8,
-    "competition_rank": 489
+    "competition_rank": 491
   },
   {
     "contest_id": 1696,
@@ -56376,7 +56552,7 @@
       }
     ],
     "difficulty_score": 12.6,
-    "competition_rank": 490
+    "competition_rank": 492
   },
   {
     "contest_id": 2799,
@@ -56482,7 +56658,7 @@
       }
     ],
     "difficulty_score": 12.6,
-    "competition_rank": 491
+    "competition_rank": 493
   },
   {
     "contest_id": 1413,
@@ -56600,7 +56776,7 @@
       }
     ],
     "difficulty_score": 12.4,
-    "competition_rank": 492
+    "competition_rank": 494
   },
   {
     "contest_id": 1609,
@@ -56718,7 +56894,7 @@
       }
     ],
     "difficulty_score": 12.4,
-    "competition_rank": 493
+    "competition_rank": 495
   },
   {
     "contest_id": 2332,
@@ -56836,7 +57012,7 @@
       }
     ],
     "difficulty_score": 12.3,
-    "competition_rank": 494
+    "competition_rank": 496
   },
   {
     "contest_id": 1155,
@@ -56924,7 +57100,7 @@
       }
     ],
     "difficulty_score": 12.2,
-    "competition_rank": 495
+    "competition_rank": 497
   },
   {
     "contest_id": 3012,
@@ -57024,7 +57200,7 @@
       }
     ],
     "difficulty_score": 12.2,
-    "competition_rank": 496
+    "competition_rank": 498
   },
   {
     "contest_id": 3146,
@@ -57112,7 +57288,7 @@
       }
     ],
     "difficulty_score": 12.2,
-    "competition_rank": 497
+    "competition_rank": 499
   },
   {
     "contest_id": 3148,
@@ -57200,7 +57376,7 @@
       }
     ],
     "difficulty_score": 12.2,
-    "competition_rank": 498
+    "competition_rank": 500
   },
   {
     "contest_id": 1723,
@@ -57300,7 +57476,7 @@
       }
     ],
     "difficulty_score": 12.1,
-    "competition_rank": 499
+    "competition_rank": 501
   },
   {
     "contest_id": 1170,
@@ -57430,7 +57606,7 @@
       }
     ],
     "difficulty_score": 12.0,
-    "competition_rank": 500
+    "competition_rank": 502
   },
   {
     "contest_id": 2891,
@@ -57596,7 +57772,7 @@
       }
     ],
     "difficulty_score": 12.0,
-    "competition_rank": 501
+    "competition_rank": 503
   },
   {
     "contest_id": 2595,
@@ -57714,7 +57890,7 @@
       }
     ],
     "difficulty_score": 11.7,
-    "competition_rank": 502
+    "competition_rank": 504
   },
   {
     "contest_id": 2930,
@@ -57802,7 +57978,7 @@
       }
     ],
     "difficulty_score": 11.6,
-    "competition_rank": 503
+    "competition_rank": 505
   },
   {
     "contest_id": 2609,
@@ -57908,89 +58084,7 @@
       }
     ],
     "difficulty_score": 11.5,
-    "competition_rank": 504
-  },
-  {
-    "contest_id": 1974,
-    "contest_name": "2022 Italy's Strongest Man",
-    "details": "Vicopisano, Italy, 2022-10-22",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 5,
-    "raw_difficulty": 1346.013340071495,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Andrea Invernizzi",
-        "country": "ITA",
-        "power": 640.4,
-        "percent": 47.6
-      },
-      {
-        "rank": "2",
-        "person_name": "Matteo Toninelli",
-        "country": "ITA",
-        "power": 19.5,
-        "percent": 1.4
-      },
-      {
-        "rank": "3",
-        "person_name": "Paolo Acquaviva",
-        "country": "ITA",
-        "power": 421.6,
-        "percent": 31.3
-      },
-      {
-        "rank": "4",
-        "person_name": "Alessandro Castelli",
-        "country": "ITA",
-        "power": 70.1,
-        "percent": 5.2
-      },
-      {
-        "rank": "5",
-        "person_name": "Emanuele Greco",
-        "country": "ITA",
-        "power": 194.3,
-        "percent": 14.4
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Andrea Invernizzi",
-        "country": "ITA",
-        "score": 19.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Matteo Toninelli",
-        "country": "ITA",
-        "score": 17
-      },
-      {
-        "rank": "3",
-        "person_name": "Paolo Acquaviva",
-        "country": "ITA",
-        "score": 14
-      },
-      {
-        "rank": "4",
-        "person_name": "Alessandro Castelli",
-        "country": "ITA",
-        "score": 13.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Emanuele Greco",
-        "country": "ITA",
-        "score": 10
-      }
-    ],
-    "difficulty_score": 11.3,
-    "competition_rank": 505
+    "competition_rank": 506
   },
   {
     "contest_id": 2627,
@@ -58126,7 +58220,7 @@
       }
     ],
     "difficulty_score": 11.3,
-    "competition_rank": 506
+    "competition_rank": 507
   },
   {
     "contest_id": 3145,
@@ -58214,7 +58308,7 @@
       }
     ],
     "difficulty_score": 11.3,
-    "competition_rank": 507
+    "competition_rank": 508
   },
   {
     "contest_id": 1351,
@@ -58326,7 +58420,7 @@
       }
     ],
     "difficulty_score": 11.2,
-    "competition_rank": 508
+    "competition_rank": 509
   },
   {
     "contest_id": 3040,
@@ -58420,7 +58514,7 @@
       }
     ],
     "difficulty_score": 11.2,
-    "competition_rank": 509
+    "competition_rank": 510
   },
   {
     "contest_id": 1896,
@@ -58526,7 +58620,7 @@
       }
     ],
     "difficulty_score": 11.1,
-    "competition_rank": 510
+    "competition_rank": 511
   },
   {
     "contest_id": 1336,
@@ -58614,7 +58708,7 @@
       }
     ],
     "difficulty_score": 10.6,
-    "competition_rank": 511
+    "competition_rank": 512
   },
   {
     "contest_id": 2574,
@@ -58720,7 +58814,7 @@
       }
     ],
     "difficulty_score": 10.6,
-    "competition_rank": 512
+    "competition_rank": 513
   },
   {
     "contest_id": 2455,
@@ -58850,7 +58944,7 @@
       }
     ],
     "difficulty_score": 10.5,
-    "competition_rank": 513
+    "competition_rank": 514
   },
   {
     "contest_id": 2935,
@@ -58944,7 +59038,7 @@
       }
     ],
     "difficulty_score": 10.4,
-    "competition_rank": 514
+    "competition_rank": 515
   },
   {
     "contest_id": 1698,
@@ -59056,7 +59150,7 @@
       }
     ],
     "difficulty_score": 10.3,
-    "competition_rank": 515
+    "competition_rank": 516
   },
   {
     "contest_id": 3098,
@@ -59144,7 +59238,7 @@
       }
     ],
     "difficulty_score": 10.3,
-    "competition_rank": 516
+    "competition_rank": 517
   },
   {
     "contest_id": 1307,
@@ -59274,7 +59368,7 @@
       }
     ],
     "difficulty_score": 10.1,
-    "competition_rank": 517
+    "competition_rank": 518
   },
   {
     "contest_id": 2047,
@@ -59392,7 +59486,7 @@
       }
     ],
     "difficulty_score": 10.1,
-    "competition_rank": 518
+    "competition_rank": 519
   },
   {
     "contest_id": 2653,
@@ -59486,7 +59580,7 @@
       }
     ],
     "difficulty_score": 10.1,
-    "competition_rank": 519
+    "competition_rank": 520
   },
   {
     "contest_id": 3087,
@@ -59580,7 +59674,7 @@
       }
     ],
     "difficulty_score": 9.9,
-    "competition_rank": 520
+    "competition_rank": 521
   },
   {
     "contest_id": 1499,
@@ -59662,7 +59756,7 @@
       }
     ],
     "difficulty_score": 9.8,
-    "competition_rank": 521
+    "competition_rank": 522
   },
   {
     "contest_id": 3099,
@@ -59756,7 +59850,7 @@
       }
     ],
     "difficulty_score": 9.8,
-    "competition_rank": 522
+    "competition_rank": 523
   },
   {
     "contest_id": 3085,
@@ -59844,7 +59938,7 @@
       }
     ],
     "difficulty_score": 9.7,
-    "competition_rank": 523
+    "competition_rank": 524
   },
   {
     "contest_id": 3100,
@@ -59932,7 +60026,7 @@
       }
     ],
     "difficulty_score": 9.7,
-    "competition_rank": 524
+    "competition_rank": 525
   },
   {
     "contest_id": 3101,
@@ -60020,7 +60114,7 @@
       }
     ],
     "difficulty_score": 9.7,
-    "competition_rank": 525
+    "competition_rank": 526
   },
   {
     "contest_id": 1739,
@@ -60126,7 +60220,7 @@
       }
     ],
     "difficulty_score": 9.6,
-    "competition_rank": 526
+    "competition_rank": 527
   },
   {
     "contest_id": 2945,
@@ -60232,7 +60326,7 @@
       }
     ],
     "difficulty_score": 9.6,
-    "competition_rank": 527
+    "competition_rank": 528
   },
   {
     "contest_id": 2181,
@@ -60326,7 +60420,7 @@
       }
     ],
     "difficulty_score": 9.4,
-    "competition_rank": 528
+    "competition_rank": 529
   },
   {
     "contest_id": 2453,
@@ -60438,7 +60532,7 @@
       }
     ],
     "difficulty_score": 9.2,
-    "competition_rank": 529
+    "competition_rank": 530
   },
   {
     "contest_id": 1672,
@@ -60520,7 +60614,7 @@
       }
     ],
     "difficulty_score": 9.1,
-    "competition_rank": 530
+    "competition_rank": 531
   },
   {
     "contest_id": 2657,
@@ -60620,7 +60714,7 @@
       }
     ],
     "difficulty_score": 9.0,
-    "competition_rank": 531
+    "competition_rank": 532
   },
   {
     "contest_id": 3017,
@@ -60708,7 +60802,7 @@
       }
     ],
     "difficulty_score": 9.0,
-    "competition_rank": 532
+    "competition_rank": 533
   },
   {
     "contest_id": 1329,
@@ -60856,7 +60950,7 @@
       }
     ],
     "difficulty_score": 8.8,
-    "competition_rank": 533
+    "competition_rank": 534
   },
   {
     "contest_id": 3041,
@@ -60950,7 +61044,7 @@
       }
     ],
     "difficulty_score": 8.8,
-    "competition_rank": 534
+    "competition_rank": 535
   },
   {
     "contest_id": 2631,
@@ -61080,7 +61174,7 @@
       }
     ],
     "difficulty_score": 8.6,
-    "competition_rank": 535
+    "competition_rank": 536
   },
   {
     "contest_id": 1504,
@@ -61162,7 +61256,7 @@
       }
     ],
     "difficulty_score": 8.5,
-    "competition_rank": 536
+    "competition_rank": 537
   },
   {
     "contest_id": 2603,
@@ -61274,7 +61368,7 @@
       }
     ],
     "difficulty_score": 8.4,
-    "competition_rank": 537
+    "competition_rank": 538
   },
   {
     "contest_id": 2629,
@@ -61380,7 +61474,7 @@
       }
     ],
     "difficulty_score": 8.3,
-    "competition_rank": 538
+    "competition_rank": 539
   },
   {
     "contest_id": 1947,
@@ -61468,7 +61562,7 @@
       }
     ],
     "difficulty_score": 8.1,
-    "competition_rank": 539
+    "competition_rank": 540
   },
   {
     "contest_id": 2511,
@@ -61562,7 +61656,7 @@
       }
     ],
     "difficulty_score": 8.1,
-    "competition_rank": 540
+    "competition_rank": 541
   },
   {
     "contest_id": 2583,
@@ -61716,7 +61810,7 @@
       }
     ],
     "difficulty_score": 8.1,
-    "competition_rank": 541
+    "competition_rank": 542
   },
   {
     "contest_id": 1897,
@@ -61828,7 +61922,7 @@
       }
     ],
     "difficulty_score": 8.0,
-    "competition_rank": 542
+    "competition_rank": 543
   },
   {
     "contest_id": 1959,
@@ -61958,7 +62052,7 @@
       }
     ],
     "difficulty_score": 8.0,
-    "competition_rank": 543
+    "competition_rank": 544
   },
   {
     "contest_id": 1446,
@@ -62058,7 +62152,7 @@
       }
     ],
     "difficulty_score": 7.9,
-    "competition_rank": 544
+    "competition_rank": 545
   },
   {
     "contest_id": 1376,
@@ -62170,7 +62264,7 @@
       }
     ],
     "difficulty_score": 7.7,
-    "competition_rank": 545
+    "competition_rank": 546
   },
   {
     "contest_id": 1544,
@@ -62330,7 +62424,7 @@
       }
     ],
     "difficulty_score": 7.7,
-    "competition_rank": 546
+    "competition_rank": 547
   },
   {
     "contest_id": 2432,
@@ -62412,7 +62506,7 @@
       }
     ],
     "difficulty_score": 7.7,
-    "competition_rank": 547
+    "competition_rank": 548
   },
   {
     "contest_id": 2537,
@@ -62500,7 +62594,7 @@
       }
     ],
     "difficulty_score": 7.6,
-    "competition_rank": 548
+    "competition_rank": 549
   },
   {
     "contest_id": 1393,
@@ -62660,7 +62754,7 @@
       }
     ],
     "difficulty_score": 7.5,
-    "competition_rank": 549
+    "competition_rank": 550
   },
   {
     "contest_id": 1300,
@@ -62784,7 +62878,7 @@
       }
     ],
     "difficulty_score": 7.3,
-    "competition_rank": 550
+    "competition_rank": 551
   },
   {
     "contest_id": 1728,
@@ -62896,7 +62990,7 @@
       }
     ],
     "difficulty_score": 7.1,
-    "competition_rank": 551
+    "competition_rank": 552
   },
   {
     "contest_id": 1237,
@@ -63020,7 +63114,7 @@
       }
     ],
     "difficulty_score": 6.9,
-    "competition_rank": 552
+    "competition_rank": 553
   },
   {
     "contest_id": 2198,
@@ -63144,7 +63238,7 @@
       }
     ],
     "difficulty_score": 6.9,
-    "competition_rank": 553
+    "competition_rank": 554
   },
   {
     "contest_id": 2838,
@@ -63256,7 +63350,7 @@
       }
     ],
     "difficulty_score": 6.9,
-    "competition_rank": 554
+    "competition_rank": 555
   },
   {
     "contest_id": 1338,
@@ -63380,7 +63474,7 @@
       }
     ],
     "difficulty_score": 6.8,
-    "competition_rank": 555
+    "competition_rank": 556
   },
   {
     "contest_id": 1540,
@@ -63492,7 +63586,7 @@
       }
     ],
     "difficulty_score": 6.8,
-    "competition_rank": 556
+    "competition_rank": 557
   },
   {
     "contest_id": 2596,
@@ -63610,7 +63704,7 @@
       }
     ],
     "difficulty_score": 6.8,
-    "competition_rank": 557
+    "competition_rank": 558
   },
   {
     "contest_id": 2633,
@@ -63710,7 +63804,7 @@
       }
     ],
     "difficulty_score": 6.8,
-    "competition_rank": 558
+    "competition_rank": 559
   },
   {
     "contest_id": 2628,
@@ -63816,7 +63910,7 @@
       }
     ],
     "difficulty_score": 6.7,
-    "competition_rank": 559
+    "competition_rank": 560
   },
   {
     "contest_id": 1714,
@@ -63916,7 +64010,7 @@
       }
     ],
     "difficulty_score": 6.6,
-    "competition_rank": 560
+    "competition_rank": 561
   },
   {
     "contest_id": 2600,
@@ -64034,7 +64128,7 @@
       }
     ],
     "difficulty_score": 6.3,
-    "competition_rank": 561
+    "competition_rank": 562
   },
   {
     "contest_id": 2547,
@@ -64152,7 +64246,7 @@
       }
     ],
     "difficulty_score": 6.2,
-    "competition_rank": 562
+    "competition_rank": 563
   },
   {
     "contest_id": 3082,
@@ -64270,7 +64364,7 @@
       }
     ],
     "difficulty_score": 6.1,
-    "competition_rank": 563
+    "competition_rank": 564
   },
   {
     "contest_id": 1157,
@@ -64394,7 +64488,7 @@
       }
     ],
     "difficulty_score": 5.8,
-    "competition_rank": 564
+    "competition_rank": 565
   },
   {
     "contest_id": 2597,
@@ -64506,7 +64600,7 @@
       }
     ],
     "difficulty_score": 5.7,
-    "competition_rank": 565
+    "competition_rank": 566
   },
   {
     "contest_id": 2006,
@@ -64600,7 +64694,7 @@
       }
     ],
     "difficulty_score": 4.6,
-    "competition_rank": 566
+    "competition_rank": 567
   },
   {
     "contest_id": 2452,
@@ -64718,7 +64812,7 @@
       }
     ],
     "difficulty_score": 4.6,
-    "competition_rank": 567
+    "competition_rank": 568
   },
   {
     "contest_id": 1740,
@@ -64806,7 +64900,7 @@
       }
     ],
     "difficulty_score": 4.5,
-    "competition_rank": 568
+    "competition_rank": 569
   },
   {
     "contest_id": 1604,
@@ -64948,7 +65042,7 @@
       }
     ],
     "difficulty_score": 4.3,
-    "competition_rank": 569
+    "competition_rank": 570
   },
   {
     "contest_id": 2913,
@@ -65030,7 +65124,7 @@
       }
     ],
     "difficulty_score": 4.3,
-    "competition_rank": 570
+    "competition_rank": 571
   },
   {
     "contest_id": 2419,
@@ -65142,7 +65236,7 @@
       }
     ],
     "difficulty_score": 4.1,
-    "competition_rank": 571
+    "competition_rank": 572
   },
   {
     "contest_id": 3174,
@@ -65230,7 +65324,7 @@
       }
     ],
     "difficulty_score": 3.9,
-    "competition_rank": 572
+    "competition_rank": 573
   },
   {
     "contest_id": 2418,
@@ -65354,7 +65448,7 @@
       }
     ],
     "difficulty_score": 3.6,
-    "competition_rank": 573
+    "competition_rank": 574
   },
   {
     "contest_id": 2614,
@@ -65472,7 +65566,7 @@
       }
     ],
     "difficulty_score": 3.4,
-    "competition_rank": 574
+    "competition_rank": 575
   },
   {
     "contest_id": 1898,
@@ -65584,7 +65678,7 @@
       }
     ],
     "difficulty_score": 3.3,
-    "competition_rank": 575
+    "competition_rank": 576
   },
   {
     "contest_id": 1882,
@@ -65702,7 +65796,7 @@
       }
     ],
     "difficulty_score": 3.2,
-    "competition_rank": 576
+    "competition_rank": 577
   },
   {
     "contest_id": 2876,
@@ -65814,7 +65908,7 @@
       }
     ],
     "difficulty_score": 3.2,
-    "competition_rank": 577
+    "competition_rank": 578
   },
   {
     "contest_id": 1312,
@@ -65974,7 +66068,7 @@
       }
     ],
     "difficulty_score": 3.1,
-    "competition_rank": 578
+    "competition_rank": 579
   },
   {
     "contest_id": 1881,
@@ -66092,7 +66186,7 @@
       }
     ],
     "difficulty_score": 2.9,
-    "competition_rank": 579
+    "competition_rank": 580
   },
   {
     "contest_id": 2624,
@@ -66186,7 +66280,7 @@
       }
     ],
     "difficulty_score": 2.7,
-    "competition_rank": 580
+    "competition_rank": 581
   },
   {
     "contest_id": 2626,
@@ -66286,7 +66380,7 @@
       }
     ],
     "difficulty_score": 2.5,
-    "competition_rank": 581
+    "competition_rank": 582
   },
   {
     "contest_id": 1272,
@@ -66410,7 +66504,7 @@
       }
     ],
     "difficulty_score": 2.1,
-    "competition_rank": 582
+    "competition_rank": 583
   },
   {
     "contest_id": 1596,
@@ -66522,7 +66616,7 @@
       }
     ],
     "difficulty_score": 1.6,
-    "competition_rank": 583
+    "competition_rank": 584
   },
   {
     "contest_id": 1673,
@@ -66610,7 +66704,7 @@
       }
     ],
     "difficulty_score": 1.3,
-    "competition_rank": 584
+    "competition_rank": 585
   },
   {
     "contest_id": 1390,
@@ -66746,7 +66840,7 @@
       }
     ],
     "difficulty_score": 1.1,
-    "competition_rank": 585
+    "competition_rank": 586
   },
   {
     "contest_id": 1408,
@@ -66858,7 +66952,7 @@
       }
     ],
     "difficulty_score": 1.0,
-    "competition_rank": 586
+    "competition_rank": 587
   },
   {
     "contest_id": 2619,
@@ -66952,7 +67046,7 @@
       }
     ],
     "difficulty_score": 1.0,
-    "competition_rank": 587
+    "competition_rank": 588
   },
   {
     "contest_id": 2618,
@@ -67052,7 +67146,7 @@
       }
     ],
     "difficulty_score": 0.7,
-    "competition_rank": 588
+    "competition_rank": 589
   },
   {
     "contest_id": 2620,
@@ -67152,7 +67246,7 @@
       }
     ],
     "difficulty_score": 0.7,
-    "competition_rank": 589
+    "competition_rank": 590
   },
   {
     "contest_id": 2617,
@@ -67252,7 +67346,7 @@
       }
     ],
     "difficulty_score": 0.6,
-    "competition_rank": 590
+    "competition_rank": 591
   },
   {
     "contest_id": 1369,
@@ -67358,7 +67452,7 @@
       }
     ],
     "difficulty_score": 0.5,
-    "competition_rank": 591
+    "competition_rank": 592
   },
   {
     "contest_id": 3016,
@@ -67458,7 +67552,7 @@
       }
     ],
     "difficulty_score": 0.2,
-    "competition_rank": 592
+    "competition_rank": 593
   },
   {
     "contest_id": 1238,
@@ -67558,7 +67652,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 593
+    "competition_rank": 594
   },
   {
     "contest_id": 1315,
@@ -67658,7 +67752,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 594
+    "competition_rank": 595
   },
   {
     "contest_id": 3095,
@@ -67748,64 +67842,6 @@
         "rank": "-",
         "person_name": "Niko Voutilainen",
         "country": "FIN",
-        "score": 0.0
-      }
-    ],
-    "difficulty_score": 0.0,
-    "competition_rank": 595
-  },
-  {
-    "contest_id": 3182,
-    "contest_name": "2026 Italy's Strongest Man",
-    "details": "Pisa, Italy, 2026-10-17",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 5.0,
-    "division": "men",
-    "total_competitors": 7,
-    "raw_difficulty": 0,
-    "top_5_finishers": [],
-    "results": [
-      {
-        "rank": "-",
-        "person_name": "Paolo Acquaviva",
-        "country": "ITA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Massimiliano Barbato",
-        "country": "ITA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Federico Brizzi",
-        "country": "ITA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Emanuele Condoleo",
-        "country": "ITA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Massimo Antonio Michelon",
-        "country": "ITA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Lorenzo Monticelli",
-        "country": "ITA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Luca Neri",
-        "country": "ITA",
         "score": 0.0
       }
     ],
