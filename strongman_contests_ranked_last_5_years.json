@@ -711,7 +711,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 23602.224242392334,
+    "raw_difficulty": 23598.950726826322,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -724,7 +724,7 @@
         "rank": "2",
         "person_name": "Jaco Schoonwinkel",
         "country": "RSA",
-        "power": 1588.6,
+        "power": 1585.4,
         "percent": 6.7
       },
       {
@@ -830,7 +830,7 @@
         "score": 11
       }
     ],
-    "difficulty_score": 830.6,
+    "difficulty_score": 830.4,
     "competition_rank": 7
   },
   {
@@ -4602,7 +4602,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 13,
-    "raw_difficulty": 11643.51004235592,
+    "raw_difficulty": 11642.156689523554,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -4629,7 +4629,7 @@
         "rank": "4",
         "person_name": "Roy Orrantia",
         "country": "USA",
-        "power": 1180.5,
+        "power": 1179.2,
         "percent": 10.1
       },
       {
@@ -4720,7 +4720,7 @@
         "score": 0
       }
     ],
-    "difficulty_score": 287.8,
+    "difficulty_score": 287.7,
     "competition_rank": 39
   },
   {
@@ -6942,7 +6942,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 8736.80192696214,
+    "raw_difficulty": 8736.333293780202,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -6962,7 +6962,7 @@
         "rank": "3",
         "person_name": "Tim Buck",
         "country": "USA",
-        "power": 1157.0,
+        "power": 1156.6,
         "percent": 13.2
       },
       {
@@ -7042,7 +7042,7 @@
         "score": 27.5
       }
     ],
-    "difficulty_score": 187.1,
+    "difficulty_score": 187.0,
     "competition_rank": 58
   },
   {
@@ -7175,23 +7175,23 @@
     "details": "Daytona Beach, Florida, 2022-11-12 to 2022-11-13",
     "tier": "TIER_4",
     "tier_multiplier": 1.0,
-    "recency_multiplier": 0.5,
+    "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 8635.811324049198,
+    "raw_difficulty": 8619.589603904587,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Spenser Remick",
         "country": "USA",
-        "power": 207.3,
-        "percent": 2.4
+        "power": 194.8,
+        "percent": 2.3
       },
       {
         "rank": "2",
         "person_name": "Jaco Schoonwinkel",
         "country": "RSA",
-        "power": 1588.6,
+        "power": 1585.4,
         "percent": 18.4
       },
       {
@@ -7199,13 +7199,13 @@
         "person_name": "Mathew Ragg",
         "country": "NZL",
         "power": 1773.3,
-        "percent": 20.5
+        "percent": 20.6
       },
       {
         "rank": "4",
         "person_name": "Tim Buck",
         "country": "USA",
-        "power": 1157.0,
+        "power": 1156.6,
         "percent": 13.4
       },
       {
@@ -7213,7 +7213,7 @@
         "person_name": "Lucas Hatton",
         "country": "USA",
         "power": 3909.6,
-        "percent": 45.3
+        "percent": 45.4
       }
     ],
     "results": [
@@ -7278,7 +7278,7 @@
         "score": 20
       }
     ],
-    "difficulty_score": 183.8,
+    "difficulty_score": 183.3,
     "competition_rank": 60
   },
   {
@@ -7822,7 +7822,7 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 13,
-    "raw_difficulty": 8086.0542996045915,
+    "raw_difficulty": 8085.585666422654,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -7856,7 +7856,7 @@
         "rank": "5",
         "person_name": "Tim Buck",
         "country": "USA",
-        "power": 1157.0,
+        "power": 1156.6,
         "percent": 14.3
       }
     ],
@@ -8560,7 +8560,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 7723.456606259885,
+    "raw_difficulty": 7721.225304658401,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -8580,7 +8580,7 @@
         "rank": "3",
         "person_name": "Nathan Goltry",
         "country": "USA",
-        "power": 130.1,
+        "power": 127.8,
         "percent": 1.7
       },
       {
@@ -8660,7 +8660,7 @@
         "score": 16
       }
     ],
-    "difficulty_score": 155.5,
+    "difficulty_score": 155.4,
     "competition_rank": 71
   },
   {
@@ -8796,7 +8796,7 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 7603.796591439133,
+    "raw_difficulty": 7601.97460542483,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -8816,14 +8816,14 @@
         "rank": "3",
         "person_name": "Roy Orrantia",
         "country": "USA",
-        "power": 1180.5,
+        "power": 1179.2,
         "percent": 15.5
       },
       {
         "rank": "4",
         "person_name": "Tim Buck",
         "country": "USA",
-        "power": 1157.0,
+        "power": 1156.6,
         "percent": 15.2
       },
       {
@@ -8908,7 +8908,7 @@
         "score": 6.0
       }
     ],
-    "difficulty_score": 151.9,
+    "difficulty_score": 151.8,
     "competition_rank": 73
   },
   {
@@ -11010,7 +11010,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 6714.014994828369,
+    "raw_difficulty": 6713.546361646431,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -11023,7 +11023,7 @@
         "rank": "2",
         "person_name": "Tim Buck",
         "country": "USA",
-        "power": 1157.0,
+        "power": 1156.6,
         "percent": 17.2
       },
       {
@@ -11718,7 +11718,7 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 16,
-    "raw_difficulty": 6399.418046946193,
+    "raw_difficulty": 6398.949413764255,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -11752,7 +11752,7 @@
         "rank": "5",
         "person_name": "Tim Buck",
         "country": "USA",
-        "power": 1157.0,
+        "power": 1156.6,
         "percent": 18.1
       }
     ],
@@ -11854,7 +11854,7 @@
         "score": 10.5
       }
     ],
-    "difficulty_score": 117.3,
+    "difficulty_score": 117.2,
     "competition_rank": 97
   },
   {
@@ -12414,13 +12414,13 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 8,
-    "raw_difficulty": 6216.4247098449405,
+    "raw_difficulty": 6215.0713570125745,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Roy Orrantia",
         "country": "USA",
-        "power": 1180.5,
+        "power": 1179.2,
         "percent": 19.0
       },
       {
@@ -12428,7 +12428,7 @@
         "person_name": "Adam Roszkowski",
         "country": "POL",
         "power": 1613.1,
-        "percent": 25.9
+        "percent": 26.0
       },
       {
         "rank": "3",
@@ -12502,7 +12502,7 @@
         "score": 21
       }
     ],
-    "difficulty_score": 112.3,
+    "difficulty_score": 112.2,
     "competition_rank": 103
   },
   {
@@ -12886,21 +12886,21 @@
     "recency_multiplier": 3.0,
     "division": "men",
     "total_competitors": 8,
-    "raw_difficulty": 5870.365685035324,
+    "raw_difficulty": 5867.092169469312,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Jaco Schoonwinkel",
         "country": "RSA",
-        "power": 1588.6,
-        "percent": 27.1
+        "power": 1585.4,
+        "percent": 27.0
       },
       {
         "rank": "2",
         "person_name": "Evans Nana Aryee",
         "country": "GHA",
         "power": 2520.9,
-        "percent": 42.9
+        "percent": 43.0
       },
       {
         "rank": "3",
@@ -12914,7 +12914,7 @@
         "person_name": "Armand Goosen",
         "country": "RSA",
         "power": 1012.2,
-        "percent": 17.2
+        "percent": 17.3
       },
       {
         "rank": "5",
@@ -12974,7 +12974,7 @@
         "score": 13
       }
     ],
-    "difficulty_score": 103.0,
+    "difficulty_score": 102.9,
     "competition_rank": 107
   },
   {
@@ -13246,14 +13246,14 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 5723.1985288436135,
+    "raw_difficulty": 5719.9250132776015,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Jaco Schoonwinkel",
         "country": "RSA",
-        "power": 1588.6,
-        "percent": 27.8
+        "power": 1585.4,
+        "percent": 27.7
       },
       {
         "rank": "2",
@@ -13267,7 +13267,7 @@
         "person_name": "Kevin Hazeleger",
         "country": "NED",
         "power": 1490.4,
-        "percent": 26.0
+        "percent": 26.1
       },
       {
         "rank": "4",
@@ -13346,7 +13346,7 @@
         "score": 13.5
       }
     ],
-    "difficulty_score": 99.2,
+    "difficulty_score": 99.1,
     "competition_rank": 110
   },
   {
@@ -15966,7 +15966,7 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 10,
-    "raw_difficulty": 5006.956805665337,
+    "raw_difficulty": 5006.4881724833995,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -15986,7 +15986,7 @@
         "rank": "3",
         "person_name": "Tim Buck",
         "country": "USA",
-        "power": 1157.0,
+        "power": 1156.6,
         "percent": 23.1
       },
       {
@@ -16066,7 +16066,7 @@
         "score": 12.5
       }
     ],
-    "difficulty_score": 81.2,
+    "difficulty_score": 81.1,
     "competition_rank": 133
   },
   {
@@ -17706,13 +17706,13 @@
     "recency_multiplier": 1.0,
     "division": "men",
     "total_competitors": 11,
-    "raw_difficulty": 4729.8013358546,
+    "raw_difficulty": 4729.332702672663,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Tim Buck",
         "country": "USA",
-        "power": 1157.0,
+        "power": 1156.6,
         "percent": 24.5
       },
       {
@@ -24764,118 +24764,6 @@
     "competition_rank": 208
   },
   {
-    "contest_id": 1074,
-    "contest_name": "2021 Official Strongman Games",
-    "details": "Daytona Beach, Florida, 2021-11-12 to 2021-11-14",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 3794.651384055863,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Pavlo Kordiyaka",
-        "country": "UKR",
-        "power": 3211.4,
-        "percent": 84.6
-      },
-      {
-        "rank": "2",
-        "person_name": "Spenser Remick",
-        "country": "USA",
-        "power": 207.3,
-        "percent": 5.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Tyler Cotton",
-        "country": "USA",
-        "power": 121.6,
-        "percent": 3.2
-      },
-      {
-        "rank": "4",
-        "person_name": "Marcus Crowder",
-        "country": "USA",
-        "power": 215.4,
-        "percent": 5.7
-      },
-      {
-        "rank": "5",
-        "person_name": "Wesley Claborn",
-        "country": "USA",
-        "power": 39.0,
-        "percent": 1.0
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Pavlo Kordiyaka",
-        "country": "UKR",
-        "score": 47
-      },
-      {
-        "rank": "2",
-        "person_name": "Spenser Remick",
-        "country": "USA",
-        "score": 47
-      },
-      {
-        "rank": "3",
-        "person_name": "Tyler Cotton",
-        "country": "USA",
-        "score": 43
-      },
-      {
-        "rank": "4",
-        "person_name": "Marcus Crowder",
-        "country": "USA",
-        "score": 41.5
-      },
-      {
-        "rank": "5",
-        "person_name": "Wesley Claborn",
-        "country": "USA",
-        "score": 35
-      },
-      {
-        "rank": "6",
-        "person_name": "Alexander Kopp",
-        "country": "USA",
-        "score": 29
-      },
-      {
-        "rank": "7",
-        "person_name": "Sean Hayes",
-        "country": "CAN",
-        "score": 24
-      },
-      {
-        "rank": "8",
-        "person_name": "Stuart Graham",
-        "country": "SCO",
-        "score": 23
-      },
-      {
-        "rank": "9",
-        "person_name": "Tim Buck",
-        "country": "USA",
-        "score": 22
-      },
-      {
-        "rank": "10",
-        "person_name": "Denis Berezhnyk",
-        "country": "UKR",
-        "score": 18.5
-      }
-    ],
-    "difficulty_score": 53.5,
-    "competition_rank": 209
-  },
-  {
     "contest_id": 2589,
     "contest_name": "2025 Lietuvos galiūnų čempionato",
     "details": "Kupiškis, Lithuania, 2025-06-07",
@@ -24985,6 +24873,118 @@
       }
     ],
     "difficulty_score": 53.5,
+    "competition_rank": 209
+  },
+  {
+    "contest_id": 1074,
+    "contest_name": "2021 Official Strongman Games",
+    "details": "Daytona Beach, Florida, 2021-11-12 to 2021-11-14",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 0.25,
+    "division": "men",
+    "total_competitors": 10,
+    "raw_difficulty": 3782.1718126592027,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Pavlo Kordiyaka",
+        "country": "UKR",
+        "power": 3211.4,
+        "percent": 84.9
+      },
+      {
+        "rank": "2",
+        "person_name": "Spenser Remick",
+        "country": "USA",
+        "power": 194.8,
+        "percent": 5.2
+      },
+      {
+        "rank": "3",
+        "person_name": "Tyler Cotton",
+        "country": "USA",
+        "power": 121.6,
+        "percent": 3.2
+      },
+      {
+        "rank": "4",
+        "person_name": "Marcus Crowder",
+        "country": "USA",
+        "power": 215.4,
+        "percent": 5.7
+      },
+      {
+        "rank": "5",
+        "person_name": "Wesley Claborn",
+        "country": "USA",
+        "power": 39.0,
+        "percent": 1.0
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Pavlo Kordiyaka",
+        "country": "UKR",
+        "score": 47
+      },
+      {
+        "rank": "2",
+        "person_name": "Spenser Remick",
+        "country": "USA",
+        "score": 47
+      },
+      {
+        "rank": "3",
+        "person_name": "Tyler Cotton",
+        "country": "USA",
+        "score": 43
+      },
+      {
+        "rank": "4",
+        "person_name": "Marcus Crowder",
+        "country": "USA",
+        "score": 41.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Wesley Claborn",
+        "country": "USA",
+        "score": 35
+      },
+      {
+        "rank": "6",
+        "person_name": "Alexander Kopp",
+        "country": "USA",
+        "score": 29
+      },
+      {
+        "rank": "7",
+        "person_name": "Sean Hayes",
+        "country": "CAN",
+        "score": 24
+      },
+      {
+        "rank": "8",
+        "person_name": "Stuart Graham",
+        "country": "SCO",
+        "score": 23
+      },
+      {
+        "rank": "9",
+        "person_name": "Tim Buck",
+        "country": "USA",
+        "score": 22
+      },
+      {
+        "rank": "10",
+        "person_name": "Denis Berezhnyk",
+        "country": "UKR",
+        "score": 18.5
+      }
+    ],
+    "difficulty_score": 53.3,
     "competition_rank": 210
   },
   {
@@ -29820,7 +29820,7 @@
     "recency_multiplier": 5.0,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 3352.3080072857697,
+    "raw_difficulty": 3351.8393741038326,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -29833,7 +29833,7 @@
         "rank": "2",
         "person_name": "Tim Buck",
         "country": "USA",
-        "power": 1157.0,
+        "power": 1156.6,
         "percent": 34.5
       },
       {
@@ -29932,7 +29932,7 @@
         "score": 11
       }
     ],
-    "difficulty_score": 44.5,
+    "difficulty_score": 44.4,
     "competition_rank": 253
   },
   {
@@ -40574,14 +40574,14 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 2611.5019954961426,
+    "raw_difficulty": 2609.270693894658,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Nathan Goltry",
         "country": "USA",
-        "power": 130.1,
-        "percent": 5.0
+        "power": 127.8,
+        "percent": 4.9
       },
       {
         "rank": "2",
@@ -40686,7 +40686,7 @@
         "score": 6
       }
     ],
-    "difficulty_score": 30.6,
+    "difficulty_score": 30.5,
     "competition_rank": 348
   },
   {
@@ -42584,118 +42584,6 @@
     "competition_rank": 364
   },
   {
-    "contest_id": 1105,
-    "contest_name": "2021 Africa's Strongest Man",
-    "details": "Mossel Bay, South Africa, 2021-11-27 to 2021-11-28",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 2527.292377481979,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Thobelani Mabaso",
-        "country": "RSA",
-        "power": 25.0,
-        "percent": 1.0
-      },
-      {
-        "rank": "2",
-        "person_name": "Jaco Schoonwinkel",
-        "country": "RSA",
-        "power": 1588.6,
-        "percent": 62.9
-      },
-      {
-        "rank": "3",
-        "person_name": "Ben Bucarizza",
-        "country": "RSA",
-        "power": 402.3,
-        "percent": 15.9
-      },
-      {
-        "rank": "4",
-        "person_name": "Chris van der Linde",
-        "country": "RSA",
-        "power": 73.0,
-        "percent": 2.9
-      },
-      {
-        "rank": "5",
-        "person_name": "Dean Shelley",
-        "country": "RSA",
-        "power": 438.4,
-        "percent": 17.3
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Thobelani Mabaso",
-        "country": "RSA",
-        "score": 49.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Jaco Schoonwinkel",
-        "country": "RSA",
-        "score": 49
-      },
-      {
-        "rank": "3",
-        "person_name": "Ben Bucarizza",
-        "country": "RSA",
-        "score": 41.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Chris van der Linde",
-        "country": "RSA",
-        "score": 39
-      },
-      {
-        "rank": "5",
-        "person_name": "Dean Shelley",
-        "country": "RSA",
-        "score": 35
-      },
-      {
-        "rank": "6",
-        "person_name": "Terence Bosman",
-        "country": "RSA",
-        "score": 31.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Greg Poolman",
-        "country": "RSA",
-        "score": 30
-      },
-      {
-        "rank": "8",
-        "person_name": "Victor Ampofo",
-        "country": "GHA",
-        "score": 25
-      },
-      {
-        "rank": "9",
-        "person_name": "Tewie Labuschagne",
-        "country": "RSA",
-        "score": 16.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Richard Banda",
-        "country": "ZAM",
-        "score": 3
-      }
-    ],
-    "difficulty_score": 29.1,
-    "competition_rank": 365
-  },
-  {
     "contest_id": 1487,
     "contest_name": "2023 Sweden's Strongest Man",
     "details": "Västerås, Sweden, 2023-10-14",
@@ -42805,7 +42693,7 @@
       }
     ],
     "difficulty_score": 29.1,
-    "competition_rank": 366
+    "competition_rank": 365
   },
   {
     "contest_id": 1986,
@@ -42893,7 +42781,7 @@
       }
     ],
     "difficulty_score": 29.1,
-    "competition_rank": 367
+    "competition_rank": 366
   },
   {
     "contest_id": 2601,
@@ -42981,6 +42869,118 @@
       }
     ],
     "difficulty_score": 29.1,
+    "competition_rank": 367
+  },
+  {
+    "contest_id": 1105,
+    "contest_name": "2021 Africa's Strongest Man",
+    "details": "Mossel Bay, South Africa, 2021-11-27 to 2021-11-28",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 0.25,
+    "division": "men",
+    "total_competitors": 10,
+    "raw_difficulty": 2524.018861915967,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Thobelani Mabaso",
+        "country": "RSA",
+        "power": 25.0,
+        "percent": 1.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Jaco Schoonwinkel",
+        "country": "RSA",
+        "power": 1585.4,
+        "percent": 62.8
+      },
+      {
+        "rank": "3",
+        "person_name": "Ben Bucarizza",
+        "country": "RSA",
+        "power": 402.3,
+        "percent": 15.9
+      },
+      {
+        "rank": "4",
+        "person_name": "Chris van der Linde",
+        "country": "RSA",
+        "power": 73.0,
+        "percent": 2.9
+      },
+      {
+        "rank": "5",
+        "person_name": "Dean Shelley",
+        "country": "RSA",
+        "power": 438.4,
+        "percent": 17.4
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Thobelani Mabaso",
+        "country": "RSA",
+        "score": 49.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Jaco Schoonwinkel",
+        "country": "RSA",
+        "score": 49
+      },
+      {
+        "rank": "3",
+        "person_name": "Ben Bucarizza",
+        "country": "RSA",
+        "score": 41.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Chris van der Linde",
+        "country": "RSA",
+        "score": 39
+      },
+      {
+        "rank": "5",
+        "person_name": "Dean Shelley",
+        "country": "RSA",
+        "score": 35
+      },
+      {
+        "rank": "6",
+        "person_name": "Terence Bosman",
+        "country": "RSA",
+        "score": 31.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Greg Poolman",
+        "country": "RSA",
+        "score": 30
+      },
+      {
+        "rank": "8",
+        "person_name": "Victor Ampofo",
+        "country": "GHA",
+        "score": 25
+      },
+      {
+        "rank": "9",
+        "person_name": "Tewie Labuschagne",
+        "country": "RSA",
+        "score": 16.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Richard Banda",
+        "country": "ZAM",
+        "score": 3
+      }
+    ],
+    "difficulty_score": 29.0,
     "competition_rank": 368
   },
   {
@@ -43376,28 +43376,28 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 12,
-    "raw_difficulty": 2492.956102866682,
+    "raw_difficulty": 2490.724801265198,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Sami Ahola",
         "country": "FIN",
         "power": 108.4,
-        "percent": 4.3
+        "percent": 4.4
       },
       {
         "rank": "2",
         "person_name": "Jordan Osborne",
         "country": "AUS",
         "power": 1503.7,
-        "percent": 60.3
+        "percent": 60.4
       },
       {
         "rank": "3",
         "person_name": "Nathan Goltry",
         "country": "USA",
-        "power": 130.1,
-        "percent": 5.2
+        "power": 127.8,
+        "percent": 5.1
       },
       {
         "rank": "4",
@@ -46306,7 +46306,7 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 13,
-    "raw_difficulty": 2246.670578392519,
+    "raw_difficulty": 2246.201945210582,
     "top_5_finishers": [
       {
         "rank": "1",
@@ -46319,7 +46319,7 @@
         "rank": "2",
         "person_name": "Tim Buck",
         "country": "USA",
-        "power": 1157.0,
+        "power": 1156.6,
         "percent": 51.5
       },
       {
