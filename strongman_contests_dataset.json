@@ -194971,5 +194971,377 @@
         "score": "103.81 s"
       }
     ]
+  },
+  {
+    "contest_id": 3189,
+    "contest_name": "2026 PSL Masters European Championship (Men)",
+    "details": "Carlisle, England, 2026-03-15",
+    "url": "https://strongmanarchives.com/contests/3189/2026-psl-masters-european-championship-men",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Andrew Lumley",
+        "country": "GBR",
+        "score": 9.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Marc  Barton",
+        "country": "GBR",
+        "score": 5.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3190,
+    "contest_name": "2026 PSL U105 kg European Championship",
+    "details": "Carlisle, England, 2026-03-15",
+    "url": "https://strongmanarchives.com/contests/3190/2026-psl-u105-kg-european-championship",
+    "total_competitors": 8,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tom  Butts",
+        "country": "GBR",
+        "score": 35.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Filip Zajíček",
+        "country": "CZE",
+        "score": 29.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Tomáš Plaček",
+        "country": "CZE",
+        "score": 25.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Mark Cummins",
+        "country": "GBR",
+        "score": 19.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Ryan Dean",
+        "country": "GBR",
+        "score": 18.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Tom Pearson",
+        "country": "GBR",
+        "score": 17.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Marc Burgess",
+        "country": "GBR",
+        "score": 16.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Patrick  Obst",
+        "country": "GER",
+        "score": 14.5
+      }
+    ]
+  },
+  {
+    "contest_id": 3191,
+    "contest_name": "2026 PSL U125 kg European Championship",
+    "details": "Carlisle, England, 2026-03-15",
+    "url": "https://strongmanarchives.com/contests/3191/2026-psl-u125-kg-european-championship",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Vojtěch Kučera",
+        "country": "CZE",
+        "score": 7.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Luke Williams",
+        "country": "GBR",
+        "score": 7.5
+      }
+    ]
+  },
+  {
+    "contest_id": 3192,
+    "contest_name": "2026 PSL U90 kg European Championship",
+    "details": "Carlisle, England, 2026-03-14",
+    "url": "https://strongmanarchives.com/contests/3192/2026-psl-u90-kg-european-championship",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Lewis Bolton",
+        "country": "GBR",
+        "score": 42.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Marcus Collins",
+        "country": "GBR",
+        "score": 41.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Joseph Dama",
+        "country": "GBR",
+        "score": 28.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Jonah O'Brien",
+        "country": "GBR",
+        "score": 23.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Richie Ingham",
+        "country": "GBR",
+        "score": 21.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Adam Zajiček",
+        "country": "CZE",
+        "score": 21.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Laurence Tiffin",
+        "country": "GBR",
+        "score": 16.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Louka  Konings",
+        "country": "BEL",
+        "score": 13.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Jonathon Byson",
+        "country": "GER",
+        "score": 8.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3193,
+    "contest_name": "2026 PSL U80 kg European Championship",
+    "details": "Carlisle, England, 2026-03-14",
+    "url": "https://strongmanarchives.com/contests/3193/2026-psl-u80-kg-european-championship",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "James Lynch",
+        "country": "GBR",
+        "score": 17.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Sam Blacklock",
+        "country": "GBR",
+        "score": 11.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Zach Speight",
+        "country": "GBR",
+        "score": 5.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Sam Watson",
+        "country": "GBR",
+        "score": 4.5
+      }
+    ]
+  },
+  {
+    "contest_id": 3194,
+    "contest_name": "2026 PSL Masters European Championship (Women)",
+    "details": "Carlisle, England, 2026-03-14",
+    "url": "https://strongmanarchives.com/contests/3194/2026-psl-masters-european-championship-women",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Naomi Hadley",
+        "country": "GBR",
+        "score": 13.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Andrea Seed",
+        "country": "GBR",
+        "score": 11.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Cathy Watson",
+        "country": "GBR",
+        "score": 6.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3195,
+    "contest_name": "2026 PSL U82 kg European Championship",
+    "details": "Carlisle, England, 2026-03-14",
+    "url": "https://strongmanarchives.com/contests/3195/2026-psl-u82-kg-european-championship",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Angéline Berva",
+        "country": "FRA",
+        "score": 10.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Darcy Bowker",
+        "country": "GBR",
+        "score": 3.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3196,
+    "contest_name": "2026 PSL U73 kg European Championship",
+    "details": "Carlisle, England, 2026-03-14",
+    "url": "https://strongmanarchives.com/contests/3196/2026-psl-u73-kg-european-championship",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Diane Gaughan",
+        "country": "GBR",
+        "score": 8.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Millie Flanagan",
+        "country": "GBR",
+        "score": 5.5
+      }
+    ]
+  },
+  {
+    "contest_id": 3197,
+    "contest_name": "2026 PSL U64 kg European Championship",
+    "details": "Carlisle, England, 2026-03-14",
+    "url": "https://strongmanarchives.com/contests/3197/2026-psl-u64-kg-european-championship",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Tiffany Peters",
+        "country": "GBR",
+        "score": 9.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Stefanie Jansohn",
+        "country": "GER",
+        "score": 6.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3198,
+    "contest_name": "2026 Strongest Woman in Germany",
+    "details": "Leuna, Germany, 2026-09-05",
+    "url": "https://strongmanarchives.com/contests/3198/2026-strongest-woman-in-germany",
+    "total_competitors": 5,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Sina Ruppenthal",
+        "country": "GER",
+        "score": 8.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Thale Gustavel",
+        "country": "GER",
+        "score": 11.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Antonia Horn",
+        "country": "GER",
+        "score": 16.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Eva-Maria Deutsch",
+        "country": "GER",
+        "score": 20.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Miriam-Saskia Boberg",
+        "country": "GER",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3199,
+    "contest_name": "2026 U73 Strongest Woman in Germany",
+    "details": "Leuna, Germany, 2026-09-05",
+    "url": "https://strongmanarchives.com/contests/3199/2026-u73-strongest-woman-in-germany",
+    "total_competitors": 2,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Sandra Quirin",
+        "country": "GER",
+        "score": 5.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Djamila Bias",
+        "country": "GER",
+        "score": 10.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3200,
+    "contest_name": "2026 U64 Strongest Woman in Germany",
+    "details": "Leuna, Germany, 2026-09-05",
+    "url": "https://strongmanarchives.com/contests/3200/2026-u64-strongest-woman-in-germany",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Babette Beier",
+        "country": "GER",
+        "score": 7.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Louise Dalgren",
+        "country": "GER",
+        "score": 10.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Jaqueline Albers",
+        "country": "GER",
+        "score": 13.0
+      }
+    ]
   }
 ]
