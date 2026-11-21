@@ -42272,118 +42272,6 @@
     "competition_rank": 361
   },
   {
-    "contest_id": 1487,
-    "contest_name": "2023 Sweden's Strongest Man",
-    "details": "Västerås, Sweden, 2023-10-14",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.5,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 2524.596339920926,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "power": 1138.6,
-        "percent": 45.1
-      },
-      {
-        "rank": "2",
-        "person_name": "Marcus Yngvesson",
-        "country": "SWE",
-        "power": 129.6,
-        "percent": 5.1
-      },
-      {
-        "rank": "3",
-        "person_name": "Cim Johansson",
-        "country": "SWE",
-        "power": 849.4,
-        "percent": 33.6
-      },
-      {
-        "rank": "4",
-        "person_name": "Johan Espenkrona",
-        "country": "SWE",
-        "power": 52.4,
-        "percent": 2.1
-      },
-      {
-        "rank": "5",
-        "person_name": "Harley Andersson",
-        "country": "SWE",
-        "power": 354.5,
-        "percent": 14.0
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "score": 54
-      },
-      {
-        "rank": "2",
-        "person_name": "Marcus Yngvesson",
-        "country": "SWE",
-        "score": 51.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Cim Johansson",
-        "country": "SWE",
-        "score": 50.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Johan Espenkrona",
-        "country": "SWE",
-        "score": 47
-      },
-      {
-        "rank": "5",
-        "person_name": "Harley Andersson",
-        "country": "SWE",
-        "score": 45
-      },
-      {
-        "rank": "6",
-        "person_name": "Fredrik Svensson",
-        "country": "SWE",
-        "score": 37.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Joel Söderberg",
-        "country": "SWE",
-        "score": 29.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Jacob Larsson",
-        "country": "SWE",
-        "score": 28.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Jesper Hansson",
-        "country": "SWE",
-        "score": 12.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Joachim Kvick",
-        "country": "SWE",
-        "score": 11
-      }
-    ],
-    "difficulty_score": 29.2,
-    "competition_rank": 362
-  },
-  {
     "contest_id": 1986,
     "contest_name": "2025 Moscow Sports Night",
     "details": "Moscow, Russia, 2025-09-20",
@@ -42469,7 +42357,7 @@
       }
     ],
     "difficulty_score": 29.2,
-    "competition_rank": 363
+    "competition_rank": 362
   },
   {
     "contest_id": 2601,
@@ -42557,7 +42445,7 @@
       }
     ],
     "difficulty_score": 29.2,
-    "competition_rank": 364
+    "competition_rank": 363
   },
   {
     "contest_id": 2802,
@@ -42645,7 +42533,7 @@
       }
     ],
     "difficulty_score": 29.2,
-    "competition_rank": 365
+    "competition_rank": 364
   },
   {
     "contest_id": 1853,
@@ -42769,7 +42657,7 @@
       }
     ],
     "difficulty_score": 28.9,
-    "competition_rank": 366
+    "competition_rank": 365
   },
   {
     "contest_id": 2014,
@@ -42929,6 +42817,118 @@
       }
     ],
     "difficulty_score": 28.9,
+    "competition_rank": 366
+  },
+  {
+    "contest_id": 1487,
+    "contest_name": "2023 Sweden's Strongest Man",
+    "details": "Västerås, Sweden, 2023-10-14",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 0.5,
+    "division": "men",
+    "total_competitors": 10,
+    "raw_difficulty": 2497.1714744532,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "power": 1138.6,
+        "percent": 45.6
+      },
+      {
+        "rank": "2",
+        "person_name": "Marcus Yngvesson",
+        "country": "SWE",
+        "power": 115.9,
+        "percent": 4.6
+      },
+      {
+        "rank": "3",
+        "person_name": "Cim Johansson",
+        "country": "SWE",
+        "power": 849.4,
+        "percent": 34.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Johan Espenkrona",
+        "country": "SWE",
+        "power": 38.7,
+        "percent": 1.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Harley Andersson",
+        "country": "SWE",
+        "power": 354.5,
+        "percent": 14.2
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "score": 54
+      },
+      {
+        "rank": "2",
+        "person_name": "Marcus Yngvesson",
+        "country": "SWE",
+        "score": 51.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Cim Johansson",
+        "country": "SWE",
+        "score": 50.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Johan Espenkrona",
+        "country": "SWE",
+        "score": 47
+      },
+      {
+        "rank": "5",
+        "person_name": "Harley Andersson",
+        "country": "SWE",
+        "score": 45
+      },
+      {
+        "rank": "6",
+        "person_name": "Fredrik Svensson",
+        "country": "SWE",
+        "score": 37.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Joel Söderberg",
+        "country": "SWE",
+        "score": 29.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Jacob Larsson",
+        "country": "SWE",
+        "score": 28.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Jesper Hansson",
+        "country": "SWE",
+        "score": 12.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Joachim Kvick",
+        "country": "SWE",
+        "score": 11
+      }
+    ],
+    "difficulty_score": 28.7,
     "competition_rank": 367
   },
   {
@@ -45114,118 +45114,6 @@
     "competition_rank": 386
   },
   {
-    "contest_id": 1606,
-    "contest_name": "2024 Sweden's Strongest Man",
-    "details": "Malmö, Sweden, 2024-10-19",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 1.0,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 2292.9687145156186,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "power": 1138.6,
-        "percent": 49.7
-      },
-      {
-        "rank": "2",
-        "person_name": "Cim Johansson",
-        "country": "SWE",
-        "power": 849.4,
-        "percent": 37.0
-      },
-      {
-        "rank": "3",
-        "person_name": "Marcus Yngvesson",
-        "country": "SWE",
-        "power": 129.6,
-        "percent": 5.7
-      },
-      {
-        "rank": "4",
-        "person_name": "Joachim Kvick",
-        "country": "SWE",
-        "power": 138.6,
-        "percent": 6.0
-      },
-      {
-        "rank": "5",
-        "person_name": "Anton Larsson",
-        "country": "SWE",
-        "power": 36.8,
-        "percent": 1.6
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "score": 58
-      },
-      {
-        "rank": "2",
-        "person_name": "Cim Johansson",
-        "country": "SWE",
-        "score": 53.5
-      },
-      {
-        "rank": "3",
-        "person_name": "Marcus Yngvesson",
-        "country": "SWE",
-        "score": 49
-      },
-      {
-        "rank": "4",
-        "person_name": "Joachim Kvick",
-        "country": "SWE",
-        "score": 47
-      },
-      {
-        "rank": "5",
-        "person_name": "Anton Larsson",
-        "country": "SWE",
-        "score": 39.5
-      },
-      {
-        "rank": "6",
-        "person_name": "Fredrik Svensson",
-        "country": "SWE",
-        "score": 32
-      },
-      {
-        "rank": "7",
-        "person_name": "Anton Wasser",
-        "country": "SWE",
-        "score": 30
-      },
-      {
-        "rank": "8",
-        "person_name": "Jacob Larsson",
-        "country": "SWE",
-        "score": 25
-      },
-      {
-        "rank": "9",
-        "person_name": "Jonathan Partanen",
-        "country": "SWE",
-        "score": 23
-      },
-      {
-        "rank": "10",
-        "person_name": "Jonas Tinnerholm",
-        "country": "SWE",
-        "score": 11
-      }
-    ],
-    "difficulty_score": 25.3,
-    "competition_rank": 387
-  },
-  {
     "contest_id": 2940,
     "contest_name": "2026 St. Olaf's Strongman Championship",
     "details": "Savonlinna, Finaland, 2026-09-04 to 2026-09-05",
@@ -45323,7 +45211,7 @@
       }
     ],
     "difficulty_score": 25.3,
-    "competition_rank": 388
+    "competition_rank": 387
   },
   {
     "contest_id": 1299,
@@ -45435,6 +45323,118 @@
       }
     ],
     "difficulty_score": 25.2,
+    "competition_rank": 388
+  },
+  {
+    "contest_id": 1606,
+    "contest_name": "2024 Sweden's Strongest Man",
+    "details": "Malmö, Sweden, 2024-10-19",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 1.0,
+    "division": "men",
+    "total_competitors": 10,
+    "raw_difficulty": 2278.428220331404,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "power": 1138.6,
+        "percent": 50.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Cim Johansson",
+        "country": "SWE",
+        "power": 849.4,
+        "percent": 37.3
+      },
+      {
+        "rank": "3",
+        "person_name": "Marcus Yngvesson",
+        "country": "SWE",
+        "power": 115.9,
+        "percent": 5.1
+      },
+      {
+        "rank": "4",
+        "person_name": "Joachim Kvick",
+        "country": "SWE",
+        "power": 137.8,
+        "percent": 6.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Anton Larsson",
+        "country": "SWE",
+        "power": 36.8,
+        "percent": 1.6
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "score": 58
+      },
+      {
+        "rank": "2",
+        "person_name": "Cim Johansson",
+        "country": "SWE",
+        "score": 53.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Marcus Yngvesson",
+        "country": "SWE",
+        "score": 49
+      },
+      {
+        "rank": "4",
+        "person_name": "Joachim Kvick",
+        "country": "SWE",
+        "score": 47
+      },
+      {
+        "rank": "5",
+        "person_name": "Anton Larsson",
+        "country": "SWE",
+        "score": 39.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Fredrik Svensson",
+        "country": "SWE",
+        "score": 32
+      },
+      {
+        "rank": "7",
+        "person_name": "Anton Wasser",
+        "country": "SWE",
+        "score": 30
+      },
+      {
+        "rank": "8",
+        "person_name": "Jacob Larsson",
+        "country": "SWE",
+        "score": 25
+      },
+      {
+        "rank": "9",
+        "person_name": "Jonathan Partanen",
+        "country": "SWE",
+        "score": 23
+      },
+      {
+        "rank": "10",
+        "person_name": "Jonas Tinnerholm",
+        "country": "SWE",
+        "score": 11
+      }
+    ],
+    "difficulty_score": 25.0,
     "competition_rank": 389
   },
   {
@@ -56059,118 +56059,6 @@
     "competition_rank": 488
   },
   {
-    "contest_id": 1123,
-    "contest_name": "2021 Sweden's Strongest Man",
-    "details": "Älmhult, Sweden, 2021-11-20",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 1463.9149247279454,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Marcus Yngvesson",
-        "country": "SWE",
-        "power": 129.6,
-        "percent": 8.9
-      },
-      {
-        "rank": "2",
-        "person_name": "Johan Espenkrona",
-        "country": "SWE",
-        "power": 52.4,
-        "percent": 3.6
-      },
-      {
-        "rank": "3",
-        "person_name": "Fredrik Svensson",
-        "country": "SWE",
-        "power": 134.0,
-        "percent": 9.2
-      },
-      {
-        "rank": "4",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "power": 1138.6,
-        "percent": 77.8
-      },
-      {
-        "rank": "5",
-        "person_name": "John Wiberg",
-        "country": "SWE",
-        "power": 9.2,
-        "percent": 0.6
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Marcus Yngvesson",
-        "country": "SWE",
-        "score": 50
-      },
-      {
-        "rank": "2",
-        "person_name": "Johan Espenkrona",
-        "country": "SWE",
-        "score": 47
-      },
-      {
-        "rank": "3",
-        "person_name": "Fredrik Svensson",
-        "country": "SWE",
-        "score": 45.5
-      },
-      {
-        "rank": "4",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "score": 42.5
-      },
-      {
-        "rank": "5",
-        "person_name": "John Wiberg",
-        "country": "SWE",
-        "score": 33
-      },
-      {
-        "rank": "6",
-        "person_name": "Daniel Lindquist",
-        "country": "SWE",
-        "score": 26
-      },
-      {
-        "rank": "7",
-        "person_name": "Peter Rundberg",
-        "country": "SWE",
-        "score": 24
-      },
-      {
-        "rank": "8",
-        "person_name": "August Englund",
-        "country": "SWE",
-        "score": 20.5
-      },
-      {
-        "rank": "9",
-        "person_name": "Johnny Hansson",
-        "country": "SWE",
-        "score": 17
-      },
-      {
-        "rank": "10",
-        "person_name": "Joachim Kvick",
-        "country": "SWE",
-        "score": 9.5
-      }
-    ],
-    "difficulty_score": 12.9,
-    "competition_rank": 489
-  },
-  {
     "contest_id": 1696,
     "contest_name": "2025 Santa Monica Classic",
     "details": "Santa Monica, California, 2025-06-28 to 2025-06-29",
@@ -56286,7 +56174,7 @@
       }
     ],
     "difficulty_score": 12.6,
-    "competition_rank": 490
+    "competition_rank": 489
   },
   {
     "contest_id": 1413,
@@ -56404,7 +56292,7 @@
       }
     ],
     "difficulty_score": 12.5,
-    "competition_rank": 491
+    "competition_rank": 490
   },
   {
     "contest_id": 1155,
@@ -56415,14 +56303,14 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 6,
-    "raw_difficulty": 1418.7597418445912,
+    "raw_difficulty": 1417.9692476603773,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Joachim Kvick",
         "country": "SWE",
-        "power": 138.6,
-        "percent": 9.8
+        "power": 137.8,
+        "percent": 9.7
       },
       {
         "rank": "2",
@@ -56436,7 +56324,7 @@
         "person_name": "Cristian Quiroga",
         "country": "BOL",
         "power": 495.8,
-        "percent": 34.9
+        "percent": 35.0
       },
       {
         "rank": "4",
@@ -56492,7 +56380,7 @@
       }
     ],
     "difficulty_score": 12.3,
-    "competition_rank": 492
+    "competition_rank": 491
   },
   {
     "contest_id": 2332,
@@ -56610,7 +56498,7 @@
       }
     ],
     "difficulty_score": 12.3,
-    "competition_rank": 493
+    "competition_rank": 492
   },
   {
     "contest_id": 1723,
@@ -56710,7 +56598,7 @@
       }
     ],
     "difficulty_score": 12.2,
-    "competition_rank": 494
+    "competition_rank": 493
   },
   {
     "contest_id": 3012,
@@ -56810,7 +56698,7 @@
       }
     ],
     "difficulty_score": 12.2,
-    "competition_rank": 495
+    "competition_rank": 494
   },
   {
     "contest_id": 3146,
@@ -56898,7 +56786,7 @@
       }
     ],
     "difficulty_score": 12.2,
-    "competition_rank": 496
+    "competition_rank": 495
   },
   {
     "contest_id": 3148,
@@ -56986,7 +56874,7 @@
       }
     ],
     "difficulty_score": 12.2,
-    "competition_rank": 497
+    "competition_rank": 496
   },
   {
     "contest_id": 2891,
@@ -57152,7 +57040,7 @@
       }
     ],
     "difficulty_score": 12.0,
-    "competition_rank": 498
+    "competition_rank": 497
   },
   {
     "contest_id": 2595,
@@ -57270,7 +57158,7 @@
       }
     ],
     "difficulty_score": 11.7,
-    "competition_rank": 499
+    "competition_rank": 498
   },
   {
     "contest_id": 1609,
@@ -57388,7 +57276,7 @@
       }
     ],
     "difficulty_score": 11.6,
-    "competition_rank": 500
+    "competition_rank": 499
   },
   {
     "contest_id": 2609,
@@ -57494,7 +57382,7 @@
       }
     ],
     "difficulty_score": 11.6,
-    "competition_rank": 501
+    "competition_rank": 500
   },
   {
     "contest_id": 2930,
@@ -57505,14 +57393,14 @@
     "recency_multiplier": 0.25,
     "division": "men",
     "total_competitors": 6,
-    "raw_difficulty": 1362.9587421801707,
+    "raw_difficulty": 1356.4544620275067,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Kim Ujarak Lorentzen",
         "country": "GRL",
         "power": 23.8,
-        "percent": 1.7
+        "percent": 1.8
       },
       {
         "rank": "2",
@@ -57526,21 +57414,21 @@
         "person_name": "Fredrik Johansson",
         "country": "SWE",
         "power": 1138.6,
-        "percent": 83.5
+        "percent": 83.9
       },
       {
         "rank": "4",
         "person_name": "Fredrik Svensson",
         "country": "SWE",
-        "power": 134.0,
-        "percent": 9.8
+        "power": 127.5,
+        "percent": 9.4
       },
       {
         "rank": "5",
         "person_name": "Johan Liljeblad",
         "country": "SWE",
         "power": 37.4,
-        "percent": 2.7
+        "percent": 2.8
       }
     ],
     "results": [
@@ -57581,120 +57469,8 @@
         "score": 7.0
       }
     ],
-    "difficulty_score": 11.6,
-    "competition_rank": 502
-  },
-  {
-    "contest_id": 1351,
-    "contest_name": "2022 Sweden's Strongest Man",
-    "details": "Växjö, Sweden, 2022-11-05",
-    "tier": "TIER_4",
-    "tier_multiplier": 1.0,
-    "recency_multiplier": 0.25,
-    "division": "men",
-    "total_competitors": 10,
-    "raw_difficulty": 1337.8677348509905,
-    "top_5_finishers": [
-      {
-        "rank": "1",
-        "person_name": "Andreas Ståhlberg",
-        "country": "SWE",
-        "power": 29.1,
-        "percent": 2.2
-      },
-      {
-        "rank": "2",
-        "person_name": "Johnny Hansson",
-        "country": "SWE",
-        "power": 22.3,
-        "percent": 1.7
-      },
-      {
-        "rank": "3",
-        "person_name": "Joachim Kvick",
-        "country": "SWE",
-        "power": 138.6,
-        "percent": 10.4
-      },
-      {
-        "rank": "4",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "power": 1138.6,
-        "percent": 85.1
-      },
-      {
-        "rank": "5",
-        "person_name": "David Ebbeke",
-        "country": "SWE",
-        "power": 9.2,
-        "percent": 0.7
-      }
-    ],
-    "results": [
-      {
-        "rank": "1",
-        "person_name": "Andreas Ståhlberg",
-        "country": "SWE",
-        "score": 46.5
-      },
-      {
-        "rank": "2",
-        "person_name": "Johnny Hansson",
-        "country": "SWE",
-        "score": 43
-      },
-      {
-        "rank": "3",
-        "person_name": "Joachim Kvick",
-        "country": "SWE",
-        "score": 42
-      },
-      {
-        "rank": "4",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "score": 39.5
-      },
-      {
-        "rank": "5",
-        "person_name": "David Ebbeke",
-        "country": "SWE",
-        "score": 35
-      },
-      {
-        "rank": "6",
-        "person_name": "Fredrik Svensson",
-        "country": "SWE",
-        "score": 34.5
-      },
-      {
-        "rank": "7",
-        "person_name": "Harley Andersson",
-        "country": "SWE",
-        "score": 31.5
-      },
-      {
-        "rank": "8",
-        "person_name": "Jacob Larsson",
-        "country": "SWE",
-        "score": 27
-      },
-      {
-        "rank": "9",
-        "person_name": "Anton Wasser",
-        "country": "SWE",
-        "score": 15.5
-      },
-      {
-        "rank": "10",
-        "person_name": "Stefan Bergqvist",
-        "country": "SWE",
-        "score": 7.5
-      }
-    ],
-    "difficulty_score": 11.3,
-    "competition_rank": 503
+    "difficulty_score": 11.5,
+    "competition_rank": 501
   },
   {
     "contest_id": 2627,
@@ -57830,7 +57606,7 @@
       }
     ],
     "difficulty_score": 11.3,
-    "competition_rank": 504
+    "competition_rank": 502
   },
   {
     "contest_id": 3145,
@@ -57918,7 +57694,119 @@
       }
     ],
     "difficulty_score": 11.3,
-    "competition_rank": 505
+    "competition_rank": 503
+  },
+  {
+    "contest_id": 1351,
+    "contest_name": "2022 Sweden's Strongest Man",
+    "details": "Växjö, Sweden, 2022-11-05",
+    "tier": "TIER_4",
+    "tier_multiplier": 1.0,
+    "recency_multiplier": 0.25,
+    "division": "men",
+    "total_competitors": 10,
+    "raw_difficulty": 1334.2013658979986,
+    "top_5_finishers": [
+      {
+        "rank": "1",
+        "person_name": "Andreas Ståhlberg",
+        "country": "SWE",
+        "power": 29.1,
+        "percent": 2.2
+      },
+      {
+        "rank": "2",
+        "person_name": "Johnny Hansson",
+        "country": "SWE",
+        "power": 19.5,
+        "percent": 1.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Joachim Kvick",
+        "country": "SWE",
+        "power": 137.8,
+        "percent": 10.3
+      },
+      {
+        "rank": "4",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "power": 1138.6,
+        "percent": 85.3
+      },
+      {
+        "rank": "5",
+        "person_name": "David Ebbeke",
+        "country": "SWE",
+        "power": 9.2,
+        "percent": 0.7
+      }
+    ],
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Andreas Ståhlberg",
+        "country": "SWE",
+        "score": 46.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Johnny Hansson",
+        "country": "SWE",
+        "score": 43
+      },
+      {
+        "rank": "3",
+        "person_name": "Joachim Kvick",
+        "country": "SWE",
+        "score": 42
+      },
+      {
+        "rank": "4",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "score": 39.5
+      },
+      {
+        "rank": "5",
+        "person_name": "David Ebbeke",
+        "country": "SWE",
+        "score": 35
+      },
+      {
+        "rank": "6",
+        "person_name": "Fredrik Svensson",
+        "country": "SWE",
+        "score": 34.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Harley Andersson",
+        "country": "SWE",
+        "score": 31.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Jacob Larsson",
+        "country": "SWE",
+        "score": 27
+      },
+      {
+        "rank": "9",
+        "person_name": "Anton Wasser",
+        "country": "SWE",
+        "score": 15.5
+      },
+      {
+        "rank": "10",
+        "person_name": "Stefan Bergqvist",
+        "country": "SWE",
+        "score": 7.5
+      }
+    ],
+    "difficulty_score": 11.2,
+    "competition_rank": 504
   },
   {
     "contest_id": 3040,
@@ -58012,7 +57900,7 @@
       }
     ],
     "difficulty_score": 11.2,
-    "competition_rank": 506
+    "competition_rank": 505
   },
   {
     "contest_id": 1896,
@@ -58118,7 +58006,7 @@
       }
     ],
     "difficulty_score": 11.1,
-    "competition_rank": 507
+    "competition_rank": 506
   },
   {
     "contest_id": 2574,
@@ -58224,7 +58112,7 @@
       }
     ],
     "difficulty_score": 10.7,
-    "competition_rank": 508
+    "competition_rank": 507
   },
   {
     "contest_id": 2455,
@@ -58354,7 +58242,7 @@
       }
     ],
     "difficulty_score": 10.5,
-    "competition_rank": 509
+    "competition_rank": 508
   },
   {
     "contest_id": 2935,
@@ -58448,7 +58336,7 @@
       }
     ],
     "difficulty_score": 10.4,
-    "competition_rank": 510
+    "competition_rank": 509
   },
   {
     "contest_id": 1698,
@@ -58560,7 +58448,7 @@
       }
     ],
     "difficulty_score": 10.3,
-    "competition_rank": 511
+    "competition_rank": 510
   },
   {
     "contest_id": 3098,
@@ -58648,7 +58536,7 @@
       }
     ],
     "difficulty_score": 10.3,
-    "competition_rank": 512
+    "competition_rank": 511
   },
   {
     "contest_id": 1336,
@@ -58736,7 +58624,7 @@
       }
     ],
     "difficulty_score": 10.2,
-    "competition_rank": 513
+    "competition_rank": 512
   },
   {
     "contest_id": 2047,
@@ -58854,7 +58742,7 @@
       }
     ],
     "difficulty_score": 10.1,
-    "competition_rank": 514
+    "competition_rank": 513
   },
   {
     "contest_id": 2653,
@@ -58948,7 +58836,7 @@
       }
     ],
     "difficulty_score": 10.1,
-    "competition_rank": 515
+    "competition_rank": 514
   },
   {
     "contest_id": 3087,
@@ -59042,7 +58930,7 @@
       }
     ],
     "difficulty_score": 10.0,
-    "competition_rank": 516
+    "competition_rank": 515
   },
   {
     "contest_id": 1499,
@@ -59124,7 +59012,7 @@
       }
     ],
     "difficulty_score": 9.9,
-    "competition_rank": 517
+    "competition_rank": 516
   },
   {
     "contest_id": 3099,
@@ -59218,7 +59106,7 @@
       }
     ],
     "difficulty_score": 9.9,
-    "competition_rank": 518
+    "competition_rank": 517
   },
   {
     "contest_id": 3085,
@@ -59306,7 +59194,7 @@
       }
     ],
     "difficulty_score": 9.7,
-    "competition_rank": 519
+    "competition_rank": 518
   },
   {
     "contest_id": 3100,
@@ -59394,7 +59282,7 @@
       }
     ],
     "difficulty_score": 9.7,
-    "competition_rank": 520
+    "competition_rank": 519
   },
   {
     "contest_id": 3101,
@@ -59482,7 +59370,7 @@
       }
     ],
     "difficulty_score": 9.7,
-    "competition_rank": 521
+    "competition_rank": 520
   },
   {
     "contest_id": 1739,
@@ -59588,7 +59476,7 @@
       }
     ],
     "difficulty_score": 9.6,
-    "competition_rank": 522
+    "competition_rank": 521
   },
   {
     "contest_id": 2945,
@@ -59694,7 +59582,7 @@
       }
     ],
     "difficulty_score": 9.6,
-    "competition_rank": 523
+    "competition_rank": 522
   },
   {
     "contest_id": 1307,
@@ -59824,7 +59712,7 @@
       }
     ],
     "difficulty_score": 9.3,
-    "competition_rank": 524
+    "competition_rank": 523
   },
   {
     "contest_id": 2453,
@@ -59936,7 +59824,7 @@
       }
     ],
     "difficulty_score": 9.2,
-    "competition_rank": 525
+    "competition_rank": 524
   },
   {
     "contest_id": 1672,
@@ -60018,7 +59906,7 @@
       }
     ],
     "difficulty_score": 9.1,
-    "competition_rank": 526
+    "competition_rank": 525
   },
   {
     "contest_id": 2181,
@@ -60112,7 +60000,7 @@
       }
     ],
     "difficulty_score": 9.1,
-    "competition_rank": 527
+    "competition_rank": 526
   },
   {
     "contest_id": 2657,
@@ -60212,7 +60100,7 @@
       }
     ],
     "difficulty_score": 9.0,
-    "competition_rank": 528
+    "competition_rank": 527
   },
   {
     "contest_id": 3017,
@@ -60300,7 +60188,7 @@
       }
     ],
     "difficulty_score": 9.0,
-    "competition_rank": 529
+    "competition_rank": 528
   },
   {
     "contest_id": 3041,
@@ -60394,7 +60282,7 @@
       }
     ],
     "difficulty_score": 8.9,
-    "competition_rank": 530
+    "competition_rank": 529
   },
   {
     "contest_id": 1504,
@@ -60476,7 +60364,7 @@
       }
     ],
     "difficulty_score": 8.6,
-    "competition_rank": 531
+    "competition_rank": 530
   },
   {
     "contest_id": 2631,
@@ -60606,7 +60494,7 @@
       }
     ],
     "difficulty_score": 8.6,
-    "competition_rank": 532
+    "competition_rank": 531
   },
   {
     "contest_id": 2603,
@@ -60718,7 +60606,7 @@
       }
     ],
     "difficulty_score": 8.4,
-    "competition_rank": 533
+    "competition_rank": 532
   },
   {
     "contest_id": 2629,
@@ -60824,7 +60712,7 @@
       }
     ],
     "difficulty_score": 8.3,
-    "competition_rank": 534
+    "competition_rank": 533
   },
   {
     "contest_id": 1329,
@@ -60972,7 +60860,7 @@
       }
     ],
     "difficulty_score": 8.1,
-    "competition_rank": 535
+    "competition_rank": 534
   },
   {
     "contest_id": 1947,
@@ -61060,7 +60948,7 @@
       }
     ],
     "difficulty_score": 8.1,
-    "competition_rank": 536
+    "competition_rank": 535
   },
   {
     "contest_id": 2511,
@@ -61154,7 +61042,7 @@
       }
     ],
     "difficulty_score": 8.1,
-    "competition_rank": 537
+    "competition_rank": 536
   },
   {
     "contest_id": 2583,
@@ -61308,7 +61196,7 @@
       }
     ],
     "difficulty_score": 8.1,
-    "competition_rank": 538
+    "competition_rank": 537
   },
   {
     "contest_id": 1897,
@@ -61420,7 +61308,7 @@
       }
     ],
     "difficulty_score": 8.0,
-    "competition_rank": 539
+    "competition_rank": 538
   },
   {
     "contest_id": 1959,
@@ -61550,7 +61438,7 @@
       }
     ],
     "difficulty_score": 8.0,
-    "competition_rank": 540
+    "competition_rank": 539
   },
   {
     "contest_id": 1446,
@@ -61650,7 +61538,7 @@
       }
     ],
     "difficulty_score": 7.9,
-    "competition_rank": 541
+    "competition_rank": 540
   },
   {
     "contest_id": 2432,
@@ -61732,7 +61620,7 @@
       }
     ],
     "difficulty_score": 7.8,
-    "competition_rank": 542
+    "competition_rank": 541
   },
   {
     "contest_id": 1376,
@@ -61844,7 +61732,7 @@
       }
     ],
     "difficulty_score": 7.7,
-    "competition_rank": 543
+    "competition_rank": 542
   },
   {
     "contest_id": 1544,
@@ -62004,7 +61892,7 @@
       }
     ],
     "difficulty_score": 7.7,
-    "competition_rank": 544
+    "competition_rank": 543
   },
   {
     "contest_id": 2537,
@@ -62092,7 +61980,7 @@
       }
     ],
     "difficulty_score": 7.7,
-    "competition_rank": 545
+    "competition_rank": 544
   },
   {
     "contest_id": 1393,
@@ -62252,7 +62140,7 @@
       }
     ],
     "difficulty_score": 7.5,
-    "competition_rank": 546
+    "competition_rank": 545
   },
   {
     "contest_id": 2838,
@@ -62364,7 +62252,7 @@
       }
     ],
     "difficulty_score": 7.4,
-    "competition_rank": 547
+    "competition_rank": 546
   },
   {
     "contest_id": 1300,
@@ -62488,7 +62376,7 @@
       }
     ],
     "difficulty_score": 7.3,
-    "competition_rank": 548
+    "competition_rank": 547
   },
   {
     "contest_id": 1728,
@@ -62600,7 +62488,7 @@
       }
     ],
     "difficulty_score": 7.1,
-    "competition_rank": 549
+    "competition_rank": 548
   },
   {
     "contest_id": 1237,
@@ -62724,7 +62612,7 @@
       }
     ],
     "difficulty_score": 6.9,
-    "competition_rank": 550
+    "competition_rank": 549
   },
   {
     "contest_id": 2633,
@@ -62824,7 +62712,7 @@
       }
     ],
     "difficulty_score": 6.9,
-    "competition_rank": 551
+    "competition_rank": 550
   },
   {
     "contest_id": 1338,
@@ -62948,7 +62836,7 @@
       }
     ],
     "difficulty_score": 6.8,
-    "competition_rank": 552
+    "competition_rank": 551
   },
   {
     "contest_id": 1540,
@@ -63060,7 +62948,7 @@
       }
     ],
     "difficulty_score": 6.8,
-    "competition_rank": 553
+    "competition_rank": 552
   },
   {
     "contest_id": 2596,
@@ -63178,7 +63066,7 @@
       }
     ],
     "difficulty_score": 6.8,
-    "competition_rank": 554
+    "competition_rank": 553
   },
   {
     "contest_id": 2628,
@@ -63284,7 +63172,7 @@
       }
     ],
     "difficulty_score": 6.8,
-    "competition_rank": 555
+    "competition_rank": 554
   },
   {
     "contest_id": 1714,
@@ -63384,7 +63272,7 @@
       }
     ],
     "difficulty_score": 6.7,
-    "competition_rank": 556
+    "competition_rank": 555
   },
   {
     "contest_id": 2198,
@@ -63508,7 +63396,7 @@
       }
     ],
     "difficulty_score": 6.6,
-    "competition_rank": 557
+    "competition_rank": 556
   },
   {
     "contest_id": 2600,
@@ -63626,7 +63514,7 @@
       }
     ],
     "difficulty_score": 6.4,
-    "competition_rank": 558
+    "competition_rank": 557
   },
   {
     "contest_id": 2547,
@@ -63744,7 +63632,7 @@
       }
     ],
     "difficulty_score": 6.2,
-    "competition_rank": 559
+    "competition_rank": 558
   },
   {
     "contest_id": 3082,
@@ -63862,7 +63750,7 @@
       }
     ],
     "difficulty_score": 6.1,
-    "competition_rank": 560
+    "competition_rank": 559
   },
   {
     "contest_id": 1157,
@@ -63986,7 +63874,7 @@
       }
     ],
     "difficulty_score": 5.8,
-    "competition_rank": 561
+    "competition_rank": 560
   },
   {
     "contest_id": 2597,
@@ -64098,7 +63986,7 @@
       }
     ],
     "difficulty_score": 5.7,
-    "competition_rank": 562
+    "competition_rank": 561
   },
   {
     "contest_id": 2006,
@@ -64192,7 +64080,7 @@
       }
     ],
     "difficulty_score": 4.6,
-    "competition_rank": 563
+    "competition_rank": 562
   },
   {
     "contest_id": 2452,
@@ -64310,7 +64198,7 @@
       }
     ],
     "difficulty_score": 4.6,
-    "competition_rank": 564
+    "competition_rank": 563
   },
   {
     "contest_id": 1740,
@@ -64398,7 +64286,7 @@
       }
     ],
     "difficulty_score": 4.5,
-    "competition_rank": 565
+    "competition_rank": 564
   },
   {
     "contest_id": 1604,
@@ -64540,7 +64428,7 @@
       }
     ],
     "difficulty_score": 4.3,
-    "competition_rank": 566
+    "competition_rank": 565
   },
   {
     "contest_id": 2913,
@@ -64622,7 +64510,7 @@
       }
     ],
     "difficulty_score": 4.3,
-    "competition_rank": 567
+    "competition_rank": 566
   },
   {
     "contest_id": 2419,
@@ -64734,7 +64622,7 @@
       }
     ],
     "difficulty_score": 4.1,
-    "competition_rank": 568
+    "competition_rank": 567
   },
   {
     "contest_id": 3174,
@@ -64822,7 +64710,7 @@
       }
     ],
     "difficulty_score": 3.9,
-    "competition_rank": 569
+    "competition_rank": 568
   },
   {
     "contest_id": 2418,
@@ -64946,7 +64834,7 @@
       }
     ],
     "difficulty_score": 3.6,
-    "competition_rank": 570
+    "competition_rank": 569
   },
   {
     "contest_id": 2614,
@@ -65064,7 +64952,7 @@
       }
     ],
     "difficulty_score": 3.4,
-    "competition_rank": 571
+    "competition_rank": 570
   },
   {
     "contest_id": 1898,
@@ -65176,7 +65064,7 @@
       }
     ],
     "difficulty_score": 3.3,
-    "competition_rank": 572
+    "competition_rank": 571
   },
   {
     "contest_id": 1882,
@@ -65294,7 +65182,7 @@
       }
     ],
     "difficulty_score": 3.2,
-    "competition_rank": 573
+    "competition_rank": 572
   },
   {
     "contest_id": 2876,
@@ -65406,7 +65294,7 @@
       }
     ],
     "difficulty_score": 3.2,
-    "competition_rank": 574
+    "competition_rank": 573
   },
   {
     "contest_id": 1312,
@@ -65566,7 +65454,7 @@
       }
     ],
     "difficulty_score": 3.1,
-    "competition_rank": 575
+    "competition_rank": 574
   },
   {
     "contest_id": 3201,
@@ -65702,7 +65590,7 @@
       }
     ],
     "difficulty_score": 3.0,
-    "competition_rank": 576
+    "competition_rank": 575
   },
   {
     "contest_id": 1881,
@@ -65820,7 +65708,7 @@
       }
     ],
     "difficulty_score": 2.9,
-    "competition_rank": 577
+    "competition_rank": 576
   },
   {
     "contest_id": 2624,
@@ -65914,7 +65802,7 @@
       }
     ],
     "difficulty_score": 2.7,
-    "competition_rank": 578
+    "competition_rank": 577
   },
   {
     "contest_id": 2626,
@@ -66014,7 +65902,7 @@
       }
     ],
     "difficulty_score": 2.5,
-    "competition_rank": 579
+    "competition_rank": 578
   },
   {
     "contest_id": 1272,
@@ -66138,7 +66026,7 @@
       }
     ],
     "difficulty_score": 2.1,
-    "competition_rank": 580
+    "competition_rank": 579
   },
   {
     "contest_id": 1596,
@@ -66250,7 +66138,7 @@
       }
     ],
     "difficulty_score": 2.0,
-    "competition_rank": 581
+    "competition_rank": 580
   },
   {
     "contest_id": 1673,
@@ -66338,7 +66226,7 @@
       }
     ],
     "difficulty_score": 1.3,
-    "competition_rank": 582
+    "competition_rank": 581
   },
   {
     "contest_id": 1390,
@@ -66349,42 +66237,42 @@
     "recency_multiplier": 0.5,
     "division": "men",
     "total_competitors": 14,
-    "raw_difficulty": 279.4774038376962,
+    "raw_difficulty": 259.2982582173061,
     "top_5_finishers": [
       {
         "rank": "1",
         "person_name": "Johan Espenkrona",
         "country": "SWE",
-        "power": 52.4,
-        "percent": 18.7
+        "power": 38.7,
+        "percent": 14.9
       },
       {
         "rank": "2",
         "person_name": "Eric Dawson",
         "country": "USA",
         "power": 36.9,
-        "percent": 13.2
+        "percent": 14.2
       },
       {
         "rank": "3",
         "person_name": "Øyvind Skjævesland Gustavsen",
         "country": "NOR",
         "power": 49.5,
-        "percent": 17.7
+        "percent": 19.1
       },
       {
         "rank": "4",
         "person_name": "Veli-Pekka Kauhanen",
         "country": "FIN",
         "power": 6.6,
-        "percent": 2.4
+        "percent": 2.5
       },
       {
         "rank": "5",
         "person_name": "Fredrik Svensson",
         "country": "SWE",
-        "power": 134.0,
-        "percent": 47.9
+        "power": 127.5,
+        "percent": 49.2
       }
     ],
     "results": [
@@ -66473,8 +66361,8 @@
         "score": 15.5
       }
     ],
-    "difficulty_score": 1.1,
-    "competition_rank": 583
+    "difficulty_score": 1.0,
+    "competition_rank": 582
   },
   {
     "contest_id": 1408,
@@ -66586,7 +66474,7 @@
       }
     ],
     "difficulty_score": 1.0,
-    "competition_rank": 584
+    "competition_rank": 583
   },
   {
     "contest_id": 2619,
@@ -66680,7 +66568,7 @@
       }
     ],
     "difficulty_score": 1.0,
-    "competition_rank": 585
+    "competition_rank": 584
   },
   {
     "contest_id": 2618,
@@ -66780,7 +66668,7 @@
       }
     ],
     "difficulty_score": 0.7,
-    "competition_rank": 586
+    "competition_rank": 585
   },
   {
     "contest_id": 2620,
@@ -66880,7 +66768,7 @@
       }
     ],
     "difficulty_score": 0.7,
-    "competition_rank": 587
+    "competition_rank": 586
   },
   {
     "contest_id": 2617,
@@ -66980,7 +66868,7 @@
       }
     ],
     "difficulty_score": 0.6,
-    "competition_rank": 588
+    "competition_rank": 587
   },
   {
     "contest_id": 1369,
@@ -67086,7 +66974,7 @@
       }
     ],
     "difficulty_score": 0.5,
-    "competition_rank": 589
+    "competition_rank": 588
   },
   {
     "contest_id": 3016,
@@ -67186,7 +67074,7 @@
       }
     ],
     "difficulty_score": 0.2,
-    "competition_rank": 590
+    "competition_rank": 589
   },
   {
     "contest_id": 1238,
@@ -67286,7 +67174,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 591
+    "competition_rank": 590
   },
   {
     "contest_id": 1315,
@@ -67386,7 +67274,7 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 592
+    "competition_rank": 591
   },
   {
     "contest_id": 3095,
@@ -67480,6 +67368,6 @@
       }
     ],
     "difficulty_score": 0.0,
-    "competition_rank": 593
+    "competition_rank": 592
   }
 ]
