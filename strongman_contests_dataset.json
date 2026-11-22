@@ -196027,5 +196027,221 @@
         "score": 0.0
       }
     ]
+  },
+  {
+    "contest_id": 3215,
+    "contest_name": "2026 U75 Africa's Strongest Woman",
+    "details": "Benoni, South Africa, 2026-11-20",
+    "url": "https://strongmanarchives.com/contests/3215/2026-u75-africas-strongest-woman",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Chitemwano Phiri",
+        "country": "ZAM",
+        "score": 23.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Naomi Zimba",
+        "country": "ZAM",
+        "score": 15.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Louise Faber",
+        "country": "RSA",
+        "score": 3.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Monique Hougaard",
+        "country": "RSA",
+        "score": 3.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3216,
+    "contest_name": "2026 Masters Africa's Strongest Man",
+    "details": "Benoni, South Africa, 2026-11-20",
+    "url": "https://strongmanarchives.com/contests/3216/2026-masters-africas-strongest-man",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Paul Mwanza",
+        "country": "ZAM",
+        "score": 17.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Cesar Da Silva",
+        "country": "RSA",
+        "score": 12.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Cedric Kayumba",
+        "country": "COD",
+        "score": 3.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3217,
+    "contest_name": "2026 U80 Africa's Strongest Man",
+    "details": "Benoni, South Africa, 2026-11-20",
+    "url": "https://strongmanarchives.com/contests/3217/2026-u80-africas-strongest-man",
+    "total_competitors": 3,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Shazzar Abana Chisompola",
+        "country": "ZAM",
+        "score": 13.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Oliver Kakoma Kalenga",
+        "country": "ZAM",
+        "score": 11.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Nicholas Makou",
+        "country": "RSA",
+        "score": 2.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3218,
+    "contest_name": "2026 U90 Africa's Strongest Man",
+    "details": "Benoni, South Africa, 2026-11-21",
+    "url": "https://strongmanarchives.com/contests/3218/2026-u90-africas-strongest-man",
+    "total_competitors": 4,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Sam Mumba",
+        "country": "ZAM",
+        "score": 22.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Dillan Davel",
+        "country": "RSA",
+        "score": 16.0
+      },
+      {
+        "rank": "3",
+        "person_name": "George Lopes",
+        "country": "RSA",
+        "score": 9.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Erin Barnard",
+        "country": "RSA",
+        "score": 6.0
+      }
+    ]
+  },
+  {
+    "contest_id": 3219,
+    "contest_name": "2026 U105 Africa's Strongest Man",
+    "details": "Benoni, South Africa, 2026-11-21",
+    "url": "https://strongmanarchives.com/contests/3219/2026-u105-africas-strongest-man",
+    "total_competitors": 7,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Frikkie Page",
+        "country": "RSA",
+        "score": 34.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Gift Habeenzu",
+        "country": "ZAM",
+        "score": 32.5
+      },
+      {
+        "rank": "3",
+        "person_name": "Musonda Mutale",
+        "country": "ZAM",
+        "score": 23.0
+      },
+      {
+        "rank": "4",
+        "person_name": "Wiann  Le Grange",
+        "country": "RSA",
+        "score": 21.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Paul Simbeye",
+        "country": "ZAM",
+        "score": 13.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Michael Geldenhuys",
+        "country": "RSA",
+        "score": 12.5
+      },
+      {
+        "rank": "7",
+        "person_name": "Phillip Kademaunga",
+        "country": "ZAM",
+        "score": 9.5
+      }
+    ]
+  },
+  {
+    "contest_id": 3220,
+    "contest_name": "2026 Junior Africa's Strongest Man",
+    "details": "Benoni, South Africa, 2026-11-21",
+    "url": "https://strongmanarchives.com/contests/3220/2026-junior-africas-strongest-man",
+    "total_competitors": 6,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Amo Boateng",
+        "country": "GHA",
+        "score": 31.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Travis Luke Dismore",
+        "country": "RSA",
+        "score": 21.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Kyle Rosslee",
+        "country": "RSA",
+        "score": 21.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Shaun Boshoff",
+        "country": "RSA",
+        "score": 20.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Rueben  Lombard",
+        "country": "RSA",
+        "score": 10.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Corban Lombard",
+        "country": "RSA",
+        "score": 7.5
+      }
+    ]
   }
 ]
