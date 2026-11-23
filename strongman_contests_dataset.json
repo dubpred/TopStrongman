@@ -137249,7 +137249,7 @@
   {
     "contest_id": 2130,
     "contest_name": "2007 Finland's Strongest Man",
-    "details": "Turku, Finland, 2007",
+    "details": "",
     "url": "https://strongmanarchives.com/contests/2130/2007-finlands-strongest-man",
     "total_competitors": 14,
     "results": [
@@ -191573,7 +191573,7 @@
   {
     "contest_id": 3095,
     "contest_name": "2026 Official Strongman Finland",
-    "details": "HÃ¤meenlinna, Finland, 2026-11-28",
+    "details": "",
     "url": "https://strongmanarchives.com/contests/3095/2026-official-strongman-finland",
     "total_competitors": 13,
     "results": [
@@ -196241,6 +196241,69 @@
         "person_name": "Corban Lombard",
         "country": "RSA",
         "score": 7.5
+      }
+    ]
+  },
+  {
+    "contest_id": 3221,
+    "contest_name": "2026 Slovenia's Strongest Man",
+    "details": "",
+    "url": "https://strongmanarchives.com/contests/3221/2026-slovenias-strongest-man",
+    "total_competitors": 9,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Robert Reljič",
+        "country": "SLO",
+        "score": 38.5
+      },
+      {
+        "rank": "2",
+        "person_name": "Tilen Jeršin",
+        "country": "SLO",
+        "score": 37.0
+      },
+      {
+        "rank": "3",
+        "person_name": "Gal Pevec",
+        "country": "SLO",
+        "score": 30.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Gašper Vrhovšek",
+        "country": "SLO",
+        "score": 26.5
+      },
+      {
+        "rank": "5",
+        "person_name": "Martin Rotar",
+        "country": "SLO",
+        "score": 22.5
+      },
+      {
+        "rank": "6",
+        "person_name": "Matej Bičvič",
+        "country": "SLO",
+        "score": 18.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Navid Somali",
+        "country": "SLO",
+        "score": 16.5
+      },
+      {
+        "rank": "8",
+        "person_name": "Miloš Antončič",
+        "country": "SLO",
+        "score": 13.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Dima Natasichuk",
+        "country": "SLO",
+        "score": 3.5
       }
     ]
   }
