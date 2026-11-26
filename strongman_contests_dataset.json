@@ -196315,238 +196315,361 @@
     "total_competitors": 39,
     "results": [
       {
-        "rank": "-",
+        "rank": "1",
+        "person_name": "B.J. Stone",
+        "country": "AUS",
+        "score": 150.0
+      },
+      {
+        "rank": "2",
+        "person_name": "Josh Spurgeon",
+        "country": "USA",
+        "score": 145.0
+      },
+      {
+        "rank": "3",
         "person_name": "Andrew Burton",
         "country": "USA",
+        "score": 139.5
+      },
+      {
+        "rank": "4",
+        "person_name": "Nick Wortham",
+        "country": "USA",
+        "score": 127.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Seth Soukup",
+        "country": "USA",
+        "score": 124.0
+      },
+      {
+        "rank": "6",
+        "person_name": "Marc Sanchez",
+        "country": "USA",
+        "score": 121.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Fredrik Johansson",
+        "country": "SWE",
+        "score": 117.0
+      },
+      {
+        "rank": "8",
+        "person_name": "Dylan Lockard",
+        "country": "USA",
+        "score": 107.5
+      },
+      {
+        "rank": "9",
+        "person_name": "Joseph Basiura",
+        "country": "USA",
+        "score": 106.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Maxime Boudreault",
+        "country": "CAN",
+        "score": 106.0
+      },
+      {
+        "rank": "11",
+        "person_name": "James Eerdmans",
+        "country": "USA",
+        "score": 102.0
+      },
+      {
+        "rank": "12",
+        "person_name": "Lukáš Pepř",
+        "country": "CZE",
+        "score": 100.0
+      },
+      {
+        "rank": "13",
+        "person_name": "Lucas Webster",
+        "country": "USA",
+        "score": 99.0
+      },
+      {
+        "rank": "14",
+        "person_name": "Tyler Gustafson",
+        "country": "USA",
+        "score": 96.0
+      },
+      {
+        "rank": "15",
+        "person_name": "Josh Gregory",
+        "country": "USA",
+        "score": 94.0
+      },
+      {
+        "rank": "16",
+        "person_name": "Kyle Banta",
+        "country": "USA",
+        "score": 93.0
+      },
+      {
+        "rank": "16",
+        "person_name": "Jack Forgacs",
+        "country": "HUN",
+        "score": 93.0
+      },
+      {
+        "rank": "16",
+        "person_name": "Dawid Pakulski",
+        "country": "POL",
+        "score": 93.0
+      },
+      {
+        "rank": "19",
+        "person_name": "Benjamin Ripa",
+        "country": "USA",
+        "score": 90.0
+      },
+      {
+        "rank": "20",
+        "person_name": "Tyler Thompson",
+        "country": "USA",
+        "score": 83.0
+      },
+      {
+        "rank": "21",
+        "person_name": "Chase Provost",
+        "country": "USA",
+        "score": 75.0
+      },
+      {
+        "rank": "22",
+        "person_name": "Jeremy Thompson",
+        "country": "USA",
+        "score": 72.0
+      },
+      {
+        "rank": "23",
+        "person_name": "Darian O'Sullivan",
+        "country": "NZL",
+        "score": 68.0
+      },
+      {
+        "rank": "24",
+        "person_name": "Amari Beal",
+        "country": "USA",
+        "score": 67.0
+      },
+      {
+        "rank": "25",
+        "person_name": "Calvin Sexton",
+        "country": "USA",
+        "score": 65.0
+      },
+      {
+        "rank": "26",
+        "person_name": "Ethen Erickson",
+        "country": "MEX",
+        "score": 64.0
+      },
+      {
+        "rank": "26",
+        "person_name": "Adrien Nesta",
+        "country": "CAN",
+        "score": 30.0
+      },
+      {
+        "rank": "27",
+        "person_name": "Paolo Acquaviva",
+        "country": "ITA",
+        "score": 61.0
+      },
+      {
+        "rank": "28",
+        "person_name": "Jasmin Desjardins",
+        "country": "CAN",
+        "score": 56.0
+      },
+      {
+        "rank": "29",
+        "person_name": "Jacob McGaha",
+        "country": "USA",
+        "score": 55.5
+      },
+      {
+        "rank": "30",
+        "person_name": "Jared Bellows",
+        "country": "USA",
+        "score": 49.0
+      },
+      {
+        "rank": "30",
+        "person_name": "Magnus Ødegård",
+        "country": "NOR",
+        "score": 49.0
+      },
+      {
+        "rank": "32",
+        "person_name": "George Paunovic",
+        "country": "SUI",
+        "score": 46.0
+      },
+      {
+        "rank": "33",
+        "person_name": "Uriel Gutiérrez",
+        "country": "MEX",
+        "score": 39.5
+      },
+      {
+        "rank": "34",
+        "person_name": "Maximilian Auers",
+        "country": "GER",
         "score": 39.0
       },
       {
-        "rank": "-",
-        "person_name": "Nick Wortham",
-        "country": "USA",
-        "score": 38.0
+        "rank": "34",
+        "person_name": "Jocelyn Lusignant",
+        "country": "CAN",
+        "score": 39.0
       },
       {
-        "rank": "-",
-        "person_name": "Seth Soukup",
+        "rank": "37",
+        "person_name": "Nicholas Gentile",
         "country": "USA",
-        "score": 36.0
+        "score": 20.5
       },
       {
-        "rank": "-",
-        "person_name": "Josh Spurgeon",
-        "country": "USA",
-        "score": 35.0
+        "rank": "38",
+        "person_name": "Chang-Cing Yeh",
+        "country": "TWN",
+        "score": 6.0
       },
       {
-        "rank": "-",
-        "person_name": "B.J. Stone",
+        "rank": "39",
+        "person_name": "Eric Carlson",
+        "country": "USA",
+        "score": 4.5
+      }
+    ]
+  },
+  {
+    "contest_id": 3224,
+    "contest_name": "2026 OSG Men's U120 Qualifiers",
+    "details": "",
+    "url": "https://strongmanarchives.com/contests/3224/2026-osg-mens-u120-qualifiers",
+    "total_competitors": 19,
+    "results": [
+      {
+        "rank": "1",
+        "person_name": "Adam Fullgrabe",
         "country": "AUS",
-        "score": 33.0
+        "score": 68.0
       },
       {
-        "rank": "-",
-        "person_name": "Dylan Lockard",
-        "country": "USA",
-        "score": 29.0
+        "rank": "2",
+        "person_name": "Tom Owens",
+        "country": "GBR",
+        "score": 67.0
       },
       {
-        "rank": "-",
-        "person_name": "Marc Sanchez",
+        "rank": "3",
+        "person_name": "Quinten Holley",
         "country": "USA",
-        "score": 27.0
+        "score": 55.5
       },
       {
-        "rank": "-",
-        "person_name": "Joseph Basiura",
+        "rank": "4",
+        "person_name": "Mark Rosenberg",
         "country": "USA",
+        "score": 53.0
+      },
+      {
+        "rank": "5",
+        "person_name": "Luke Ogbourn",
+        "country": "GBR",
+        "score": 52.0
+      },
+      {
+        "rank": "6",
+        "person_name": "CJ Allen",
+        "country": "USA",
+        "score": 49.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Zach Lopez",
+        "country": "USA",
+        "score": 46.0
+      },
+      {
+        "rank": "7",
+        "person_name": "Francis Marchesseault",
+        "country": "CAN",
+        "score": 46.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Jim Morris",
+        "country": "USA",
+        "score": 41.0
+      },
+      {
+        "rank": "9",
+        "person_name": "Michael Smith",
+        "country": "USA",
+        "score": 41.0
+      },
+      {
+        "rank": "11",
+        "person_name": "Corey Smith",
+        "country": "GBR",
+        "score": 35.5
+      },
+      {
+        "rank": "12",
+        "person_name": "Connor Monaghan",
+        "country": "SCO",
+        "score": 34.5
+      },
+      {
+        "rank": "13",
+        "person_name": "Jimmy Harris",
+        "country": "USA",
+        "score": 31.5
+      },
+      {
+        "rank": "14",
+        "person_name": "Jack Richardson",
+        "country": "GBR",
+        "score": 31.0
+      },
+      {
+        "rank": "15",
+        "person_name": "Liam Bourke",
+        "country": "NZL",
+        "score": 28.0
+      },
+      {
+        "rank": "16",
+        "person_name": "Sam Grover",
+        "country": "GBR",
         "score": 23.0
       },
       {
-        "rank": "-",
-        "person_name": "Maxime Boudreault",
+        "rank": "16",
+        "person_name": "Andrew Wilson",
         "country": "CAN",
-        "score": 22.0
+        "score": 23.0
       },
       {
-        "rank": "-",
-        "person_name": "Fredrik Johansson",
-        "country": "SWE",
-        "score": 14.0
+        "rank": "18",
+        "person_name": "Joe Page",
+        "country": "ENG",
+        "score": 16.0
       },
       {
-        "rank": "-",
-        "person_name": "James Eerdmans",
+        "rank": "19",
+        "person_name": "Seth Martin",
         "country": "USA",
-        "score": 1.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Paolo Acquaviva",
-        "country": "ITA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Maximilian Auers",
-        "country": "GER",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Kyle Banta",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Amari Beal",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jared Bellows",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Eric Carlson",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jasmin Desjardins",
-        "country": "CAN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Ethen Erickson",
-        "country": "MEX",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Nicholas Gentile",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Josh Gregory",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Tyler Gustafson",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Uriel Gutiérrez",
-        "country": "MEX",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jocelyn Lusignant",
-        "country": "CAN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jacob McGaha",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Adrien Nesta",
-        "country": "CAN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Darian O'Sullivan",
-        "country": "NZL",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Magnus Ødegård",
-        "country": "NOR",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jack Forgacs",
-        "country": "HUN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Dawid Pakulski",
-        "country": "POL",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "George Paunovic",
-        "country": "SUI",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Lukáš Pepř",
-        "country": "CZE",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Chase Provost",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Benjamin Ripa",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Calvin Sexton",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Jeremy Thompson",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Tyler Thompson",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Lucas Webster",
-        "country": "USA",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
-        "person_name": "Chang-Cing Yeh",
-        "country": "TWN",
-        "score": 0.0
+        "score": 11.0
       }
     ]
   }
