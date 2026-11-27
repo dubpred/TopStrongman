@@ -67961,12 +67961,6 @@
       },
       {
         "rank": "-",
-        "person_name": "Emil Eriksen",
-        "country": "DEN",
-        "score": 0.0
-      },
-      {
-        "rank": "-",
         "person_name": "Jesper Hansson",
         "country": "SWE",
         "score": 0.0
@@ -68017,6 +68011,12 @@
         "rank": "-",
         "person_name": "Niko Voutilainen",
         "country": "FIN",
+        "score": 0.0
+      },
+      {
+        "rank": "-",
+        "person_name": "Oskar Ziółkowski",
+        "country": "POL",
         "score": 0.0
       }
     ],
