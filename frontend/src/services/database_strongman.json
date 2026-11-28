@@ -14503,7 +14503,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Jaco",
     "Compititor_LName": "Schoonwinkel",
-    "difficulty": 101.7,
+    "difficulty": 101.6,
     "country_code": "RSA",
     "division": "men"
   },
@@ -14515,7 +14515,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Evans",
     "Compititor_LName": "Nana Aryee",
-    "difficulty": 101.7,
+    "difficulty": 101.6,
     "country_code": "GHA",
     "division": "men"
   },
@@ -14527,7 +14527,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Dean",
     "Compititor_LName": "Shelley",
-    "difficulty": 101.7,
+    "difficulty": 101.6,
     "country_code": "RSA",
     "division": "men"
   },
@@ -14539,7 +14539,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Armand",
     "Compititor_LName": "Goosen",
-    "difficulty": 101.7,
+    "difficulty": 101.6,
     "country_code": "RSA",
     "division": "men"
   },
@@ -14551,7 +14551,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Walid",
     "Compititor_LName": "Hammoud",
-    "difficulty": 101.7,
+    "difficulty": 101.6,
     "country_code": "ALG",
     "division": "men"
   },
@@ -14563,7 +14563,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Juan",
     "Compititor_LName": "Fourie",
-    "difficulty": 101.7,
+    "difficulty": 101.6,
     "country_code": "RSA",
     "division": "men"
   },
@@ -14575,7 +14575,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Kelin",
     "Compititor_LName": "Mills",
-    "difficulty": 101.7,
+    "difficulty": 101.6,
     "country_code": "RSA",
     "division": "men"
   },
@@ -14587,7 +14587,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Prince",
     "Compititor_LName": "Emmanuel Lartey",
-    "difficulty": 101.7,
+    "difficulty": 101.6,
     "country_code": "GHA",
     "division": "men"
   },
@@ -47220,126 +47220,6 @@
     "division": "men"
   },
   {
-    "Show_Name": "2021 Africa's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2021-11-27",
-    "Year": 2021,
-    "PlacementRank": 1,
-    "Competitor_fName": "Thobelani",
-    "Compititor_LName": "Mabaso",
-    "difficulty": 29.2,
-    "country_code": "RSA",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Africa's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2021-11-27",
-    "Year": 2021,
-    "PlacementRank": 2,
-    "Competitor_fName": "Jaco",
-    "Compititor_LName": "Schoonwinkel",
-    "difficulty": 29.2,
-    "country_code": "RSA",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Africa's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2021-11-27",
-    "Year": 2021,
-    "PlacementRank": 3,
-    "Competitor_fName": "Ben",
-    "Compititor_LName": "Bucarizza",
-    "difficulty": 29.2,
-    "country_code": "RSA",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Africa's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2021-11-27",
-    "Year": 2021,
-    "PlacementRank": 4,
-    "Competitor_fName": "Chris",
-    "Compititor_LName": "van der Linde",
-    "difficulty": 29.2,
-    "country_code": "RSA",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Africa's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2021-11-27",
-    "Year": 2021,
-    "PlacementRank": 5,
-    "Competitor_fName": "Dean",
-    "Compititor_LName": "Shelley",
-    "difficulty": 29.2,
-    "country_code": "RSA",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Africa's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2021-11-27",
-    "Year": 2021,
-    "PlacementRank": 6,
-    "Competitor_fName": "Terence",
-    "Compititor_LName": "Bosman",
-    "difficulty": 29.2,
-    "country_code": "RSA",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Africa's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2021-11-27",
-    "Year": 2021,
-    "PlacementRank": 7,
-    "Competitor_fName": "Greg",
-    "Compititor_LName": "Poolman",
-    "difficulty": 29.2,
-    "country_code": "RSA",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Africa's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2021-11-27",
-    "Year": 2021,
-    "PlacementRank": 8,
-    "Competitor_fName": "Victor",
-    "Compititor_LName": "Ampofo",
-    "difficulty": 29.2,
-    "country_code": "GHA",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Africa's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2021-11-27",
-    "Year": 2021,
-    "PlacementRank": 9,
-    "Competitor_fName": "Tewie",
-    "Compititor_LName": "Labuschagne",
-    "difficulty": 29.2,
-    "country_code": "RSA",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2021 Africa's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2021-11-27",
-    "Year": 2021,
-    "PlacementRank": 10,
-    "Competitor_fName": "Richard",
-    "Compititor_LName": "Banda",
-    "difficulty": 29.2,
-    "country_code": "ZAM",
-    "division": "men"
-  },
-  {
     "Show_Name": "2025 Moscow Sports Night",
     "Show_Promotion": "Other",
     "Date": "2025-09-20",
@@ -48696,102 +48576,6 @@
     "division": "men"
   },
   {
-    "Show_Name": "2026 South Africa's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2026-08-01",
-    "Year": 2026,
-    "PlacementRank": 1,
-    "Competitor_fName": "Armand",
-    "Compititor_LName": "Goosen",
-    "difficulty": 27.7,
-    "country_code": "RSA",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2026 South Africa's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2026-08-01",
-    "Year": 2026,
-    "PlacementRank": 2,
-    "Competitor_fName": "Ben",
-    "Compititor_LName": "Bucarizza",
-    "difficulty": 27.7,
-    "country_code": "RSA",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2026 South Africa's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2026-08-01",
-    "Year": 2026,
-    "PlacementRank": 3,
-    "Competitor_fName": "Jacque",
-    "Compititor_LName": "de Jager",
-    "difficulty": 27.7,
-    "country_code": "RSA",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2026 South Africa's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2026-08-01",
-    "Year": 2026,
-    "PlacementRank": 4,
-    "Competitor_fName": "David",
-    "Compititor_LName": "Bezuidenhout",
-    "difficulty": 27.7,
-    "country_code": "RSA",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2026 South Africa's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2026-08-01",
-    "Year": 2026,
-    "PlacementRank": 5,
-    "Competitor_fName": "Juan",
-    "Compititor_LName": "Fourie",
-    "difficulty": 27.7,
-    "country_code": "RSA",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2026 South Africa's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2026-08-01",
-    "Year": 2026,
-    "PlacementRank": 6,
-    "Competitor_fName": "Jacques",
-    "Compititor_LName": "Boshoff",
-    "difficulty": 27.7,
-    "country_code": "RSA",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2026 South Africa's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2026-08-01",
-    "Year": 2026,
-    "PlacementRank": 7,
-    "Competitor_fName": "Xolani",
-    "Compititor_LName": "Nkutha",
-    "difficulty": 27.7,
-    "country_code": "RSA",
-    "division": "men"
-  },
-  {
-    "Show_Name": "2026 South Africa's Strongest Man",
-    "Show_Promotion": "Other",
-    "Date": "2026-08-01",
-    "Year": 2026,
-    "PlacementRank": 8,
-    "Competitor_fName": "Keagan",
-    "Compititor_LName": "Potgieter",
-    "difficulty": 27.7,
-    "country_code": "RSA",
-    "division": "men"
-  },
-  {
     "Show_Name": "2024 STP International Polish Championship",
     "Show_Promotion": "Other",
     "Date": "2024-09-01",
@@ -49365,6 +49149,102 @@
     "Compititor_LName": "Bélanger",
     "difficulty": 27.4,
     "country_code": "CAN",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2026 South Africa's Strongest Man",
+    "Show_Promotion": "Other",
+    "Date": "2026-08-01",
+    "Year": 2026,
+    "PlacementRank": 1,
+    "Competitor_fName": "Armand",
+    "Compititor_LName": "Goosen",
+    "difficulty": 27.4,
+    "country_code": "RSA",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2026 South Africa's Strongest Man",
+    "Show_Promotion": "Other",
+    "Date": "2026-08-01",
+    "Year": 2026,
+    "PlacementRank": 2,
+    "Competitor_fName": "Ben",
+    "Compititor_LName": "Bucarizza",
+    "difficulty": 27.4,
+    "country_code": "RSA",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2026 South Africa's Strongest Man",
+    "Show_Promotion": "Other",
+    "Date": "2026-08-01",
+    "Year": 2026,
+    "PlacementRank": 3,
+    "Competitor_fName": "Jacque",
+    "Compititor_LName": "de Jager",
+    "difficulty": 27.4,
+    "country_code": "RSA",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2026 South Africa's Strongest Man",
+    "Show_Promotion": "Other",
+    "Date": "2026-08-01",
+    "Year": 2026,
+    "PlacementRank": 4,
+    "Competitor_fName": "David",
+    "Compititor_LName": "Bezuidenhout",
+    "difficulty": 27.4,
+    "country_code": "RSA",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2026 South Africa's Strongest Man",
+    "Show_Promotion": "Other",
+    "Date": "2026-08-01",
+    "Year": 2026,
+    "PlacementRank": 5,
+    "Competitor_fName": "Juan",
+    "Compititor_LName": "Fourie",
+    "difficulty": 27.4,
+    "country_code": "RSA",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2026 South Africa's Strongest Man",
+    "Show_Promotion": "Other",
+    "Date": "2026-08-01",
+    "Year": 2026,
+    "PlacementRank": 6,
+    "Competitor_fName": "Jacques",
+    "Compititor_LName": "Boshoff",
+    "difficulty": 27.4,
+    "country_code": "RSA",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2026 South Africa's Strongest Man",
+    "Show_Promotion": "Other",
+    "Date": "2026-08-01",
+    "Year": 2026,
+    "PlacementRank": 7,
+    "Competitor_fName": "Xolani",
+    "Compititor_LName": "Nkutha",
+    "difficulty": 27.4,
+    "country_code": "RSA",
+    "division": "men"
+  },
+  {
+    "Show_Name": "2026 South Africa's Strongest Man",
+    "Show_Promotion": "Other",
+    "Date": "2026-08-01",
+    "Year": 2026,
+    "PlacementRank": 8,
+    "Competitor_fName": "Keagan",
+    "Compititor_LName": "Potgieter",
+    "difficulty": 27.4,
+    "country_code": "RSA",
     "division": "men"
   },
   {
@@ -75535,7 +75415,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Rebecca",
     "Compititor_LName": "Roberts",
-    "difficulty": 383.6,
+    "difficulty": 383.4,
     "country_code": "GBR",
     "division": "women"
   },
@@ -75547,7 +75427,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Jackie",
     "Compititor_LName": "Osczevski",
-    "difficulty": 383.6,
+    "difficulty": 383.4,
     "country_code": "CAN",
     "division": "women"
   },
@@ -75559,7 +75439,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Jennifer",
     "Compititor_LName": "Lyle",
-    "difficulty": 383.6,
+    "difficulty": 383.4,
     "country_code": "USA",
     "division": "women"
   },
@@ -75571,7 +75451,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Katie",
     "Compititor_LName": "Blunden",
-    "difficulty": 383.6,
+    "difficulty": 383.4,
     "country_code": "AUS",
     "division": "women"
   },
@@ -75583,7 +75463,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Cherry",
     "Compititor_LName": "Muchindu",
-    "difficulty": 383.6,
+    "difficulty": 383.4,
     "country_code": "ZAM",
     "division": "women"
   },
@@ -75595,7 +75475,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Reiariki",
     "Compititor_LName": "Kimitaunga",
-    "difficulty": 383.6,
+    "difficulty": 383.4,
     "country_code": "AUS",
     "division": "women"
   },
@@ -75607,7 +75487,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Monica",
     "Compititor_LName": "Quarles",
-    "difficulty": 383.6,
+    "difficulty": 383.4,
     "country_code": "USA",
     "division": "women"
   },
@@ -75619,7 +75499,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Rebecca",
     "Compititor_LName": "Houston",
-    "difficulty": 383.6,
+    "difficulty": 383.4,
     "country_code": "USA",
     "division": "women"
   },
@@ -75631,7 +75511,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Morgan",
     "Compititor_LName": "Irons",
-    "difficulty": 383.6,
+    "difficulty": 383.4,
     "country_code": "USA",
     "division": "women"
   },
@@ -75643,7 +75523,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Jackie",
     "Compititor_LName": "Rhodes",
-    "difficulty": 383.6,
+    "difficulty": 383.4,
     "country_code": "USA",
     "division": "women"
   },
@@ -76567,7 +76447,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Erin",
     "Compititor_LName": "Murray",
-    "difficulty": 282.2,
+    "difficulty": 282.1,
     "country_code": "USA",
     "division": "women"
   },
@@ -76579,7 +76459,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Angelica",
     "Compititor_LName": "Jardine",
-    "difficulty": 282.2,
+    "difficulty": 282.1,
     "country_code": "USA",
     "division": "women"
   },
@@ -76591,7 +76471,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Jennifer",
     "Compititor_LName": "Lyle",
-    "difficulty": 282.2,
+    "difficulty": 282.1,
     "country_code": "USA",
     "division": "women"
   },
@@ -76603,7 +76483,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Cherry",
     "Compititor_LName": "Muchindu",
-    "difficulty": 282.2,
+    "difficulty": 282.1,
     "country_code": "ZAM",
     "division": "women"
   },
@@ -76615,7 +76495,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Reiariki",
     "Compititor_LName": "Kimitaunga",
-    "difficulty": 282.2,
+    "difficulty": 282.1,
     "country_code": "AUS",
     "division": "women"
   },
@@ -76627,7 +76507,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Laurie",
     "Compititor_LName": "Middleswarth",
-    "difficulty": 282.2,
+    "difficulty": 282.1,
     "country_code": "USA",
     "division": "women"
   },
@@ -76639,7 +76519,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Angela",
     "Compititor_LName": "Houle",
-    "difficulty": 282.2,
+    "difficulty": 282.1,
     "country_code": "CAN",
     "division": "women"
   },
@@ -76651,7 +76531,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Mary",
     "Compititor_LName": "Forrest",
-    "difficulty": 282.2,
+    "difficulty": 282.1,
     "country_code": "USA",
     "division": "women"
   },
@@ -76663,7 +76543,7 @@
     "PlacementRank": 9,
     "Competitor_fName": "Alexandra",
     "Compititor_LName": "Vialpando",
-    "difficulty": 282.2,
+    "difficulty": 282.1,
     "country_code": "USA",
     "division": "women"
   },
@@ -76675,7 +76555,7 @@
     "PlacementRank": 10,
     "Competitor_fName": "Frances",
     "Compititor_LName": "McGarry",
-    "difficulty": 282.2,
+    "difficulty": 282.1,
     "country_code": "CAN",
     "division": "women"
   },
@@ -78595,7 +78475,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Katie",
     "Compititor_LName": "Blunden",
-    "difficulty": 144.7,
+    "difficulty": 144.6,
     "country_code": "AUS",
     "division": "women"
   },
@@ -78607,7 +78487,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Morgan",
     "Compititor_LName": "Irons",
-    "difficulty": 144.7,
+    "difficulty": 144.6,
     "country_code": "USA",
     "division": "women"
   },
@@ -78619,7 +78499,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Stevie",
     "Compititor_LName": "Aligbe",
-    "difficulty": 144.7,
+    "difficulty": 144.6,
     "country_code": "NGR",
     "division": "women"
   },
@@ -78631,7 +78511,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Cherry",
     "Compititor_LName": "Muchindu",
-    "difficulty": 144.7,
+    "difficulty": 144.6,
     "country_code": "ZAM",
     "division": "women"
   },
@@ -78643,7 +78523,7 @@
     "PlacementRank": 5,
     "Competitor_fName": "Jackie",
     "Compititor_LName": "Rhodes",
-    "difficulty": 144.7,
+    "difficulty": 144.6,
     "country_code": "USA",
     "division": "women"
   },
@@ -78655,7 +78535,7 @@
     "PlacementRank": 6,
     "Competitor_fName": "Jackie",
     "Compititor_LName": "Osczevski",
-    "difficulty": 144.7,
+    "difficulty": 144.6,
     "country_code": "CAN",
     "division": "women"
   },
@@ -78667,7 +78547,7 @@
     "PlacementRank": 7,
     "Competitor_fName": "Reiariki",
     "Compititor_LName": "Kimitaunga",
-    "difficulty": 144.7,
+    "difficulty": 144.6,
     "country_code": "AUS",
     "division": "women"
   },
@@ -78679,7 +78559,7 @@
     "PlacementRank": 8,
     "Competitor_fName": "Ashley",
     "Compititor_LName": "Telford",
-    "difficulty": 144.7,
+    "difficulty": 144.6,
     "country_code": "CAN",
     "division": "women"
   },
@@ -81571,7 +81451,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Cherry",
     "Compititor_LName": "Muchindu",
-    "difficulty": 26.2,
+    "difficulty": 26.1,
     "country_code": "ZAM",
     "division": "women"
   },
@@ -81583,7 +81463,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Natasha",
     "Compititor_LName": "Mwalilino",
-    "difficulty": 26.2,
+    "difficulty": 26.1,
     "country_code": "ZAM",
     "division": "women"
   },
@@ -81595,7 +81475,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Ndunda",
     "Compititor_LName": "Mutale",
-    "difficulty": 26.2,
+    "difficulty": 26.1,
     "country_code": "ZAM",
     "division": "women"
   },
@@ -81607,7 +81487,7 @@
     "PlacementRank": 4,
     "Competitor_fName": "Anne",
     "Compititor_LName": "Mwape",
-    "difficulty": 26.2,
+    "difficulty": 26.1,
     "country_code": "ZAM",
     "division": "women"
   },
@@ -82483,7 +82363,7 @@
     "PlacementRank": 1,
     "Competitor_fName": "Cherry",
     "Compititor_LName": "Muchindu",
-    "difficulty": 16.4,
+    "difficulty": 16.3,
     "country_code": "ZAM",
     "division": "women"
   },
@@ -82495,7 +82375,7 @@
     "PlacementRank": 2,
     "Competitor_fName": "Natasha",
     "Compititor_LName": "Grobler",
-    "difficulty": 16.4,
+    "difficulty": 16.3,
     "country_code": "RSA",
     "division": "women"
   },
@@ -82507,7 +82387,7 @@
     "PlacementRank": 3,
     "Competitor_fName": "Chido",
     "Compititor_LName": "Maenzanise",
-    "difficulty": 16.4,
+    "difficulty": 16.3,
     "country_code": "RSA",
     "division": "women"
   },
@@ -82905,54 +82785,6 @@
     "Compititor_LName": "Highfield",
     "difficulty": 12.3,
     "country_code": "USA",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2021 Africa's Strongest Woman",
-    "Show_Promotion": "Other",
-    "Date": "2021-11-27",
-    "Year": 2021,
-    "PlacementRank": 1,
-    "Competitor_fName": "Faith",
-    "Compititor_LName": "Aviwe Totiyana",
-    "difficulty": 11.7,
-    "country_code": "RSA",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2021 Africa's Strongest Woman",
-    "Show_Promotion": "Other",
-    "Date": "2021-11-27",
-    "Year": 2021,
-    "PlacementRank": 2,
-    "Competitor_fName": "Carla",
-    "Compititor_LName": "Vermaak",
-    "difficulty": 11.7,
-    "country_code": "RSA",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2021 Africa's Strongest Woman",
-    "Show_Promotion": "Other",
-    "Date": "2021-11-27",
-    "Year": 2021,
-    "PlacementRank": 3,
-    "Competitor_fName": "Cherry",
-    "Compititor_LName": "Muchindu",
-    "difficulty": 11.7,
-    "country_code": "ZAM",
-    "division": "women"
-  },
-  {
-    "Show_Name": "2021 Africa's Strongest Woman",
-    "Show_Promotion": "Other",
-    "Date": "2021-11-27",
-    "Year": 2021,
-    "PlacementRank": 4,
-    "Competitor_fName": "Sinenhlanhla",
-    "Compititor_LName": "Sithole",
-    "difficulty": 11.7,
-    "country_code": "RSA",
     "division": "women"
   },
   {
